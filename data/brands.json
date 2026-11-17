@@ -1,0 +1,2471 @@
+[
+ {
+  "n": "Subway",
+  "m": [
+   "subway"
+  ],
+  "c": "pe",
+  "k": "Sandwiches & deli",
+  "o": "Roark Capital",
+  "y": "2024",
+  "note": "Roark Capital, the Atlanta private equity firm that also controls Arby's, Jimmy John's and Dunkin' through Inspire Brands, closed its purchase of Subway on April 30, 2024, in a deal reported at about $9.6bn. It was the first change of ownership since Subway was founded.",
+  "src": "https://newsroom.subway.com/2024-04-30-Subway-R-Sale-to-Roark-is-Complete",
+  "u": false
+ },
+ {
+  "n": "Arby's",
+  "m": [
+   "arbys"
+  ],
+  "c": "pe",
+  "k": "Sandwiches & deli",
+  "o": "Roark Capital (via Inspire Brands)",
+  "y": "",
+  "note": "Arby's is part of Inspire Brands, which Roark Capital controls. Inspire confidentially filed for an IPO in May 2026 seeking a valuation of about $20bn; no pricing had been announced as of November 2026.",
+  "src": "https://ajc.com/business/2026/05/atlanta-based-owner-of-arbys-dunkin-files-for-ipo/",
+  "u": false
+ },
+ {
+  "n": "Buffalo Wild Wings",
+  "m": [
+   "buffalo wild wings",
+   "bww",
+   "b dubs"
+  ],
+  "c": "pe",
+  "k": "Bar & pub",
+  "o": "Roark Capital (via Inspire Brands)",
+  "y": "",
+  "note": "Owned by Roark-backed Inspire Brands since 2018. Inspire filed confidentially for an IPO in May 2026.",
+  "src": "https://ajc.com/business/2026/05/atlanta-based-owner-of-arbys-dunkin-files-for-ipo/",
+  "u": false
+ },
+ {
+  "n": "Sonic",
+  "m": [
+   "=sonic",
+   "sonic drive in"
+  ],
+  "c": "pe",
+  "k": "Burgers",
+  "o": "Roark Capital (via Inspire Brands)",
+  "y": "",
+  "note": "Owned by Roark-backed Inspire Brands since 2018. Inspire filed confidentially for an IPO in May 2026.",
+  "src": "https://ajc.com/business/2026/05/atlanta-based-owner-of-arbys-dunkin-files-for-ipo/",
+  "u": false
+ },
+ {
+  "n": "Jimmy John's",
+  "m": [
+   "jimmy johns"
+  ],
+  "c": "pe",
+  "k": "Sandwiches & deli",
+  "o": "Roark Capital (via Inspire Brands)",
+  "y": "",
+  "note": "Owned by Roark-backed Inspire Brands since 2019. Inspire filed confidentially for an IPO in May 2026.",
+  "src": "https://ajc.com/business/2026/05/atlanta-based-owner-of-arbys-dunkin-files-for-ipo/",
+  "u": false
+ },
+ {
+  "n": "Dunkin'",
+  "m": [
+   "dunkin"
+  ],
+  "c": "pe",
+  "k": "Coffee & café",
+  "o": "Roark Capital (via Inspire Brands)",
+  "y": "",
+  "note": "Inspire Brands, controlled by Roark Capital, took Dunkin' private in 2020. Inspire filed confidentially for an IPO in May 2026.",
+  "src": "https://ajc.com/business/2026/05/atlanta-based-owner-of-arbys-dunkin-files-for-ipo/",
+  "u": false
+ },
+ {
+  "n": "Baskin-Robbins",
+  "m": [
+   "baskin robbins",
+   "baskin"
+  ],
+  "c": "pe",
+  "k": "Ice cream & frozen",
+  "o": "Roark Capital (via Inspire Brands)",
+  "y": "",
+  "note": "Came with Dunkin' when Roark-backed Inspire Brands bought it in 2020.",
+  "src": "https://ajc.com/business/2026/05/atlanta-based-owner-of-arbys-dunkin-files-for-ipo/",
+  "u": false
+ },
+ {
+  "n": "McAlister's Deli",
+  "m": [
+   "mcalisters"
+  ],
+  "c": "pe",
+  "k": "Sandwiches & deli",
+  "o": "Roark Capital (via GoTo Foods)",
+  "y": "",
+  "note": "Part of GoTo Foods (formerly Focus Brands), which Roark Capital owns. Its sister brands include Moe's, Schlotzsky's, Auntie Anne's, Cinnabon, Carvel and Jamba.",
+  "src": "https://restaurantbusinessonline.com/operations/focus-brands-changing-its-name-goto-foods",
+  "u": false
+ },
+ {
+  "n": "Moe's Southwest Grill",
+  "m": [
+   "moes southwest",
+   "=moe",
+   "=moes"
+  ],
+  "c": "pe",
+  "k": "Mexican & Tex-Mex",
+  "o": "Roark Capital (via GoTo Foods)",
+  "y": "",
+  "note": "Part of Roark-owned GoTo Foods, formerly Focus Brands.",
+  "src": "https://restaurantbusinessonline.com/operations/focus-brands-changing-its-name-goto-foods",
+  "u": false
+ },
+ {
+  "n": "Schlotzsky's",
+  "m": [
+   "schlotzskys"
+  ],
+  "c": "pe",
+  "k": "Sandwiches & deli",
+  "o": "Roark Capital (via GoTo Foods)",
+  "y": "",
+  "note": "Part of Roark-owned GoTo Foods, formerly Focus Brands.",
+  "src": "https://restaurantbusinessonline.com/operations/focus-brands-changing-its-name-goto-foods",
+  "u": false
+ },
+ {
+  "n": "Auntie Anne's",
+  "m": [
+   "auntie annes"
+  ],
+  "c": "pe",
+  "k": "Bakery & sweets",
+  "o": "Roark Capital (via GoTo Foods)",
+  "y": "",
+  "note": "Part of Roark-owned GoTo Foods, formerly Focus Brands.",
+  "src": "https://restaurantbusinessonline.com/operations/focus-brands-changing-its-name-goto-foods",
+  "u": false
+ },
+ {
+  "n": "Hardee's",
+  "m": [
+   "hardees"
+  ],
+  "c": "pe",
+  "k": "Burgers",
+  "o": "Roark Capital (via CKE Restaurants)",
+  "y": "2013",
+  "note": "Hardee's parent CKE Restaurants has been owned by Roark Capital since 2013.",
+  "src": "https://en.wikipedia.org/wiki/CKE_Restaurants",
+  "u": false
+ },
+ {
+  "n": "Nothing Bundt Cakes",
+  "m": [
+   "nothing bundt cakes"
+  ],
+  "c": "pe",
+  "k": "Bakery & sweets",
+  "o": "Roark Capital; KKR agreed to buy it (closing not confirmed)",
+  "y": "2021",
+  "note": "Roark Capital bought the bakery franchisor in 2021. In March 2026 KKR agreed to buy it for more than $2bn, according to the Wall Street Journal; we found no announcement that the deal has closed. Either way, a private equity firm owns it.",
+  "src": "https://money.usnews.com/investing/news/articles/2026-03-25/kkr-to-acquire-nothing-bundt-cakes-for-over-2-billion-wsj-reports",
+  "u": false
+ },
+ {
+  "n": "Dave's Hot Chicken",
+  "m": [
+   "daves hot chicken"
+  ],
+  "c": "pe",
+  "k": "Chicken",
+  "o": "Roark Capital (majority)",
+  "y": "2025",
+  "note": "Roark bought a majority stake in 2025 in a deal Reuters put at about $1bn; the co-founders kept minority stakes.",
+  "src": "https://www.restaurantdive.com/news/daves-hot-chicken-majority-stake-roark-capital/740951/",
+  "u": false
+ },
+ {
+  "n": "Pizza Hut",
+  "m": [
+   "pizza hut",
+   "wingstreet",
+   "wing street"
+  ],
+  "c": "pe",
+  "k": "Pizza",
+  "o": "LongRange Capital",
+  "y": "2026",
+  "note": "Louisville-based Yum! Brands completed the sale of most of its global Pizza Hut business, everything outside mainland China, to private equity firm LongRange Capital in September 2026 for about $1.5bn, plus up to $75m more depending on performance. WingStreet is Pizza Hut's wings brand.",
+  "src": "https://www.lanereport.com/189218/2026/09/yum-brands-completes-pizza-hut-sale-longrange-capital/",
+  "u": false
+ },
+ {
+  "n": "Jersey Mike's Subs",
+  "m": [
+   "jersey mikes"
+  ],
+  "c": "pe",
+  "k": "Sandwiches & deli",
+  "o": "Blackstone (majority)",
+  "y": "2025",
+  "note": "Blackstone closed its purchase of a majority stake in January 2025, in a deal the Wall Street Journal valued at about $8bn including debt. Founder Peter Cancro kept a significant stake and still runs it.",
+  "src": "https://njbiz.com/blackstone-completes-jersey-mikes-subs-acquisition/",
+  "u": false
+ },
+ {
+  "n": "Tropical Smoothie Cafe",
+  "m": [
+   "tropical smoothie",
+   "tropical cafe smoothie"
+  ],
+  "c": "pe",
+  "k": "Coffee & café",
+  "o": "Blackstone",
+  "y": "2024",
+  "note": "Blackstone's private equity funds completed their purchase from Levine Leichtman Capital Partners in June 2024.",
+  "src": "https://www.blackstone.com/news/press/blackstone-completes-acquisition-of-tropical-smoothie-cafe/",
+  "u": false
+ },
+ {
+  "n": "7 Brew",
+  "m": [
+   "7 brew",
+   "seven brew"
+  ],
+  "c": "pe",
+  "k": "Coffee & café",
+  "o": "Blackstone Growth (minority stake); Drink House Holdings (majority)",
+  "y": "2024",
+  "note": "Blackstone Growth made a growth equity investment in February 2024; 7 Brew describes it as a minority stake. Drink House Holdings, the group behind its 2021 expansion, is described as the majority owner.",
+  "src": "https://7brew.com/about",
+  "u": false
+ },
+ {
+  "n": "Panera Bread",
+  "m": [
+   "panera"
+  ],
+  "c": "pe",
+  "k": "Bakery & sweets",
+  "o": "JAB Holding (via Panera Brands)",
+  "y": "2017",
+  "note": "JAB, the investment firm behind the Reimann family fortune, bought Panera for about $7.5bn in 2017. Panera Brands has filed confidentially for an IPO, but JAB remains the controlling owner.",
+  "src": "https://www.restaurantbusinessonline.com/operations/panera-brands-reportedly-files-confidentially-ipo",
+  "u": false
+ },
+ {
+  "n": "Einstein Bros. Bagels",
+  "m": [
+   "einstein"
+  ],
+  "c": "pe",
+  "k": "Bakery & sweets",
+  "o": "JAB Holding (via Panera Brands)",
+  "y": "",
+  "note": "Einstein Bros. sits in JAB-controlled Panera Brands alongside Panera and Caribou.",
+  "src": "https://www.restaurantbusinessonline.com/operations/panera-brands-reportedly-files-confidentially-ipo",
+  "u": false
+ },
+ {
+  "n": "Insomnia Cookies",
+  "m": [
+   "insomnia cookies"
+  ],
+  "c": "pe",
+  "k": "Bakery & sweets",
+  "o": "Verlinvest & Mistral Equity Partners",
+  "y": "2024",
+  "note": "Krispy Kreme sold a majority to private equity firms Verlinvest and Mistral in July 2024 at a $350m enterprise value, then sold its remaining stake in 2025.",
+  "src": "https://www.restaurantbusinessonline.com/financing/krispy-kreme-sells-its-remaining-stake-insomnia-cookies",
+  "u": false
+ },
+ {
+  "n": "Qdoba",
+  "m": [
+   "qdoba"
+  ],
+  "c": "pe",
+  "k": "Mexican & Tex-Mex",
+  "o": "Butterfly Equity",
+  "y": "2022",
+  "note": "Food-focused private equity firm Butterfly Equity bought Qdoba in 2022 and in 2025 moved it into a $527m continuation fund led by Apollo S3. Qdoba refinanced with a $435m securitization in 2026. Re-checked November 2026: no later sale found.",
+  "src": "https://www.restaurantdive.com/news/qdoba-draws-527-million-continuation-fund-apollo-butterfly/756849/",
+  "u": false
+ },
+ {
+  "n": "Zaxby's",
+  "m": [
+   "zaxbys"
+  ],
+  "c": "pe",
+  "k": "Chicken",
+  "o": "Goldman Sachs Merchant Banking (significant stake)",
+  "y": "2020",
+  "note": "Goldman Sachs' merchant banking arm agreed in 2020 to take a significant stake in Zaxby's; terms weren't disclosed. Re-checked November 2026: no later sale found.",
+  "src": "https://www.restaurantdive.com/news/zaxbys-looks-to-go-national-as-goldman-sachs-buys-significant-stake/589389/",
+  "u": false
+ },
+ {
+  "n": "Denny's",
+  "m": [
+   "dennys"
+  ],
+  "c": "pe",
+  "k": "Breakfast & brunch",
+  "o": "TriArtisan Capital, Treville Capital & Yadav Enterprises",
+  "y": "2026",
+  "note": "A group led by private equity firm TriArtisan took Denny's private for about $620m; the deal closed January 16, 2026. TriArtisan also owns P.F. Chang's.",
+  "src": "https://www.restaurantbusinessonline.com/financing/dennys-completes-620m-sale-following-shareholder-ok",
+  "u": false
+ },
+ {
+  "n": "Bob Evans",
+  "m": [
+   "bob evans"
+  ],
+  "c": "pe",
+  "k": "Breakfast & brunch",
+  "o": "4x4 Capital",
+  "y": "2026",
+  "note": "Golden Gate Capital, owner since 2017, sold the restaurant chain to New York investment firm 4x4 Capital in February 2026. Bloomberg had valued it at up to $600m.",
+  "src": "https://www.verdictfoodservice.com/news/4x4-capital-acquires-bob/",
+  "u": false
+ },
+ {
+  "n": "Rally's",
+  "m": [
+   "rallys",
+   "checkers"
+  ],
+  "c": "pe",
+  "k": "Burgers",
+  "o": "Arbour Lane, Garnett Station & Guggenheim (former lenders)",
+  "y": "2023",
+  "note": "Investment firms Arbour Lane Capital, Garnett Station Partners and Guggenheim Investments, previously Checkers & Rally's lenders, took majority control from Oak Hill Capital in a June 2023 out-of-court restructuring that cut debt from about $300m to $75m.",
+  "src": "https://www.restaurantbusinessonline.com/financing/restructuring-gives-control-checkers-its-lenders",
+  "u": false
+ },
+ {
+  "n": "Red Lobster",
+  "m": [
+   "red lobster"
+  ],
+  "c": "pe",
+  "k": "Steak & seafood",
+  "o": "Fortress Investment Group (with TCW & Blue Torch)",
+  "y": "2024",
+  "note": "Fortress, Red Lobster's largest creditor, took ownership through a credit bid approved in bankruptcy court in September 2024.",
+  "src": "https://www.nrn.com/casual-dining/red-lobster-to-be-purchased-by-an-affiliate-of-spb-owner-fortress-investment-group",
+  "u": false
+ },
+ {
+  "n": "Logan's Roadhouse",
+  "m": [
+   "logans roadhouse"
+  ],
+  "c": "pe",
+  "k": "Steak & seafood",
+  "o": "Fortress Investment Group (via SPB Hospitality)",
+  "y": "2021",
+  "note": "Logan's is part of SPB Hospitality, which is owned by Fortress Investment Group, as are J. Alexander's and Gordon Biersch.",
+  "src": "https://www.nrn.com/casual-dining/red-lobster-to-be-purchased-by-an-affiliate-of-spb-owner-fortress-investment-group",
+  "u": false
+ },
+ {
+  "n": "J. Alexander's",
+  "m": [
+   "j alexanders"
+  ],
+  "c": "pe",
+  "k": "Steak & seafood",
+  "o": "Fortress Investment Group (via SPB Hospitality)",
+  "y": "2021",
+  "note": "J. Alexander's is part of Fortress-owned SPB Hospitality.",
+  "src": "https://www.nrn.com/casual-dining/red-lobster-to-be-purchased-by-an-affiliate-of-spb-owner-fortress-investment-group",
+  "u": false
+ },
+ {
+  "n": "Gordon Biersch",
+  "m": [
+   "gordon biersch"
+  ],
+  "c": "pe",
+  "k": "Bar & pub",
+  "o": "Fortress Investment Group (via SPB Hospitality)",
+  "y": "2020",
+  "note": "Gordon Biersch Brewery Restaurant is part of Fortress-owned SPB Hospitality.",
+  "src": "https://www.nrn.com/casual-dining/red-lobster-to-be-purchased-by-an-affiliate-of-spb-owner-fortress-investment-group",
+  "u": false
+ },
+ {
+  "n": "Captain D's",
+  "m": [
+   "captain ds"
+  ],
+  "c": "pe",
+  "k": "Steak & seafood",
+  "o": "Centre Partners",
+  "y": "2022",
+  "note": "Private equity firm Centre Partners bought Captain D's from Sentinel Capital Partners in 2022, the second time it has owned the chain. Re-checked November 2026: no later sale found.",
+  "src": "https://www.restaurantbusinessonline.com/financing/centre-partners-buys-captain-ds-again",
+  "u": false
+ },
+ {
+  "n": "Fazoli's",
+  "m": [
+   "fazolis"
+  ],
+  "c": "pe",
+  "k": "Italian",
+  "o": "OHG Brands (former FAT Brands bondholders)",
+  "y": "2026",
+  "note": "FAT Brands went bankrupt and in June 2026 sold its restaurant portfolio, including Fazoli's, for $595m to a bidding vehicle made up of its former bondholders, since renamed OHG Brands.",
+  "src": "https://1851franchise.com/fat-brands-bankruptcy-restructuring-2732483",
+  "u": false
+ },
+ {
+  "n": "Ponderosa Steakhouse",
+  "m": [
+   "ponderosa"
+  ],
+  "c": "pe",
+  "k": "Steak & seafood",
+  "o": "OHG Brands (former FAT Brands bondholders)",
+  "y": "2026",
+  "note": "Ponderosa was one of the FAT Brands chains sold in June 2026 to a group of FAT's former bondholders, now OHG Brands.",
+  "src": "https://1851franchise.com/fat-brands-bankruptcy-restructuring-2732483",
+  "u": false
+ },
+ {
+  "n": "Great American Cookies",
+  "m": [
+   "great american cookie"
+  ],
+  "c": "pe",
+  "k": "Bakery & sweets",
+  "o": "OHG Brands (former FAT Brands bondholders)",
+  "y": "2026",
+  "note": "Great American Cookies was one of the FAT Brands chains sold in June 2026 to a group of FAT's former bondholders, now OHG Brands.",
+  "src": "https://1851franchise.com/fat-brands-bankruptcy-restructuring-2732483",
+  "u": false
+ },
+ {
+  "n": "Famous Dave's",
+  "m": [
+   "famous daves"
+  ],
+  "c": "pe",
+  "k": "BBQ & Southern",
+  "o": "OHG Brands (former FAT Brands bondholders)",
+  "y": "2026",
+  "note": "Famous Dave's was one of the FAT Brands chains sold in June 2026 to a group of FAT's former bondholders, now OHG Brands.",
+  "src": "https://1851franchise.com/fat-brands-bankruptcy-restructuring-2732483",
+  "u": false
+ },
+ {
+  "n": "Wild Eggs",
+  "m": [
+   "wild eggs"
+  ],
+  "c": "pe",
+  "k": "Breakfast & brunch",
+  "o": "PG Growth Opportunities Fund I",
+  "y": "2023",
+  "note": "Born in Louisville, the brunch chain was sold in January 2023 by Patoka Capital to Miami-based investment group PG Growth Opportunities Fund I, which kept the Louisville headquarters and is franchising it nationally. Re-checked November 2026: no later sale found.",
+  "src": "https://www.nrn.com/restaurant-finance/wild-eggs-brunch-chain-acquired-by-investment-group",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Chicken Salad Chick",
+  "m": [
+   "chicken salad chick"
+  ],
+  "c": "pe",
+  "k": "Sandwiches & deli",
+  "o": "Brentwood Associates (majority)",
+  "y": "2019",
+  "note": "Los Angeles private equity firm Brentwood Associates bought a majority of the chain from Eagle Merchant Partners in November 2019. Re-checked November 2026: no later sale found.",
+  "src": "https://www.businesswire.com/news/home/20191104005802/en/",
+  "u": false
+ },
+ {
+  "n": "City Barbeque",
+  "m": [
+   "city barbeque",
+   "city bbq"
+  ],
+  "c": "pe",
+  "k": "BBQ & Southern",
+  "o": "Freeman Spogli & Co. (stake)",
+  "y": "2016",
+  "note": "Private equity firm Freeman Spogli invested in the Ohio barbecue chain in 2016 and is described as a part-owner. Re-checked November 2026: no later sale found.",
+  "src": "https://freemanspogli.com/news/city-barbeque-partners-with-freeman-spogli-co",
+  "u": false
+ },
+ {
+  "n": "Freddy's Frozen Custard",
+  "m": [
+   "freddys"
+  ],
+  "c": "pe",
+  "k": "Burgers",
+  "o": "Rhône Group",
+  "y": "2025",
+  "note": "Private equity firm Rhône bought Freddy's from Thompson Street Capital Partners in September 2025, in a deal Reuters put at about $700m. Re-checked November 2026: no later sale found.",
+  "src": "https://www.restaurantbusinessonline.com/financing/freddys-confirms-sale-rhone-private-equity",
+  "u": false
+ },
+ {
+  "n": "Krispy Krunchy Chicken",
+  "m": [
+   "krispy krunchy"
+  ],
+  "c": "pe",
+  "k": "Chicken",
+  "o": "Main Post Partners (majority)",
+  "y": "2021",
+  "note": "San Francisco private equity firm Main Post Partners invested in December 2021 and was described as the majority owner in August 2026.",
+  "src": "https://www.wweek.com/food/2026/08/20/krispy-krunchy-chicken-has-35-metro-area-outposts-ever-heard-of-it/",
+  "u": false
+ },
+ {
+  "n": "Walk-On's Sports Bistreaux",
+  "m": [
+   "walk ons"
+  ],
+  "c": "pe",
+  "k": "Bar & pub",
+  "o": "10 Point Capital (large minority stake)",
+  "y": "2020",
+  "note": "Atlanta private equity firm 10 Point Capital became a large minority investor in October 2020; the brand has since moved its headquarters to Atlanta. Re-checked November 2026: no later sale found.",
+  "src": "https://10pointcapital.com/2020/10/14/the-future-of-casual-dining-atlanta-private-equity-firm-invests-in-growing-sports-bar-chain/",
+  "u": false
+ },
+ {
+  "n": "P.F. Chang's",
+  "m": [
+   "pf changs"
+  ],
+  "c": "pe",
+  "k": "Asian",
+  "o": "TriArtisan Capital & Paulson & Co.",
+  "y": "2019",
+  "note": "Private equity firms TriArtisan and Paulson bought P.F. Chang's from Centerbridge Partners in 2019 for about $700m. In November 2026 it was reported to be considering an IPO as soon as 2027.",
+  "src": "https://www.ksl.com/article/51645887/how-pf-changs-new-ceo-is-bringing-theatrics-back-to-its-dining-rooms",
+  "u": false
+ },
+ {
+  "n": "California Pizza Kitchen",
+  "m": [
+   "california pizza kitchen"
+  ],
+  "c": "pe",
+  "k": "Pizza",
+  "o": "Consortium Brand Partners-led group (closing not confirmed)",
+  "y": "2025",
+  "note": "CPK's lenders had owned it since its 2020 bankruptcy. In December 2025 it agreed to sell to a group led by Consortium Brand Partners, with Bain Capital Credit providing debt and equity; the deal was expected to close that month, but we found no closing announcement.",
+  "src": "https://www.businesswire.com/news/home/20251216781126/en/Consortium-Brand-Partners-to-Acquire-California-Pizza-Kitchen-in-Partnership-with-Eldridge-Industries-Aurify-Brands-and-Convive-Brands",
+  "u": false
+ },
+ {
+  "n": "Crumbl",
+  "m": [
+   "crumbl"
+  ],
+  "c": "pe",
+  "k": "Bakery & sweets",
+  "o": "Founders (majority); TSG Consumer Partners (minority)",
+  "y": "2025",
+  "note": "Private equity firm TSG Consumer Partners took a minority stake through preferred equity in 2025. The founders still hold a majority. Re-checked November 2026: no later sale found.",
+  "src": "https://www.tastingtable.com/1967609/who-owns-crumbl-cookies/",
+  "u": false
+ },
+ {
+  "n": "Frisch's Big Boy",
+  "m": [
+   "frischs"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "Frisch's senior managers (Cincinnati)",
+  "y": "2024",
+  "note": "NRD Capital, a private equity fund, bought Frisch's in 2015 for $175m and sold off much of its real estate. In November 2024 a group of Frisch's senior managers bought the remaining restaurants and the brand rights.",
+  "src": "https://restaurantbusinessonline.com/financing/frischs-execs-say-theyve-bought-whats-left-chain",
+  "u": false
+ },
+ {
+  "n": "Bojangles",
+  "m": [
+   "bojangles"
+  ],
+  "c": "pe",
+  "k": "Chicken",
+  "o": "Durational Capital & The Jordan Company",
+  "y": "2019",
+  "note": "Private equity firms Durational Capital Management and The Jordan Company took Bojangles private in 2019. The Wall Street Journal reported in June 2025 that the owners were exploring a sale at about $1.5bn; no buyer had been reported as of November 2026.",
+  "src": "https://fortune.com/2025/06/12/fast-food-bojangles-sale-2025",
+  "u": false
+ },
+ {
+  "n": "Torchy's Tacos",
+  "m": [
+   "torchys"
+  ],
+  "c": "pe",
+  "k": "Mexican & Tex-Mex",
+  "o": "General Atlantic-led investors (founders keep majority)",
+  "y": "2020",
+  "note": "General Atlantic first invested in 2017, then in November 2020 led an investor group that bought a further stake worth about $400m. The founders and partners said they would remain majority shareholders. Re-checked November 2026: no later sale found.",
+  "src": "https://www.nrn.com/fast-casual/torchy-s-tacos-sells-400-million-stake-new-investors",
+  "u": false
+ },
+ {
+  "n": "KFC",
+  "m": [
+   "kfc",
+   "kentucky fried chicken"
+  ],
+  "c": "corp",
+  "k": "Chicken",
+  "o": "Yum! Brands (NYSE: YUM)",
+  "y": "1997",
+  "note": "KFC is owned by Yum! Brands, a public company headquartered in Louisville. Most US locations are run by franchisees.",
+  "src": "https://en.wikipedia.org/wiki/Yum!_Brands",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Taco Bell",
+  "m": [
+   "taco bell"
+  ],
+  "c": "corp",
+  "k": "Mexican & Tex-Mex",
+  "o": "Yum! Brands (NYSE: YUM)",
+  "y": "1997",
+  "note": "Taco Bell is owned by Louisville-headquartered public company Yum! Brands, which sold Pizza Hut in 2026 to focus on KFC, Taco Bell and Habit Burger.",
+  "src": "https://en.wikipedia.org/wiki/Yum!_Brands",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Texas Roadhouse",
+  "m": [
+   "texas roadhouse"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Texas Roadhouse, Inc. (Nasdaq: TXRH)",
+  "y": "2004",
+  "note": "Despite the name, Texas Roadhouse was founded by Kent Taylor in Clarksville, Indiana, and is headquartered in Louisville. It has been public since 2004.",
+  "src": "https://en.wikipedia.org/wiki/Texas_Roadhouse",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Bubba's 33",
+  "m": [
+   "bubbas 33"
+  ],
+  "c": "corp",
+  "k": "Bar & pub",
+  "o": "Texas Roadhouse, Inc. (Nasdaq: TXRH)",
+  "y": "",
+  "note": "Bubba's 33 is a sports-bar brand from Louisville-headquartered Texas Roadhouse.",
+  "src": "https://en.wikipedia.org/wiki/Texas_Roadhouse",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Papa John's",
+  "m": [
+   "papa johns"
+  ],
+  "c": "corp",
+  "k": "Pizza",
+  "o": "Papa John's International (Nasdaq: PZZA)",
+  "y": "1993",
+  "note": "Founded in Jeffersonville, Indiana, and long based in Louisville, Papa John's moved its headquarters to Atlanta. It is public. After an 18-month review that drew take-private bids from Apollo and Irth Capital, the board ruled out a near-term sale in August 2026.",
+  "src": "https://finance.yahoo.com/markets/stocks/articles/papa-john-rules-near-term-141040974.html",
+  "u": false
+ },
+ {
+  "n": "Long John Silver's",
+  "m": [
+   "long john silvers"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Four Oaks Partners (investor group led by franchisee Bob Jenkins)",
+  "y": "2022",
+  "note": "Headquartered in Louisville. Yum! sold the chain in 2011 to LJS Partners, a group of franchisees and private investors; in November 2022 it was acquired by Four Oaks Partners, led by franchisee Bob Jenkins.",
+  "src": "https://en.wikipedia.org/wiki/Long_John_Silver%27s",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "McDonald's",
+  "m": [
+   "mcdonalds"
+  ],
+  "c": "corp",
+  "k": "Burgers",
+  "o": "McDonald's Corporation (NYSE: MCD)",
+  "y": "",
+  "note": "Public company. Most US locations are run by franchisees.",
+  "src": "https://en.wikipedia.org/wiki/McDonald%27s",
+  "u": false
+ },
+ {
+  "n": "Starbucks",
+  "m": [
+   "starbucks"
+  ],
+  "c": "corp",
+  "k": "Coffee & café",
+  "o": "Starbucks Corporation (Nasdaq: SBUX)",
+  "y": "",
+  "note": "Public company. Stores inside grocery stores and hotels are often licensed.",
+  "src": "https://en.wikipedia.org/wiki/Starbucks",
+  "u": false
+ },
+ {
+  "n": "Wendy's",
+  "m": [
+   "wendys"
+  ],
+  "c": "corp",
+  "k": "Burgers",
+  "o": "The Wendy's Company (Nasdaq: WEN)",
+  "y": "",
+  "note": "Public company; Nelson Peltz's Trian Partners is a large shareholder.",
+  "src": "https://en.wikipedia.org/wiki/Wendy%27s",
+  "u": false
+ },
+ {
+  "n": "Burger King",
+  "m": [
+   "burger king"
+  ],
+  "c": "corp",
+  "k": "Burgers",
+  "o": "Restaurant Brands International (NYSE: QSR)",
+  "y": "",
+  "note": "RBI, which also owns Popeyes, Tim Hortons and Firehouse Subs, is public; 3G Capital is a major shareholder.",
+  "src": "https://en.wikipedia.org/wiki/Restaurant_Brands_International",
+  "u": false
+ },
+ {
+  "n": "Popeyes",
+  "m": [
+   "popeyes"
+  ],
+  "c": "corp",
+  "k": "Chicken",
+  "o": "Restaurant Brands International (NYSE: QSR)",
+  "y": "2017",
+  "note": "Owned by public company Restaurant Brands International since 2017.",
+  "src": "https://en.wikipedia.org/wiki/Restaurant_Brands_International",
+  "u": false
+ },
+ {
+  "n": "Firehouse Subs",
+  "m": [
+   "firehouse subs"
+  ],
+  "c": "corp",
+  "k": "Sandwiches & deli",
+  "o": "Restaurant Brands International (NYSE: QSR)",
+  "y": "2021",
+  "note": "Bought by Restaurant Brands International in 2021.",
+  "src": "https://en.wikipedia.org/wiki/Restaurant_Brands_International",
+  "u": false
+ },
+ {
+  "n": "Domino's",
+  "m": [
+   "dominos"
+  ],
+  "c": "corp",
+  "k": "Pizza",
+  "o": "Domino's Pizza, Inc. (NYSE: DPZ)",
+  "y": "",
+  "note": "Public company.",
+  "src": "https://en.wikipedia.org/wiki/Domino%27s",
+  "u": false
+ },
+ {
+  "n": "Chick-fil-A",
+  "m": [
+   "chick fil a"
+  ],
+  "c": "corp",
+  "k": "Chicken",
+  "o": "Cathy family (private)",
+  "y": "",
+  "note": "Privately owned by the founding Cathy family.",
+  "src": "https://en.wikipedia.org/wiki/Chick-fil-A",
+  "u": false
+ },
+ {
+  "n": "Waffle House",
+  "m": [
+   "waffle house"
+  ],
+  "c": "corp",
+  "k": "Breakfast & brunch",
+  "o": "Waffle House, Inc. (private)",
+  "y": "",
+  "note": "Privately held chain based in Georgia.",
+  "src": "https://en.wikipedia.org/wiki/Waffle_House",
+  "u": false
+ },
+ {
+  "n": "White Castle",
+  "m": [
+   "white castle"
+  ],
+  "c": "corp",
+  "k": "Burgers",
+  "o": "Ingram family (private)",
+  "y": "",
+  "note": "Family-owned since it was founded in 1921; based in Columbus, Ohio.",
+  "src": "https://en.wikipedia.org/wiki/White_Castle_(restaurant)",
+  "u": false
+ },
+ {
+  "n": "Dairy Queen",
+  "m": [
+   "dq grill",
+   "dairy queen",
+   "=dq"
+  ],
+  "c": "corp",
+  "k": "Ice cream & frozen",
+  "o": "Berkshire Hathaway",
+  "y": "1998",
+  "note": "Owned by Warren Buffett's Berkshire Hathaway since 1998.",
+  "src": "https://en.wikipedia.org/wiki/Dairy_Queen",
+  "u": false
+ },
+ {
+  "n": "Chili's",
+  "m": [
+   "chilis"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "Brinker International (NYSE: EAT)",
+  "y": "",
+  "note": "Public company.",
+  "src": "https://en.wikipedia.org/wiki/Brinker_International",
+  "u": false
+ },
+ {
+  "n": "Olive Garden",
+  "m": [
+   "olive garden"
+  ],
+  "c": "corp",
+  "k": "Italian",
+  "o": "Darden Restaurants (NYSE: DRI)",
+  "y": "",
+  "note": "Public company that also owns LongHorn, Cheddar's, Ruth's Chris, The Capital Grille and Chuy's.",
+  "src": "https://en.wikipedia.org/wiki/Darden_Restaurants",
+  "u": false
+ },
+ {
+  "n": "LongHorn Steakhouse",
+  "m": [
+   "longhorn steakhouse"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Darden Restaurants (NYSE: DRI)",
+  "y": "",
+  "note": "Public company.",
+  "src": "https://en.wikipedia.org/wiki/Darden_Restaurants",
+  "u": false
+ },
+ {
+  "n": "Cheddar's",
+  "m": [
+   "cheddars"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "Darden Restaurants (NYSE: DRI)",
+  "y": "2017",
+  "note": "Bought by Darden in 2017.",
+  "src": "https://en.wikipedia.org/wiki/Darden_Restaurants",
+  "u": false
+ },
+ {
+  "n": "Ruth's Chris Steak House",
+  "m": [
+   "ruths chris"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Darden Restaurants (NYSE: DRI)",
+  "y": "2023",
+  "note": "Bought by Darden in 2023.",
+  "src": "https://en.wikipedia.org/wiki/Darden_Restaurants",
+  "u": false
+ },
+ {
+  "n": "The Capital Grille",
+  "m": [
+   "the capital grille",
+   "capital grille"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Darden Restaurants (NYSE: DRI)",
+  "y": "",
+  "note": "Public company.",
+  "src": "https://en.wikipedia.org/wiki/Darden_Restaurants",
+  "u": false
+ },
+ {
+  "n": "Chuy's",
+  "m": [
+   "chuys"
+  ],
+  "c": "corp",
+  "k": "Mexican & Tex-Mex",
+  "o": "Darden Restaurants (NYSE: DRI)",
+  "y": "2024",
+  "note": "Bought by Darden in 2024.",
+  "src": "https://en.wikipedia.org/wiki/Darden_Restaurants",
+  "u": false
+ },
+ {
+  "n": "Outback Steakhouse",
+  "m": [
+   "outback"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Bloomin' Brands (Nasdaq: BLMN)",
+  "y": "",
+  "note": "Public company that also owns Carrabba's and Bonefish Grill.",
+  "src": "https://en.wikipedia.org/wiki/Bloomin%27_Brands",
+  "u": false
+ },
+ {
+  "n": "Carrabba's Italian Grill",
+  "m": [
+   "carrabbas"
+  ],
+  "c": "corp",
+  "k": "Italian",
+  "o": "Bloomin' Brands (Nasdaq: BLMN)",
+  "y": "",
+  "note": "Public company.",
+  "src": "https://en.wikipedia.org/wiki/Bloomin%27_Brands",
+  "u": false
+ },
+ {
+  "n": "Bonefish Grill",
+  "m": [
+   "bonefish"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Bloomin' Brands (Nasdaq: BLMN)",
+  "y": "",
+  "note": "Public company.",
+  "src": "https://en.wikipedia.org/wiki/Bloomin%27_Brands",
+  "u": false
+ },
+ {
+  "n": "Cracker Barrel",
+  "m": [
+   "cracker barrel"
+  ],
+  "c": "corp",
+  "k": "BBQ & Southern",
+  "o": "Cracker Barrel Old Country Store (Nasdaq: CBRL)",
+  "y": "",
+  "note": "Public company.",
+  "src": "https://en.wikipedia.org/wiki/Cracker_Barrel",
+  "u": false
+ },
+ {
+  "n": "Applebee's",
+  "m": [
+   "applebees"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "Dine Brands Global (NYSE: DIN)",
+  "y": "",
+  "note": "Public company; fully franchised.",
+  "src": "https://en.wikipedia.org/wiki/Dine_Brands_Global",
+  "u": false
+ },
+ {
+  "n": "IHOP",
+  "m": [
+   "ihop"
+  ],
+  "c": "corp",
+  "k": "Breakfast & brunch",
+  "o": "Dine Brands Global (NYSE: DIN)",
+  "y": "",
+  "note": "Public company; fully franchised.",
+  "src": "https://en.wikipedia.org/wiki/Dine_Brands_Global",
+  "u": false
+ },
+ {
+  "n": "Jack in the Box",
+  "m": [
+   "jack in the box"
+  ],
+  "c": "corp",
+  "k": "Burgers",
+  "o": "Jack in the Box Inc. (Nasdaq: JACK)",
+  "y": "",
+  "note": "Public company.",
+  "src": "https://en.wikipedia.org/wiki/Jack_in_the_Box",
+  "u": false
+ },
+ {
+  "n": "Wingstop",
+  "m": [
+   "wingstop"
+  ],
+  "c": "corp",
+  "k": "Chicken",
+  "o": "Wingstop Inc. (Nasdaq: WING)",
+  "y": "",
+  "note": "Public company.",
+  "src": "https://en.wikipedia.org/wiki/Wingstop",
+  "u": false
+ },
+ {
+  "n": "Chipotle",
+  "m": [
+   "chipotle"
+  ],
+  "c": "corp",
+  "k": "Mexican & Tex-Mex",
+  "o": "Chipotle Mexican Grill (NYSE: CMG)",
+  "y": "",
+  "note": "Public company; all locations are company-run.",
+  "src": "https://en.wikipedia.org/wiki/Chipotle_Mexican_Grill",
+  "u": false
+ },
+ {
+  "n": "Five Guys",
+  "m": [
+   "five guys"
+  ],
+  "c": "corp",
+  "k": "Burgers",
+  "o": "Murrell family (private)",
+  "y": "",
+  "note": "Privately held by the founding Murrell family.",
+  "src": "https://en.wikipedia.org/wiki/Five_Guys",
+  "u": false
+ },
+ {
+  "n": "Panda Express",
+  "m": [
+   "panda express"
+  ],
+  "c": "corp",
+  "k": "Asian",
+  "o": "Panda Restaurant Group (Cherng family, private)",
+  "y": "",
+  "note": "Privately held by founders Andrew and Peggy Cherng.",
+  "src": "https://en.wikipedia.org/wiki/Panda_Express",
+  "u": false
+ },
+ {
+  "n": "Raising Cane's",
+  "m": [
+   "raising canes"
+  ],
+  "c": "corp",
+  "k": "Chicken",
+  "o": "Todd Graves (private)",
+  "y": "",
+  "note": "Privately held by founder Todd Graves.",
+  "src": "https://en.wikipedia.org/wiki/Raising_Cane%27s_Chicken_Fingers",
+  "u": false
+ },
+ {
+  "n": "Culver's",
+  "m": [
+   "culvers"
+  ],
+  "c": "corp",
+  "k": "Burgers",
+  "o": "Culver family (private)",
+  "y": "",
+  "note": "Privately held Wisconsin chain.",
+  "src": "https://en.wikipedia.org/wiki/Culver%27s",
+  "u": false
+ },
+ {
+  "n": "Little Caesars",
+  "m": [
+   "little caesars"
+  ],
+  "c": "corp",
+  "k": "Pizza",
+  "o": "Ilitch Holdings (private)",
+  "y": "",
+  "note": "Privately owned by Detroit's Ilitch family.",
+  "src": "https://en.wikipedia.org/wiki/Little_Caesars",
+  "u": false
+ },
+ {
+  "n": "Papa Murphy's",
+  "m": [
+   "papa murphys"
+  ],
+  "c": "corp",
+  "k": "Pizza",
+  "o": "MTY Food Group (TSX: MTY)",
+  "y": "2019",
+  "note": "Bought by Canadian public company MTY Food Group in 2019.",
+  "src": "https://en.wikipedia.org/wiki/Papa_Murphy%27s",
+  "u": false
+ },
+ {
+  "n": "Cold Stone Creamery",
+  "m": [
+   "cold stone"
+  ],
+  "c": "corp",
+  "k": "Ice cream & frozen",
+  "o": "Kahala Brands",
+  "y": "",
+  "note": "Owned and operated by Kahala Brands, in which Toronto’s Serruya family bought a majority in 2013.",
+  "src": "https://en.wikipedia.org/wiki/Cold_Stone_Creamery",
+  "u": false
+ },
+ {
+  "n": "Steak 'n Shake",
+  "m": [
+   "steak n shake"
+  ],
+  "c": "corp",
+  "k": "Burgers",
+  "o": "Biglari Holdings (NYSE: BH)",
+  "y": "2008",
+  "note": "Controlled by Sardar Biglari's public holding company.",
+  "src": "https://en.wikipedia.org/wiki/Steak_n_Shake",
+  "u": false
+ },
+ {
+  "n": "Smashburger",
+  "m": [
+   "smashburger"
+  ],
+  "c": "corp",
+  "k": "Burgers",
+  "o": "Jollibee Foods Corporation",
+  "y": "2018",
+  "note": "Philippine public company Jollibee bought 40% in 2015 and has owned all of Smashburger since December 2018.",
+  "src": "https://en.wikipedia.org/wiki/Smashburger_(restaurant_chain)",
+  "u": false
+ },
+ {
+  "n": "Potbelly",
+  "m": [
+   "potbelly"
+  ],
+  "c": "corp",
+  "k": "Sandwiches & deli",
+  "o": "RaceTrac",
+  "y": "2025",
+  "note": "Family-owned convenience-store chain RaceTrac completed its roughly $566m takeover of Potbelly in October 2025.",
+  "src": "https://www.restaurantbusinessonline.com/racetrac-completes-566m-acquisition-potbelly",
+  "u": false
+ },
+ {
+  "n": "Penn Station",
+  "m": [
+   "penn station"
+  ],
+  "c": "corp",
+  "k": "Sandwiches & deli",
+  "o": "Penn Station, Inc. (private)",
+  "y": "",
+  "note": "Privately held Cincinnati-area franchisor.",
+  "src": "https://en.wikipedia.org/wiki/Penn_Station_(restaurant)",
+  "u": false
+ },
+ {
+  "n": "Jet's Pizza",
+  "m": [
+   "jets pizza"
+  ],
+  "c": "corp",
+  "k": "Pizza",
+  "o": "Jetts family (private)",
+  "y": "",
+  "note": "Privately held Michigan franchisor.",
+  "src": "https://en.wikipedia.org/wiki/Jet%27s_Pizza",
+  "u": false
+ },
+ {
+  "n": "Skyline Chili",
+  "m": [
+   "skyline chili"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "Williams family (Cincinnati)",
+  "y": "2023",
+  "note": "Cincinnati's Williams family bought a significant stake in December 2020 and the rest in 2023, after years of private equity owners.",
+  "src": "https://www.citybeat.com/food-drink/cincinnatis-skyline-chili-finalizes-purchase-agreement-with-local-business-leader-tom-williams-12164389",
+  "u": false
+ },
+ {
+  "n": "Graeter's",
+  "m": [
+   "graeters"
+  ],
+  "c": "corp",
+  "k": "Ice cream & frozen",
+  "o": "Graeter family (Cincinnati, private)",
+  "y": "",
+  "note": "Family-owned Cincinnati ice cream maker.",
+  "src": "https://en.wikipedia.org/wiki/Graeter%27s",
+  "u": false
+ },
+ {
+  "n": "Krispy Kreme",
+  "m": [
+   "krispy kreme"
+  ],
+  "c": "corp",
+  "k": "Bakery & sweets",
+  "o": "Krispy Kreme, Inc. (Nasdaq: DNUT)",
+  "y": "2021",
+  "note": "Public again since 2021; JAB Holding, which took it private in 2016, remains a major shareholder.",
+  "src": "https://en.wikipedia.org/wiki/Krispy_Kreme",
+  "u": false
+ },
+ {
+  "n": "Dutch Bros. Coffee",
+  "m": [
+   "dutch bros"
+  ],
+  "c": "corp",
+  "k": "Coffee & café",
+  "o": "Dutch Bros Inc. (NYSE: BROS)",
+  "y": "",
+  "note": "Public company.",
+  "src": "https://en.wikipedia.org/wiki/Dutch_Bros._Coffee",
+  "u": false
+ },
+ {
+  "n": "First Watch",
+  "m": [
+   "first watch"
+  ],
+  "c": "corp",
+  "k": "Breakfast & brunch",
+  "o": "First Watch Restaurant Group (Nasdaq: FWRG)",
+  "y": "2021",
+  "note": "Public since 2021. Private equity firm Advent International, once the majority owner, had sold down to about 9% by late 2025.",
+  "src": "https://www.fool.com/coverage/filings/2025/12/06/should-investors-follow-advent-international-s-lead-as-it-dumps-usd153-million-of-first-watch-restaurant-group-stock",
+  "u": false
+ },
+ {
+  "n": "Smoothie King",
+  "m": [
+   "smoothie king"
+  ],
+  "c": "corp",
+  "k": "Coffee & café",
+  "o": "Wan Kim (private)",
+  "y": "2012",
+  "note": "Privately owned by CEO Wan Kim, who bought it in 2012.",
+  "src": "https://en.wikipedia.org/wiki/Smoothie_King",
+  "u": false
+ },
+ {
+  "n": "The Cheesecake Factory",
+  "m": [
+   "the cheesecake factory",
+   "cheesecake factory"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "The Cheesecake Factory Inc. (Nasdaq: CAKE)",
+  "y": "",
+  "note": "Public company.",
+  "src": "https://en.wikipedia.org/wiki/The_Cheesecake_Factory",
+  "u": false
+ },
+ {
+  "n": "Red Robin",
+  "m": [
+   "red robin"
+  ],
+  "c": "corp",
+  "k": "Burgers",
+  "o": "Red Robin Gourmet Burgers (Nasdaq: RRGB)",
+  "y": "",
+  "note": "Public company.",
+  "src": "https://en.wikipedia.org/wiki/Red_Robin",
+  "u": false
+ },
+ {
+  "n": "BJ's Restaurant & Brewhouse",
+  "m": [
+   "bjs"
+  ],
+  "c": "corp",
+  "k": "Bar & pub",
+  "o": "BJ's Restaurants Inc. (Nasdaq: BJRI)",
+  "y": "",
+  "note": "Public company.",
+  "src": "https://en.wikipedia.org/wiki/BJ%27s_Restaurants",
+  "u": false
+ },
+ {
+  "n": "Hard Rock Cafe",
+  "m": [
+   "hard rock cafe"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "Seminole Tribe of Florida (via Hard Rock International)",
+  "y": "2007",
+  "note": "Owned by the Seminole Tribe of Florida since 2007.",
+  "src": "https://en.wikipedia.org/wiki/Hard_Rock_Cafe",
+  "u": false
+ },
+ {
+  "n": "Del Frisco's",
+  "m": [
+   "del friscos"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Landry's (Tilman Fertitta)",
+  "y": "2019",
+  "note": "Part of Tilman Fertitta's Landry's since 2019.",
+  "src": "https://en.wikipedia.org/wiki/Del_Frisco%27s_Restaurant_Group",
+  "u": false
+ },
+ {
+  "n": "Morton's The Steakhouse",
+  "m": [
+   "mortons"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Landry's (Tilman Fertitta)",
+  "y": "2012",
+  "note": "Part of Tilman Fertitta's Landry's since 2012.",
+  "src": "https://en.wikipedia.org/wiki/Morton%27s_The_Steakhouse",
+  "u": false
+ },
+ {
+  "n": "Joe's Crab Shack",
+  "m": [
+   "joes crab shack"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Landry's (Tilman Fertitta)",
+  "y": "2017",
+  "note": "Part of Landry's.",
+  "src": "https://en.wikipedia.org/wiki/Joe%27s_Crab_Shack",
+  "u": false
+ },
+ {
+  "n": "Golden Corral",
+  "m": [
+   "golden corral"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "Golden Corral Corporation (private)",
+  "y": "",
+  "note": "Privately held buffet chain.",
+  "src": "https://en.wikipedia.org/wiki/Golden_Corral",
+  "u": false
+ },
+ {
+  "n": "Noodles & Company",
+  "m": [
+   "noodles company",
+   "noodles  company"
+  ],
+  "c": "corp",
+  "k": "Italian",
+  "o": "Noodles & Company (Nasdaq: NDLS)",
+  "y": "",
+  "note": "Public company that has been running a strategic review, including a possible sale, since September 2025; no deal had been announced.",
+  "src": "https://www.restaurantbusinessonline.com/financing/noodles-company-may-put-itself-sale",
+  "u": false
+ },
+ {
+  "n": "Taziki's Mediterranean Cafe",
+  "m": [
+   "tazikis"
+  ],
+  "c": "corp",
+  "k": "Mediterranean & Middle Eastern",
+  "o": "Taziki's (private; founders Keith & Amy Richards)",
+  "y": "",
+  "note": "Privately held Alabama-founded chain; we found no private equity owner.",
+  "src": "https://en.wikipedia.org/wiki/Taziki%27s_Mediterranean_Caf%C3%A9",
+  "u": false
+ },
+ {
+  "n": "Hooters",
+  "m": [
+   "hooters"
+  ],
+  "c": "corp",
+  "k": "Bar & pub",
+  "o": "Hooters Inc. & Hoot Owl Restaurants (franchise groups incl. original founders)",
+  "y": "2025",
+  "note": "Private equity firms Nord Bay and TriArtisan owned Hooters of America from 2019 until its 2025 bankruptcy, when franchise groups including the original founders bought the company-run restaurants.",
+  "src": "https://wusf.org/text/economy-business/2025-04-01/bankruptcy-plan-hooters-involves-selling-franchise-group-includes-original-owners",
+  "u": false
+ },
+ {
+  "n": "Blaze Pizza",
+  "m": [
+   "blaze pizza"
+  ],
+  "c": "corp",
+  "k": "Pizza",
+  "o": "Not confirmed (founders and Brentwood Associates have both been reported as controlling owners)",
+  "y": "",
+  "note": "Private equity firm Brentwood Associates invested in Blaze, but reports conflict on whether it or the founders hold the majority.",
+  "src": "https://www.restaurantdive.com/news/Blaze-Pizza-John-Owen-discusses-training-new-CEO-role/809035/",
+  "u": true
+ },
+ {
+  "n": "Chuck E. Cheese",
+  "m": [
+   "chuck e cheese"
+  ],
+  "c": "corp",
+  "k": "Pizza",
+  "o": "CEC Entertainment (private; owner not confirmed)",
+  "y": "",
+  "note": "CEC Entertainment owns, runs and franchises Chuck E. Cheese. It emerged from bankruptcy in 2020 owned by its creditors; we couldn't confirm who holds it now.",
+  "src": "https://www.chuckecheese.com/blogs/cec-entertainment-closes-625-million-private-credit-term-loan-agreement-and-also-amends-its-existing-revolving-credit-facility/",
+  "u": true
+ },
+ {
+  "n": "TGI Fridays",
+  "m": [
+   "tgi fridays",
+   "tgi friday"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "TGI Fridays went through bankruptcy in 2024–25. We couldn't confirm the current owner, or whether this location is still open.",
+  "src": "https://en.wikipedia.org/wiki/TGI_Fridays",
+  "u": true
+ },
+ {
+  "n": "Marco's Pizza",
+  "m": [
+   "marcos pizza"
+  ],
+  "c": "corp",
+  "k": "Pizza",
+  "o": "Marco's Franchising (private; owner not confirmed)",
+  "y": "",
+  "note": "Privately held Toledo, Ohio franchisor. We found no reported private equity owner.",
+  "src": "https://en.wikipedia.org/wiki/Marco%27s_Pizza",
+  "u": true
+ },
+ {
+  "n": "Charleys Philly Steaks",
+  "m": [
+   "charleys"
+  ],
+  "c": "corp",
+  "k": "Sandwiches & deli",
+  "o": "Gosh Enterprises (private)",
+  "y": "",
+  "note": "Privately held Columbus, Ohio franchisor.",
+  "src": "https://en.wikipedia.org/wiki/Charleys_Philly_Steaks",
+  "u": false
+ },
+ {
+  "n": "Jason's Deli",
+  "m": [
+   "jasons deli"
+  ],
+  "c": "corp",
+  "k": "Sandwiches & deli",
+  "o": "Deli Management, Inc. (private)",
+  "y": "",
+  "note": "Privately held Texas chain.",
+  "src": "https://en.wikipedia.org/wiki/Jason%27s_Deli",
+  "u": false
+ },
+ {
+  "n": "Dickey's Barbecue Pit",
+  "m": [
+   "dickeys"
+  ],
+  "c": "corp",
+  "k": "BBQ & Southern",
+  "o": "Dickey family (private)",
+  "y": "",
+  "note": "Privately held Dallas franchisor.",
+  "src": "https://en.wikipedia.org/wiki/Dickey%27s_Barbecue_Pit",
+  "u": false
+ },
+ {
+  "n": "MOD Pizza",
+  "m": [
+   "mod pizza"
+  ],
+  "c": "corp",
+  "k": "Pizza",
+  "o": "Elite Restaurant Group (private)",
+  "y": "2024",
+  "note": "Bought out of financial trouble in 2024 by privately held Elite Restaurant Group.",
+  "src": "https://en.wikipedia.org/wiki/MOD_Pizza",
+  "u": false
+ },
+ {
+  "n": "Lee's Famous Recipe Chicken",
+  "m": [
+   "lees famous recipe"
+  ],
+  "c": "corp",
+  "k": "Chicken",
+  "o": "Privately held franchisor (owner not confirmed)",
+  "y": "",
+  "note": "Regional fried-chicken franchisor; owner not confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Lee%27s_Famous_Recipe_Chicken",
+  "u": true
+ },
+ {
+  "n": "Hunt Brothers Pizza",
+  "m": [
+   "hunt brothers"
+  ],
+  "c": "corp",
+  "k": "Pizza",
+  "o": "Hunt family (private)",
+  "y": "",
+  "note": "Family-owned Nashville company selling pizza through convenience stores.",
+  "src": "https://en.wikipedia.org/wiki/Hunt_Brothers_Pizza",
+  "u": false
+ },
+ {
+  "n": "Shoney's",
+  "m": [
+   "shoneys"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "Shoney's North America (private)",
+  "y": "",
+  "note": "Privately held Nashville chain.",
+  "src": "https://en.wikipedia.org/wiki/Shoney%27s",
+  "u": false
+ },
+ {
+  "n": "Melting Pot",
+  "m": [
+   "the melting pot",
+   "melting pot"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "Front Burner Brands (private)",
+  "y": "",
+  "note": "Privately held Florida franchisor.",
+  "src": "https://en.wikipedia.org/wiki/The_Melting_Pot_(restaurant)",
+  "u": false
+ },
+ {
+  "n": "The Old Spaghetti Factory",
+  "m": [
+   "the old spaghetti factory",
+   "old spaghetti factory"
+  ],
+  "c": "corp",
+  "k": "Italian",
+  "o": "Dussin family (private)",
+  "y": "",
+  "note": "Family-owned Portland, Oregon chain.",
+  "src": "https://en.wikipedia.org/wiki/The_Old_Spaghetti_Factory",
+  "u": false
+ },
+ {
+  "n": "Main Event",
+  "m": [
+   "main event"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "Dave & Buster's Entertainment (Nasdaq: PLAY)",
+  "y": "2022",
+  "note": "Dave & Buster's bought Main Event for about $835m in 2022.",
+  "src": "https://www.restaurantdive.com/news/dave-busters-to-buy-main-event-for-835m/621662/",
+  "u": false
+ },
+ {
+  "n": "Smokey Bones",
+  "m": [
+   "smokey bones"
+  ],
+  "c": "corp",
+  "k": "BBQ & Southern",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Smokey Bones was part of FAT Brands' Twin Hospitality before the 2026 bankruptcy sale; the current owner of this location isn't confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Smokey_Bones",
+  "u": true
+ },
+ {
+  "n": "Mimi's Cafe",
+  "m": [
+   "mimis cafe"
+  ],
+  "c": "corp",
+  "k": "Breakfast & brunch",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "National chain; current owner not confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Mimi%27s_Cafe",
+  "u": true
+ },
+ {
+  "n": "Buca di Beppo",
+  "m": [
+   "buca di beppo"
+  ],
+  "c": "corp",
+  "k": "Italian",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Buca di Beppo went bankrupt in 2024; the owner after that isn't confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Buca_di_Beppo",
+  "u": true
+ },
+ {
+  "n": "Beef 'O' Brady's",
+  "m": [
+   "beef obradys"
+  ],
+  "c": "corp",
+  "k": "Bar & pub",
+  "o": "FSC Franchising (owner not confirmed)",
+  "y": "",
+  "note": "Regional sports-bar franchisor; private equity firm CapitalSpring was reported to have taken a majority of franchisor FSC Franchising, but we couldn't confirm the current owner.",
+  "src": "https://nrn.com/restaurant-finance/buddy-s-pizza-wins-significant-investment-to-recapitalize-spur-growth",
+  "u": true
+ },
+ {
+  "n": "Roosters",
+  "m": [
+   "=roosters",
+   "roosters wings"
+  ],
+  "c": "corp",
+  "k": "Chicken",
+  "o": "Roosters (Ohio, private) — not confirmed",
+  "y": "",
+  "note": "Ohio-based wings chain; owner not confirmed.",
+  "src": "",
+  "u": true
+ },
+ {
+  "n": "Moby Dick House of Kabob",
+  "m": [
+   "moby dick"
+  ],
+  "c": "corp",
+  "k": "Mediterranean & Middle Eastern",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Multi-state Persian kebab chain; owner not confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Moby_Dick_House_of_Kabob",
+  "u": true
+ },
+ {
+  "n": "Back Yard Burgers",
+  "m": [
+   "backyard burger",
+   "back yard burger"
+  ],
+  "c": "corp",
+  "k": "Burgers",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Regional chain; owner not confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Back_Yard_Burgers",
+  "u": true
+ },
+ {
+  "n": "Biggby Coffee",
+  "m": [
+   "biggby"
+  ],
+  "c": "corp",
+  "k": "Coffee & café",
+  "o": "Biggby Coffee (private, Michigan)",
+  "y": "",
+  "note": "Privately held Michigan franchisor.",
+  "src": "https://en.wikipedia.org/wiki/Biggby_Coffee",
+  "u": false
+ },
+ {
+  "n": "sweetFrog",
+  "m": [
+   "sweetfrog"
+  ],
+  "c": "corp",
+  "k": "Ice cream & frozen",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Frozen-yogurt franchisor; owner not confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Sweet_Frog",
+  "u": true
+ },
+ {
+  "n": "Dog Haus",
+  "m": [
+   "dog haus"
+  ],
+  "c": "corp",
+  "k": "Burgers",
+  "o": "Dog Haus (private) — not confirmed",
+  "y": "",
+  "note": "Privately held California franchisor.",
+  "src": "",
+  "u": true
+ },
+ {
+  "n": "Corelife Eatery",
+  "m": [
+   "corelife"
+  ],
+  "c": "corp",
+  "k": "Other",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Multi-state bowls chain; owner not confirmed.",
+  "src": "",
+  "u": true
+ },
+ {
+  "n": "Mission BBQ",
+  "m": [
+   "mission barbeque",
+   "mission bbq"
+  ],
+  "c": "corp",
+  "k": "BBQ & Southern",
+  "o": "Mission BBQ (private)",
+  "y": "",
+  "note": "Privately held Maryland chain.",
+  "src": "https://en.wikipedia.org/wiki/Mission_BBQ",
+  "u": false
+ },
+ {
+  "n": "Mr Gatti's Pizza",
+  "m": [
+   "mr gattis"
+  ],
+  "c": "corp",
+  "k": "Pizza",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Texas-based franchisor; owner not confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Mr._Gatti%27s_Pizza",
+  "u": true
+ },
+ {
+  "n": "Duck Donuts",
+  "m": [
+   "duck donuts"
+  ],
+  "c": "corp",
+  "k": "Bakery & sweets",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "North Carolina franchisor; owner not confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Duck_Donuts",
+  "u": true
+ },
+ {
+  "n": "Gigi's Cupcakes",
+  "m": [
+   "gigis cupcakes"
+  ],
+  "c": "corp",
+  "k": "Bakery & sweets",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Nashville franchisor; owner not confirmed.",
+  "src": "",
+  "u": true
+ },
+ {
+  "n": "Salsarita's",
+  "m": [
+   "salsaritas"
+  ],
+  "c": "corp",
+  "k": "Mexican & Tex-Mex",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Charlotte-based franchisor; owner not confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Salsarita%27s_Fresh_Mexican_Grill",
+  "u": true
+ },
+ {
+  "n": "Metro Diner",
+  "m": [
+   "metro diner"
+  ],
+  "c": "corp",
+  "k": "Breakfast & brunch",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Florida-based chain; owner not confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Metro_Diner",
+  "u": true
+ },
+ {
+  "n": "Stoney River",
+  "m": [
+   "stoney river"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Regional steakhouse chain; owner not confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Stoney_River_Steakhouse_%26_Grill",
+  "u": true
+ },
+ {
+  "n": "Bravo Italian Kitchen",
+  "m": [
+   "=bravo",
+   "bravo italian kitchen",
+   "bravo cucina italiana"
+  ],
+  "c": "corp",
+  "k": "Italian",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Ohio-founded chain; owner after its sales and restructurings not confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Bravo_Brio_Restaurant_Group",
+  "u": true
+ },
+ {
+  "n": "Mitchell's Fish Market",
+  "m": [
+   "mitchells fish market"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Multi-state seafood chain; owner not confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Mitchell%27s_Fish_Market",
+  "u": true
+ },
+ {
+  "n": "Honey Baked Ham",
+  "m": [
+   "honey baked ham"
+  ],
+  "c": "corp",
+  "k": "Sandwiches & deli",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "National ham-and-café chain; owner not confirmed.",
+  "src": "https://en.wikipedia.org/wiki/HoneyBaked_Ham",
+  "u": true
+ },
+ {
+  "n": "Storming Crab",
+  "m": [
+   "storming crab"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Multi-state seafood-boil chain; owner not confirmed.",
+  "src": "",
+  "u": true
+ },
+ {
+  "n": "Peach Cobbler Factory",
+  "m": [
+   "the peach cobbler factory",
+   "peach cobbler factory"
+  ],
+  "c": "corp",
+  "k": "Bakery & sweets",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Nashville-based dessert franchisor; owner not confirmed.",
+  "src": "",
+  "u": true
+ },
+ {
+  "n": "Parlor Doughnuts",
+  "m": [
+   "parlor donuts",
+   "parlor doughnuts"
+  ],
+  "c": "corp",
+  "k": "Bakery & sweets",
+  "o": "Parlor Doughnuts (private, Evansville) — not confirmed",
+  "y": "",
+  "note": "Evansville, Indiana-based franchisor.",
+  "src": "",
+  "u": true
+ },
+ {
+  "n": "World of Beer",
+  "m": [
+   "world of beer"
+  ],
+  "c": "corp",
+  "k": "Bar & pub",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Florida-based taproom franchisor; owner not confirmed.",
+  "src": "https://en.wikipedia.org/wiki/World_of_Beer",
+  "u": true
+ },
+ {
+  "n": "Tiger Sugar",
+  "m": [
+   "tiger sugar"
+  ],
+  "c": "corp",
+  "k": "Coffee & café",
+  "o": "Tiger Sugar (Taiwan, private)",
+  "y": "",
+  "note": "International bubble-tea chain from Taiwan.",
+  "src": "https://en.wikipedia.org/wiki/Tiger_Sugar",
+  "u": false
+ },
+ {
+  "n": "The Eagle",
+  "m": [
+   "=the eagle"
+  ],
+  "c": "corp",
+  "k": "Chicken",
+  "o": "Thunderdome Restaurant Group (Cincinnati, private)",
+  "y": "2023",
+  "note": "The Oxmoor fried-chicken hall belongs to Cincinnati's Thunderdome Restaurant Group, founded by Joe and John Lanni and Alex Blust, which runs about 50 restaurants in several cities.",
+  "src": "https://www.wdrb.com/news/business/the-eagle-opens-in-oxmoor-center-for-restaurants-second-louisville-location/article_9a17e018-8972-11ee-9f3f-d78780a5c891.html",
+  "u": false
+ },
+ {
+  "n": "Mesh",
+  "m": [
+   "=mesh"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "Cunningham Restaurant Group (Indianapolis, private)",
+  "y": "",
+  "note": "Mesh is one of 18 brands in Indianapolis-based Cunningham Restaurant Group, which runs 44 restaurants in Indiana, Ohio and Kentucky.",
+  "src": "https://www.nrn.com/independent-restaurants/indianapolis-based-cunningham-restaurant-group-stresses-scratch-cooking-and-hospitality",
+  "u": false
+ },
+ {
+  "n": "Proof on Main",
+  "m": [
+   "proof on main"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "Accor (85% of 21c Museum Hotels)",
+  "y": "2018",
+  "note": "Proof on Main is the restaurant at 21c Museum Hotel Louisville. French hotel group Accor bought 85% of 21c for about $51m in 2018; founders Laura Lee Brown and Steve Wilson kept 15%.",
+  "src": "https://www.lpm.org/news/2018-07-31/21c-sold-to-accorhotels-for-51-million",
+  "u": false
+ },
+ {
+  "n": "Jeff Ruby's Steakhouse",
+  "m": [
+   "jeff rubys"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Jeff Ruby Culinary Entertainment (Ruby family, Cincinnati)",
+  "y": "",
+  "note": "Family-owned Cincinnati steakhouse group with locations in several cities.",
+  "src": "https://en.wikipedia.org/wiki/Jeff_Ruby_Steaks",
+  "u": false
+ },
+ {
+  "n": "Matt Winn's Steakhouse",
+  "m": [
+   "matt winns"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Churchill Downs Inc. (Nasdaq: CHDN)",
+  "y": "",
+  "note": "The steakhouse inside Churchill Downs racetrack, owned by Louisville-headquartered public company Churchill Downs Inc.",
+  "src": "https://en.wikipedia.org/wiki/Churchill_Downs_Incorporated",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "PBR Louisville",
+  "m": [
+   "=pbr",
+   "pbr louisville"
+  ],
+  "c": "corp",
+  "k": "Bar & pub",
+  "o": "The Cordish Companies (private)",
+  "y": "",
+  "note": "Part of Fourth Street Live!, the entertainment district developed and run by Baltimore's Cordish Companies.",
+  "src": "https://en.wikipedia.org/wiki/Fourth_Street_Live!",
+  "u": false
+ },
+ {
+  "n": "Maker's Mark Bourbon House & Lounge",
+  "m": [
+   "makers mark bourbon house"
+  ],
+  "c": "corp",
+  "k": "Bar & pub",
+  "o": "The Cordish Companies (operator) / Suntory Global Spirits (brand)",
+  "y": "",
+  "note": "Branded bar at Fourth Street Live!, the Cordish Companies' entertainment district.",
+  "src": "https://en.wikipedia.org/wiki/Fourth_Street_Live!",
+  "u": false
+ },
+ {
+  "n": "Howl at the Moon",
+  "m": [
+   "howl at the moon"
+  ],
+  "c": "corp",
+  "k": "Bar & pub",
+  "o": "Howl at the Moon (private, Chicago)",
+  "y": "",
+  "note": "Dueling-piano bar chain based in Chicago.",
+  "src": "https://en.wikipedia.org/wiki/Howl_at_the_Moon",
+  "u": false
+ },
+ {
+  "n": "Bob's Steak & Chop House",
+  "m": [
+   "bobs steak  chop house",
+   "bobs steak"
+  ],
+  "c": "corp",
+  "k": "Steak & seafood",
+  "o": "Bob's Steak & Chop House (Texas chain) at the Omni Louisville",
+  "y": "",
+  "note": "Dallas-born steakhouse chain, here inside the Omni Louisville Hotel. Ownership not individually confirmed.",
+  "src": "https://en.wikipedia.org/wiki/Omni_Hotels_%26_Resorts",
+  "u": false
+ },
+ {
+  "n": "Heine Brothers' Coffee",
+  "m": [
+   "heine brothers",
+   "heine brother"
+  ],
+  "c": "ind",
+  "k": "Coffee & café",
+  "o": "Co-founder Mike Mays",
+  "y": "1994",
+  "note": "Founded in Louisville in 1994 by Gary Heine and Mike Mays. Mays bought out Heine in 2011 and merged it with local chain Vint; we found no outside investor.",
+  "src": "https://wfpl.org/heine-brothers-vint-coffee-merging/",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Biscuit Belly",
+  "m": [
+   "biscuit belly"
+  ],
+  "c": "ind",
+  "k": "Breakfast & brunch",
+  "o": "Founders Chad & Lauren Coulter, plus private investors",
+  "y": "2019",
+  "note": "Founded in Louisville in 2019. It has raised money from individual investors, some local, and says it is not private equity backed. It franchises, and in 2025 bought about 35 Maple Street Biscuit stores from Cracker Barrel.",
+  "src": "https://www.wdrb.com/news/business/biscuit-belly-plans-to-grow-to-60-stores-by-2028-after-34-store-acquisition/article_513cc1f3-5cb0-47af-b8ca-dc05ca58da4c.html",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "LouVino",
+  "m": [
+   "louvino"
+  ],
+  "c": "ind",
+  "k": "Bar & pub",
+  "o": "Endeavor Restaurant Group (Steve & Melissa Ritchie)",
+  "y": "2020",
+  "note": "Founded in the Highlands in 2014 by Chad and Lauren Coulter, LouVino was bought in 2020 by Endeavor Restaurant Group, the Louisville company of former Papa John's CEO Steve Ritchie and his wife Melissa.",
+  "src": "https://www.wdrb.com/news/former-papa-johns-president-buys-louvino-restaurant-and-wine-bar-chain/article_03a6332a-456c-11eb-a6e5-ef4e2464f58a.html",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Joella's Hot Chicken",
+  "m": [
+   "joellas"
+  ],
+  "c": "ind",
+  "k": "Chicken",
+  "o": "Schulte Restaurant Group (Louisville)",
+  "y": "2018",
+  "note": "Started in Louisville in 2015 by Tony Palombino's EAP Restaurant Concepts, then sold in 2018 to Schulte Restaurant Group, which is based in Louisville.",
+  "src": "https://en.wikipedia.org/wiki/Joella%27s_Hot_Chicken",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Doc Crow's",
+  "m": [
+   "doc crows"
+  ],
+  "c": "ind",
+  "k": "BBQ & Southern",
+  "o": "Not confirmed (listed as Schulte Restaurant Group; a state filing names Bertuca Hospitality Group)",
+  "y": "",
+  "note": "Whiskey Row smokehouse. A job listing names Louisville's Schulte Restaurant Group as the owner, while a Kentucky ABC filing names Bertuca Hospitality Group as the operator.",
+  "src": "https://hcareers.com/schulte-restaurant-group",
+  "hq": true,
+  "u": true
+ },
+ {
+  "n": "BoomBozz Pizza & Taphouse",
+  "m": [
+   "boombozz"
+  ],
+  "c": "ind",
+  "k": "Pizza",
+  "o": "EAP Restaurant Concepts (Tony Palombino)",
+  "y": "",
+  "note": "Louisville-born pizza and taphouse brand from Tony Palombino's EAP Restaurant Concepts, which also started Joella's.",
+  "src": "https://www.restaurantbusinessonline.com/joellas-hot-chicken-plans-expansion",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Merle's Whiskey Kitchen",
+  "m": [
+   "merles whiskey",
+   "merlle"
+  ],
+  "c": "ind",
+  "k": "BBQ & Southern",
+  "o": "EAP Restaurant Concepts (Tony Palombino)",
+  "y": "",
+  "note": "Formerly Manny & Merle, the Main Street bar where Joella's hot chicken started. Part of Tony Palombino's Louisville group.",
+  "src": "https://www.restaurantbusinessonline.com/joellas-hot-chicken-plans-expansion",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Martini Italian Bistro",
+  "m": [
+   "martini italian"
+  ],
+  "c": "ind",
+  "k": "Italian",
+  "o": "Jim Davis",
+  "y": "",
+  "note": "Opened by Columbus restaurateur Cameron Mitchell. Its manager Jim Davis later took ownership, and the Paddock Shops lists it as locally owned.",
+  "src": "https://www.bbb.org/us/ky/louisville/profile/restaurants/martini-italian-bistro-0402-23003643",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Bearno's Pizza",
+  "m": [
+   "bearnos"
+  ],
+  "c": "ind",
+  "k": "Pizza",
+  "o": "Bearno's Inc. (Louisville)",
+  "y": "1977",
+  "note": "Louisville pizza chain run by Bearno's Inc.; president Rob Mooney's family opened the first one.",
+  "src": "https://en.wikipedia.org/wiki/Bearno%27s",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Malone's",
+  "m": [
+   "=malones",
+   "malones and harrys",
+   "malones prime",
+   "malones steak"
+  ],
+  "c": "ind",
+  "k": "Steak & seafood",
+  "o": "Bluegrass Hospitality Group (founders Bruce Drake & Brian McCarty)",
+  "y": "1998",
+  "note": "Lexington's Bluegrass Hospitality Group, which also runs Drake's, Harry's and Aqua Sushi, is privately held by its two co-founders; we found no outside investors.",
+  "src": "https://bluegrasshospitality.com/about",
+  "u": false
+ },
+ {
+  "n": "Drake's",
+  "m": [
+   "=drakes"
+  ],
+  "c": "ind",
+  "k": "Bar & pub",
+  "o": "Bluegrass Hospitality Group (founders Bruce Drake & Brian McCarty)",
+  "y": "2007",
+  "note": "Part of Lexington's founder-owned Bluegrass Hospitality Group.",
+  "src": "https://bluegrasshospitality.com/about",
+  "u": false
+ },
+ {
+  "n": "Aqua Sushi",
+  "m": [
+   "aqua sushi"
+  ],
+  "c": "ind",
+  "k": "Asian",
+  "o": "Bluegrass Hospitality Group (founders Bruce Drake & Brian McCarty)",
+  "y": "",
+  "note": "Part of Lexington's founder-owned Bluegrass Hospitality Group.",
+  "src": "https://bluegrasshospitality.com/about",
+  "u": false
+ },
+ {
+  "n": "The Comfy Cow",
+  "m": [
+   "the comfy cow",
+   "comfy cow"
+  ],
+  "c": "ind",
+  "k": "Ice cream & frozen",
+  "o": "A Louisville investor (name not confirmed)",
+  "y": "",
+  "note": "Founded in 2009 by Tim Koons-McGee. The founders later sold their remaining stake, reportedly to a Louisville investor.",
+  "src": "https://www.whas11.com/article/money/comfy-cow-sold-to-louisville-investor/417-519681525",
+  "hq": true,
+  "u": true
+ },
+ {
+  "n": "Tumbleweed Tex Mex Grill",
+  "m": [
+   "tumbleweed"
+  ],
+  "c": "ind",
+  "k": "Mexican & Tex-Mex",
+  "o": "Louisville-based; current owners not confirmed",
+  "y": "",
+  "note": "Founded in 1975 in New Albany, Indiana, and headquartered in Louisville. It came out of Chapter 11 in 2010 under new owners whom we couldn't confirm.",
+  "src": "https://en.wikipedia.org/wiki/Tumbleweed_Tex_Mex_Grill_%26_Margarita_Bar",
+  "hq": true,
+  "u": true
+ },
+ {
+  "n": "Jaggers",
+  "m": [
+   "jaggers",
+   "jagggers"
+  ],
+  "c": "corp",
+  "k": "Burgers",
+  "o": "Texas Roadhouse, Inc. (Nasdaq: TXRH)",
+  "y": "2014",
+  "note": "Jaggers is the fast-casual burger and chicken chain of Louisville-headquartered Texas Roadhouse, founded by Kent Taylor.",
+  "src": "https://www.thetakeout.com/2284557/texas-roadhouse-jaggers-sister-chain-explained/",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "CM Chicken",
+  "m": [
+   "cm chicken"
+  ],
+  "c": "corp",
+  "k": "Chicken",
+  "o": "Choongman Chicken Corp. (South Korea) — owners not confirmed",
+  "y": "",
+  "note": "Korean fried-chicken franchise that started in South Korea in 2009.",
+  "src": "",
+  "u": true
+ },
+ {
+  "n": "Bayt Al Mocha",
+  "m": [
+   "bayt al mocha"
+  ],
+  "c": "corp",
+  "k": "Coffee & café",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Yemeni coffee house chain with locations in several states; owner not confirmed.",
+  "src": "",
+  "u": true
+ },
+ {
+  "c": "corp",
+  "y": "",
+  "src": "https://en.wikipedia.org/wiki/John_Currence",
+  "u": true,
+  "n": "Big Bad Breakfast",
+  "m": [
+   "big bad breakfast"
+  ],
+  "k": "Breakfast & brunch",
+  "o": "City Grocery Restaurant Group (chef John Currence, Oxford, Mississippi)",
+  "note": "Chef John Currence's Mississippi-based breakfast chain, which grows through company-run locations and local partners rather than franchising."
+ },
+ {
+  "c": "corp",
+  "y": "",
+  "src": "",
+  "u": true,
+  "n": "Martin's Bar-B-Q Joint",
+  "m": [
+   "martins bar b q",
+   "martins bbq"
+  ],
+  "k": "BBQ & Southern",
+  "o": "Martin's Bar-B-Q Joint (Nashville, private) — not confirmed",
+  "note": "Nashville-founded barbecue chain; owner not confirmed."
+ },
+ {
+  "c": "corp",
+  "y": "",
+  "src": "",
+  "u": true,
+  "n": "Wing Zone",
+  "m": [
+   "the wing zone",
+   "wing zone"
+  ],
+  "k": "Chicken",
+  "o": "Not confirmed",
+  "note": "Multi-state wings franchisor; owner not confirmed."
+ },
+ {
+  "c": "corp",
+  "y": "",
+  "src": "",
+  "u": true,
+  "n": "Rapid Fired Pizza",
+  "m": [
+   "rapid fired pizza"
+  ],
+  "k": "Pizza",
+  "o": "Not confirmed",
+  "note": "Ohio-based pizza franchisor; owner not confirmed."
+ },
+ {
+  "c": "corp",
+  "y": "",
+  "src": "",
+  "u": true,
+  "n": "The Simple Greek",
+  "m": [
+   "the simple greek",
+   "simple greek"
+  ],
+  "k": "Mediterranean & Middle Eastern",
+  "o": "Not confirmed",
+  "note": "Pittsburgh-based fast-casual franchisor; owner not confirmed."
+ },
+ {
+  "c": "corp",
+  "y": "",
+  "src": "",
+  "u": true,
+  "n": "Upland Brewing",
+  "m": [
+   "=upland",
+   "upland jeffersonville",
+   "upland brewing"
+  ],
+  "k": "Bar & pub",
+  "o": "Upland Brewing Co. (Bloomington, Indiana) — not confirmed",
+  "note": "Brewpub of an Indiana craft brewery based outside the Louisville area."
+ },
+ {
+  "c": "corp",
+  "y": "",
+  "src": "",
+  "u": true,
+  "n": "The Sports & Social Club",
+  "m": [
+   "the sports and social club",
+   "sports and social club"
+  ],
+  "k": "Bar & pub",
+  "o": "The Cordish Companies (private)",
+  "note": "Sports-bar brand of Baltimore-based Cordish Companies, which also runs Fourth Street Live!."
+ },
+ {
+  "c": "corp",
+  "y": "",
+  "src": "",
+  "u": true,
+  "n": "Hotel restaurant",
+  "m": [
+   "the bistro at the courtyard",
+   "great american grill"
+  ],
+  "k": "American",
+  "o": "Hotel restaurant (chain-branded hotel) — owner not confirmed",
+  "note": "In-house restaurant of a chain-branded hotel. The hotel brand and the property owner are usually different companies."
+ },
+ {
+  "n": "Extreme Pita",
+  "m": [
+   "extreme pita"
+  ],
+  "c": "corp",
+  "k": "Mediterranean & Middle Eastern",
+  "o": "Not confirmed (Canadian franchisor)",
+  "y": "",
+  "note": "Canadian pita franchisor; current owner not confirmed.",
+  "src": "",
+  "u": true
+ },
+ {
+  "n": "Please & Thank You",
+  "m": [
+   "please thank you",
+   "please and thank you"
+  ],
+  "c": "ind",
+  "k": "Coffee & café",
+  "o": "Wild Eggs founders J.D. Rothberg & Shane Hall, with Good Folks Coffee owners Matt Argo & Zach Hensley",
+  "y": "2026",
+  "note": "The Louisville coffee and cookie shop was bought in 2026 by four local owners: the founders of Wild Eggs and the owners of Good Folks Coffee.",
+  "src": "https://www.whas11.com/article/news/local/louisvilles-please-thank-you-acquired-by-wild-eggs-founders-and-good-folks-coffee-owners-coffee-louisville/417-36f8832e-4f5d-4d7d-a70e-e18544652dfc",
+  "hq": true
+ }
+]
