@@ -1,4 +1,4 @@
-# Louisville Food Money Matrix
+# Louisville Eat Local
 
 A map of about 1,600 Louisville-area restaurants, coffee shops and bars, showing who owns each one: private equity, a big corporation, or a local independent. Open a PE-backed or corporate spot and it suggests three independents nearby.
 
