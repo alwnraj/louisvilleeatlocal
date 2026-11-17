@@ -16,12 +16,14 @@ It's deployed on Vercel as a static site: every push to `main` redeploys it.
 
 ## Files
 
-- `index.html`: the page (MapLibre GL 4.7.1 with OpenFreeMap tiles, restyled).
-- `places.js`: generated data. Don't edit it by hand.
+- `index.html`: the page (MapLibre GL 4.7.1 with OpenFreeMap tiles, restyled). The list renders first; the map library loads right after the first paint.
+- `places.<hash>.js`: generated data, named by content hash so it can be cached forever. Don't edit it by hand.
+- `vendor/maplibre-gl-4.7.1/`: MapLibre GL JS and CSS (BSD-3-Clause, see LICENSE.txt), served from the site's own domain.
+- `vercel.json` / `.vercelignore`: long-lived caching for hashed and vendored files; `data/`, `scripts/` and this README aren't deployed.
 - `data/brands.json`: the research, with one record per chain or restaurant group: owner, year, note and source URL. `u: true` marks an owner we couldn't confirm.
 - `data/liba-members.txt`: the Louisville Independent Business Alliance's Food & Drink members, read from keeplouisvilleweird.com/directory in November 2026. Places that match a member are marked "Confirmed local". LIBA only admits businesses that are majority-owned by Louisville-area residents, headquartered locally, privately held and not franchises.
 - `data/osm-raw.json`: the OpenStreetMap export (Overpass, November 2026, bounding box 37.99,-85.96 to 38.39,-85.40).
-- `scripts/build.py`: matches OSM places to brands by name, drops stadium stalls and junk rows, merges duplicates, assigns neighborhoods, checks the data and writes `places.js`.
+- `scripts/build.py`: matches OSM places to brands by name, drops stadium stalls and junk rows, merges duplicates, assigns neighborhoods, checks the data, writes `places.<hash>.js` and points `index.html` at it.
 
 ```bash
 python3 -I scripts/build.py

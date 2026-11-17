@@ -7,8 +7,13 @@
 <meta name="description" content="Who really owns Louisville's restaurants, coffee shops and bars? Check whether a place is private equity–backed or corporate before you go, and find an independent spot nearby.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet">
+<link rel="preconnect" href="https://tiles.openfreemap.org" crossorigin>
+<!-- Start the map's critical requests right away; none of them block the first paint -->
+<link rel="preload" href="vendor/maplibre-gl-4.7.1/maplibre-gl.js" as="script">
+<link rel="preload" href="https://tiles.openfreemap.org/styles/positron" as="fetch" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<link href="vendor/maplibre-gl-4.7.1/maplibre-gl.css" rel="stylesheet" media="print" onload="this.media='all'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet"></noscript>
 <style>
 :root{
   --paper:#F6F0E4; --paper-2:#EFE6D4; --card:#FFFDF8; --ink:#1E1C19; --ink-2:#55504A; --ink-3:#8A837A; --line:#E2D7C3;
@@ -225,8 +230,7 @@ dialog .close{position:absolute;right:14px;top:14px;width:32px;height:32px;borde
   <p>Map data © OpenStreetMap contributors (ODbL). Tiles: OpenFreeMap / OpenMapTiles.</p>
 </dialog>
 
-<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
-<script src="places.js"></script>
+<script src="places.2c197a1606.js"></script>
 <script>
 "use strict";
 const CATS = {
@@ -384,11 +388,9 @@ new IntersectionObserver(([e]) => $("controls").classList.toggle("stuck", !e.isI
 /* ---------- map ---------- */
 const BOUNDS = [[-85.98, 37.97], [-85.38, 38.41]];
 const START = () => isMobile() ? {center:[-85.705, 38.232], zoom:10.2} : {center:[-85.68, 38.225], zoom:10.9};
-const map = new maplibregl.Map({
-  container:"map", style:{version:8, sources:{}, layers:[{id:"bg", type:"background", paint:{"background-color":"#F3ECDD"}}]},
-  ...START(), minZoom:9.3, maxZoom:18, maxBounds:BOUNDS, attributionControl:{compact:true}, dragRotate:false, pitchWithRotate:false,
-});
-map.touchZoomRotate.disableRotation();
+const STYLE_URL = "https://tiles.openfreemap.org/styles/positron";
+const STYLE = fetch(STYLE_URL).then(r => r.json());   // preloaded in <head>, so this resolves from cache
+let map = null;
 const PAL = {land:"#F3ECDD", park:"#D3E7C8", wood:"#DCEBD3", water:"#BCD2E8", road:"#FFFFFF", casing:"#E6D9C3", minor:"#FBF6EC",
   rail:"#DCCDB6", bldg:"#E9DDC8", label:"#6C665E", hood:"#9C9388", water_label:"#5D7EA6"};
 function restyle(st){
@@ -434,10 +436,9 @@ function applyMapFilter(){
   map.setFilter("pins", ["in", ["get","i"], ids]);
   map.setFilter("pins-dim", ["!", ["in", ["get","i"], ids]]);
 }
-let ready = false, styled = false;
-map.on("style.load", () => {
-    // the placeholder style fires style.load too; wait for the real basemap
-    if (!styled || ready) return;
+let ready = false;
+function onBasemap(){
+    if (ready) return;
     ORDER.forEach(k => map.addImage("pin-" + k, pinImage(k), {pixelRatio:2}));
     map.addSource("places", {type:"geojson", data:GEO});
     const col = ["match", ["get","c"], "pe", CATS.pe.color, "corp", CATS.corp.color, CATS.ind.color];
@@ -454,11 +455,8 @@ map.on("style.load", () => {
     ready = true;
     applyMapFilter();
     if (selected !== null) select(selected, false, true);
-});
-fetch("https://tiles.openfreemap.org/styles/positron").then(r => r.json()).then(st => {
-  styled = true;
-  map.setStyle(restyle(st), {diff:false});
-}).catch(() => $("map").insertAdjacentHTML("beforeend", `<p style="position:absolute;left:16px;bottom:16px;font-size:13px;color:#55504A">The map tiles didn't load. The list still works.</p>`));
+}
+const mapError = () => $("map").insertAdjacentHTML("beforeend", `<p style="position:absolute;left:16px;bottom:16px;font-size:13px;color:#55504A">The map didn't load. The list still works.</p>`);
 
 /* landmarks: small drawings that sit on their real spots */
 const LANDMARKS = [
@@ -468,16 +466,15 @@ const LANDMARKS = [
   {name:"KFC Yum! Center", ll:[38.2575,-85.7543], svg:`<path class="ink" d="M-14 0 Q-14 -14 0 -15 Q14 -14 14 0Z" fill="#E9DDC8"/><path d="M-10 -4 H10" stroke="#1E1C19" stroke-width=".7"/>`},
   {name:"Cardinal Stadium", ll:[38.2058,-85.7590], svg:`<ellipse class="ink" cx="0" cy="-5" rx="15" ry="6" fill="#E9DDC8"/><ellipse cx="0" cy="-5" rx="9" ry="3" fill="#9CC79B"/>`},
 ];
-LANDMARKS.forEach(m => {
+function addLandmarks(){ LANDMARKS.forEach(m => {
   const box = document.createElement("div");
   box.innerHTML = `<svg class="lmk" viewBox="-40 -40 80 52" width="80" height="52"><g class="art">${m.svg}</g><text y="10">${esc(m.name)}</text></svg>`;
   box.style.pointerEvents = "none";
   box.querySelectorAll(".ink").forEach(el => { el.setAttribute("stroke","#1E1C19"); el.setAttribute("stroke-width","1.1"); el.setAttribute("stroke-linejoin","round"); });
   m.el = box.firstChild;
   m.mk = new maplibregl.Marker({element:box, anchor:"bottom", offset:[0,10]}).setLngLat([m.ll[1], m.ll[0]]).addTo(map);
-});
+}); }
 function sizeLandmarks(){ const z = map.getZoom(); LANDMARKS.forEach(m => { m.el.style.opacity = z < 11.4 ? 0 : 1; }); }
-map.on("zoom", sizeLandmarks); sizeLandmarks();
 
 const coarse = matchMedia("(pointer:coarse)").matches;
 function pinAt(pt, R){
@@ -487,15 +484,36 @@ function pinAt(pt, R){
   for (const f of fs) { const q = map.project(f.geometry.coordinates), d = (q.x-pt.x)**2 + (q.y-pt.y)**2; if (d < bd) { bd = d; best = f; } }
   return best ? P[best.properties.i] : null;
 }
-map.on("click", e => { const p = pinAt(e.point, coarse ? 20 : 11); if (p) select(p.i, false); else if (selected !== null) select(null); });
-$("zin").onclick = () => map.zoomIn({duration:300});
-$("zout").onclick = () => map.zoomOut({duration:300});
-$("zreset").onclick = () => { select(null); map.flyTo({...START(), duration:900}); };
+$("zin").onclick = () => map && map.zoomIn({duration:300});
+$("zout").onclick = () => map && map.zoomOut({duration:300});
+$("zreset").onclick = () => { select(null); map && map.flyTo({...START(), duration:900}); };
 function fitVisible(){
+  if (!map) return;
   const vis = P.filter(visible); if (!vis.length) return;
   if (vis.length === 1) { map.flyTo({center:[vis[0].ll[1], vis[0].ll[0]], zoom:15}); return; }
   const b = new maplibregl.LngLatBounds(); vis.forEach(p => b.extend([p.ll[1], p.ll[0]]));
   map.fitBounds(b, {padding:isMobile() ? 40 : 70, maxZoom:15, duration:800});
+}
+
+function initMap(){
+  map = new maplibregl.Map({
+    container:"map", style:{version:8, sources:{}, layers:[{id:"bg", type:"background", paint:{"background-color":PAL.land}}]},
+    ...START(), minZoom:9.3, maxZoom:18, maxBounds:BOUNDS, attributionControl:{compact:true}, dragRotate:false, pitchWithRotate:false,
+    pixelRatio:Math.min(window.devicePixelRatio || 1, 2),   // 3x phone screens cost a lot of GPU for little gain on a map
+    fadeDuration:0,
+  });
+  map.touchZoomRotate.disableRotation();
+  addLandmarks();
+  map.on("zoom", sizeLandmarks); sizeLandmarks();
+  map.on("click", e => { const p = pinAt(e.point, coarse ? 20 : 11); if (p) select(p.i, false); else if (selected !== null) select(null); });
+  STYLE.then(st => { map.once("style.load", onBasemap); map.setStyle(restyle(st), {diff:false}); }).catch(mapError);
+  if (selected !== null) select(selected, false, true);
+}
+function loadMapLibrary(){
+  const s = document.createElement("script");
+  s.src = "vendor/maplibre-gl-4.7.1/maplibre-gl.js";
+  s.onload = initMap; s.onerror = mapError;
+  document.head.appendChild(s);
 }
 
 /* ---------- nearby independents ---------- */
@@ -555,6 +573,7 @@ function select(i, fly = false, quiet = false){
   if (ready) map.setFilter("sel", ["==", ["get","i"], i]);
   showCard(p);
   history.replaceState(null, "", "#" + p.id);
+  if (!map) return;   // the map catches up with the selection when it loads
   const pad = isMobile() ? {top:20, bottom:$("mapwrap").clientHeight*.62, left:20, right:20} : {top:40, bottom:40, left:40, right:380};
   if (fly || quiet) {
     map.flyTo({center:[p.ll[1], p.ll[0]], zoom:Math.max(map.getZoom(), 14.5), padding:pad, duration:quiet ? 0 : 900});
@@ -577,6 +596,8 @@ $("aboutBtn").onclick = $("info").onclick = () => $("about").showModal();
 renderList();
 const h0 = decodeURIComponent(location.hash.slice(1));
 if (h0) { const p = P.find(x => x.id === h0); if (p) select(p.i, false, true); }
+// Let the list and stats paint first, then fetch and start the map
+requestAnimationFrame(() => setTimeout(loadMapLibrary, 0));
 </script>
 </body>
 </html>
