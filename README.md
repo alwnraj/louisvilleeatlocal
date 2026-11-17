@@ -22,7 +22,7 @@ It's deployed on Vercel as a static site: every push to `main` redeploys it.
 - `vercel.json` / `.vercelignore`: long-lived caching for hashed and vendored files; `data/`, `scripts/` and this README aren't deployed.
 - `data/brands.json`: the research, with one record per chain or restaurant group: owner, year, note and source URL. `u: true` marks an owner we couldn't confirm.
 - `data/liba-members.txt`: the Louisville Independent Business Alliance's Food & Drink members, read from keeplouisvilleweird.com/directory in November 2026. Places that match a member are marked "Confirmed local". LIBA only admits businesses that are majority-owned by Louisville-area residents, headquartered locally, privately held and not franchises.
-- `data/osm-raw.json`: the OpenStreetMap export (Overpass, November 2026, bounding box 37.99,-85.96 to 38.39,-85.40).
+- `data/osm-raw.json`: the OpenStreetMap export with edit metadata (Overpass, data as of 2026-11-17 14:49 UTC, bounding box 37.99,-85.96 to 38.39,-85.40). Each card shows the year its entry was last edited.
 - `scripts/build.py`: matches OSM places to brands by name, drops stadium stalls and junk rows, merges duplicates, assigns neighborhoods, checks the data, writes `places.<hash>.js` and points `index.html` at it.
 
 ```bash

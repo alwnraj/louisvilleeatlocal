@@ -1,7 +1,7 @@
 """Build places.js from OpenStreetMap places + the researched brand table.
 
 Run:  python3 -I scripts/build.py   (from the louisville-food-money-matrix folder)
-Input:  data/osm-raw.json  (Overpass export, Louisville area bounding box)
+Input:  data/osm-raw.json  (Overpass export with edit metadata, Louisville area bounding box)
         data/brands.json   (researched owners, one record per brand)
 Output: places.<hash>.js   (window.BRANDS + window.PLACES), and index.html is updated to load it
 """
@@ -214,6 +214,7 @@ def main():
             "b": bi if bi is not None else -1,
             "_key": f"b{bi}" if bi is not None else n,
             "_addr": norm(street),
+            "e": int(e["timestamp"][:4]) if e.get("timestamp") else None,   # year the OSM entry was last edited
         })
 
     # Merge duplicates: OSM often maps one place twice (a point and a building). Same brand/name within 120 m counts
@@ -223,7 +224,9 @@ def main():
         return not (o["_addr"] and r["_addr"] and o["_addr"] != r["_addr"])
     out = []
     for r in rows:
-        if any(same_place(o, r) for o in out):
+        twin = next((o for o in out if same_place(o, r)), None)
+        if twin:
+            twin["e"] = max(filter(None, [twin["e"], r["e"]]), default=None)
             dropped["duplicate"] += 1; continue
         out.append(r)
     # Merge spelling variants of the same unbranded place (e.g. "Zeggz" / "ZEGGZ Amazing Eggs")
