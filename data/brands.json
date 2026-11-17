@@ -2435,11 +2435,16 @@
   "n": "Hotel restaurant",
   "m": [
    "the bistro at the courtyard",
-   "great american grill"
+   "great american grill",
+   "charrd bourbon kitchen",
+   "porch kitchen",
+   "repeal oak fired",
+   "=sway",
+   "8up elevated"
   ],
   "k": "American",
   "o": "Hotel restaurant (chain-branded hotel) — owner not confirmed",
-  "note": "In-house restaurant of a chain-branded hotel. The hotel brand and the property owner are usually different companies."
+  "note": "In-house restaurant of a chain-branded hotel (such as a Marriott, Hilton or Hyatt property). The hotel brand and the property owner are usually different companies; this one’s owner isn’t confirmed."
  },
  {
   "n": "Extreme Pita",
@@ -2467,5 +2472,462 @@
   "note": "The Louisville coffee and cookie shop was bought in 2026 by four local owners: the founders of Wild Eggs and the owners of Good Folks Coffee.",
   "src": "https://www.whas11.com/article/news/local/louisvilles-please-thank-you-acquired-by-wild-eggs-founders-and-good-folks-coffee-owners-coffee-louisville/417-36f8832e-4f5d-4d7d-a70e-e18544652dfc",
   "hq": true
+ },
+ {
+  "n": "Rivue",
+  "m": [
+   "rivue",
+   "al js at the conservatory"
+  ],
+  "c": "ind",
+  "k": "American",
+  "o": "Al J. Schneider Co. (Louisville, owner of the Galt House)",
+  "y": "",
+  "note": "Restaurants inside the Galt House, which is owned by the Louisville-based Al J. Schneider Co., the family company founded by developer Al J. Schneider.",
+  "src": "https://www.hotel-online.com/index.php/news/al-j-schneider-co-signs-louisvilles-galt-house-hotel-to-be-part-of-trademar",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Jack Fry's",
+  "m": [
+   "jack frys"
+  ],
+  "c": "ind",
+  "k": "American",
+  "o": "Stephanie Meeks",
+  "y": "2008",
+  "note": "The 1933 Highlands institution was bought in 2008 by Stephanie Meeks, who had worked her way up from host to manager there.",
+  "src": "https://www.nrn.com/archive/jack-fry-s-gm-turned-owner-tedious-sale-process-was-worth-it",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Quills Coffee",
+  "m": [
+   "quills"
+  ],
+  "c": "ind",
+  "k": "Coffee & café",
+  "o": "Founders Nathan & Gabe Quillo and partners",
+  "y": "2007",
+  "note": "Founded in Louisville in 2007 by brothers Nathan and Gabe Quillo. In January 2024 it announced a strategic partnership with Soterra Capital, an Austin- and Louisville-based investment and advisory firm; the terms weren’t disclosed.",
+  "src": "https://quillscoffee.com/pages/about-us?view=jtown",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Captain's Quarters",
+  "m": [
+   "captains quarters"
+  ],
+  "c": "ind",
+  "k": "Steak & seafood",
+  "o": "Masterson family",
+  "y": "1987",
+  "note": "The riverside restaurant in Prospect has been owned by the Masterson family since 1987.",
+  "src": "https://captainsquarters.pages.dev/our-history",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Mark's Feed Store",
+  "m": [
+   "marks feed store"
+  ],
+  "c": "ind",
+  "k": "BBQ & Southern",
+  "o": "Founder Mark Erwin (locally owned)",
+  "y": "1988",
+  "note": "Louisville barbecue chain founded in 1988 by Mark Erwin.",
+  "src": "https://gfs.com/en-us/ideas/customer-spotlight-marks-feed-store-keeps-customers-coming-back/",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Royals Hot Chicken",
+  "m": [
+   "royals hot chicken"
+  ],
+  "c": "ind",
+  "k": "Chicken",
+  "o": "Ryan Rogers (HiCotton Hospitality)",
+  "y": "2015",
+  "note": "Founded in NuLu in 2015 by Ryan Rogers, whose HiCotton Hospitality also started Feast BBQ.",
+  "src": "https://www.fastcasual.com/articles/2019-perfect-pitch-winner-best-fried-chicken-in-the-land-of-fried-chicken",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Coffee Crossing",
+  "m": [
+   "coffee crossing"
+  ],
+  "c": "ind",
+  "k": "Coffee & café",
+  "o": "Family-owned (Southern Indiana)",
+  "y": "",
+  "note": "Family-run Southern Indiana coffee chain with about seven local shops; the owner’s daughters and son-in-law work in the business.",
+  "src": "https://iushorizon.com/23413/coffee/brewing-and-booming",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Parlour",
+  "m": [
+   "parlour"
+  ],
+  "c": "ind",
+  "k": "Pizza",
+  "o": "Don Robinson (Jeffersonville)",
+  "y": "",
+  "note": "Craft pizza-and-beer chain started in Jeffersonville, Indiana, and owned by its president Don Robinson.",
+  "src": "https://www.pizzamarketplace.com/articles/parlour-fits-niche-in-region-lacking-craft-concepts",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Shiraz Mediterranean Grill",
+  "m": [
+   "shiraz mediterranean",
+   "shiraz mediterranead"
+  ],
+  "c": "ind",
+  "k": "Mediterranean & Middle Eastern",
+  "o": "Akrami family",
+  "y": "",
+  "note": "Louisville Persian–Mediterranean chain run by the Akrami family; Ramin Akrami’s father was a well-known caterer in the city’s Iranian community.",
+  "src": "https://www.louisvillehotbytes.com/?p=210",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Bluegrass Brewing Company",
+  "m": [
+   "bluegrass brewing"
+  ],
+  "c": "ind",
+  "k": "Bar & pub",
+  "o": "Pat Hagan (Louisville)",
+  "y": "1993",
+  "note": "Louisville brewpub founded in 1993; WDRB names Pat Hagan as owner.",
+  "src": "https://www.wdrb.com/news/bluegrass-brewing-company-opens-new-restaurant-in-downtown-louisville/article_9d25808d-2559-5af9-ab99-728ef2b2ca70.html",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Con Huevos",
+  "m": [
+   "con huevos"
+  ],
+  "c": "ind",
+  "k": "Breakfast & brunch",
+  "o": "Jesús Martínez & Izmene Peredo Martínez",
+  "y": "2015",
+  "note": "The couple, who moved to Louisville from Guadalajara, opened the first Con Huevos on Frankfort Avenue in 2015 and now run several Louisville locations.",
+  "src": "https://www.lpm.org/news/2025-07-16/con-huevos-owners-celebrate-10-years-since-opening-first-location",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Hammerheads",
+  "m": [
+   "hammerheads",
+   "loop22",
+   "loop 22"
+  ],
+  "c": "ind",
+  "k": "BBQ & Southern",
+  "o": "Adam Burress & Chase Mucerino",
+  "y": "2010",
+  "note": "The Germantown basement smokehouse opened in 2010; its owners also run Loop 22.",
+  "src": "https://www.wdrb.com/news/business/owners-of-hammerheads-plans-new-restaurant-in-louisvilles-shelby-park-neighborhood/article_b8489bad-6522-449c-b586-d8139894accb.html",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Le Moo",
+  "m": [
+   "le moo",
+   "grassa gramma",
+   "sake a go go",
+   "sake a gogo",
+   "village anchor"
+  ],
+  "c": "ind",
+  "k": "Steak & seafood",
+  "o": "Belle Noble Entertainment Group (Kevin Grangier)",
+  "y": "",
+  "note": "Part of Kevin Grangier’s privately held Louisville group Belle Noble Entertainment, which also runs Grassa Gramma, Village Anchor and Sake A Gogo.",
+  "src": "https://www.voice-tribune.com/post/branding-restaurants-and-building-experiences-a-conversation-with-kevin-grangier",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Seviche",
+  "m": [
+   "seviche"
+  ],
+  "c": "ind",
+  "k": "Mexican & Tex-Mex",
+  "o": "Chef-owner Anthony Lamas",
+  "y": "",
+  "note": "Latin restaurant run by chef-owner Anthony Lamas, a James Beard semifinalist.",
+  "src": "https://www.indianapolismonthly.com/food-and-drinks/dining/destination-dining-seviche/",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Haymarket Whiskey Bar",
+  "m": [
+   "haymarket"
+  ],
+  "c": "ind",
+  "k": "Bar & pub",
+  "o": "Matthew Landan",
+  "y": "",
+  "note": "Whiskey bar owned by Matthew Landan. One listing shows it permanently closed.",
+  "src": "https://whiskeyreviewer.com/?p=4810",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "The Silver Dollar",
+  "m": [
+   "the silver dollar",
+   "silver dollar"
+  ],
+  "c": "ind",
+  "k": "Bar & pub",
+  "o": "Larry Rice",
+  "y": "",
+  "note": "Clifton honky-tonk bar owned by Louisville bar owner Larry Rice.",
+  "src": "https://gardenandgun.com/larry-rice-old-treasure",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Garage Bar",
+  "m": [
+   "garage bar",
+   "=taj",
+   "the taj"
+  ],
+  "c": "ind",
+  "k": "Pizza",
+  "o": "Todd Moore",
+  "y": "2025",
+  "note": "21c founders Steve Wilson and Laura Lee Brown sold Garage Bar in 2025 to local entrepreneur Todd Moore, who also owns The Taj on East Market Street.",
+  "src": "https://www.wdrb.com/news/business/garage-bar-in-nulu-to-reopen-friday-afternoon-under-new-ownership/article_8614586e-b39a-4792-a599-0318f4f2db9b.html",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Indi's",
+  "m": [
+   "indis",
+   "indies fried chicken"
+  ],
+  "c": "ind",
+  "k": "Chicken",
+  "o": "Family-owned (Louisville)",
+  "y": "",
+  "note": "Louisville fried-chicken chain, family-owned and operated, with stores in Louisville, Southern Indiana and Lexington.",
+  "src": "https://www.wdrb.com/news/business/indi-s-chicken-to-open-1st-new-albany-location-this-spring/article_88dc8192-e74f-4493-9e83-bb38a52c5063.html",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Cattleman's Roadhouse",
+  "m": [
+   "cattlemans roadhouse"
+  ],
+  "c": "ind",
+  "k": "Steak & seafood",
+  "o": "Founders Bill Hisle & Stuart Meredith (Kentucky)",
+  "y": "2006",
+  "note": "Kentucky steakhouse chain founded in Shelbyville in 2006 by restaurateurs Bill Hisle and Stuart Meredith.",
+  "src": "https://www.kentuckyliving.com/explore/heres-the-beef",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Zeggz",
+  "m": [
+   "zeggz"
+  ],
+  "c": "ind",
+  "k": "Breakfast & brunch",
+  "o": "Ashton Lockhart",
+  "y": "",
+  "note": "Louisville breakfast spot run by Ashton Lockhart; its Middletown location closed in 2024 over a rent increase.",
+  "src": "https://www.aol.com/zeegz-middletown-closes-plans-smaller-172415065.html",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Wagner's Pharmacy",
+  "m": [
+   "wagners pharmacy"
+  ],
+  "c": "ind",
+  "k": "American",
+  "o": "Wagner family",
+  "y": "",
+  "note": "The diner across from Churchill Downs has been run by the Wagner family for more than a century.",
+  "src": "https://spectrumnews1.com/ky/louisville/news/2025/04/22/wagner-s-pharmacy-readies-for-derby-151",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Mike Linnig's",
+  "m": [
+   "mike linnigs"
+  ],
+  "c": "ind",
+  "k": "Steak & seafood",
+  "o": "Linnig family",
+  "y": "",
+  "note": "The fish restaurant, dating from the 1920s, is run by the founder’s grandchildren.",
+  "src": "https://www.wdrb.com/wdrb-in-the-morning/family-owned-and-operated-mike-linnigs-restaurant-opens-for-another-year/article_1a319b1c-de5f-11ef-8413-eb9ce3d53802.html",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Señor Iguanas",
+  "m": [
+   "senor iguanas",
+   "la catrina"
+  ],
+  "c": "ind",
+  "k": "Mexican & Tex-Mex",
+  "o": "VIVA! Hospitality Group (Juan & Roza Segoviano)",
+  "y": "",
+  "note": "Señor Iguanas and La Catrina belong to VIVA! Hospitality Group, owned by Juan and Roza Segoviano of Louisville.",
+  "src": "https://townepost.com/kentucky/middletown/serving-tradition/",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Home Run Burger",
+  "m": [
+   "home run burger",
+   "home run burgers",
+   "homerun burger",
+   "home run pub"
+  ],
+  "c": "ind",
+  "k": "Burgers",
+  "o": "RJ & Sangeeta Jha",
+  "y": "2021",
+  "note": "Started in Louisville in 2008 and bought in 2021 by RJ and Sangeeta Jha, who have expanded it to Indiana and Tennessee.",
+  "src": "https://www.wsmv.com/2025/01/14/new-baseball-themed-burger-restaurant-opens-nashville/?outputType=amp",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Guaca Mole",
+  "m": [
+   "guaca mole",
+   "taco luchador",
+   "el taco luchador",
+   "artesano",
+   "red barn kitchen"
+  ],
+  "c": "ind",
+  "k": "Mexican & Tex-Mex",
+  "o": "Olé Restaurant Group (chef Fernando Martinez)",
+  "y": "",
+  "note": "Part of chef Fernando Martinez’s Louisville group Olé Restaurant Group, which also runs El Taco Luchador, Artesano and Red Barn Kitchen.",
+  "src": "https://archive.louisville.com/content/restaurant-juggernaut-fernando-martinez-profile",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Holy Grale",
+  "m": [
+   "holy grale",
+   "gralehaus",
+   "grale goods",
+   "bar grale"
+  ],
+  "c": "ind",
+  "k": "Bar & pub",
+  "o": "Lori Beck & Tyler Trotter",
+  "y": "2010",
+  "note": "Lori Beck and Tyler Trotter turned a former church into Holy Grale in 2010 and opened Gralehaus next door in 2014.",
+  "src": "https://www.beeradvocate.com/articles/10298/holy-grale-in-louisville-kentucky/",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Hell or High Water",
+  "m": [
+   "hell or high water"
+  ],
+  "c": "ind",
+  "k": "Bar & pub",
+  "o": "Maud & Stirling Welch",
+  "y": "",
+  "note": "Whiskey Row speakeasy founded and co-owned by Louisville siblings Maud and Stirling Welch.",
+  "src": "https://chilledmagazine.com/?p=27835",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "El Nopal",
+  "m": [
+   "el nopal",
+   "el nopel"
+  ],
+  "c": "ind",
+  "k": "Mexican & Tex-Mex",
+  "o": "El Nopal Mexican Family Restaurant, Inc. (partners Enrique Roman & Javier Castro)",
+  "y": "",
+  "note": "Louisville-area Mexican chain, most of whose restaurants are in Louisville and Southern Indiana; owned by partners Enrique Roman and Javier Castro.",
+  "src": "https://nkytribune.com/?p=271640",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "Whiskey Dry",
+  "m": [
+   "whiskey dry"
+  ],
+  "c": "ind",
+  "k": "Burgers",
+  "o": "Chef Edward Lee",
+  "y": "",
+  "note": "Bourbon-and-burgers bar from Louisville chef Edward Lee at Fourth Street Live!.",
+  "src": "https://www.cordish.com/news/articles/20180213_louisvillemagazine_whiskeydry",
+  "hq": true,
+  "u": false
+ },
+ {
+  "n": "The Seelbach Bar",
+  "m": [
+   "the seelbach bar",
+   "seelbach bar"
+  ],
+  "c": "pe",
+  "k": "Bar & pub",
+  "o": "Rockbridge (investment firm), with Louisville’s Musselman Hotels",
+  "y": "2017",
+  "note": "The bar belongs to the Seelbach Hilton, which investment firm Rockbridge bought in 2017 in a joint venture with Louisville-based Musselman Hotels Management; Hilton runs it under its brand.",
+  "src": "https://www.hospitalitynet.org/news/4085793/rockbridge-acquires-seelbach-hilton-hotel",
+  "u": false
+ },
+ {
+  "n": "J. Graham's Café",
+  "m": [
+   "j grahams"
+  ],
+  "c": "corp",
+  "k": "American",
+  "o": "1859 Historic Hotels (Galveston, Texas)",
+  "y": "2006",
+  "note": "The café inside the Brown Hotel, named after its founder J. Graham Brown. The hotel has been owned since 2006 by Galveston, Texas-based 1859 Historic Hotels.",
+  "src": "https://en.wikipedia.org/wiki/Brown_Hotel_(Louisville,_Kentucky)",
+  "u": false
  }
 ]

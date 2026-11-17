@@ -214,6 +214,7 @@ def main():
             "b": bi if bi is not None else -1,
             "_key": f"b{bi}" if bi is not None else n,
             "_addr": norm(street),
+            "_name": n,
             "e": int(e["timestamp"][:4]) if e.get("timestamp") else None,   # year the OSM entry was last edited
         })
 
@@ -221,6 +222,8 @@ def main():
     # as one place unless both rows carry different street addresses (two real branches close together).
     def same_place(o, r):
         if o["_key"] != r["_key"] or miles(o["ll"], r["ll"]) >= 0.075: return False
+        # a restaurant group can have several different places in one building (e.g. the Galt House)
+        if not (o["_name"].startswith(r["_name"]) or r["_name"].startswith(o["_name"])): return False
         return not (o["_addr"] and r["_addr"] and o["_addr"] != r["_addr"])
     out = []
     for r in rows:
@@ -237,12 +240,15 @@ def main():
             if any(o["b"] == -1 and miles(o["ll"], r["ll"]) < 0.1 and (o["_key"].startswith(k) or k.startswith(o["_key"])) for o in final):
                 dropped["duplicate"] += 1; continue
         final.append(r)
+    # "Confirmed independent": a LIBA / Louisville Originals member, or a researched local owner with a source
     cores = load_liba()
     for r in final:
-        if r["c"] == "ind" and is_liba(r["n"], cores):
+        if r["c"] != "ind": continue
+        b = brands[r["b"]] if r["b"] >= 0 else None
+        if is_liba(r["n"], cores) or (b and b.get("src") and not b.get("u")):
             r["v"] = 1
     final.sort(key=lambda r: ({"pe": 0, "corp": 1, "ind": 2}[r["c"]], norm(r["n"])))
-    for r in final: r.pop("_key"); r.pop("_addr")
+    for r in final: r.pop("_key"); r.pop("_addr"); r.pop("_name")
 
     used = sorted({r["b"] for r in final if r["b"] >= 0})
     remap = {old: new for new, old in enumerate(used)}
@@ -284,7 +290,7 @@ def main():
     page.write_text(html2)
     print("wrote", out_name)
     print(f"{len(final)} places ({dict(cnt)}), {len(B)} brands used; dropped {dict(dropped)}")
-    print("LIBA-confirmed independents:", sum(1 for r in final if r.get("v")), "of", cnt["ind"])
+    print("Confirmed independents:", sum(1 for r in final if r.get("v")), "of", cnt["ind"])
     print("areas:", Counter(r["area"] for r in final).most_common())
     print("kinds:", Counter(r["k"] for r in final).most_common())
 
