@@ -2652,9 +2652,9 @@
     "agree": null
   },
   "n6044760425": {
-    "status": "closed",
+    "status": "unsure",
     "new_name": null,
-    "confidence": "medium",
+    "confidence": "low",
     "evidence": [
       {
         "url": "https://www.restaurantji.com/ky/louisville/wendys-4/",
@@ -9458,9 +9458,9 @@
     "agree": null
   },
   "w333996844": {
-    "status": "closed",
+    "status": "unsure",
     "new_name": null,
-    "confidence": "medium",
+    "confidence": "low",
     "evidence": [
       {
         "url": "https://www.restaurantji.com/ky/louisville/hardees-/",
@@ -10620,18 +10620,22 @@
     "agree": null
   },
   "w338228210": {
-    "status": "closed",
+    "status": "open",
     "new_name": null,
     "confidence": "medium",
     "evidence": [
       {
         "url": "https://www.bizjournals.com/louisville/news/2026/11/10/texas-roadhouse-outer-loop-opening-date.html",
         "note": "Independent November10 local report sets move from old Outer Loop; current official locator moved to3201 Brooke Elizabeth. Checked in web search on2026-11-18."
+      },
+      {
+        "url": "https://wdrb.com/news/business/texas-roadhouse-to-relocate-outer-loop-restaurant/article_83707216-8a1f-4cc5-934b-257d413d806e.html",
+        "note": "Relocation to Brooke Elizabeth Way announced; existing Outer Loop restaurant stays open until the move completes and no opening date is announced. Restored to open on 2026-11-18 review."
       }
     ],
     "checked": "2026-11-18",
     "passes": 2,
-    "agree": true
+    "agree": null
   },
   "w339263835": {
     "status": "open",
@@ -16778,7 +16782,7 @@
   },
   "n3363783654": {
     "status": "renamed",
-    "new_name": "Derby City Pizza (subsequently announced as Parlour Pizza + Pints)",
+    "new_name": "Derby City Pizza",
     "confidence": "high",
     "evidence": [
       {

@@ -1,6 +1,6 @@
 # Louisville Eat Local
 
-A map of 1,471 Louisville-area restaurants, coffee shops and bars, showing who owns each one: private equity, a big corporation, or a local independent. Open a PE-backed or corporate spot and it suggests three independents nearby. Operating status was reviewed on 17–18 November 2026; 217 unresolved places remain visible with an “Open status unsure” flag.
+A map of 1,268 Louisville-area restaurants, coffee shops and bars, showing who owns each one: private equity, a big corporation, or a local independent. Open a PE-backed or corporate spot and it suggests three independents nearby. Operating status was reviewed on 17–18 November 2026; places whose status could not be confirmed (219) are removed.
 
 The idea comes from the London Food Money Matrix (london-food-money-matrix.vercel.app). This version's code, artwork and data are new.
 
@@ -21,11 +21,11 @@ It's deployed on Vercel as a static site: every push to `main` redeploys it.
 - `vendor/maplibre-gl-4.7.1/`: MapLibre GL JS and CSS (BSD-3-Clause, see LICENSE.txt), served from the site's own domain.
 - `vercel.json` / `.vercelignore`: long-lived caching for hashed and vendored files; `data/`, `scripts/` and this README aren't deployed.
 - `data/brands.json`: the research, with one record per chain or restaurant group: owner, year, note and source URL. `u: true` marks an owner we couldn't confirm.
-- `data/verification.json`: reviewed operating status keyed by stable OSM ID (`n…` / `w…`), with confidence, evidence, checked date and second-pass agreement. The build removes `closed`, `renamed` and `duplicate_or_not_a_restaurant`; it keeps and flags `unsure` (and any new, unreviewed ID).
+- `data/verification.json`: reviewed operating status keyed by stable OSM ID (`n…` / `w…`), with confidence, evidence, checked date and second-pass agreement. The build keeps only `open` places, plus `renamed` ones that have a `new_name` (shown under the new name). It removes `closed`, `duplicate_or_not_a_restaurant`, `unsure` and any new, unreviewed ID.
 - `data/verification/REPORT.md`: coverage, corrections, every proposed removal, remaining unsure places, disagreements and source limitations. Original batch results and second-pass evidence are preserved in `data/verification/results/`.
 - `data/liba-members.txt`: the Louisville Independent Business Alliance's Food & Drink members, read from keeplouisvilleweird.com/directory in November 2026. Places that match a member are marked "Confirmed local". LIBA only admits businesses that are majority-owned by Louisville-area residents, headquartered locally, privately held and not franchises.
 - `data/osm-raw.json`: the OpenStreetMap export with edit metadata (Overpass, data as of 2026-11-17 14:49 UTC, bounding box 37.99,-85.96 to 38.39,-85.40). Each card shows the year its entry was last edited.
-- `scripts/build.py`: matches OSM places to brands by name, drops stadium stalls and junk rows, merges duplicates, applies reviewed operating status, assigns neighborhoods, checks the data, writes `places.<hash>.js` and points `index.html` at it. Verification filtering runs after deduplication so a second OSM entry cannot resurrect a removed place. The build prints removal counts by status and the number of unsure places kept.
+- `scripts/build.py`: matches OSM places to brands by name, drops stadium stalls and junk rows, merges duplicates, applies reviewed operating status, assigns neighborhoods, checks the data, writes `places.<hash>.js` and points `index.html` at it. Verification filtering runs after deduplication so a second OSM entry cannot resurrect a removed place. The build prints removal counts by status.
 
 ```bash
 python3 -I scripts/build.py
@@ -45,7 +45,7 @@ Use a leading `=` for exact name matches where a prefix would confuse unrelated 
 
 ## Operating-status review
 
-All 25 batches cover the original 1,613 places. Every first-pass closed, renamed, nonrestaurant or unsure verdict received a second pass, and 23 original open entries were sampled. The reviewed build removes 122 closed entries, 14 stale renamed entries and 6 duplicates/nonrestaurants. Renaming removes the obsolete record; it does not automatically add or classify its successor.
+All 25 batches cover the original 1,613 places. Every first-pass closed, renamed, nonrestaurant or unsure verdict received a second pass, and 23 original open entries were sampled. The reviewed build removes 122 closed entries, 14 stale renamed entries and 6 duplicates/nonrestaurants. Renamed places are kept under their `new_name`. Texas Roadhouse on Outer Loop was restored to open after recheck (its move is announced but not complete).
 
 “Open” means supporting web evidence was found on the checked date. It is not a real-time hours guarantee. Locator URL changes, “closed now,” temporary closures, future closure announcements and same-name businesses elsewhere are not sufficient evidence of permanent closure. Moved businesses are checked at their mapped location; moves beyond roughly 150 m count as closed at the old point. Cards link operating-status evidence separately from ownership sources.
 

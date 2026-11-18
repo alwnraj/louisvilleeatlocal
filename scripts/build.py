@@ -201,6 +201,10 @@ def main():
         lat = e.get("lat") or e.get("center", {}).get("lat")
         lng = e.get("lon") or e.get("center", {}).get("lon")
         if not name or lat is None: dropped["no name"] += 1; continue
+        # A reviewed rename keeps the place on the map under its current name (matched to brands by that name).
+        vr = verification.get(e["type"][0] + str(e["id"]))
+        if vr and vr["status"] == "renamed" and vr.get("new_name"):
+            name = vr["new_name"]; t = {**t, "name": name}
         if t.get("indoor") == "room": dropped["stall inside an arena or mall"] += 1; continue
         if norm(name).startswith(("ocharleys", "zoes kitchen")): dropped["closed"] += 1; continue  # O'Charley's corporate stores closed Sept 2026; Zoës Kitchen was folded into Cava
         if t.get("disused:amenity") or t.get("was:amenity") or t.get("opening_hours") == "closed": dropped["closed"] += 1; continue
@@ -251,20 +255,18 @@ def main():
     reviewed, verification_dropped = [], Counter()
     for r in final:
         result = verification.get(r["osm"])
-        status = result["status"] if result else "unsure"
-        if status not in {"open", "unsure"}:
-            verification_dropped[status] += 1
+        status = result["status"] if result else "unreviewed"
+        if status == "renamed" and result.get("new_name"): status = "open"   # relabelled above, still operating
+        if status != "open":
+            verification_dropped[status] += 1   # closed, renamed (no successor), duplicate, unsure or unreviewed
             continue
-        r["status"] = status
-        if result:
-            r["checked"] = result["checked"]
-            if result["evidence"]:
-                r["status_url"] = result["evidence"][0]["url"]
+        r["status"] = "open"
+        r["checked"] = result["checked"]
+        if result["evidence"]:
+            r["status_url"] = result["evidence"][0]["url"]
         reviewed.append(r)
     final = reviewed
-    print("Verification dropped:", {s: verification_dropped[s] for s in
-          ("closed", "renamed", "duplicate_or_not_a_restaurant")})
-    print("Verification unsure (kept and flagged):", sum(r["status"] == "unsure" for r in final))
+    print("Verification dropped:", dict(verification_dropped))
 
     # "Confirmed independent": a LIBA / Louisville Originals member, or a researched local owner with a source
     cores = load_liba()
