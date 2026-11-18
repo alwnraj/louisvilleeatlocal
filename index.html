@@ -281,7 +281,7 @@ dialog .close{position:absolute;right:14px;top:14px;width:32px;height:32px;borde
   <p>Map data © OpenStreetMap contributors (ODbL). Tiles: OpenFreeMap / OpenMapTiles.</p>
 </dialog>
 
-<script src="places.efe0209e76.js"></script>
+<script src="places.51784fdce1.js"></script>
 <script>
 "use strict";
 const CATS = {
@@ -426,7 +426,7 @@ function renderList(){
     html += `<div class="group ${c}"><span>${CATS[c].label}</span><small>${g.length.toLocaleString()}</small></div>`;
     for (const p of g) {
       if (n++ >= shown) break;
-      html += `<button class="item${selected === p.i ? " on" : ""}" data-i="${p.i}"><i class="sym ${p.c}"></i><span><span class="nm">${esc(p.n)}${p.hq ? `<span class="hq">Louisville</span>` : ""}${p.v ? `<span class="liba" title="Ownership checked: researched local owner or Louisville Independent Business Alliance member">Indie ✓</span>` : ""}${p.status === "unsure" ? `<span class="unverified">Open status unsure</span>` : ""}</span><span class="sub" style="display:block">${esc(subline(p))}</span></span></button>`;
+      html += `<button class="item${selected === p.i ? " on" : ""}" data-i="${p.i}"><i class="sym ${p.c}"></i><span><span class="nm">${esc(p.n)}${p.hq ? `<span class="hq">Louisville</span>` : ""}${p.v ? `<span class="liba" title="Ownership checked: researched local owner or Louisville Independent Business Alliance member">Indie ✓</span>` : ""}</span><span class="sub" style="display:block">${esc(subline(p))}</span></span></button>`;
     }
     if (n >= shown) break;
   }
@@ -597,7 +597,7 @@ function showCard(p){
     <span class="tag ${p.c}"><i class="sym ${p.c}"></i>${C.tag}</span>${p.hq ? `<span class="hq">Louisville-based</span>` : ""}${p.v ? `<span class="liba">Confirmed independent</span>` : ""}
     <h3>${esc(p.n)}</h3><div class="where">${esc([p.k, p.a || null, p.area].filter(Boolean).join(" · "))}</div>
     ${p.e ? `<div class="edited">Map entry last edited ${p.e}</div>` : ""}`;
-  h += `<div class="${p.status === "unsure" ? "warn" : "edited"}">${p.status === "unsure" ? "Open status unsure. We couldn't confirm whether this place still operates here." : "Listed as open when checked."}${p.checked ? ` Checked ${esc(p.checked)}.` : ""}</div>`;
+  h += `<div class="edited">${"Listed as open when checked."}${p.checked ? ` Checked ${esc(p.checked)}.` : ""}</div>`;
   if (p.status_url) h += `<a class="src" href="${esc(p.status_url)}" target="_blank" rel="noopener">Operating-status source: ${esc(host(p.status_url))} ↗</a>`;
   if (b) {
     h += `<dl class="facts"><dt>Owner</dt><dd>${esc(b.o)}</dd>${b.y ? `<dt>Since</dt><dd>${esc(b.y)}</dd>` : ""}</dl>`;
@@ -611,7 +611,7 @@ function showCard(p){
   }
   if (p.c !== "ind") {
     const alts = alternatives(p);
-    h += `<div class="alts"><h4>Independent nearby</h4>${alts.map(({q,m}) => `<button class="alt" data-i="${q.i}"><span><b>${esc(q.n)}</b><small>${esc(q.k)}${q.v ? " · confirmed independent" : ""}${q.status === "unsure" ? " · open status unsure" : ""}</small></span><em>${dist(m)}</em></button>`).join("")}</div>`;
+    h += `<div class="alts"><h4>Independent nearby</h4>${alts.map(({q,m}) => `<button class="alt" data-i="${q.i}"><span><b>${esc(q.n)}</b><small>${esc(q.k)}${q.v ? " · confirmed independent" : ""}</small></span><em>${dist(m)}</em></button>`).join("")}</div>`;
     setNear(alts.map(a => a.q.i));
   } else setNear([]);
   card.innerHTML = h;

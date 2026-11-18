@@ -6428,7 +6428,7 @@
     "agree": true
   },
   "w337527911": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -7696,7 +7696,7 @@
     "agree": null
   },
   "w338409974": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -8246,7 +8246,7 @@
     "agree": null
   },
   "n3829329437": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -10620,9 +10620,9 @@
     "agree": null
   },
   "w338228210": {
-    "status": "open",
+    "status": "closed",
     "new_name": null,
-    "confidence": "medium",
+    "confidence": "high",
     "evidence": [
       {
         "url": "https://www.bizjournals.com/louisville/news/2026/11/10/texas-roadhouse-outer-loop-opening-date.html",
@@ -10630,12 +10630,12 @@
       },
       {
         "url": "https://wdrb.com/news/business/texas-roadhouse-to-relocate-outer-loop-restaurant/article_83707216-8a1f-4cc5-934b-257d413d806e.html",
-        "note": "Relocation to Brooke Elizabeth Way announced; existing Outer Loop restaurant stays open until the move completes and no opening date is announced. Restored to open on 2026-11-18 review."
+        "note": "Recheck 2026-11-18: WHAS11/WDRB Nov 2026 reports say the Outer Loop restaurant closed Nov 15 and the replacement at 3201 Brooke Elizabeth Way opens Nov 19, half a mile away. The mapped Outer Loop point is closed. (An earlier search summary wrongly said it stayed open.)"
       }
     ],
     "checked": "2026-11-18",
     "passes": 2,
-    "agree": null
+    "agree": true
   },
   "w339263835": {
     "status": "open",
@@ -11496,7 +11496,7 @@
     "agree": true
   },
   "n13424045320": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -13711,7 +13711,7 @@
     "agree": null
   },
   "n3360773516": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -13771,7 +13771,7 @@
     "agree": false
   },
   "w678469382": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -13821,7 +13821,7 @@
     "agree": true
   },
   "n13953128276": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -14099,7 +14099,7 @@
     "agree": true
   },
   "n6066607790": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -14117,7 +14117,7 @@
     "agree": null
   },
   "w334732334": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -14131,7 +14131,7 @@
     "agree": null
   },
   "w334731856": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -15463,7 +15463,7 @@
     "agree": true
   },
   "n6800721486": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -16781,9 +16781,9 @@
     "agree": false
   },
   "n3363783654": {
-    "status": "renamed",
+    "status": "unsure",
     "new_name": "Derby City Pizza",
-    "confidence": "high",
+    "confidence": "low",
     "evidence": [
       {
         "url": "https://foodanddine.com/a-concept-swap-dundee-tavern-to-close-then-reopen-as-derby-city-pizza/",
@@ -16867,7 +16867,7 @@
     "agree": null
   },
   "w330429893": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -16971,7 +16971,7 @@
     "agree": null
   },
   "w329188722": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -16989,7 +16989,7 @@
     "agree": null
   },
   "n13953129582": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -17025,7 +17025,7 @@
     "agree": null
   },
   "w299929745": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -17327,7 +17327,7 @@
     "agree": false
   },
   "w329538247": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -17765,7 +17765,7 @@
     "agree": false
   },
   "n3369098884": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -17783,7 +17783,7 @@
     "agree": null
   },
   "w330429900": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -17808,7 +17808,8 @@
     ],
     "checked": "2026-11-18",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "kind": "Asian"
   },
   "w337859040": {
     "status": "open",
@@ -18790,7 +18791,7 @@
     "agree": null
   },
   "w676442859": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -18808,7 +18809,7 @@
     "agree": null
   },
   "n6750919491": {
-    "status": "open",
+    "status": "unsure",
     "new_name": null,
     "confidence": "low",
     "evidence": [
@@ -19031,7 +19032,8 @@
     ],
     "checked": "2026-11-18",
     "passes": 2,
-    "agree": false
+    "agree": false,
+    "kind": "Italian"
   },
   "n3442902391": {
     "status": "open",
@@ -19666,7 +19668,8 @@
     ],
     "checked": "2026-11-18",
     "passes": 2,
-    "agree": false
+    "agree": false,
+    "kind": "Mexican & Tex-Mex"
   },
   "n3445908221": {
     "status": "open",

@@ -760,3 +760,12 @@ This includes successful resolutions of first-pass unsure records, as well as re
 - Added an inline favicon to remove the pre-existing favicon.ico 404. No packages were downloaded.
 
 The consolidated second-pass result is `results/recheck.json` (603 unique IDs); the separate reviewer files preserve intermediate opinions.
+
+## Addendum — 18 November 2026 recheck
+
+Applied after the review above. These supersede the table where they differ.
+
+- Texas Roadhouse on Outer Loop (`w338228210`) stays **closed**: the restaurant closed 15 Nov and its replacement at 3201 Brooke Elizabeth Way opens 19 Nov. A mid-review attempt to restore it relied on a stale search summary and was reverted.
+- The 14 `renamed` places are kept under their `new_name`, not removed. Cuisine for Tacos D'Amor, Mom's Kitchen and Basilico Cafe is set with a `kind` field because the old OSM tags were wrong. Derby City Pizza (Dundee Road) became `unsure` because a further Parlour swap was announced and current evidence is missing.
+- Per the owner's decision, **unsure places are removed, not flagged**: all 217 Codex-unsure places, two weak closures (Wendy's S Floyd, Hardee's Taylor Blvd), Derby City Pizza, and 20 "open" verdicts that had only low-confidence evidence (undated delivery or listing pages). Their evidence stays in `verification.json`; set a place to `open` and rebuild to restore it.
+- New or unreviewed OSM IDs are also dropped by the build.

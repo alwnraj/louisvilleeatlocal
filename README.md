@@ -1,6 +1,6 @@
 # Louisville Eat Local
 
-A map of 1,268 Louisville-area restaurants, coffee shops and bars, showing who owns each one: private equity, a big corporation, or a local independent. Open a PE-backed or corporate spot and it suggests three independents nearby. Operating status was reviewed on 17–18 November 2026; places whose status could not be confirmed (219) are removed.
+A map of 1,246 Louisville-area restaurants, coffee shops and bars, showing who owns each one: private equity, a big corporation, or a local independent. Open a PE-backed or corporate spot and it suggests three independents nearby. Operating status was reviewed on 17–18 November 2026; places whose status could not be confirmed (240) are removed.
 
 The idea comes from the London Food Money Matrix (london-food-money-matrix.vercel.app). This version's code, artwork and data are new.
 
@@ -45,7 +45,7 @@ Use a leading `=` for exact name matches where a prefix would confuse unrelated 
 
 ## Operating-status review
 
-All 25 batches cover the original 1,613 places. Every first-pass closed, renamed, nonrestaurant or unsure verdict received a second pass, and 23 original open entries were sampled. The reviewed build removes 122 closed entries, 14 stale renamed entries and 6 duplicates/nonrestaurants. Renamed places are kept under their `new_name`. Texas Roadhouse on Outer Loop was restored to open after recheck (its move is announced but not complete).
+All 25 batches cover the original 1,613 places. Every first-pass closed, renamed, nonrestaurant or unsure verdict received a second pass, and 23 original open entries were sampled. The reviewed build then applies a recheck (see the addendum in `REPORT.md`): it keeps only `open` places and renamed places with a `new_name`, and removes closed, duplicate/non-restaurant and unsure places. Result: 1,246 places.
 
 “Open” means supporting web evidence was found on the checked date. It is not a real-time hours guarantee. Locator URL changes, “closed now,” temporary closures, future closure announcements and same-name businesses elsewhere are not sufficient evidence of permanent closure. Moved businesses are checked at their mapped location; moves beyond roughly 150 m count as closed at the old point. Cards link operating-status evidence separately from ownership sources.
 

@@ -220,7 +220,7 @@ def main():
             "osm": e["type"][0] + str(e["id"]),   # stable id, used by data/verification.json
             "ll": [round(lat, 5), round(lng, 5)],
             "a": street, "area": area_for(lat, lng, t),
-            "k": b["k"] if b else kind_for(t, name),
+            "k": b["k"] if b else (vr or {}).get("kind") or kind_for(t, name),   # "kind" in verification.json fixes a cuisine the old OSM tags got wrong
             "c": b["c"] if b else "ind",
             "b": bi if bi is not None else -1,
             "_key": f"b{bi}" if bi is not None else n,
