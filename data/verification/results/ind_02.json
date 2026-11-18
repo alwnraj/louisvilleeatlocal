@@ -1,0 +1,912 @@
+[
+  {
+    "id": "n4755754587",
+    "name": "Sidebar at Whiskey Row",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://sidebaratwhiskey.com/",
+        "note": "Official site gives current hours at 129 N 2nd Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069217486",
+    "name": "Stevie Ray's Blues Bar",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.stevieraysbluesbar.com/contact",
+        "note": "Official contact page gives 230 E Main Street and operating hours. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383407083",
+    "name": "Tavern on Fourth",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/tavern-on-fourth-4th-street-live/",
+        "note": "Local listing has hours at 427 B S 4th Street; official venue is also advertised for events. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3516418241",
+    "name": "Tengo Sed Cantina",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://nextdoor.com/pages/tengo-sed-cantina-louisville-ky-1/",
+        "note": "Listing gives evening operating hours at 432 S 4th Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6876880554",
+    "name": "The Bar at Fort Nelson",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://michters.com/location-hours/",
+        "note": "Official Michter’s page gives hours at 801 W Main and November service notices. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6800764196",
+    "name": "The Celtic Pig",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/the-celtic-pig-restaurant-and-pub-/",
+        "note": "Listing at 217 E Main may be catering/food truck; current operation at mapped point needs confirmation. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383407040",
+    "name": "The Fudgery",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://4thstlive.com/en/Eat-and-Drink/The-Fudgery",
+        "note": "Official Fourth Street Live venue page gives daily hours at 416 S 4th Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383407682",
+    "name": "The Main Eatery",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.themaineatery.com/home",
+        "note": "Own site explicitly says open and gives weekday lunch hours at 643 W Main. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7661678885",
+    "name": "The Marque Bar",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
+        "note": "Search returned OSM-derived directories only, not independent current operating evidence. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5427966215",
+    "name": "The Table",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/thetable",
+        "note": "Live Toast menu and ordering page at 1800 Portland Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383406999",
+    "name": "The Thirsty Pedaler",
+    "status": "duplicate_or_not_a_restaurant",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://ca.hotels.com/go/usa/best-nightlife-louisville",
+        "note": "16-passenger pedal-bike tour operator, not a fixed public eating/drinking venue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069076585",
+    "name": "Thelma's Deli",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wyndhamhotels.com/trademark/louisville-kentucky/galt-house-hotel-a-trademark-collection-hotel?icid=IN%3Acovhep1m18vccji",
+        "note": "Hotel operator lists Thelma’s Deli and daily service hours at Galt House. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6800616686",
+    "name": "Third Street Dive",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://louisvilledowntown.org/livingitem/third-street-dive/",
+        "note": "Downtown Partnership lists daily hours at 442 S 3rd Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4755769307",
+    "name": "Troll Pub Under the Bridge",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://trollpub.com/louisville/",
+        "note": "Own site gives dining hours at 150 W Washington Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w344895380",
+    "name": "Vincenzo's Italian Restaurant",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.bizjournals.com/louisville/news/2026/11/14/vincenzos-italian-restaurant-to-close.html?csrc=6398&taid=6af8fea522159d00013f681d",
+        "note": "November 14 report says final business day is December 31, 2026; still operating on check date. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066623489",
+    "name": "Waycool Cafe",
+    "status": "renamed",
+    "new_name": "Cardinal Crossing Cafe",
+    "evidence": [
+      {
+        "url": "https://www.waysidechristianmission.org/cardinal-cafe",
+        "note": "Wayside’s own site now calls its Hotel Louisville cafe Cardinal Crossing Cafe, open daily 11–2. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3581286413",
+    "name": "Wei Wei Chinese Express",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/masonic-home-ky/chinese-restaurants",
+        "note": "Only general directory records found; no current menu/hours established for 526 S 5th. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383404332",
+    "name": "Yaching's East West Cuisine",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.yellowbot.com/yachings-louisville-ky.html",
+        "note": "Historical/general directories insufficient to establish current operation. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13799877981",
+    "name": "El Mariachi",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.elmariachi1.elmariachirestaurantky.com/",
+        "note": "Official site lists Fairdale at 8710 National Turnpike with open hours. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12379116924",
+    "name": "Adrienne and Company",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/family-owned-bakery-announces-closure-of-floyds-knobs-shop/article_9de77c65-5ed7-4918-926d-3067d1aea3d7.html",
+        "note": "Jan 21, 2026 closure announced for Floyds Knobs with no final date; own site still mentions donut production there. Needs current retail confirmation. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12379116927",
+    "name": "Amorè Fine Italian Ristorante",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://maps.roadtrippers.com/us/floyds-knobs-in/food-drink/amore-fine-italian-ristorante",
+        "note": "Address matched listing with August 30, 2026 review and dinner hours. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13846913190",
+    "name": "Berry Twist",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.berrytwist.com/menu",
+        "note": "Official 2026 menu and school-year hours at 3660 Paoli Pike Suite 3. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11820469385",
+    "name": "Carr’s BBQ",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/coffee-crossing-is-open-at-3700-paoli-pike-in-floyds-knobs-thats-schupperts-corner-folks/",
+        "note": "2024 report describes planned new premises at 7010 US 150, not confirmation that dining opened there; newer directory alone insufficient. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11974221671",
+    "name": "Chillburger",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://thechillburger.com/contact-us/",
+        "note": "Official contact page lists Floyds Knobs address and daily hours. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1185916618",
+    "name": "Our Lady of Perpetual Hops",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.olphbrewery.com/",
+        "note": "Official brewery page lists taproom hours at 300 Foundation Court. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12758789701",
+    "name": "Polly's Freeze",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://pollysfreeze.com/",
+        "note": "Own site offers food and frozen treats at 5242 SR 62; seasonal service may apply. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n10543006516",
+    "name": "Sams Food and Spirits",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g37108-d397889-Reviews-or30-Sam_s_Food_Spirits-Floyds_Knobs_Indiana.html",
+        "note": "Search mixes historical Sam’s locations/reviews; mapped location requires address confirmation. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11957510437",
+    "name": "Starlight Coffee Co",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.starlightcoffeeco.com/contact-us",
+        "note": "Official location page gives hours for 101 Lafollette Station. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13451476643",
+    "name": "The Slice",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://thesliceindiana.com/",
+        "note": "Own site offers online ordering and daily hours at 1027 N Luther Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336464525",
+    "name": "21st Amendment Tavern",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.sluurpy.us/louisville/restaurant/3764481/21st-amendment-tavern",
+        "note": "Address-matched listing updated May 30, 2026 gives operating hours. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3441744326",
+    "name": "Bandido Taqueria Mexicana",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://bandidotm.com/locations/",
+        "note": "Official location page lists daily hours at 423 University Boulevard. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336465755",
+    "name": "Bean",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.beangtown.com/",
+        "note": "Own site gives cafe menu and 1138 Goss Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337073299",
+    "name": "Check's Cafe",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://checkscafe.com/",
+        "note": "Own site has current online ordering and 1101 E Burnett Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336471529",
+    "name": "Dairy Del",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://dairydel.com/contact-apply/",
+        "note": "Own contact page gives seven-day opening hours at 1516 S Shelby Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3411435696",
+    "name": "Double Dragon",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.doubledragonky.com/",
+        "note": "Own ordering site gives business and carryout hours at 1255 Goss Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4450998589",
+    "name": "El Tarasco",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/El-Tarasco-Louisville",
+        "note": "Restaurant Guru says permanently closed but delivery listing says temporary closure; need mapped address and independent confirmation. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w334064021",
+    "name": "Four Pegs",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.fourpegs.net/home",
+        "note": "Own site gives current hours at 1053 Goss Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329548539",
+    "name": "Full Stop Station",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.cylex.us.com/company/full-stop-station-28516124.html",
+        "note": "Address-matched listing updated August 31, 2026 gives daily hours. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3435045348",
+    "name": "Hauck's Corner",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://maps.roadtrippers.com/us/louisville-ky/entertainment/haucks-corner",
+        "note": "Address-matched listing gives daily hours and October 2, 2026 customer review. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14201672402",
+    "name": "Hinterhof Rösterie Kaffee",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/louisville-city/shopping",
+        "note": "Only OSM-derived directories found under exact name; no independent current hours. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336464414",
+    "name": "Hop Atomica",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.hopatomica.com/louisville",
+        "note": "Official Louisville page gives daily hours and menu at 1318 McHenry Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3372246298",
+    "name": "Kaiju",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.kentuckytourism.com/explore/kaiju-3040",
+        "note": "Kentucky Tourism lists daily hours at 1004 E Oak; own site agrees on daily operation. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13233668040",
+    "name": "Nook and Nowhere",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/nook-and-nowheres-last-day-in-may-31/",
+        "note": "May 21, 2026 local report quotes all service ending at 1149 S Shelby on May 31. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337080139",
+    "name": "Nord's Bakery",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/nords-bakery-2118-s-preston-st-louisville?to=place.w.179765630.1797328622.6331516",
+        "note": "Address-matched listing gives bakery hours at 2118 S Preston Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12699955059",
+    "name": "Perso",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.persorestaurant.com/contact",
+        "note": "Own contact page gives dinner hours at 741 E Oak Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13324770594",
+    "name": "Phalcha",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://thelouisvilleguide.com/directory/dining/phalcha/",
+        "note": "Current inspection listed at 1001 Mary Street but no reliable own ordering/hours confirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12700152935",
+    "name": "Sarino",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://sarinolouisville.com/contact-us/",
+        "note": "Own contact page gives opening hours at 1030 Goss Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3363737045",
+    "name": "Scarlet's Bakery",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/place/details/2654582/scarlets-bakery",
+        "note": "Address-matched listing says permanently closed; Perso now operates at same 741 E Oak address. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330275519",
+    "name": "Seidenfaddens",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://callejero-kentucky.openalfa.com/louisville-east-ccd/restauracion",
+        "note": "Exact spelling search returned OSM-derived directories only; current hours unconfirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1454695551",
+    "name": "Shahar",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.shahareats.com/",
+        "note": "Own site advertises current restaurant at 1127 Logan Street after moving from Bardstown. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3441763197",
+    "name": "Smiley's Pocket",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://lamppost.fyi/louisville/zip/40217/abc_licenses",
+        "note": "Listing indicates active private-club license at 2124 S Preston; public access uncertain. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337081057",
+    "name": "Sunergos Coffee",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.sunergoscoffee.com/pages/locations",
+        "note": "Official locations page lists Preston cafe and daily opening hours. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336464113",
+    "name": "The MerryWeather",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.themerryweather.net/",
+        "note": "Own site lists daily bar hours at 1101 Lydia Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w334064010",
+    "name": "The Post",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.thepostlouisville.com/",
+        "note": "Own site explicitly offers dine-in/carryout daily at 1045 Goss Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337077758",
+    "name": "Zanzabar",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://zanzabarlouisville.com/contact/",
+        "note": "Own contact page advertises dinner service at 2100 S Preston Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3395957095",
+    "name": "80 20 @ Kaelin's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/80-20-at-kaelins-1801-newburg-road",
+        "note": "Live Toast menu/ordering at 1801 Newburg Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330411882",
+    "name": "Against the Grain Brewery and Public House",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.happycow.net/reviews/against-the-grain-brewery-and-public-house-louisville-318107",
+        "note": "Address-matched listing reports permanent closure in December 2025, updated January 2026. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3467847352",
+    "name": "Akiko's Restaurant",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.reddit.com/r/Louisville/comments/1rsmzu2/akikos_closing_for_good_tuesday/",
+        "note": "March 13, 2026 post reproduces owner’s final-day announcement for March 17; needs independent cross-check. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3467853440",
+    "name": "Asiatique Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.superpages.com/cherokee-triangle-louisville-ky/restaurants",
+        "note": "Historical directory has 1767 Bardstown while mapped record says 1716; current operation at point unverified. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329490965",
+    "name": "Awry Brewing",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.awrybrewing.com/",
+        "note": "Own site gives brewery food menu and operating hours at 1025 Barret Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3363641807",
+    "name": "Baxter's 942 Bar & Grill",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/baxters-942-bar-grill/",
+        "note": "Local listing explicitly says temporarily closed; cannot infer permanence. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375251976",
+    "name": "Big Rock Bar & Brew",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://bigrockbarandbrew.com/visit",
+        "note": "Own visit page gives daily bar/kitchen hours at 2120 Bardstown Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3363783637",
+    "name": "Breadworks",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/breadworks-close-permanently-after-26-years-business-louisville/41216110",
+        "note": "September 2022 local news announces permanent closure of 2204 Dundee store. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3368832060",
+    "name": "Bristol Bar & Grill",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.superpages.com/south-side-louisville-ky/bars",
+        "note": "Only general directory hours found; brand-wide closure/reopening status needs stronger evidence. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n2934216022",
+    "name": "Bunz",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/bunz-burgers-baxter-ave-969-louisville?to=place.w.179765630.1797525232.1056337",
+        "note": "Waze shows hours at 969 Baxter; Uber Eats discontinued service in 2021. Current operation not sufficiently confirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  }
+]

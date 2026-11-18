@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Louisville Eat Local</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23F6F0E4'/%3E%3Ccircle cx='16' cy='16' r='9' fill='%231F3A2E'/%3E%3C/svg%3E">
 <meta name="description" content="Who really owns Louisville's restaurants, coffee shops and bars? Check whether a place is private equity–backed or corporate before you go, and find an independent spot nearby.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -97,6 +98,7 @@ select{height:38px;border:1px solid var(--line);border-radius:10px;background:va
 .item .sub{font-size:12px;color:var(--ink-2);margin-top:2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .liba{display:inline-block;font:700 9.5px/1 var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--ind);background:var(--ind-soft);border-radius:4px;padding:3px 5px;vertical-align:2px;margin-left:6px}
 .hq{display:inline-block;font:700 9.5px/1 var(--sans);letter-spacing:.06em;text-transform:uppercase;color:#7A4B00;background:#FBE8C3;border-radius:4px;padding:3px 5px;vertical-align:2px;margin-left:6px}
+.unverified{display:inline-block;font:600 10px/1.3 var(--sans);color:#704700;background:#FBF0D9;border:1px solid #DFC694;border-radius:4px;padding:2px 5px;vertical-align:1px;margin-left:6px}
 .more{display:block;margin:12px 20px;width:calc(100% - 40px);height:38px;border-radius:10px;border:1px solid var(--line);background:var(--card);cursor:pointer}
 .empty{padding:24px 20px;color:var(--ink-2)}
 .grab{display:none}
@@ -242,7 +244,7 @@ dialog .close{position:absolute;right:14px;top:14px;width:32px;height:32px;borde
 
     <footer class="foot">
       Ownership as reported publicly, checked November 2026. Chain locations follow the brand's owner, even where a local franchisee runs the restaurant.
-      Places come from OpenStreetMap (exported 17 Nov 2026) and some may have closed; each card shows when its map entry was last edited. <button id="aboutBtn" type="button">How this was made</button>
+      Locations reviewed 17–18 Nov 2026. Places with uncertain operating status are flagged. <button id="aboutBtn" type="button">How this was made</button>
     </footer>
   </aside>
 
@@ -271,6 +273,7 @@ dialog .close{position:absolute;right:14px;top:14px;width:32px;height:32px;borde
   </ul>
   <h3>Where the data comes from</h3>
   <p>Locations: OpenStreetMap, exported 17 November 2026 for Louisville, Jefferson County and the nearby parts of Southern Indiana, Bullitt and Oldham counties. Stadium and arena stalls, generic labels and liquor stores were removed, and O'Charley's was dropped after its corporate restaurants closed in September 2026.</p>
+  <p>Operating status: places were checked against official location pages, restaurant websites, local news and other listings on 17–18 November 2026. Places confirmed closed, renamed or duplicated, and entries that were not public eating or drinking places, were removed. Places listed as open had supporting evidence on their checked date; this is not a guarantee they are open today. Unresolved places remain on the map with an “Open status unsure” flag. Operating status and ownership were researched separately.</p>
   <p>Ownership: each chain and restaurant group was looked up in news coverage, company announcements, filings and Wikipedia, and its card links the source used. Where reports conflicted, or we couldn't find the current owner, the card says “not confirmed” and the place is not counted as PE-backed.</p>
   <p>Independents marked “Confirmed independent” have had their ownership checked. Either we found a source naming a local owner (a family, founder or Louisville restaurant group), or they belong to the Louisville Independent Business Alliance (keeplouisvilleweird.com). The alliance requires majority ownership by Louisville-area residents, a local headquarters, private ownership and no franchise. We also checked every remaining name against OpenStreetMap's Name Suggestion Index of chain brands and against hotel locations; that turned up hotel restaurants, now listed with their hotel's owner, but no chains. The rest are single-location places listed as independent that haven't each been researched; their cards say so.</p>
   <h3>Caveats</h3>
@@ -278,7 +281,7 @@ dialog .close{position:absolute;right:14px;top:14px;width:32px;height:32px;borde
   <p>Map data © OpenStreetMap contributors (ODbL). Tiles: OpenFreeMap / OpenMapTiles.</p>
 </dialog>
 
-<script src="places.2c7b452ffd.js"></script>
+<script src="places.3580663cf8.js"></script>
 <script>
 "use strict";
 const CATS = {
@@ -423,7 +426,7 @@ function renderList(){
     html += `<div class="group ${c}"><span>${CATS[c].label}</span><small>${g.length.toLocaleString()}</small></div>`;
     for (const p of g) {
       if (n++ >= shown) break;
-      html += `<button class="item${selected === p.i ? " on" : ""}" data-i="${p.i}"><i class="sym ${p.c}"></i><span><span class="nm">${esc(p.n)}${p.hq ? `<span class="hq">Louisville</span>` : ""}${p.v ? `<span class="liba" title="Ownership checked: researched local owner or Louisville Independent Business Alliance member">Indie ✓</span>` : ""}</span><span class="sub" style="display:block">${esc(subline(p))}</span></span></button>`;
+      html += `<button class="item${selected === p.i ? " on" : ""}" data-i="${p.i}"><i class="sym ${p.c}"></i><span><span class="nm">${esc(p.n)}${p.hq ? `<span class="hq">Louisville</span>` : ""}${p.v ? `<span class="liba" title="Ownership checked: researched local owner or Louisville Independent Business Alliance member">Indie ✓</span>` : ""}${p.status === "unsure" ? `<span class="unverified">Open status unsure</span>` : ""}</span><span class="sub" style="display:block">${esc(subline(p))}</span></span></button>`;
     }
     if (n >= shown) break;
   }
@@ -593,7 +596,9 @@ function showCard(p){
   let h = `<button class="x" aria-label="Close">✕</button>
     <span class="tag ${p.c}"><i class="sym ${p.c}"></i>${C.tag}</span>${p.hq ? `<span class="hq">Louisville-based</span>` : ""}${p.v ? `<span class="liba">Confirmed independent</span>` : ""}
     <h3>${esc(p.n)}</h3><div class="where">${esc([p.k, p.a || null, p.area].filter(Boolean).join(" · "))}</div>
-    ${p.e ? `<div class="edited${p.e < 2022 ? " old" : ""}">Map entry last edited ${p.e}${p.e < 2022 ? ". It may have closed or changed" : ""}</div>` : ""}`;
+    ${p.e ? `<div class="edited">Map entry last edited ${p.e}</div>` : ""}`;
+  h += `<div class="${p.status === "unsure" ? "warn" : "edited"}">${p.status === "unsure" ? "Open status unsure. We couldn't confirm whether this place still operates here." : "Listed as open when checked."}${p.checked ? ` Checked ${esc(p.checked)}.` : ""}</div>`;
+  if (p.status_url) h += `<a class="src" href="${esc(p.status_url)}" target="_blank" rel="noopener">Operating-status source: ${esc(host(p.status_url))} ↗</a>`;
   if (b) {
     h += `<dl class="facts"><dt>Owner</dt><dd>${esc(b.o)}</dd>${b.y ? `<dt>Since</dt><dd>${esc(b.y)}</dd>` : ""}</dl>`;
     if (b.note) h += `<p class="note">${esc(b.note)}</p>`;
@@ -602,11 +607,11 @@ function showCard(p){
   } else {
     h += p.v
       ? `<dl class="facts"><dt>Owner</dt><dd>Locally owned</dd></dl><p class="note">A member of the Louisville Independent Business Alliance, which only admits businesses that are majority-owned by Louisville-area residents, headquartered locally, not publicly traded and not a franchise.</p><a class="src" href="${LIBA_SRC}" target="_blank" rel="noopener">Source: keeplouisvilleweird.com ↗</a>`
-      : `<p class="note">Not part of any chain or restaurant group we know of, so it's listed as independent. This place hasn't been researched individually.</p>`;
+      : `<p class="note">Not part of any chain or restaurant group we know of, so it's listed as independent. Its ownership hasn't been researched individually.</p>`;
   }
   if (p.c !== "ind") {
     const alts = alternatives(p);
-    h += `<div class="alts"><h4>Independent nearby</h4>${alts.map(({q,m}) => `<button class="alt" data-i="${q.i}"><span><b>${esc(q.n)}</b><small>${esc(q.k)}${q.v ? " · confirmed independent" : ""}</small></span><em>${dist(m)}</em></button>`).join("")}</div>`;
+    h += `<div class="alts"><h4>Independent nearby</h4>${alts.map(({q,m}) => `<button class="alt" data-i="${q.i}"><span><b>${esc(q.n)}</b><small>${esc(q.k)}${q.v ? " · confirmed independent" : ""}${q.status === "unsure" ? " · open status unsure" : ""}</small></span><em>${dist(m)}</em></button>`).join("")}</div>`;
     setNear(alts.map(a => a.q.i));
   } else setNear([]);
   card.innerHTML = h;

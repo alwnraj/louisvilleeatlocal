@@ -1,0 +1,716 @@
+[
+ {
+  "id": "n739761098",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/7531-outerloop",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '7531 Outerloop'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n763649270",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/shepherdsville/151-brenton-way",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '151 Brenton Way'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/shepherdsville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3411435731",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/1229-goss-ave",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '1229 Goss Avenue'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3434495754",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/6501-shepherdsville-road",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '6501 Shepherdsville Road'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3436531005",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/9475-westport-road",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '9475 Westport Road'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3441851170",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/3020-s-3rd-street",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '3020 South 3rd Street'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3464462729",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/5240-dixie-highway",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '5240 Dixie Highway'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3505154473",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/12613-taylorsville-rd",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '12613 Taylorsville Road'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3517809431",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/1823-plantside-dr",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '1821 Plantside Drive'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3876461553",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/2300-terra-crossing-blvd",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '2300 Terra Crossing Boulevard'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n4094978333",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/3935-south-7th-st",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '3935 7th Street Road'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n4780015155",
+  "name": "Subway",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/in/new-albany",
+    "note": "Official New Albany locator directory (fetched 2026-11-17) lists only 2743 Charlestown Rd, 2910 Grant Line Rd, 3400 Grantline Rd, 3008 Charlestown Crossing Way; none near this State Street point (nearest ~2.5 km away)"
+   },
+   {
+    "url": "https://nominatim.openstreetmap.org/reverse?format=json&lat=38.30916&lon=-85.84496&zoom=18",
+    "note": "OSM point is on State Street, New Albany IN 47150"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n5207079941",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/buckner/4734-w-highway-146",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); locator coords 38.37247,-85.44303 match OSM point"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/buckner",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5218247026",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/crestwood/6002-pleasant-colony-court",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '6002 Pleasant Colony Court'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/crestwood",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5268965938",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/2100-south-floyd-street",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '2100 South Floyd Street'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6069056992",
+  "name": "Subway",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Official Louisville locator directory (fetched 2026-11-17) has no Witherspoon St/Waterfront Park Place store; nearby downtown stores (412 S Hancock, 231 E Chestnut, 725 W Main) are listed"
+   },
+   {
+    "url": "https://brokensidewalk.com/2009/waterfront-subway/",
+    "note": "2009 blog: Subway opening at Waterfront Park Place (222 E Witherspoon St), which matches the OSM point"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6069705492",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/3939-taylorsville-rd",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '3939 Taylorsville Road'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6069846435",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/1259-hurstbourne-lane",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '1259 Hurstbourne Lane'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6069846471",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/9501-taylorsville-rd",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '9501 Taylorsville Road'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6391860006",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/4945-brownsboro-rd",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '4945 Brownsboro Road'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6392703385",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/12907-factory-lane",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '12907 Factory Lane'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6964909914",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/3337-newburg-road",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '3337 Newburg Road'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n7618164486",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/1979-brownsboro-rd",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '1979 Brownsboro Road'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n7872540171",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/la-grange/4101-w-highway-146",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '4101 West Highway 146'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/la-grange",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n7996555696",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/in/new-albany/2743-charlestown-road",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '2743 Charlestown Road'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/in/new-albany",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n10543006514",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/in/floyds-knobs/704-highlander-point-dr",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '704 Highlander Point Drive'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/in/floyds-knobs",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11710418838",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/3006-bardstown-rd",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '3006 Bardstown Road'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11847016459",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/11901-standiford-plaza-rd",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '11901 Standiford Plaza Road'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11974171971",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/in/clarksville/1351-veterans-pkwy",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); locator coords 38.33189,-85.75919 match OSM point (1351 Veterans Pkwy)"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/in/clarksville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n12391906908",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/in/jeffersonville/420-patrol-road",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); locator coords 38.36876,-85.69583 match OSM point (420 Patrol Rd, Jeffersonville / River Ridge)"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/in/jeffersonville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n12678178101",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/billtown-road-and-lovers-lane",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); locator entry \"Billtown Road and Lovers Lane\", coords 38.16567,-85.56918 match OSM point"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n13262021665",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/1250-bardstown-rd",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); locator coords 38.23499,-85.71725 match OSM point (1250 Bardstown Rd)"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n14001203283",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/prospect/5907-timber-ridge-drive",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); locator coords 38.33950,-85.62068 match OSM point (5907 Timber Ridge Dr)"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/prospect",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w330564804",
+  "name": "Subway",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Official Louisville locator directory (fetched 2026-11-17) lists Bardstown Rd stores at 1250, 3006 and 6840 but not 2500 Bardstown Rd"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/2500-bardstown-rd",
+    "note": "Locator URL for 2500 Bardstown Rd returns HTTP 404"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w331282767",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/725-w-main-st",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '721 West Main Street'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336481864",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/2840-packer-land-way",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '2820 Packerland Way'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337112659",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/3314-preston-hwy",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '3314 Preston Highway'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337713636",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/1021-dupont-rd",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '1021 Dupont Road'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339232651",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/5469-new-cut-rd",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '5469 New Cut Road'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339667249",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/10500-dixie-hwy",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '10500 Dixie Highway'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w448289238",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/in/jeffersonville/206-east-10th-street",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '206 East 10th Street'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/in/jeffersonville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w814424028",
+  "name": "Subway",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville/2716-w-broadway",
+    "note": "Listed on Subway's official locator (page live 2026-11-17); address matches OSM '2716 West Broadway'"
+   },
+   {
+    "url": "https://restaurants.subway.com/united-states/ky/louisville",
+    "note": "Store appears in the city directory of the official locator"
+   }
+  ],
+  "confidence": "high"
+ }
+]

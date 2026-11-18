@@ -1,0 +1,572 @@
+[
+  {
+    "id": "n3383406999",
+    "name": "The Thirsty Pedaler",
+    "status": "duplicate_or_not_a_restaurant",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.gotolouisville.com/directory/pedal-pub-louisville/",
+        "note": "Tourism bureau describes original Thirsty Pedaler contact as pedal-bike tours visiting 2\u20133 bars, not fixed restaurant."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n6066623489",
+    "name": "Waycool Cafe",
+    "status": "renamed",
+    "new_name": "Cardinal Crossing Cafe",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.hotellouisville.org/cafe",
+        "note": "Hotel's own page describes Cardinal Crossing Cafe as WAYCOOL social enterprise at Hotel Louisville."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n13233668040",
+    "name": "Nook and Nowhere",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.aol.com/articles/nook-nowhere-popular-bookstore-cafe-163551000.html",
+        "note": "May18 2026 report quotes ending service May31 2026 at S Shelby; independently corroborated by Shelf Awareness."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n3363737045",
+    "name": "Scarlet's Bakery",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.persorestaurant.com/contact",
+        "note": "Current replacement Perso confirms 741 East Oak Street, exact former Scarlet's address."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "w330411882",
+    "name": "Against the Grain Brewery and Public House",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/against-the-grains-public-house-bids-farewell-to-the-highlands/",
+        "note": "2024 closure report quotes brewery decision; Sept2024 WLKY confirms Pints&Union moving into former1576 Bardstown space. First-pass Dec2025 date was inaccurate."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n3467847352",
+    "name": "Akiko's Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/akikos-karaoke-bar-highlands-closing/70736360",
+        "note": "March20 2026 follow-up says bar is not closing yet after agreement. Earlier announced March17 closure was rescinded; cannot use it as closure evidence."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": false
+  },
+  {
+    "id": "n3363783637",
+    "name": "Breadworks",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://6amcity.com/ky/louisville/city/breadworks-closing-louisville",
+        "note": "September2022 report confirms bakery shutdown at DouglassLoop; 2024 Food&Dining says Dad'sCoffee replaced Breadworks2204Dundee."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n6069217507",
+    "name": "Magnolia & Fig",
+    "status": "duplicate_or_not_a_restaurant",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://magnoliaandfigboutique.com/pages/contact-us",
+        "note": "Own contact page identifies women's clothing boutique; current own site at2910Frankfort, not an eating/drinking venue."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n3363962127",
+    "name": "The Sugar Mamas Bakeshop",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/the-sugar-mamas-bakeshop-/",
+        "note": "Exact-address independent listing loaded with weekday9AM\u20131PM and order link; conflicts with first-pass permanent-closure directory. No reliable current evidence settles conflict."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": false
+  },
+  {
+    "id": "n2497238182",
+    "name": "Willow Lake Tavern",
+    "status": "duplicate_or_not_a_restaurant",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.selenasrestaurant.com/contact",
+        "note": "Own contact page names Selena's at Willow Lake Tavern10609LaGrange. Worklist two names are13m apart; retain Selena's node, suppress duplicate."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n6065590593",
+    "name": "Decca",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://decaderestaurant.com/about/",
+        "note": "Former chef's own biography confirms Decca closed2022; WLKY reports replacement LouLou at812EMarket."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n6800764286",
+    "name": "Goodwood",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://amp.kentucky.com/news/business/article315247053.html",
+        "note": "Independent April2026 report confirms NuLu and WhiskeyRow locations closed March30; later bankruptcy reporting corroborates."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n4792216814",
+    "name": "HI-Five Doughnuts",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/sweets-bricks-n-mortar-swap-from-doughnuts-to-cheesecake-scones-to-be-named-later/",
+        "note": "Local report documents HiFive leaving MainStreet for HarvardDrive; former mapped location is no longer operating even though old website remains."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n6065590594",
+    "name": "Harvest",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://spectrumnews1.com/news/2020/09/10/harvest-restaurant-closing",
+        "note": "Independent Sept2020 report identifies624EMarket and announced final service that week."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n6800764287",
+    "name": "International Tap House",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/list/geoCategory/12561/best-louisville-breweries-and-craft-beer",
+        "note": "Independent directory explicitly marks International Tap House637EMain permanently closed."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n3375499199",
+    "name": "Rye",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/nulu-restaurant-rye-on-market-shutting-down-for-good-thank-you-louisville-for-embracing-us/33396391",
+        "note": "Independent July2020 report confirms permanent shutdown of Rye on Market."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n6800735287",
+    "name": "Toast on Market",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://leoweekly.com/food-drink/toast-on-market-to-close-louisville-location-reopen-new-albany-location-15772466/",
+        "note": "Independent April2022 report distinguishes closed Louisville location from reopened NewAlbany branch; later replacement at620EMarket corroborates."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n4792241551",
+    "name": "Louis's The Ton",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/gold-bar-on-story-avenue-in-butchertown-closing/article_b43a9c5e-1cf1-11ed-88c2-a3e4218f645b.html",
+        "note": "GoldBar successor at1601Story closed2022; later BackDeck planned for former space, so old Louis'sTheTon no longer operates."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n3368937219",
+    "name": "Ward 426",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.opentable.com/r/ward-426",
+        "note": "Independent exact-brand OpenTable reviews explicitly report CLOSED; Food&Dining permanent-closure article also independently located."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n3375496674",
+    "name": "Wiltshire on Market",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/wiltshire-on-market-calls-it-a-day-but-the-baton-is-being-passed/",
+        "note": "Independent July2023 report confirms closure/succession at636EMarket."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "w336416400",
+    "name": "Ole Hickory Pit Bar-B-Que",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/Ole-Hickory-Pit-Bar-B-Que-Louisville",
+        "note": "Directory says may be permanently closed, but initial news address6006 vs mapped5906 remains unverified; cannot assert mapped-site removal."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": false
+  },
+  {
+    "id": "n6066549688",
+    "name": "Hill Street Fish Fry",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.yahoo.com/entertainment/long-farewell-look-back-10-100620590.html",
+        "note": "2023 retrospective explicitly identifies Hill Street Fish Fry among closed restaurants; stale delivery menu is not reopening evidence."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "w337283901",
+    "name": "Old Louisville Coffee Co-op",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://queerkentucky.com/a-queer-kentucky-safe-space-old-louisville-coffee-co-op/",
+        "note": "Independent retrospective explicitly dates permanent closure March22 2026; March Food&Dining finalday report agrees."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n6066410786",
+    "name": "Wiltshire at the Speed",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.speedmuseum.org/visit/",
+        "note": "Museum's current visit page identifies successor Est1927byMarigold now closed May10 2026; confirms old Wiltshire operator no longer current."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "w332419974",
+    "name": "Cunninghams Creek Side",
+    "status": "duplicate_or_not_a_restaurant",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.cunninghamscreekside.com/",
+        "note": "Official restaurant at6301RiverRd matches both near-identical OSM entries; computed separation~1m, retain n7629878785."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n8953247262",
+    "name": "Fix Coffeehouse and Bakery",
+    "status": "renamed",
+    "new_name": "Barry Bagels",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://barrybagels.com/locations/",
+        "note": "Official current location list has BarryBagels NortonCommons10616MeetingStreet; intervening CafeCommons and Drick's names are stale."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n6069185522",
+    "name": "Joy Luck",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/joy-luck-closes-its-east-end-location/",
+        "note": "Independent local report confirms closure of9850VonAllmenCourt branch."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n3390029668",
+    "name": "Verbena Cafe",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/verbena-cafe-in-norton-commons-closes-permanently-due-to-coronavirus/32440641",
+        "note": "Independent search locates exact10639MeetingStreet permanent closure report; no reliable reopening evidence found."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "w1068091564",
+    "name": "Caribbean Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/caribbean-restaurant-and-bakery/AfWHXEUYWw-DbdyzrudF0g",
+        "note": "Current delivery listing at317WWoodlawn under CaribbeanRestaurantandBakery and August2026 inspection conflict with old permanentclosed label; do not suppress without resolving identity/current operation."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": false
+  },
+  {
+    "id": "w339279901",
+    "name": "W.W. Cousins",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.wdrbwave.com/2023/07/07/w-w-cousins-closes-dixie-highway-location/",
+        "note": "Independent July7 2023 report confirms permanent closure of W.W.Cousins Dixie branch."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n6065590289",
+    "name": "Anoosh Bistro",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.wasabilouisville.com/",
+        "note": "Current replacement restaurant's own site confirms4864BrownsboroRoad; independent news traces Anoosh\u2192Ata\u2192HenHouse\u2192Wasabi."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n12699968777",
+    "name": "\u00c4ta",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.wasabilouisville.com/",
+        "note": "Current replacement Wasabi operates exact4864BrownsboroRoad, corroborating old Ata no longer operates."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n6391859999",
+    "name": "Gasthaus German Restaurant",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/gasthaus-german-restaurant-owners-retire-after-more-than-28-years-in-louisville/article_052581ec-d06c-11ec-9c55-274f167b6f0f.html",
+        "note": "Independent May2022 retirement/closure news corroborates own permanent-closure announcement."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "w337711887",
+    "name": "Mango's",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/popular-mexican-restaurant-closes-st-matthews-location/37397830",
+        "note": "Independent August2021 report identifies closure at6201DutchmansLane after lease issue."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n3364017717",
+    "name": "Molly Malone's",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/quoth-the-raven-in-st-matthews-nevermore-and-its-last-day-is-may-31/",
+        "note": "Independent May2024 report traces MollyMalone's\u2192Raven at3900Shelbyville and finaldayMay31; replacementLimonYSal news corroborates."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n3410660500",
+    "name": "The Cheddar Box",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/elderberry-provisions-in-st-matthews-picking-up-where-cheddar-box-left-off/",
+        "note": "Independent March2024 report places replacement ElderberryProvisions at3909ChenowethSquare after CheddarBox closure; otherCheddarBox concepts separate."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n3410660534",
+    "name": "Waylon's Feed and Firewater",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/exclusive-havana-rumba-moving-into-former-waylons-feed-firewater-space/",
+        "note": "Independent2019 report identifies formerWaylon's space3939Shelbyville as incomingHavanaRumba."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": true
+  },
+  {
+    "id": "n12677619376",
+    "name": "West Point Station Bar and Grill",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39973-d33123550-Reviews-West_Point_Station_And_Bar_And_Grill-West_Point_Kentucky.html",
+        "note": "Samevenue/city listing says CLOSED but exact mapped coordinates/address not independently matched; no confident mapped-site removal."
+      }
+    ],
+    "checked": "2026-11-18",
+    "agrees_with_first": false
+  }
+]

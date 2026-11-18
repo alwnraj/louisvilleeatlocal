@@ -1,0 +1,212 @@
+[
+  {
+    "id": "n3187693661",
+    "name": "New Wave Burritos",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.kevingibsonwriter.com/blog/new-wave-burritos-owners-announce-immenent-closure",
+        "note": "Independent local food writer reports owners' closure announcement at 3311 Preston. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5716196283",
+    "name": "Topp't",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/today-toppt-handcrafted-pizzas-chopped-salads-concludes-its-run-in-new-albany/",
+        "note": "Independent January 2023 local report confirms Topp't concludes its run at the New Albany location, corroborating the specific CLOSED listing. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6629335485",
+    "name": "Hooked on Frankfort",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39604-d17470528-Reviews-Hooked_on_Frankfort-Louisville_Kentucky.html",
+        "note": "Independent exact-location Tripadvisor listing explicitly labels Hooked on Frankfort CLOSED at 3200 Frankfort. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066456090",
+    "name": "Ostra",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/poetically-lyrically-and-commercially-it-appears-to-be-ostras-end/",
+        "note": "Correction to chronology: Ostra reopened after its reported 2020 closure; January 2022 local follow-up reports its subsequent end. Current exact-address Restaurantji and Wanderlog also say closed. Do not cite May 2020 as final closure date. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383404395",
+    "name": "Another Place Sandwich Shop",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/list/geoCategory/1562442/best-sandwiches-in-louisville",
+        "note": "Independent listing marks Another Place Sandwich Shop permanently closed at 119 S Seventh, corroborating local 2021 closure reporting. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383407651",
+    "name": "Atlantic No. 5",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.bizjournals.com/louisville/news/2021/05/24/atlantic-no-5-closes-in-downtown-louisville.html",
+        "note": "Independent May 2021 local report confirms Atlantic No 5 closed in Downtown Louisville. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w331283045",
+    "name": "Bistro 301",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/place/details/1272044/bistro-301",
+        "note": "Independent specific 301 W Market listing explicitly says permanently closed. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066622788",
+    "name": "City Cafe",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/downtown-louisville-lunchtime-favorite-city-cafe-has-closed-after-25-years-in-business/",
+        "note": "Independent local dining report confirms Downtown City Café closed after 25 years, corroborating West Broadway closure report. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6065597387",
+    "name": "Dish on Market",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/another-downtown-closure-dish-on-market-permanently-shuts-down-due-to-2020-challenges/33474117",
+        "note": "Independent local coverage confirms Dish on Market permanently shut in July 2020 at this downtown site. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383405090",
+    "name": "Down One Bourbon Bar & Restaurant",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.aol.com/articles/down-one-bourbon-bar-shuts-204402000.html",
+        "note": "Courier Journal October 2026 closure report specifically identifies 321 W Main, corroborating own site's permanent-closure notice. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6800616486",
+    "name": "Griff's",
+    "status": "renamed",
+    "new_name": "Parlour",
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://eatparlour.com/contact/",
+        "note": "Current official Parlour locator shows operation at 133 W Liberty. The old Griff's identity is obsolete; retain removal of old name but classify as renamed/replaced by Parlour. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4755754362",
+    "name": "Impellizzeri's Pizza",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/impellizzeris-closes-restaurant-in-downtown-louisville/35085927",
+        "note": "Independent local reporting confirms 110 W Main Impellizzeri's closed permanently rather than remaining temporarily shut. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383404391",
+    "name": "Jimmy Can't Dance",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g39604-d12910173-Reviews-Jimmy_Can_t_Dance-Louisville_Kentucky.html",
+        "note": "Independent exact old-address listing marks Jimmy Can't Dance at 119 S Seventh permanently closed; current business is at a different NuLu address. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069217385",
+    "name": "Queue Cafe",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/queue-cafe-/",
+        "note": "Rechecked exact 220 W Main Suite 160 listing explicitly labeled CLOSED. No independent second closure source established; other surviving directories lack current operation evidence. Keep medium confidence and expose this limitation. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  }
+]

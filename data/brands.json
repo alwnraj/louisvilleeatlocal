@@ -1694,7 +1694,7 @@
  {
   "n": "Moby Dick House of Kabob",
   "m": [
-   "moby dick"
+   "moby dick house of kabob"
   ],
   "c": "corp",
   "k": "Mediterranean & Middle Eastern",
@@ -2680,7 +2680,7 @@
  {
   "n": "Haymarket Whiskey Bar",
   "m": [
-   "haymarket"
+   "haymarket whiskey bar"
   ],
   "c": "ind",
   "k": "Bar & pub",
@@ -2929,5 +2929,31 @@
   "note": "The café inside the Brown Hotel, named after its founder J. Graham Brown. The hotel has been owned since 2006 by Galveston, Texas-based 1859 Historic Hotels.",
   "src": "https://en.wikipedia.org/wiki/Brown_Hotel_(Louisville,_Kentucky)",
   "u": false
+ },
+ {
+  "n": "Moby Dick Seafood",
+  "m": [
+   "moby dick"
+  ],
+  "c": "ind",
+  "k": "Steak & seafood",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Louisville-area seafood chain, unrelated to Moby Dick House of Kabob. Current ownership is not confirmed.",
+  "src": "https://coverage-a0ad147da09cf59d718e014ee0d02b9d.web.ordersave.com/story",
+  "u": true
+ },
+ {
+  "n": "Haymarket",
+  "m": [
+   "=haymarket"
+  ],
+  "c": "ind",
+  "k": "Coffee & café",
+  "o": "Not confirmed",
+  "y": "",
+  "note": "Market and café operating as Haymarket by Ashbourne Farms, unrelated to Haymarket Whiskey Bar. Exact ownership is not confirmed.",
+  "src": "https://haymkt.com/haymarket-river-road/",
+  "u": true
  }
 ]

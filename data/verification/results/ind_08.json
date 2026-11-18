@@ -1,0 +1,912 @@
+[
+  {
+    "id": "n3427904365",
+    "name": "Buck's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.buckslou.com/home",
+        "note": "Own restaurant site gives lunch/dinner hours and reservations at 425 W Ormsby Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3419849230",
+    "name": "Burger Boy",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/burger-boy-diner-3334-frankfort-ave/item-old-louisville-burger_1d780b13-c097-454b-be77-c65db50ca8b3",
+        "note": "Live Toast ordering page gives service at 1450 S Brook Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066550688",
+    "name": "Dixie Chicken",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/dixie-chicken-llc-/",
+        "note": "Search returns Dixie Chicken at 3947 Dixie Highway outside Old Louisville; reject wrong-location match. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6044760479",
+    "name": "Green to Go",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://callejero-kentucky.openalfa.com/louisville-east-ccd/restauracion",
+        "note": "Only OSM-derived directories found; current campus/restaurant identity unresolved. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066549688",
+    "name": "Hill Street Fish Fry",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/hill-street-fish-fry-/",
+        "note": "Address-matched listing marked CLOSED at 111 E Hill Street; independent listing says permanently closed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066410788",
+    "name": "King's Fried Chicken",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
+        "note": "Only OSM-derived directory entries found, no independent current operating evidence. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9020029117",
+    "name": "Loaves and Fishes",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.loavesandfishesinc.com/",
+        "note": "Own site describes charity meal service; unclear whether mapped entry meets public restaurant scope. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13752453906",
+    "name": "Lucretia's Kitchen",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/lucretias-kitchen/",
+        "note": "Address-matched local venue listing gives weekly service hours at 617 W Oak Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3418074035",
+    "name": "Mag Bar",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://magbarlouisville.com/",
+        "note": "Own bar site advertises current events/drinks service at 1398 S 2nd Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9336873202",
+    "name": "Neon Pizza",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/restaurant-comings-goings-winter-2023/",
+        "note": "Local closure roundup and 2023 community comments suggest closed, but full matching passage/current reuse needs confirmation. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6044760472",
+    "name": "O-Mori Ramen Bar",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
+        "note": "Only OSM-derived campus directory records found; no independent current menu. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337283901",
+    "name": "Old Louisville Coffee Co-op",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.corner.inc/place/pQCUZkLKA1ts",
+        "note": "June 2026 listing marks permanently closed at 316 W Ormsby; February 2026 local closure report agrees. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w334055893",
+    "name": "Ollie's Trolley",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/ollies-trolley/",
+        "note": "Address-matched local restaurant listing gives weekday hours at 978 S 3rd Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5979203195",
+    "name": "P.O.D. Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
+        "note": "Only OSM-derived campus convenience-cafe records found; no independent current public service. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9336873204",
+    "name": "Pizza Donisi",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.doordash.com/en/store/pizza-donisi-louisville-233966/",
+        "note": "DoorDash says temporarily closed, Toast retains ordering menu; current operation unresolved. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14197196182",
+    "name": "The Tavern",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://oldlouisvilletavern.com/",
+        "note": "Own Old Louisville Tavern site advertises current delivery/pickup food service. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w332056848",
+    "name": "Ville Grill",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://maps.roadtrippers.com/us/louisville-ky/food-drink/the-ville-grill",
+        "note": "Address-matched dining hall listing has service hours and August 29, 2026 review at 300 W Brandeis. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337087095",
+    "name": "Whirlaway Tavern",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://untappd.com/v/whirlaway-tavern/2530395/photos",
+        "note": "Search returns historical venue records, no reliable current hours at 2532 S 4th. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066410786",
+    "name": "Wiltshire at the Speed",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/the-est-1927-by-marigold-cafe-has-closed-at-the-speed-museum/",
+        "note": "2026 local report states Wiltshire was replaced at Speed Museum in August 2024; replacement also closed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069143768",
+    "name": "888 Great Wall",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/mip/888-great-wall-575014",
+        "note": "Address-matched listing gives restaurant hours at 9464 Brownsboro Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5645710604",
+    "name": "Arata Sushi",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.aratasushiprospect.com/",
+        "note": "Own sushi restaurant site advertises menu/location at 9207 US 42. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3395421093",
+    "name": "Blackstone Grille",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.theblackstonegrille.com/",
+        "note": "Own site advertises current weekly specials and November 17–28 gift-card sale at 9521 US 42. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n2637406501",
+    "name": "Casa Festa",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://callejero-kentucky.openalfa.com/calles/bucklandbury-court-louisville-jefferson-county-metro-government-balance-ky-bucklandbury-court",
+        "note": "Only OSM-derived Casa Festa entries at Brownsboro Road found; no independent current operations. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w679975629",
+    "name": "Commonwealth Tap",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/commonwealth-tap/0be1absyXc2X_4TQ9xNhKg",
+        "note": "Uber Eats departure in 2021 is not closure evidence; own current hours not established. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7629878785",
+    "name": "Cunningham's Creekside",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.cunninghamscreekside.com/",
+        "note": "Own restaurant site gives daily hours at 6301 River Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w332419974",
+    "name": "Cunninghams Creek Side",
+    "status": "duplicate_or_not_a_restaurant",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g39770-d4062165-Reviews-or75-Cunningham_s_Creekside-Prospect_Kentucky.html",
+        "note": "Same 6301 River Road restaurant as retained n7629878785; node/building coordinates differ by about 1 m. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n10163894970",
+    "name": "Dragon Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39770-d3694219-Reviews-Dragon_Cafe-Prospect_Kentucky.html",
+        "note": "Address matched but current service hours/recent activity not established. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1554930040",
+    "name": "Fiesta Time Amigos",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.fiestatimeamigos.com/",
+        "note": "Own restaurant site lists daily menus and 10401 Meeting Street location. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n8953247262",
+    "name": "Fix Coffeehouse and Bakery",
+    "status": "renamed",
+    "new_name": "Cafe Commons",
+    "evidence": [
+      {
+        "url": "https://link.loutoday.6amcity.com/public/28052384",
+        "note": "Local newsletter reports FIX purchased in 2021 and rebranded Cafe Commons at same 10616 Meeting Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7571670486",
+    "name": "Garrett's Goodies",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://homes.re.eukreate.com/homes/ky/prospect/6904-beachland-beach-rd-63e705b79f",
+        "note": "Search returned real-estate proximity records only, no independent cafe operating evidence. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5645718359",
+    "name": "Gracious Plenty",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://graciousplentycatering.com/",
+        "note": "Own cafe site offers public pickup ordering at 9207 US 42 in addition to catering. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14001203286",
+    "name": "Gustavo’s",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://gustavosmexgrill.com/faq/",
+        "note": "Official FAQ confirms Prospect branch but mapped point/exact street match requires location page. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w332420022",
+    "name": "Harrods Creek Tavern",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/harrods-creek-tavern-river-rd-6313-louisville?to=place.w.179831167.1798115065.4983480",
+        "note": "Address-matched listing gives tavern operating hours at 6313 River Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069185522",
+    "name": "Joy Luck",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.yahoo.com/news/nearly-10-years-business-joy-172043376.html",
+        "note": "March 2025 local news reports East End restaurant closed March 1 at 9850 Von Allmen Court. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n549380912",
+    "name": "Karem's Grill & Pub",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://karemsgrillandpub.com/",
+        "note": "Own pub site advertises current public dining at 9424 Norton Commons Boulevard. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14001203287",
+    "name": "King Donuts",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://guava.failover.uber.com/store/king-donuts-9219-us-42/XK0cOeXnXSOtK29hMcdCuw",
+        "note": "Conflicting Uber Eats pages, one ended service Nov 12 2026; current storefront operation unconfirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w679975631",
+    "name": "Sushi Master",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/wildgingernortoncommons",
+        "note": "Live Toast location page gives next opening and menu at 9415 Norton Commons Boulevard. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w332420032",
+    "name": "The Pine Room",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://thepineroomky.com/",
+        "note": "Own site gives six-day dinner service/online ordering at 6325 River Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3390029668",
+    "name": "Verbena Cafe",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/verbena-cafe-in-norton-commons-closes-permanently-due-to-coronavirus/32440641",
+        "note": "May 2020 local news announces permanent closure at 10639 Meeting Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14001193459",
+    "name": "Veronica’s",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://veronicasmexrest.com/",
+        "note": "Own restaurant site lists active Prospect branch at 6051 Timber Ridge Drive. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14374060125",
+    "name": "Cluckers",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://cluckers-wings.com/",
+        "note": "Official brand site lists Shepherdsville branch and food ordering. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14374060130",
+    "name": "Daniel's Little Mexico",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/us/ky/shepherdsville/daniels-little-mexico?to=place.ChIJ306X5u8FaYgRSdytupgUiCo",
+        "note": "Address-matched listing gives weekly hours at 544 Conestoga Parkway Suite 8. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4094978329",
+    "name": "1st Wok Chinese Resturant",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
+        "note": "Exact misspelled-name search returned only OSM-derived records at 3967 7th Street; needs alternate-name research. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w339279901",
+    "name": "W.W. Cousins",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/w-w-cousins-has-closed-its-dixie-highway-location/",
+        "note": "July 2023 local report confirms Dixie Highway branch permanently closed at 4913 Dixie Highway. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3462836889",
+    "name": "Wing Station",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wingstationusa.com/",
+        "note": "Own restaurant site gives seven-day hours at 2119 Crums Lane. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1068091568",
+    "name": "Annie's Cafe",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://coverage-ddd0741ef544fa3eaf96acaabc1c3523.web.ordersave.com/",
+        "note": "Restaurant ordering site advertises current Vietnamese dining at 308 W Woodlawn Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w339060667",
+    "name": "Back Deck BBQ",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/back-deck-bbq-801-w-kenwood-drive",
+        "note": "Live Toast ordering page gives next opening time at 801 W Kenwood Drive. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1068091564",
+    "name": "Caribbean Cafe",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/place/details/3978054/caribbean-cafe",
+        "note": "Address-matched listing explicitly marks Caribbean Cafe permanently closed at 317 W Woodlawn; delivery also ended. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w373570366",
+    "name": "China Coast",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.mychinacoast.com/",
+        "note": "Own restaurant ordering site advertises current takeout/delivery at 4952 Manslick Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w820136235",
+    "name": "Costa del Sol",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.costadelsolus.com/",
+        "note": "Own restaurant site advertises current menus at 5205 New Cut Road; delivery also active. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7721859335",
+    "name": "Craft House Pizza",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://crafthousepizza.com/",
+        "note": "Official brand site lists Colonial Gardens at 816 W Kenwood Drive with current dining specials. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1029208201",
+    "name": "Daniel’s Little Mexico 5.0",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://danielslittlemx.com/3101s/",
+        "note": "Official location page lists 3101 S 2nd Street and operating restaurant. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1029208215",
+    "name": "Double Dragon II",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://coverage-a0cc55f4bfc5f96e4ccf95d6becd0971.web.ordersave.com/locations",
+        "note": "Restaurant location page lists South 2nd Street branch at adjacent 3135 S 2nd address; rejected different La Grange branch. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337087414",
+    "name": "El Molcajete",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://elmolcajetelouisville.com/",
+        "note": "Own restaurant site offers current ordering at 2932 S 4th Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13912981353",
+    "name": "Euro Café",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/Euro-Cafe-Louisville",
+        "note": "Address-matched restaurant listing gives opening time at 6917 Southside Drive. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w820136234",
+    "name": "Hokkaido Ramen & Sushi",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/hokkaido-ramen-sushi/",
+        "note": "Address-matched local restaurant listing gives weekly dining hours at 5207 New Cut Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337085659",
+    "name": "La Pinata Mexican Restaurant & Market",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/La-Pinata-Grocery-Louisville",
+        "note": "Address-matched listing says open 9 AM–10 PM at 4028 S 3rd, updated October 2026. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13799877987",
+    "name": "Limas Bakery",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/limas-bakery/xmTeleAiWi6eIGasLogqgw",
+        "note": "Active delivery-menu listing at 5600 National Turnpike Unit 2; generic guessed-hours source rejected. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1068091566",
+    "name": "Nagaad Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/nagaad-cafe/5RbHhaesRaijtbzoX8lKEg",
+        "note": "Listings give 349 W Kenwood Way while mapped record says W Woodlawn; street mismatch needs checking before claiming open at point. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337087475",
+    "name": "Overtime Sports Bar and Grill",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://content.govdelivery.com/attachments/KYLOUISVILLE/2014/04/30/file_attachments/289520/OVERTIME%2BSPORTS%2BBAR%2B%2526%2BGRILL%2B%2BCJ%2BAD.pdf",
+        "note": "Only 2014 license notice and OSM-derived records; current operation unconfirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1068084520",
+    "name": "PIzza King II",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
+        "note": "Only OSM-derived/maps records found at 300 W Woodlawn, no current public service evidence. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9726086555",
+    "name": "Paddock Grill",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://thelouisvilleguide.com/directory/dining/paddock-grill/",
+        "note": "Inspection establishes Paddock Grill inside Churchill Downs; public restaurant/concession scope unresolved. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1029208210",
+    "name": "Sam's Gyros",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/sams-gyros/FIC5kDqoV7-3qxT-W5xopQ",
+        "note": "Uber Eats departed October 27, 2026; cannot infer storefront closure. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337087256",
+    "name": "Santa Fe Grill",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/mip/santa-fe-grill-19449453?lid=19449453",
+        "note": "Address-matched listing gives daily dining hours at 3000 S 3rd Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w339058764",
+    "name": "Southside Seafood Resturant",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.latlong.net/poi/southside-seafood-resturant-147722",
+        "note": "Only OSM-derived map/phone records at 6810 Southside, no independent current hours. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  }
+]

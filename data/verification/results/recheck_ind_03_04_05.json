@@ -1,0 +1,1870 @@
+[
+  {
+    "id": "n13953138860",
+    "name": "Dragon King's Daughter",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://highlands.dragonkingsdaughter.com/",
+        "note": "Own Highlands ordering page shows operating hours at 1543 Bardstown, corresponding to mapped point. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329565878",
+    "name": "Homemade Ice Cream and Pie Kitchen",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39604-d819368-Reviews-Homemade_Ice_Cream_Pie_Kitchen-Louisville_Kentucky.html",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3373719479",
+    "name": "I ♥ Tacos",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/tacos-d-amor-closes-location-in-louisvilles-highlands-neighborhood-amid-declining-traffic/article_6335527d-bb7a-4aca-9735-43efb14d4a87.html",
+        "note": "Mapped I Love Tacos at 1534 Bardstown was succeeded by Tacos D'Amor; subsequent local reports confirm that restaurant closed. Checked 2026-11-18."
+      },
+      {
+        "url": "https://foodanddine.com/tacos-d-amor-more-closes-its-deer-park-location/",
+        "note": "Mapped I Love Tacos at 1534 Bardstown was succeeded by Tacos D'Amor; subsequent local reports confirm that restaurant closed. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329933335",
+    "name": "Kashmir Restaurant",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://kashmirhighlands.com/",
+        "note": "Business/ordering page identifies this location at 1277 Bardstown Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375222879",
+    "name": "Kiwami Ramen",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/kiwami-ramen/",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3360773527",
+    "name": "Kizito Cookies",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://kizito.com/pages/contact-us",
+        "note": "Business/ordering page identifies this location at 1398 Bardstown Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6065590591",
+    "name": "La Chasse",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/la-chasse-restaurant-on-bardstown-road-in-the-highlands-closes-abruptly/article_f504e8a6-8465-46cd-a30e-b76697d8a6de.html",
+        "note": "Independent local reports confirm La Chasse's July 2025 closure at the mapped Highlands site. Checked 2026-11-18."
+      },
+      {
+        "url": "https://www.bizjournals.com/louisville/news/2025/07/28/la-chasse-closes-abruptly-in-the-highlands.html",
+        "note": "Independent local reports confirm La Chasse's July 2025 closure at the mapped Highlands site. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066622790",
+    "name": "La Peche Gourmet To Go and Cafe",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/place/details/1272034/la-peche-gourmet",
+        "note": "La Peche Gourmet at 1147 Bardstown is explicitly permanently closed; 2020 report of Kathy Cary's retirement corroborates closure of this Lilly's/La Peche operation. Checked 2026-11-18."
+      },
+      {
+        "url": "https://foodanddine.com/legendary-chef-and-restaurateur-kathy-cary-has-announced-her-retirement/",
+        "note": "La Peche Gourmet at 1147 Bardstown is explicitly permanently closed; 2020 report of Kathy Cary's retirement corroborates closure of this Lilly's/La Peche operation. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3368832068",
+    "name": "Le Petit Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3368831496",
+    "name": "Lilly's",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/lillys-bistro-owner-to-retire-close-iconic-highlands-restaurant/article_68bbf974-a6a3-11ea-aa70-9b2baa70f515.html",
+        "note": "2020 local closure report and explicit permanent-closure listing match Lilly's at 1147 Bardstown. Checked 2026-11-18."
+      },
+      {
+        "url": "https://louisville.eater.com/venue/1155/lillys-bistro",
+        "note": "2020 local closure report and explicit permanent-closure listing match Lilly's at 1147 Bardstown. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5269119084",
+    "name": "Lovafare (vegan)",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.manta.com/c/mks3213/lovafare",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9915806511",
+    "name": "Lucky Cat Café and Lounge",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/lucky-cat-cafe-louisville-closing/64578577",
+        "note": "Two local reports confirm Lucky Cat Café at 2230 Dundee closed at the end of April 2025. Checked 2026-11-18."
+      },
+      {
+        "url": "https://www.wdrb.com/news/business/nonprofit-cat-caf-in-louisvilles-belknap-neighborhood-to-close-at-the-end-of-april/article_6c22c283-0849-44a2-bb99-cd55c4fa00e0.html",
+        "note": "Two local reports confirm Lucky Cat Café at 2230 Dundee closed at the end of April 2025. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375256895",
+    "name": "North End Slice",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/here-are-the-restaurants-that-closed-in-louisville-in-2019/30286240",
+        "note": "Local reporting confirms North End Café and adjoining North End Slice closed in 2019; input 2118 is adjoining 2116 premises. Checked 2026-11-18."
+      },
+      {
+        "url": "https://firststargroup.net/why-this-prominent-highlands-cafe-is-closing/",
+        "note": "Local reporting confirms North End Café and adjoining North End Slice closed in 2019; input 2118 is adjoining 2116 premises. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9915810825",
+    "name": "Panchito's Ice Cream & Taqueria",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/the-highlands-location-of-panchitos-ice-cream-taqueria-to-close-oct-29/",
+        "note": "Independent closure reports match Panchitos at 2245 Bardstown; other Panchitos locations are separate. Checked 2026-11-18."
+      },
+      {
+        "url": "https://www.yahoo.com/entertainment/panchitos-ice-cream-taqueria-close-145148684.html",
+        "note": "Independent closure reports match Panchitos at 2245 Bardstown; other Panchitos locations are separate. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375222881",
+    "name": "Pho Cafe on Bardstown",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39604-d12508311-Reviews-Pho_Cafe_on_Bardstown-Louisville_Kentucky.html",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375209377",
+    "name": "Rawnaissance Raw Organic Desserts",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.happycow.net/reviews/rawnaissance-louisville-114527",
+        "note": "Two independent specific listings explicitly mark Rawnaissance at 1759 Bardstown permanently closed. Checked 2026-11-18."
+      },
+      {
+        "url": "https://wanderlog.com/place/details/1488603/rawnaissance-desserts",
+        "note": "Two independent specific listings explicitly mark Rawnaissance at 1759 Bardstown permanently closed. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330412601",
+    "name": "River City Drafthouse",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.rivercitydrafthouse.com/contact/",
+        "note": "Business/ordering page identifies this location at 1574 Bardstown Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3467847353",
+    "name": "Roux",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/place/details/5218506/roux",
+        "note": "Specific Roux listing says permanently closed; 2016 Louisville Public Media report also lists Roux among closed restaurants. Checked 2026-11-18."
+      },
+      {
+        "url": "https://www.lpm.org/news/2016-10-19/for-louisville-chefs-its-about-the-regulars-not-bursting-bubbles",
+        "note": "Specific Roux listing says permanently closed; 2016 Louisville Public Media report also lists Roux among closed restaurants. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330555899",
+    "name": "Safai Coffee",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.safaicoffee.shop/",
+        "note": "Business/ordering page identifies this location at 1707 Bardstown Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375222882",
+    "name": "Sapporro Grill & Sushi",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://sapporolouisville.com/",
+        "note": "Business/ordering page identifies this location at 1706 Bardstown Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3373722656",
+    "name": "Sarang",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/sarang-korean-restaurant-eastern-pkwy-1908-louisville?to=place.w.179765630.1797590767.5740375",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6328331485",
+    "name": "Señora Arepa",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yahoo.com/lifestyle/bourbon-burgers-restaurant-replace-se-141649882.html",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330411891",
+    "name": "Shenanigans Bar & Grill",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39604-d3802667-Reviews-Shenanigans_Irish_Grille-Louisville_Kentucky.html",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3363783640",
+    "name": "Sinclair Smoked Salmon",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.yahoo.com/lifestyle/smoked-salmon-shop-douglass-loop-185332830.html",
+        "note": "Courier Journal closure report matches Sinclair Smoked Salmon at 2208 Dundee; specific menu listing also says closed. Checked 2026-11-18."
+      },
+      {
+        "url": "https://www.menupix.com/louisville/restaurants/31990377/Sinclair-Smoked-Salmon-Louisville-KY",
+        "note": "Courier Journal closure report matches Sinclair Smoked Salmon at 2208 Dundee; specific menu listing also says closed. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3368830981",
+    "name": "Somewhere Louisville",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/nowhere-somewhere-bar-bardstown-road-evicted/61456113",
+        "note": "Independent local reports confirm Somewhere at 1135 Bardstown closed after eviction in 2024. Checked 2026-11-18."
+      },
+      {
+        "url": "https://www.yahoo.com/news/two-neighboring-bars-bardstown-road-210348225.html",
+        "note": "Independent local reports confirm Somewhere at 1135 Bardstown closed after eviction in 2024. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330558017",
+    "name": "Sow Bistro",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/glenview-ky/take-out-restaurants",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6739141655",
+    "name": "Spinelli's Pizza",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://spinellispizzeria.com/locations/",
+        "note": "Official locator lists the Highlands restaurant with hours and ordering, corresponding to mapped Baxter Avenue point. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6724092871",
+    "name": "Sunergos Coffee",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.sunergoscoffee.com/pages/locations",
+        "note": "Business/ordering page identifies this location at 1647 Norris Place with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3357102175",
+    "name": "The Bard's Town",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/the-bards-town-moving-highlands-shelby-park-louisville-bar/42561641",
+        "note": "Independent reports confirm The Bard's Town left 1801 Bardstown at the end of 2022; subsequent activity elsewhere does not keep old point open. Checked 2026-11-18."
+      },
+      {
+        "url": "https://leoweekly.com/arts/after-the-bards-town-the-life-and-work-of-doug-schutte-15756882/",
+        "note": "Independent reports confirm The Bard's Town left 1801 Bardstown at the end of 2022; subsequent activity elsewhere does not keep old point open. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375222880",
+    "name": "The Bep - Boba Teahouse",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.thebeplouisville.com/",
+        "note": "Business/ordering page identifies this location at 1702 Bardstown Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364553593",
+    "name": "The Fat Lamb",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://fatlamblouisville.com/contact/",
+        "note": "Business/ordering page identifies this location at 2011 Grinstead Drive with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066456089",
+    "name": "The Fish House",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39604-d397554-Reviews-The_Fish_House_Cafe_Beignet-Louisville_Kentucky.html",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329933368",
+    "name": "The Joy Luck",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/derby-dogs-opens-replaces-joy-luck-in-louisvilles-highlands/article_df0a5849-60f6-422e-a3b9-60ba23f44752.html",
+        "note": "Local reporting confirms Joy Luck at 1285 Bardstown closed and Derby Dogs subsequently occupied the address. Checked 2026-11-18."
+      },
+      {
+        "url": "https://www.yahoo.com/news/popular-asian-restaurant-highlands-closes-174233789.html",
+        "note": "Local reporting confirms Joy Luck at 1285 Bardstown closed and Derby Dogs subsequently occupied the address. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3363783649",
+    "name": "The Silly Axe Cafe",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/silly-axe-cafe-is-on-the-move-to-logan-street-market/",
+        "note": "Silly Axe left 2216 Dundee for Logan Street Market in 2022, well beyond 150 m; later report confirms Logan operation also closed. Checked 2026-11-18."
+      },
+      {
+        "url": "https://www.yahoo.com/lifestyle/gluten-free-cafe-closes-inside-184947411.html",
+        "note": "Silly Axe left 2216 Dundee for Logan Street Market in 2022, well beyond 150 m; later report confirms Logan operation also closed. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3357102192",
+    "name": "Top 1 Korean BBQ & Hotpot",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://top1kbbqhotpot.com/",
+        "note": "Business/ordering page identifies this location at 1803 Bardstown Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w544898832",
+    "name": "Twig and Leaf",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.twigandleafky.com/",
+        "note": "Business/ordering page identifies this location at 2122 Bardstown Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6328088885",
+    "name": "Wick's Pizza",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wickspizza.com/Locations/Detail/1/Original-Highlands",
+        "note": "Business/ordering page identifies this location at 975 Baxter Avenue with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3448918171",
+    "name": "Mango's Bar and Grill",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6034620203",
+    "name": "Nu-View Bar and Grill",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://newviewbarandgrill.com/",
+        "note": "Own bar site lists 7601 Outer Loop and daily service, corresponding to mapped Highview point. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n2496186549",
+    "name": "Pastry Plus",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/closings-pastry-plus-and-flora-kitchenette-have-departed-the-scene/",
+        "note": "Local January 2021 closure report and explicit permanently-closed listing match Pastry Plus at 7407 Fegenbush near mapped point. Checked 2026-11-18."
+      },
+      {
+        "url": "https://wanderlog.com/place/details/1535997/pastry-plus",
+        "note": "Local January 2021 closure report and explicit permanently-closed listing match Pastry Plus at 7407 Fegenbush near mapped point. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n1709000068",
+    "name": "Puerto Vallarta Mexican Restaurant",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://puertovallartalouisville.com/contact-us",
+        "note": "Business/ordering page identifies this location at 7813 Beulah Church Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n677657177",
+    "name": "Asian Moon",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.openingtimes.co/asian-moon-louisville-ky",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3467853442",
+    "name": "Bistro Le Relais",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://lerelaisrestaurant.com/",
+        "note": "Business/ordering page identifies this location at 2817 Taylorsville Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3410869493",
+    "name": "El Caporal",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://elcaporal11.netwaiter.com/louisville/about/",
+        "note": "Business/ordering page identifies this location at 2209 Meadow Drive with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069705490",
+    "name": "Hike's Point Lounge and Bar",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://jockssportsbar.com/",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069620383",
+    "name": "Jock's Bar & Grill",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://jockssportsbar.com/",
+        "note": "Own sports-bar site lists 3423 Breckenridge Lane and current service/hours, corresponding to mapped point. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13950417801",
+    "name": "Kathmandu",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/kathmandu-kitchen-and-bar/1ZnQgL9sRWKzt8Vj9Xs-Ow",
+        "note": "Current delivery menu matches 3825 Bardstown Road #108. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330564839",
+    "name": "Kern's Korner",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/us/ky/louisville/kerns-korner?to=place.ChIJcbXiuVgLaYgRftiCPh511Ks",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5269153316",
+    "name": "King Buffet",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/king-buffet-/",
+        "note": "Current restaurant listing at 3020 Bardstown contains hours/reviews; September 2026 inspection corroborates location. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069733386",
+    "name": "Queenie's Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://callejero-kentucky.openalfa.com/calles/hikes-lane-hikes-point-ky-hikes-lane",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069718187",
+    "name": "Red Sun Chinese Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/hikes-point-louisville-ky/asian-restaurants",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3447718891",
+    "name": "Shark's Seafood",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/sharks-seafood/",
+        "note": "Current dining listing shows food/service hours at 3099 Breckenridge Lane. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5269159253",
+    "name": "Sullivan Bakery",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.thebakeryatsullivan.com/contact",
+        "note": "Current own bakery site lists public hours and 3100 Bardstown Road; reopened in 2023 after the 2020 closure. Checked 2026-11-18."
+      },
+      {
+        "url": "https://www.wdrb.com/news/the-bakery-at-sullivan-university-reopens-after-closing-in-2020/article_5a6abaee-5e43-11ee-ad13-b3c32b29d8ec.html",
+        "note": "2023 local report confirms reopening at 3100 Bardstown, superseding old 2020 closure reports."
+      },
+      {
+        "url": "https://foodanddine.com/the-bakery-at-sullivan-university-has-reopened/",
+        "note": "2023 local report confirms reopening at 3100 Bardstown, superseding old 2020 closure reports."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13363819601",
+    "name": "TryMe Treats",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/tasty-treats",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6077278199",
+    "name": "Ville Tacos",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/delivery/dish/louisville-ky/tacos",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14360894702",
+    "name": "El Maguey Mexican Restaurant",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://elmagueymexicanrestaurantbrooks.com/",
+        "note": "Own restaurant site identifies 150 Brooks Way Suites 4–5 with current menu/service information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4848336123",
+    "name": "Maggie Mae's Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://bullittcountykyguide.com/",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066545286",
+    "name": "Veronica's Mexican Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://veronicasmexrest.com/",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w24022075",
+    "name": "hometown pizza",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://hometownpizza.com/our-locations/",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w343526641",
+    "name": "3rd Turn Brewing",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.corner.inc/place/poqTX7Hz6UFF",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069846420",
+    "name": "AunTEA Pearl's Tea Establishment",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/these-restaurants-closed-permanently-during-the-pandemic/32804252",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12699941573",
+    "name": "Barcelona Bistro",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://barcelonabistrobar.com/",
+        "note": "Business/ordering page identifies this location at 10415 Taylorsville Rd with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337696182",
+    "name": "Brownies the Shed Grill & Bar",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.browniestheshed.com/",
+        "note": "Business/ordering page identifies this location at 9900 Linn Station Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12750423686",
+    "name": "China King",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.chinakingjeffersontown.com/",
+        "note": "Own ordering site shows 3830 Ruckriegel Parkway and business/carryout hours, corresponding to mapped point. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069846468",
+    "name": "Double Dragon",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://dk.yp.com/jeffersontown-ky/restaurants",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069809467",
+    "name": "Happy China",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/happy-china-taylorsville-rd-9106-jeffersontown?to=place.w.179831166.1798377197.1854862",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3505153162",
+    "name": "Hometown Pizza",
+    "status": "renamed",
+    "new_name": "Craft House Pizza",
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://crafthousepizza.com/",
+        "note": "Own current Craft House locations and specific listing identify Craft House Pizza at former Hometown address 12607 Taylorsville Suite 102. Checked 2026-11-18."
+      },
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/hometown-pizza-/",
+        "note": "Own current Craft House locations and specific listing identify Craft House Pizza at former Hometown address 12607 Taylorsville Suite 102. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3166614945",
+    "name": "Jumbo Buffet",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/Jumbo-Buffet-Louisville",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337607799",
+    "name": "Mussel and Burger Bar",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.mussel-burger-bar.com/location/mussel-and-burger-bar-taylorsville-rd/",
+        "note": "Business/ordering page identifies this location at 9200 Taylorsville Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066456091",
+    "name": "Passtime Fish House",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39545-d1833684-Reviews-PassTime_Fish_House_Tavern-Jeffersontown_Kentucky.html",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5239976391",
+    "name": "RecBar",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.recbarlouisville.com/",
+        "note": "Own bar site lists 10301 Taylorsville Road and current visiting hours, corresponding to mapped Jeffersontown point. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12750423687",
+    "name": "Scoops",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.scoopsnsuch.com/",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069809469",
+    "name": "Shogun Japanese Steakhouse",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39604-d4230666-Reviews-Shogun_Japanese_Steak_House-Louisville_Kentucky.html",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069785130",
+    "name": "Shreeji Fast Food",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39604-d15533543-Reviews-Shreeji-Louisville_Kentucky.html",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069846423",
+    "name": "Sichuan Garden Chinese Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.superpages.com/jeffersontown-ky/restaurants",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3446735316",
+    "name": "Yellow Cactus",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://guava.failover.uber.com/store/the-yellow-cactus-9111-galene-dr-jeffersontown-ky-40299/KgfEQBGrWmOhg6EZOxgg1Q",
+        "note": "Current delivery listing matches 9111 Galene Drive. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3744913324",
+    "name": "Adrienne Bakery and Cafe",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.cakestoday.com/",
+        "note": "Own current site lists the public bakery at 129 W Court Avenue. A 2023 closure applied to the restaurant portion; bakery continued operating. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14068590042",
+    "name": "Angie's Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g37216-d19255578-Reviews-Angie_s_Cafe-Jeffersonville_Indiana.html",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1291783702",
+    "name": "BobaBun Cafe",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://bobabunus.com/location",
+        "note": "Own location page identifies Jeffersonville café at 223 Pearl Street. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w840573242",
+    "name": "Cast Iron Steakhouse",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://castironsteak.com/",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w554300511",
+    "name": "Clucker's",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://cluckers-wings.com/",
+        "note": "Business/ordering page identifies this location at 100 West Riverside Drive with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14068590039",
+    "name": "El Sombrero",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.elsombrerojeffersonville.com/",
+        "note": "Business/ordering page identifies this location at 2784 Meijer Drive with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14068590041",
+    "name": "Food Lab",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://visitindiana.in.gov/listing/food-lab/15780/",
+        "note": "State tourism listing identifies Food Lab at 2781 Jefferson Centre Way; current operation supported with medium confidence. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14068584365",
+    "name": "Golden Blossom Buffet",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.beyondmenu.com/40191/jeffersonville/golden-blossom-buffet-jeffersonville-47130/info.aspx",
+        "note": "Business/ordering page identifies this location at 2760 Jefferson Centre Way with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6750919492",
+    "name": "H.M. Franks",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/hm-franks-355-spring-street",
+        "note": "Current Toast menu and ordering hours match 355 Spring Street. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1452705992",
+    "name": "Pearl Street Game & Coffee House",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.gameandcoffee.com/contact/",
+        "note": "Business/ordering page identifies this location at 405 Pearl Street with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n2916114001",
+    "name": "Red Yeti",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://redyetijeff.com/contact/",
+        "note": "Business/ordering page identifies this location at 256 Spring Street with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w842731526",
+    "name": "Slammer's Tavern",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g37216-d4637073-Reviews-Slammers_Tavern-Jeffersonville_Indiana.html",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1093670246",
+    "name": "Zesto's",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://mapcarta.com/W1093670246",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337062636",
+    "name": "Austins",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.openingtimes.co/austins-louisville-ky",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9878973844",
+    "name": "Bandido Taqueria Mexicana",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://bandidotm.com/locations/",
+        "note": "Business/ordering page identifies this location at 2901 Goose Creek Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6391860110",
+    "name": "Barbour Lane Pizza & Deli",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/zipcodes/6040241/eating-drinking",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3445798127",
+    "name": "Corner Cafe",
+    "status": "renamed",
+    "new_name": "Basilico Cafe",
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/basilico-cafe-is-up-and-running-where-corner-cafe-used-to-be-in-lyndon/",
+        "note": "Corner Café closed in April 2026; local follow-up confirms Basilico Café now operates at 9307 New La Grange. Checked 2026-11-18."
+      },
+      {
+        "url": "https://foodanddine.com/corner-cafe-in-lyndon-announces-a-late-april-closing/",
+        "note": "Corner Café closed in April 2026; local follow-up confirms Basilico Café now operates at 9307 New La Grange. Checked 2026-11-18."
+      },
+      {
+        "url": "https://basilicolouisville.com/",
+        "note": "Current Basilico Cafe website confirms service at 9307 New La Grange, independently corroborating the replacement of Corner Cafe. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3445815407",
+    "name": "El Rio Grande Mexican Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39604-d8809292-Reviews-El_Rio_Grande_Mexican_Restaurant-Louisville_Kentucky.html",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3436530764",
+    "name": "Fresh Wok",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.beyondmenu.com/25801/louisville/fresh-wok-louisville-40241/info.aspx",
+        "note": "Business/ordering page identifies this location at 9407 Westport Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337693834",
+    "name": "Ginza's Asian Bistro",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13676306722",
+    "name": "Heavy plates",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/lyndon-city/eating-drinking",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3447597111",
+    "name": "Heitzman Traditional Bakery and Deli",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://heitzmanbakery.com/contact",
+        "note": "Business/ordering page identifies this location at 9426 Shelbyville Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6392755492",
+    "name": "Impelli",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://guava.failover.uber.com/dish/hurstbourne-ky/gyro",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3442807046",
+    "name": "Jade Palace",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.westportvillage.com/store/jade-palace/",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14183369602",
+    "name": "K- Brunch by Taco N' Madres",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://taconmadreskbrunch.com/",
+        "note": "Business/ordering page identifies this location at 2840 Goose Creek Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6806472486",
+    "name": "La Cucina de Mama",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/zipcodes/6040241/eating-drinking",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6392757287",
+    "name": "Liegue",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6391860105",
+    "name": "Mojito Tapas Restaurant",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.havanarumbaonline.com/lyndon/",
+        "note": "Own restaurant site shows Mojito Tapas at 2231 Holiday Manor Center with menu/service, corresponding to mapped point. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12179504360",
+    "name": "Osteria Italian Seafood",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.osterialouisville.com/contact",
+        "note": "Own current site lists 1211 Herr Lane; input 1215 is adjacent/within same Westport Village property, medium match confidence. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13283031543",
+    "name": "Scooters",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/scooters-coffee-5/",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336676225",
+    "name": "Sho Gun",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://shogunsoutheast.com/louisville-ky/",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336611152",
+    "name": "Taj Palace Indian Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.bizjournals.com/louisville/news/2026/11/06/taj-palace-indian-restaurant-to-relocate.html",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6392757787",
+    "name": "Thai Cafe",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/Thai-Cafe-Louisville",
+        "note": "Two specific listings explicitly mark Thai Café at 2226 Holiday Manor Center permanently closed, corresponding to mapped point. Checked 2026-11-18."
+      },
+      {
+        "url": "https://wanderlog.com/place/details/2646836/thai-cafe",
+        "note": "Two specific listings explicitly mark Thai Café at 2226 Holiday Manor Center permanently closed, corresponding to mapped point. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3445787833",
+    "name": "The Starving Artist Cafe & Deli",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3443828792",
+    "name": "Z's Oyster Bar & Steakhouse",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/shucks-zs-oyster-bar-steakhouse-is-shuttered/",
+        "note": "Independent local reports confirm Z's closed at 101 Whittington; later Del Frisco's occupancy corroborates. Checked 2026-11-18."
+      },
+      {
+        "url": "https://www.wlky.com/article/zs-oyster-bar-and-steakhouse-unexpectedly-closes-after-20-years-in-business/30878723",
+        "note": "Independent local reports confirm Z's closed at 101 Whittington; later Del Frisco's occupancy corroborates. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3434829824",
+    "name": "5 O'Clock Charlie's",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.openingtimes.co/kentucky/louisville_40299",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11270546816",
+    "name": "Alley Cat Cafe & Catering",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39604-d552817-Reviews-Alley_Cat_Cafe_Catering-Louisville_Kentucky.html",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n2497238184",
+    "name": "Anchorage Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://louisville.eater.com/venue/2118/anchorage-cafe",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364360694",
+    "name": "Bento Asian Restaurant",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.bentoky.com/",
+        "note": "Business/ordering page identifies this location at 12951 Shelbyville Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11270546821",
+    "name": "Boudreaux's New Orleans Style Sno-Balls",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/middletown-ky/mip/boudreauxs-new-orleans-style-sno-balls-523967552",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069217500",
+    "name": "Carali's Rotisserie Chicken",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://caralischicken.com/",
+        "note": "Business/ordering page identifies this location at 12531 Shelbyville Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364360420",
+    "name": "Clay Oven Indian Restaurant",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://clayovenlouisville.com/",
+        "note": "Business/ordering page identifies this location at 12567 Shelbyville Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329519048",
+    "name": "Cottage Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39657-d862627-Reviews-Cottage_Cafe-Middletown_Kentucky.html",
+        "note": "Name/location search reviewed, but current operation at the exact mapped point was not established. Missing address, conflicting/stale listings, temporary closure, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329510693",
+    "name": "El Toro",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://eltoromexky.com/",
+        "note": "Business/ordering page identifies this location at 10602 Shelbyville Road with service or hours information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  }
+]

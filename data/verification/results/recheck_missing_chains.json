@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "n5949868534",
+    "name": "Great American Grill",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/zipcodes/6040241/eating-drinking",
+        "note": "Mapped Von Allmen hotel cafe found only in OSM-derived directories; similarly named restaurants elsewhere rejected. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w339258579",
+    "name": "Chili's",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.superpages.com/pleasure-ridge-park-ky/take-out-restaurants",
+        "note": "Only general directory records at 6641 Dixie; no official/current service evidence established. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6399762803",
+    "name": "Coffee Crossing",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2026/Coffee-Crossing-Charlestown-Rd-2-24-26.pdf",
+        "note": "2026 official inspection and own locator say 4212 Charlestown while OSM says 4215; precise mapped storefront match unresolved. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329550776",
+    "name": "Captain D's",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/%28closed-for-remodel%29captain-ds-shelbyville-rd-12929-middletown?to=place.w.179896702.1798901488.1133210",
+        "note": "Listing title explicitly says Closed For Remodel at 12929 Shelbyville. Restaurantji says CLOSED but permanence is unresolved; OSM address is 12933. Earlier grouped Yellow Pages permanent-closure label belonged to a different store at 3801 Oaklawn and is rejected. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337706686",
+    "name": "Captain D's",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/captain-ds-in-hikes-point-is-closing-for-good/32630949",
+        "note": "Independent WLKY publication confirms permanent closure at 2960 Breckenridge Lane in May 2020. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7573377487",
+    "name": "Bearno's Little Sicily Pizza",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.cityof.com/ky/louisville/restaurants/pizza?p=1",
+        "note": "Search does not establish mapped River Road-area restaurant; other Bearno’s locations rejected. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383404464",
+    "name": "Bearno's Pizza",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/downtown-bearnos-moving/",
+        "note": "Independent local food report says moved 350 yards from 131 W Main to Market, beyond 150 m limit. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337273036",
+    "name": "Fazoli's",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://fazolis.com/directory/kentucky/",
+        "note": "Official Kentucky directory does not establish 337 Whittington; absence alone insufficient for permanent closure. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11980061482",
+    "name": "Hardee's",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/utica-in/fast-food-restaurants",
+        "note": "Current directory describes temporary closure at 2740 Allison; commercial listing suggests vacant but independent permanence not established. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w333996844",
+    "name": "Hardee's",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/hardees-/",
+        "note": "Address-matched listing says CLOSED at 3459 Taylor; official Louisville directory lists two other stores and omits Taylor. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w824935574",
+    "name": "Hardee's",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.loopnet.com/Listing/301-W-Court-Ave-Jeffersonville-IN/39727551/",
+        "note": "Independent commercial listing labels 301 W Court former Hardee’s and offers premises for lease. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n1712804813",
+    "name": "Little Caesars",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.cylex.us.com/company/little-caesars-pizza-32844608.html",
+        "note": "Address-matched brand listing gives current hours and official store9562 at 6001 Pleasant Colony Court, Crestwood. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11112249555",
+    "name": "Little Caesars",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://travelbullitt.org/listing/little-caesars-pizza-mt-washington/",
+        "note": "County tourism directory lists current hours at 240 Eastbrooke Parkway, Mt Washington, matching mapped area. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11979358377",
+    "name": "Señor Iguanas",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.in.gov/atc/files/2026.2-LB.pdf",
+        "note": "2026 official license and own site use 1415 Broadway; mapped 14000 is invalid. Precise point match unconfirmed. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337694055",
+    "name": "Señor Iguanas",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/shelbyville-ky/latin-american-restaurants",
+        "note": "Only general old directory evidence at 9424 Shelbyville found; current restaurant not established. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w343475147",
+    "name": "Bob Evans",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/place/details/3285960/bob-evans",
+        "note": "Independent address-matched listing explicitly marks 9797 Blairwood permanently closed. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1225723020",
+    "name": "Bob Evans",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g37012-d881862-Reviews-Bob_Evans-Clarksville_Indiana.html",
+        "note": "Independent review listing matches address, but no current hours/post date available; previous Waze hours alone not conclusive. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069846474",
+    "name": "Krispy Kreme",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.groupon.com/biz/jeffersontown-ky/krispy-kreme-east-louisville",
+        "note": "Mapped point appears old 9569 Taylorsville; official current locator omits it, but independent permanent closure not confirmed. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5654275221",
+    "name": "Long John Silver's",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/Middletown-Kentucky/5",
+        "note": "General result says may be permanently closed; no exact mapped La Grange-area address/current evidence. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w343716083",
+    "name": "Long John Silver's and Taco Bell",
+    "status": "renamed",
+    "new_name": "Taco Bell",
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://locations.tacobell.com/ky/louisville/1805-blankenbaker-parkway.html",
+        "note": "Official Taco Bell page gives current dine-in and drive-thru weekly hours at 1805 Blankenbaker. Former combined Long John Silver’s/Taco Bell identity is obsolete; restaurant continues as Taco Bell. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w343474718",
+    "name": "Olive Garden",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://olivegarden-menu-with-prices.us/locations/kentucky/",
+        "note": "Address-matched location guide updated September19 2026 gives current hours at1320 Hurstbourne; city directory agrees. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w339258880",
+    "name": "Skyline Chili",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/fort-knox-ky/chilis-restaurant",
+        "note": "Old6801Dixie directory remains; current official site could not confirm move/new address, so do not infer closure. Research lead7105Dixie proved FairfieldOhio, not Louisville; rejected wrong-city relocation inference. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336682483",
+    "name": "Steak 'n Shake",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.cylex.us.com/company/steak-%27n-shake-20614750.html",
+        "note": "Cylex marks temporarily closed while Restaurantji lists service; current status unresolved. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w338228210",
+    "name": "Texas Roadhouse",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.bizjournals.com/louisville/news/2026/11/10/texas-roadhouse-outer-loop-opening-date.html",
+        "note": "Independent November10 local report sets move from old Outer Loop; current official locator moved to3201 Brooke Elizabeth. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3765637769",
+    "name": "BoomBozz Pizza & Taphouse",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com.sg/Restaurant_Review-g37216-d5946710-Reviews-Boombozz_Pizza_Watch_Bar-Jeffersonville_Indiana.html",
+        "note": "Independent review listing agrees address1450Veterans but no current hours/posts in excerpt; Waze alone not enough to upgrade. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w338407460",
+    "name": "BoomBozz Pizza & Taphouse",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/hurstbourne-acres-louisville-ky/restaurants",
+        "note": "General directories only at1890S Hurstbourne; no independent current service evidence. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3321208401",
+    "name": "Home Run Burger",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://order.homerunburger.com/contact-us-2",
+        "note": "Official ordering page omits4600Shelbyville; closed12949Shelbyville result is different location and rejected. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3436530756",
+    "name": "Baskin-Robbins",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://maps.roadtrippers.com/us/louisville-ky/food-drink/baskin-robbins-louisville-ky--2",
+        "note": "Address-matched listing has hours but official locator omitsWestport; current status unresolved. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3433086546",
+    "name": "Crumbl",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/perm-closed-crumbl-paddock-ky/P6fkCUx6V9WJqs7ybB-ITQ",
+        "note": "Independent delivery listing explicitly labels4110SummitPlaza PERM CLOSED, matching recent news closure. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3830893872",
+    "name": "Moe",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/clarksville-in/moe-s-southwest-grill",
+        "note": "Search mixes Noblesville and Clarksville Tennessee Moe’s; no current Clarksville Indiana location established. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6392727788",
+    "name": "Beef 'O' Brady's",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.toasttab.com/local/beef-o-bradys-middletown-ky/r-b6c2232b-c302-40e2-a761-550cdc622439",
+        "note": "Independent Toast page explicitly names location zzClosed Middletown at241Blankenbaker. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337706687",
+    "name": "Frisch's Big Boy",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.frischs.com/participating-locations-3/",
+        "note": "Official current list omits2962Breckenridge; general directory remains, no conclusive independent permanence. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337853317",
+    "name": "Frisch's Big Boy",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/frischs-big-boy-7401-dixie-hwy/aZdkpKLdQvCzIKHAyGNkhw",
+        "note": "Uber Eats departure2023 not permanent-closure proof; northernKentucky Dixie closure is different city and rejected. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14003219697",
+    "name": "Jaggers",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://maps.roadtrippers.com/us/louisville-ky/food-drink/jaggers-louisville-ky",
+        "note": "Address-matched listing has September19 2026 review and current hours at10690Westport, within~75m of mapped point. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337418676",
+    "name": "Moby Dick House of Kabob",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.mobyskabob.com/",
+        "note": "House of Kabob is WashingtonDC-region brand; mapped Louisville identity appears incorrect and requires local Seafood source. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3446758830",
+    "name": "Potbelly",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://thelouisvilleguide.com/directory/dining/potbelly-sandwich-shop-2/",
+        "note": "Independent address-matched record gives September14 2026 food inspection; current Cylex hours agree9018Taylorsville. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6800735392",
+    "name": "Taj",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/louisville-bar-closes-in-nulu-plans-new-location-just-steps-away/article_1a8acbe8-d03f-11ef-9d5f-c3524f77fc18.html",
+        "note": "January2025 report says indefinitely closed at807E Market with planned move just steps away; no current reopening/address established. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337501563",
+    "name": "Guaca Mole",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://louisville.eater.com/venue/1460/guaca-mole",
+        "note": "Independent Eater venue page explicitly marks9921OrmsbyStation permanently closed, agreeing own-site move. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3363783653",
+    "name": "Loop22",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/de/place/details/12014110/loop-22",
+        "note": "Independent address-matched listing at2222Dundee gives permanently-closed status for every weekday; first-pass closure agrees. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6064659386",
+    "name": "Haymarket Whiskey Bar",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/list/geoCategory/818294/os-melhores-bares-com-m%C3%BAsica-ao-vivo-em-louisville",
+        "note": "Generic bar-guide entries only; no reliable current operating hours or address-specific activity. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3373722596",
+    "name": "LouVino",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yahoo.com/news/10-years-louvino-close-louisville-213934772.html",
+        "note": "Independent Courier Journal report confirms immediate closure of1606Bardstown inSeptember2024. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069862356",
+    "name": "Auntie Anne's",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://locations.auntieannes.com/ky/louisville",
+        "note": "Official locator lists Oxmoor7900Shelbyville but exact mall-kiosk point not independently matched. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069862327",
+    "name": "California Pizza Kitchen",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/lyndon-ky/bars",
+        "note": "Only generic directory listings at7900Shelbyville, no current menu/hours established. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13384463445",
+    "name": "Dave's Hot Chicken",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://restaurants.daveshotchicken.com/in/",
+        "note": "Official locator has Jeffersonville branch but no precise address in excerpt to confirm mapped point; Clarksville label may be imprecise. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383405336",
+    "name": "Gordon Biersch Brewery Restaurant",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://leoweekly.com/news/gordon-biersch-closes-after-13-years-at-fourth-street-live-18024064/",
+        "note": "Independent LEO report confirms FourthStreetLive brewpub permanently closed after13years. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069862355",
+    "name": "Great American Cookies",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/otis-spunkmeyer-cookies",
+        "note": "General directories refer7900Shelbyville and5000Shelbyville; precise mapped Oxmoor unit operation unresolved. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w343715283",
+    "name": "Backyard Burger",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g39604-d820331-Reviews-Backyard_Burgers-Louisville_Kentucky.html",
+        "note": "Independent address-matched review listing gives open-until10PM at1800PriorityWay. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14355306467",
+    "name": "Biggby Coffee",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://louisville.legistar.com/View.ashx?GUID=5A6AAC8D-2CFB-4362-9DE8-C44D501BF880&ID=1417946&M=PA",
+        "note": "Search returns proposed Biggby locations elsewhere in Louisville, not mapped Hillview point; rejected wrong-location evidence. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n736821970",
+    "name": "Bonefish Grill",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.opentable.com/open/central-kentucky",
+        "note": "Independent OpenTable open-restaurants page datedNovember17 2026 shows booked-today BonefishLouisville; own locator657Hurstbourne matches area. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337698336",
+    "name": "Bravo Italian Kitchen",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/louisville-restaurant-near-oxmoor-center-closes-without-notice/article_07cb8e61-ffd6-4943-bb6b-f46098aaa352.html",
+        "note": "Loaded local February9 2026 report confirms BullittLane restaurant permanently closed; same first-pass source reconfirmed, no better independent local detail found. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13424045322",
+    "name": "Corelife Eatery",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/corelife-eatery-closes-southern-indiana-location/article_cb371e2a-0b24-4694-8df9-15ffd89bb4b6.html",
+        "note": "Loaded July6 2026 report confirms permanent July1 Clarksville closure; earlier2024 reopening article predates this and does not override. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3442884750",
+    "name": "Del Frisco's",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/del-friscos-finally-reopens-in-new-east-end-location/34563164",
+        "note": "Independent WLKY report says moved four miles from4107Oechsli to101Whittington in2020. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3447808197",
+    "name": "Duck Donuts",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/duck-donuts-/",
+        "note": "Independent address-matched Restaurantji page marked CLOSED; first-pass permanent closure listing agrees. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069862357",
+    "name": "Extreme Pita",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g39604-d10391792-Reviews-Extreme_Pita-Louisville_Kentucky.html",
+        "note": "Review listings have no current operating evidence or precise mall-unit match. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n2496184049",
+    "name": "Gigi's Cupcakes",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://phillipsedison.propertycapsule.com/property/output/document/view/id%3A149003/",
+        "note": "Independent shopping-center tenant plan lists1977Gigi’s; current address-matched hours directory agrees. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n643389000",
+    "name": "Hard Rock Cafe",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wymt.com/2020/12/23/hard-rock-cafe-in-louisville-to-permanently-close-after-16-years/",
+        "note": "Independent WYMT/WAVE report quotes company confirming permanent closure at424S4th. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12677619514",
+    "name": "Hunt Brothers Pizza",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/valley-station-ky/pizza?page=2",
+        "note": "Search lists other HuntBrothers counters, not exact mapped WestPoint point; no current address verified. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066622789",
+    "name": "J. Graham's Café",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.opentable.com/j-grahams-cafe/",
+        "note": "Independent OpenTable page gives current public brunch hours/reservations at335W Broadway, matching BrownHotel cafe. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3447808162",
+    "name": "Jason's Deli",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.loopnet.com/Listing/4600-Shelbyville-Rd-Louisville-KY/11998952/",
+        "note": "Independent current commercial leasing listing marks4600Shelbyville suite formerJason’sDeli; first-pass closure agrees. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3516418238",
+    "name": "Maker's Mark Bourbon House & Lounge",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/scarpetta-modern-italian-coming-to-fourth-street-live-this-fall/",
+        "note": "Independent local2024 food report confirms Maker’sMarkLounge replaced byBourbonRaw around2015, which later closed; old named venue no longer operates. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13446959109",
+    "name": "Marco's Pizza",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2025/Marcos-Pizza-7-18-25.pdf",
+        "note": "Official2025inspection establishes identity but no current service independent of first-pass Waze; remains unresolved. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9726086554",
+    "name": "Matt Winn's Steakhouse",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/Matt-Winns-Steakhouse-Louisville",
+        "note": "RestaurantGuru says permanently closed but ChurchillDowns restaurant/seasonal-event identity unresolved; avoid removing solely from one directory. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337694469",
+    "name": "Mimi's Cafe",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/oui-monsieur-the-fast-casual-mimis-cafe-is-now-extinct-in-louisville/",
+        "note": "Independent January2021 local food report confirms closure at615S Hurstbourne. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n738010898",
+    "name": "Mitchell's Fish Market",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/louisville-mitchells-fish-market-closes-seafood-why-search-new-location/62727953",
+        "note": "Independent WLKY confirms final serviceOctober26 2024 at4031SummitPlaza. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069763987",
+    "name": "MOD Pizza",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/mip/mod-pizza-532146980",
+        "note": "Only generic directory hours at3085Breckenridge; no current official store operation confirmed. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069846444",
+    "name": "Noodles & Company",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/jeffersontown-ky/asian-restaurants",
+        "note": "General directory at1225S Hurstbourne plus delivery menu without matched address insufficient to confirm mapped location. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6320809706",
+    "name": "Rapid Fired Pizza",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://find-open.com/jeffersonville/rapid-fired-pizza-6149164",
+        "note": "Independent verified hours listing updatedAugust14 2026 at1645VeteransParkway; state tourism location agrees. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336676513",
+    "name": "Red Robin",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/perm-close-red-robin-gourmet-burgers-9870-von-allmen-court/nKQxk8BQQ4-2JIJ-lc99wg",
+        "note": "Reloaded exact store listing explicitly PERM CLOSE at9870VonAllmen; same first-pass source reconfirmed, further independent source needed. Checked in web search on2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  }
+]

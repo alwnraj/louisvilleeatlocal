@@ -1,0 +1,912 @@
+[
+  {
+    "id": "n3363962169",
+    "name": "Fat Jimmy's Pizza",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://fatjimmyspizza.com/",
+        "note": "Own site gives pizza buffet ordering and regular hours at 12216 Shelbyville Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364252317",
+    "name": "Firenza Pizza",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/miller-ale-house",
+        "note": "General directory listings only; current operation at 12406 La Grange unconfirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364361400",
+    "name": "Green District Salads - Middletown",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/us/ky/louisville/green-district-salads-middletown?to=place.ChIJ-2U8F5qZaYgRJ4BpE5HkwJM",
+        "note": "Address-matched Waze listing gives current weekly hours at 13301 Shelbyville Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11270546819",
+    "name": "Hometown Pizza - Middletown",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://hometownpizza.com/our-locations/",
+        "note": "Official locator lists Middletown but search result does not establish street address; mapped site requires confirmation. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364361417",
+    "name": "I Heart Juice Bar",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://mapcarta.com/N3364361417",
+        "note": "Only OSM-derived records found, no independent current operations. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3363770013",
+    "name": "I Love Pollo",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/i-love-pollo/yMMciVtwQlOAZ4fsYHy1ew",
+        "note": "Uber Eats ended service in October 2024; platform departure alone does not prove permanent closure. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3445908221",
+    "name": "Jasmine Chinese Cuisine",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.jasminetsubaki.com/",
+        "note": "Own online ordering menu at 13825 English Villa Drive. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6392702989",
+    "name": "Kentucky State Donuts",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://dinehere.us/KY/LOUISVILLE",
+        "note": "General/OSM directory evidence only for Factory Lane; no independent current hours. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3363962171",
+    "name": "Las Margaritas Mexican Cuisine",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/Las-Margaritas-Louisville",
+        "note": "Listing says may be permanently closed; 2025 news lists location as remaining. Current status unresolved. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3447583328",
+    "name": "Ling Ling Restaurant",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.linglingblueridgemanor.com/",
+        "note": "Own menu/ordering site gives opening time and 10476 Shelbyville Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14079457085",
+    "name": "Lou Lou In Middletown",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.louloumiddletown.com/contact",
+        "note": "Own contact page gives daily opening hours at 12717 Shelbyville Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069217507",
+    "name": "Magnolia & Fig",
+    "status": "duplicate_or_not_a_restaurant",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://magnoliaandfigboutique.com/",
+        "note": "Own site identifies Magnolia & Fig as women’s clothing/jewelry boutique, not food service. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3363962794",
+    "name": "Masa Japanese Bistro & Sushi",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.toasttab.com/local/masa-japanese-bistro-sushi-12336-shelbyville-rd/r-d116eaf6-f617-4d52-af7f-6e9ec9a9dba1",
+        "note": "Toast shows all days closed; this may reflect online ordering only, so permanence unconfirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3447583322",
+    "name": "Mr. G's Lounge",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://maps.roadtrippers.com/us/louisville-ky/food-drink/mr-gs-lounge",
+        "note": "Address-matched listing has daily bar hours and August 2026 review. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n2496184448",
+    "name": "New Directions",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://ndhc.org/contact/",
+        "note": "Search returns unrelated housing organizations; identity at mapped point unresolved. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6392702990",
+    "name": "Old School Pizza",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g39604-d7993385-Reviews-or30-Old_School_Ny_Pizza-Louisville_Kentucky.html",
+        "note": "Address-matched listing gives hours for 12907 Factory Lane Suite G. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364360404",
+    "name": "Oriental Palace",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://orientalpalaceky.3menucities.com/",
+        "note": "Own restaurant ordering site gives menu and takeout at 12539 Shelbyville Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5487187326",
+    "name": "Rumors",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.rumorslouisville.com/",
+        "note": "Own site advertises dining and weekday happy hour at 12339 Shelbyville Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364360452",
+    "name": "Samurai Sushi And Hibachi",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/samurai-sushi-and-hibachi-/",
+        "note": "Current listing says temporarily closed despite a live Toast menu; no confirmed permanence. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5145584127",
+    "name": "Scott's",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://psc.ky.gov/pscecf/2023-00191/15800_efs/09212023013110/KAW_R_AGDR2_092123.pdf",
+        "note": "Generic name returns unrelated businesses; mapped identity/current operation unresolved. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n2497238183",
+    "name": "Selena's at Willow Lake Tavern",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.selenasrestaurant.com/contact",
+        "note": "Own contact page gives dining hours at 10609 La Grange Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11270546825",
+    "name": "Taco City Louisville-Middletown",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://tacocitylouisville.com/locations",
+        "note": "Official location page lists operating Middletown restaurant at 11601 Shelbyville Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3363888976",
+    "name": "The Block Gourmet Deli",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://theblockgourmet.com/",
+        "note": "Own deli site operates at 14041 Shelbyville Road, slight numbering difference from 14043 mapped record. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3363962127",
+    "name": "The Sugar Mamas Bakeshop",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/place/details/12044140/the-sugar-mamas-bakeshop",
+        "note": "Address-matched listing explicitly says permanently closed at 11750 Shelbyville Road Suite 106. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n2497238182",
+    "name": "Willow Lake Tavern",
+    "status": "duplicate_or_not_a_restaurant",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.selenasrestaurant.com/",
+        "note": "Same named tavern as Selena’s at 10609 La Grange; mapped node only about 13 m from retained Selena’s n2497238183. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w938697023",
+    "name": "Agave & Rye",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.agaveandrye.com/locations/new-albany",
+        "note": "Official New Albany page gives daily hours and ordering at 324 E Main Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w883620479",
+    "name": "Bella Roma",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://guava.failover.uber.com/store/bella-roma/A84xSQS6U_a0o2cwaNSXEA",
+        "note": "Uber Eats ended service September 22, 2026; current dine-in operation needs confirmation. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13352015406",
+    "name": "Bloom Coffee",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://brewedbybloom.com/",
+        "note": "Own cafe site offers online ordering at 845 E 15th Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13274518106",
+    "name": "Board and You Bistro & Wine Bar",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://boardandyou.com/bistro-wine-bar/",
+        "note": "Own site lists reservations and weekly hours at 434 Pearl Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w938694179",
+    "name": "Booty's Diner",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g37364-d19121041-Reviews-Get_It_On_A_Bun_At_Booty_s-New_Albany_Indiana.html",
+        "note": "Address matched but listing snippet lacks recent reviews or hours; current operation unconfirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w883620484",
+    "name": "Brooklyn and The Butcher",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/brooklyn-and-the-butcher",
+        "note": "Live Toast menu at 148 E Market; official county inspection also recorded August 2026. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1057027821",
+    "name": "Casa México Gourmet",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2026/Casa-Mexico-Gourmet-2-25-26.pdf",
+        "note": "Official February 2026 inspection establishes identity but no current service hours/menu found. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11971987458",
+    "name": "Cultivated Table and Sip House",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://eatoutmap.com/en/usa/new-albany/cultivated-table-and-sip-house",
+        "note": "Generic directory says open at 133 E Market but own current operating evidence not confirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11974214318",
+    "name": "Derby City Pizza",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://coverage-c6572a50280e8ba90e5b42d50310e4dc.web.ordersave.com/page/indiana-locations",
+        "note": "Brand location page gives daily opening hours at 412 W Daisy Lane. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14067099453",
+    "name": "Dough Boy Pizza",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://doughboypizza812.com/",
+        "note": "Own pizza ordering site lists 411 E Spring Street and opening time; opened July 2026. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w883990519",
+    "name": "Dragon King's Daughter",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://newalbany.dragonkingsdaughter.com/order/dragon-kings-daughter-new-albany-129-west-market-street/item-dipity_2a27fc4c-6730-420a-9a26-923ebf5c876d",
+        "note": "Restaurant ordering page gives current service at 129 W Market Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1091646571",
+    "name": "El Bracero",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.elbraceromexicanrestaurantin.com/",
+        "note": "Own site gives seven-day opening hours at 2116 E Spring Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1088875469",
+    "name": "Falls City Kitchen",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://find-open.com/new-albany/falls-city-kitchen-16480677",
+        "note": "Address-matched hours listing updated August 14, 2026 at 826 W Main Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5652517621",
+    "name": "Fistful",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.fistfuloftacos.com/contact",
+        "note": "Own Fistful of Tacos contact page gives restaurant hours at 2708 Paoli Pike Suite H. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w883990500",
+    "name": "Floyd County Brewing Company",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.floydcountybrewing.com/",
+        "note": "Own brewery site gives opening hours at 129 W Main Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w883990499",
+    "name": "Forest Music Hall",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.bizarchive.com/business/the-enchanted-forest-music-hall-470-588-2337",
+        "note": "Directory supplies hours at 45 W 1st but mapped Forest identity/public taproom operation not independently confirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11974214311",
+    "name": "Green Tea",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.greenteanewalbanyin.com/contact",
+        "note": "Own contact/order site gives opening time at 2206 State Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13422403301",
+    "name": "Hing Wang",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.hingwangchinese.com/1xwzwj85/hing-wang-chinese-restaurant-new-albany-47150/order-online",
+        "note": "Own ordering site offers pickup menu at 2123 E Spring Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7996383856",
+    "name": "Homemade Ice Cream & Pie Kitchen",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2026/Homemade-Ice-Cream-pie-3-5-26.pdf",
+        "note": "Official March 2026 inspection establishes identity but current service/location page not confirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1087711218",
+    "name": "Hugh E. Birs",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://coverage-c212bdc89ff214541c7a918544a457c5.web.ordersave.com/",
+        "note": "Restaurant-owned ordering page advertises operating bar at 324 E Market Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7996525067",
+    "name": "Kolkin Coffee",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://joe.coffee/locations/in/new-albany/kolkin-coffee-new-albany/",
+        "note": "Directory and official inspection have differing street numbers 2736/2726; current mapped cafe hours need confirmation. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1442471775",
+    "name": "Lady Tron's",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/in/new-albany/lady-tron-s-/",
+        "note": "Current listing explicitly says temporarily closed, older listing says hours; do not infer permanent closure. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1449410827",
+    "name": "Legacy Pizza & Bakery",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://legacypizzaandbakery.org/",
+        "note": "Own site gives current Tuesday–Saturday operations and Thanksgiving 2026 notice at 1001 Vincennes. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13430895443",
+    "name": "MESA, A Live Dining Show",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.mesachefs.com/",
+        "note": "Own dining-show site advertises bookable chef events at 216 Pearl Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7996555694",
+    "name": "Mac's Hideaway",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/macs-hideaway-slate-run-rd-1636-new-albany?to=place.w.179700095.1797000952.6692992",
+        "note": "Address-matched Waze listing gives restaurant/bar hours at 1636 Slate Run Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1449410825",
+    "name": "Mickey's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://nextdoor.com/pages/mickeys-new-albany-in/",
+        "note": "Address-matched neighborhood listing gives seven-day cafe hours at 624 Vincennes Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5826241353",
+    "name": "Mimo's Pizzeria",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://mimospizzeriaindiana.com/",
+        "note": "Own restaurant site gives reservations/dining at 2708 Paoli Pike despite Uber Eats departure. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1087485255",
+    "name": "Mochi Wren Boba and Bakery",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/us/in/new-albany/mochi-wren-boba-and-bakery?to=place.ChIJlYya57ttaYgRoTDrXjOh2X0",
+        "note": "Address-matched listing gives seven-day cafe hours at 154 E Main Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w870603909",
+    "name": "New Albany Tavern",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/new-albany-tavern-114-east-market-street",
+        "note": "Live Toast food menu/ordering at 114 E Market Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1579457340",
+    "name": "Norma Jean's Bakery",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wdrbwave.com/2026/08/23/new-albany-bakery-draws-huge-crowds-before-officially-opening-new-location/?outputType=amp",
+        "note": "Search suggests move from Main Street to Graybrook Lane in August 2026; source identity/current address needs reliable confirmation. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13384440863",
+    "name": "OhChae",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://ohchae.godaddysites.com/",
+        "note": "Own Korean restaurant site lists location inside MESA and service hours/menu. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w938694192",
+    "name": "Paper Dolls Deli",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2026/Paper-Dolls-Deli-6-10-26.pdf",
+        "note": "June 2026 inspection and May opening plan found, but current public service not established. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1087711229",
+    "name": "Pastime Grill & Pub",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/in/new-albany/pastime-grill-and-pub-/",
+        "note": "Address-matched review listing lacks visible current hours; current operation unconfirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4388519041",
+    "name": "Petra Mediterranean Restaurant",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.petraindiana.com/",
+        "note": "Own restaurant site advertises online pickup/delivery at 37 Bank Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w883620491",
+    "name": "Platform Dining and Lounge",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://toast.app/r/platforms-dining-and-lounge-145-east-main-st/order",
+        "note": "Toast lists dinner service Tuesday–Saturday at 145 E Main Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w884043542",
+    "name": "Pride Bar + Lounge",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/in/new-albany/pride-bar-lounge-/",
+        "note": "Address-matched review listing but current hours/posts not established. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w752860951",
+    "name": "Recbar 812",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.recbar812.com/",
+        "note": "Own restaurant site advertises active arcade bar/dining at 336 Pearl Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w823042965",
+    "name": "Rice Bowl Korean Restaurant",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://ricebowlkorean.com/",
+        "note": "Own restaurant website directs customers to new online ordering platform; current address agrees with independent listing. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n490481592",
+    "name": "Rich O's Public House",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g37364-d397376-Reviews-Rich_O_s_Public_House-New_Albany_Indiana.html",
+        "note": "Older Rich O’s name and 3312 Plaza Drive listing need current confirmation against New Albanian business. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w883620509",
+    "name": "Rookie's Cookies",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://nextdoor.com/pages/rookies-cookies-new-albany-in/",
+        "note": "Address-matched cafe listing gives current bakery opening hours at 310 Pearl Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  }
+]

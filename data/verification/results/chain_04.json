@@ -1,0 +1,808 @@
+[
+ {
+  "id": "n259306284",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/mount-washington/110-oakbrooke-dr",
+    "note": "Official Domino's locator store page 110 Oakbrooke Dr, Mount Washington; coordinates 38.05234,-85.53876 match this OSM point (fetched 2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3170494771",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/3830-ruckriegel-pkwy-101",
+    "note": "Official Domino's locator store page 3830 Ruckriegel Pkwy #101 (Jeffersontown); coordinates 38.18987,-85.56558 match this OSM point (fetched 2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3436530754",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/9409-westport-rd",
+    "note": "OSM URL (9407 Westport Rd Suite 101) now redirects to locator page for 9409 Westport Rd, same phone (502) 425-5170 and same coordinates; listed on Louisville locator 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3441714445",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/812-eastern-parkway",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6069185521",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/10000-brownsboro-rd",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6069705488",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/3951-taylorsville-rd",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11847016495",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/8404-preston-highway",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061480",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/indiana/jeffersonville/2784-meijer-rd",
+    "note": "Store listed on official Domino's Jeffersonville locator page (pizza.dominos.com/indiana/jeffersonville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061486",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/indiana/clarksville/914-eastern-blvd-suite-500",
+    "note": "Store listed on official Domino's Clarksville locator page (pizza.dominos.com/indiana/clarksville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061493",
+  "name": "Domino's",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/elizabethtown/4111-n-dixie-hwy-ste-102",
+    "note": "The OSM address/website is the Elizabethtown, KY store (coords 37.7469,-85.8939, about 57 km away), not this West End Louisville point (fetched 2026-11-17)"
+   },
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville",
+    "note": "Official Louisville city list (21 stores, fetched 2026-11-17) has no Domino's in the West End near 38.259,-85.789. Nearest is 716 E Broadway. No Domino's at this spot; the OSM entry looks like a misplaced import"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n11980061495",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/3900-7th-street-rd",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061499",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/10011-dixie-highway",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061505",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/5219-dixie-highway",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061512",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/shepherdsville/544-conestoga-parkway-15",
+    "note": "Store listed on official Domino's Shepherdsville locator page (pizza.dominos.com/kentucky/shepherdsville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061515",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/hillview/6434-north-preston-highway-4",
+    "note": "Store listed on official Domino's Hillview locator page (pizza.dominos.com/kentucky/hillview) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061524",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/5400-preston-hwy",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061530",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/2520-bardstown-rd",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061536",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/8054-a-new-lagrange-road",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n12238340028",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/125-south-english-station-road",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n12238462255",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/11517-shelbyville-road",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n12379116928",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/indiana/floyds-knobs/748-highlander-point-dr",
+    "note": "Store listed on official Domino's Floyds Knobs locator page (pizza.dominos.com/indiana/floyds-knobs) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329541606",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/2400-brownsboro-road",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339059375",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/6803-southside-dr",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w430806091",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/kentucky/louisville/130-breckinridge-lane",
+    "note": "Store listed on official Domino's Louisville locator page (pizza.dominos.com/kentucky/louisville) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1118814348",
+  "name": "Domino's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizza.dominos.com/indiana/new-albany/2613-charlestown-road",
+    "note": "Store listed on official Domino's New Albany locator page (pizza.dominos.com/indiana/new-albany) at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n13846896473",
+  "name": "Dairy Queen",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n14372059296",
+  "name": "Dairy Queen",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w885791119",
+  "name": "Dairy Queen",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n259306342",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n11270546820",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n11980061511",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n11980061519",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w329569093",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w332419078",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w332453661",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w334014666",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w336675930",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w337709150",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w339049715",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w339232540",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w339255602",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w339670442",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w339815791",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w448289235",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w456427843",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w683267172",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w821982256",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w1093670243",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w1291978184",
+  "name": "DQ Grill & Chill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n2622742623",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/in/sellersburg/7604-highway-60",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/in/sellersburg at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061485",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/in/clarksville/1117-eastern-boulevard/",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/in/clarksville at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061488",
+  "name": "KFC",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/louisville/2513-preston-highway/",
+    "note": "Official KFC locator store page returns 404 (fetched 2026-11-17)"
+   },
+   {
+    "url": "https://locations.kfc.com/ky/louisville",
+    "note": "Official Louisville KFC city list (fetched 2026-11-17) omits this address while nearby stores are listed. Not cross-checked with a second source because the web search budget ran out"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n11980061501",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/pleasure-ridge-park/6908-dixie-hwy/",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/ky/pleasure-ridge-park at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061520",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/louisville/4812-outer-loop/",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/ky/louisville at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061523",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/louisville/5603-preston-hwy/",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/ky/louisville at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329542810",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/louisville/12420-lagrange-road",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/ky/louisville at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w333990775",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/louisville/3400-bardstown-rd",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/ky/louisville at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w334046525",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/louisville/1911-w-broadway-st",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/ky/louisville at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336611953",
+  "name": "KFC",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/louisville/9487-westport-rd",
+    "note": "Official KFC locator store page returns 404 (fetched 2026-11-17)"
+   },
+   {
+    "url": "https://locations.kfc.com/ky/louisville",
+    "note": "Official Louisville KFC city list (fetched 2026-11-17) omits this address while nearby stores are listed. Not cross-checked with a second source because the web search budget ran out"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w337494272",
+  "name": "KFC",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/louisville/3280-taylor-blvd",
+    "note": "Official KFC locator store page returns 404 (fetched 2026-11-17)"
+   },
+   {
+    "url": "https://locations.kfc.com/ky/louisville",
+    "note": "Official Louisville KFC city list (fetched 2026-11-17) omits this address while nearby stores are listed. Not cross-checked with a second source because the web search budget ran out"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w339054874",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/louisville/5012-s-3rd-st",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/ky/louisville at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339223315",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/louisville/4441-cane-run-road/",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/ky/louisville at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339234270",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/louisville/5462-new-cut-rd",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/ky/louisville at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339248625",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/valley-station/10103-dixie-hwy",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/ky/valley-station at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w343716081",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/louisville/1801-blankenbaker-parkway",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/ky/louisville at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w674843463",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/in/new-albany/2124-state-street",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/in/new-albany at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w677198047",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/in/new-albany/4301-charlestown-road",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/in/new-albany at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1197726646",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/mount-washington/163-oakbrooke-circle",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/ky/mount-washington at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1276046392",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/ky/louisville/1835-old-preston-highway/",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/ky/louisville at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1339619926",
+  "name": "KFC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.kfc.com/in/jeffersonville/5501-highway-62",
+    "note": "Store listed on official KFC locator city page locations.kfc.com/in/jeffersonville at this address, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ }
+]

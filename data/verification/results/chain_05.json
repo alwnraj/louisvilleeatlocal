@@ -1,0 +1,790 @@
+[
+ {
+  "id": "n2926867894",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/in/47130/jeffersonville/1616-east-10th-street",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3170512516",
+  "name": "Papa John's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/louisville",
+    "note": "Official Papa Johns Louisville locator (fetched 2026-11-17) lists no store at this point; nearest listed is 2336 S Floyd St (~450 m south). Node has no address; could be a former store, a mis-placed duplicate, or a campus outlet - not resolvable without further search"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3321208370",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40241/louisville/3511-springhurst-commons-drive",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3363888975",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40245/louisville/14041-shelbyville-rd",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3442884765",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40207/louisville/4123-shelbyville-road",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3453099462",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40219/louisville/4673-outer-loop",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n4094978322",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40216/louisville/3983b-7th-street-rd",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5479059507",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40211/louisville/2111-west-broadway",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6405472466",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40206/louisville/1961-brownsboro-road",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n9983836351",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/in/47129-1725/clarksville/301-e-lewis-and-clark-parkway",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n12379116917",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/in/47119/floyds-knobs/713-highlander-point-dr",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n13905696651",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40214/louisville/165-outer-loop-131",
+    "note": "Official locator page live 2026-11-17: 165 Outer Loop #131, coords 38.12911,-85.78175 match this node"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n13925338040",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/in/47172/sellersburg/114-hometown-plaza",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n14006433365",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40059/prospect/5911-timber-ridge-dr",
+    "note": "Official locator page live 2026-11-17: 5911 Timber Ridge Dr, Prospect KY, coords 38.33958,-85.62078 match this node"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329570482",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40291/louisville/5709-bardstown-road",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w334900791",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40208/louisville/2336-s-floyd-st",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w338409920",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40229/louisville/5000-mud-lane",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339058769",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40214/louisville/6902-southside-dr",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w343534327",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40299/louisville/10100-taylorsville-road",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w344911795",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40202/louisville/117-w-liberty-st",
+    "note": "Official locator page live 2026-11-17: 117 W Liberty St, coords 38.25291,-85.75297 (~70 m from node; same corner as 411 S 2nd St)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w540208251",
+  "name": "Papa John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.papajohns.com/united-states/ky/40014/crestwood/6535-w-hwy-22",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n2294941883",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/4059-summit-plaza-dr",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3373719470",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/1500-bardstown-rd",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3391650227",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/1832-s-3rd-st",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3442823018",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/1321-herr-lane",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3773229990",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/312-s-4th-st",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n4780015123",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/in/new-albany/2216-state-st",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5999579234",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/in/new-albany/4302-charlestown-rd",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11974171974",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/in/clarksville/1305-veterans-pkwy",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061503",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/6814-dixie-hwy",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061516",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/11910-standiford-plaza-dr",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061532",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/970-breckenridge-ln",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n12238338756",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/13006-shelbyville-rd",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n12658826600",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/1831-blankenbaker-pkwy",
+    "note": "Official locator page live 2026-11-17: 1831 Blankenbaker Pkwy, coords 38.21545,-85.53808 match this node"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n12678184702",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/6403-bardstown-rd",
+    "note": "Official locator page live 2026-11-17: 6403 Bardstown Rd, coords match"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w300587052",
+  "name": "Qdoba",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/4600-shelbyville-rd.html",
+    "note": "Official locator page returns 404 (2026-11-17)"
+   },
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville",
+    "note": "Official Louisville city list (14 stores incl. nearby 970 Breckenridge Ln) does not include 4600 Shelbyville Rd; no St. Matthews city page under KY"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w332453652",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/3021-poplar-level-rd",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337501562",
+  "name": "Qdoba",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville",
+    "note": "Official Louisville city list (14 stores, fetched 2026-11-17) has no store on Daventry Ln / near 38.2466,-85.5753; nearby 1321 Herr Ln and 2730 S Hurstbourne listed"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w337607800",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/2730-s-hurstbourne-pkwy",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w679065412",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/ky/louisville/4921-outer-loop",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1339619945",
+  "name": "Qdoba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.qdoba.com/us/in/jeffersonville/3523-e-10th-street",
+    "note": "Official locator page live 2026-11-17: 3523 E 10th Street, Jeffersonville IN, coords 38.33470,-85.70924 (~130 m from node)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5670314314",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/in/new-albany/801-talaina-pl/store-7632/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061522",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/louisville/7708-preston-hwy/store-325/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329542812",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/louisville/12424-lagrange-rd/store-7204/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329550775",
+  "name": "Arby's",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/louisville/12933-shelbyville-rd/store-7810/",
+    "note": "Official store page returns 404 (2026-11-17)"
+   },
+   {
+    "url": "https://www.arbys.com/locations.xml",
+    "note": "Arby's official locations sitemap (5536 URLs) has no store-7810 or any Shelbyville Rd Middletown store; nearby 12424 LaGrange Rd and 4975 Shelbyville Rd listed"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w334029813",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/louisville/3615-bardstown-rd/store-263/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w334731970",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/louisville/2804-crittenden-dr/store-7349/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336675928",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/louisville/4900-norton-healthcare-blvd/store-7879/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337128164",
+  "name": "Arby's",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations.xml",
+    "note": "Arby's official locations sitemap (fetched 2026-11-17) lists no store at 9905 La Grange Rd / Lyndon; nearby Louisville stores (12424 LaGrange Rd, 4975 Shelbyville Rd, 1203 Hurstbourne Ln) are listed"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w337188513",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/louisville/4975-shelbyville-rd/store-773/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337448430",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/louisville/11488-preston-hwy/store-1982/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337695401",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/louisville/1203-hurstbourne-ln/store-714/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337706685",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/louisville/2956-breckinridge-lane/store-5187/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339054885",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/louisville/5022-s-third-st/store-194/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339261708",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/louisville/5329-dixie-hwy/store-85/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339667267",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/valley-station/10704-dixie-highway/store-5430/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w345113500",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/jeffersontown/1640-ky-mill-rd/store-5766/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w674843460",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/in/new-albany/2119-state-st/store-6532/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1197726642",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/ky/mount-washington/360-village-lane/store-6964/",
+    "note": "Official brand locator page for this address live on 2026-11-17 (HTTP 200, store title/address shown, no closed flag)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1229644676",
+  "name": "Arby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.arbys.com/locations/us/in/clarksville/935-e-hwy-131/store-664/",
+    "note": "Official store page live 2026-11-17: same store-664 at 935 E Hwy 131 (= E Lewis and Clark Pkwy); old URL in OSM 404s only because slug changed"
+   }
+  ],
+  "confidence": "high"
+ }
+]

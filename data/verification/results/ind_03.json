@@ -1,0 +1,761 @@
+[
+ {
+  "id": "n3373722593",
+  "name": "Cafe 360",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/news/wdrb-video/vacant-caf-360-in-the-highlands-raises-safety-concerns-as-city-steps-in/video_9146f323-709f-573f-88d5-e7db143d2727.html",
+    "note": "WDRB: former Cafe 360 at Bardstown Rd/Bonnycastle vacant since a shooting inside the business"
+   },
+   {
+    "url": "https://issuu.com/foodanddiningmagazine/docs/_vol_88_winter_2025",
+    "note": "Food & Dining Winter 2025 lists Hurry for Curry at 1582 Bardstown Rd (different business now at address)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3375209379",
+  "name": "Darling's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.leoweekly.com/food-drink/darlings-cocktail-bar-opens-in-former-better-days-records-highlands-location-15756242",
+    "note": "LEO: Darlings cocktail bar opened at 1765 Bardstown Rd (former Better Days Records)"
+   },
+   {
+    "url": "https://www.mapquest.com/us/kentucky/darlings-432007240",
+    "note": "MapQuest listing at 1765 Bardstown Rd; no permanent-closure flag; no 2025-26 date seen"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n2804468137",
+  "name": "Day's Espresso and Coffee",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://tablejourney.com/united-states/louisville/cuisine/cafe/",
+    "note": "Current directory listing, Day's Espresso 1420 Bardstown Rd, operating since 1994, 4.4 rating"
+   },
+   {
+    "url": "https://studyanywhere.netlify.app/businesses/6829f4dcaf341899634f52e7",
+    "note": "Listing with 383 reviews (created 2025)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3364553663",
+  "name": "DiOrio's Pizza and Pub",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://gotolouisville.com/directory/diorios-pizza-and-pub",
+    "note": "Official tourism directory lists 919 Baxter Ave location, (502) 614-8424, with hours"
+   },
+   {
+    "url": "https://stacker.com/stories/kentucky/louisville/highest-rated-pizza-restaurants-louisville",
+    "note": "Stacker ranking includes DiOrio's"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3360206829",
+  "name": "Ditto's Grill",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://order.online/store/dittos-grill-louisville-2036583",
+    "note": "DoorDash/order.online pickup & delivery store for Ditto's Grill (Bardstown Road)"
+   },
+   {
+    "url": "https://www.eatokra.com/businesses/ditto-s-grill",
+    "note": "Listing at 1114 Bardstown Rd with hours"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n13953138860",
+  "name": "Dragon King's Daughter",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://startpage.mapquest.com/us/kentucky/dragon-kings-daughter-378591598",
+    "note": "MapQuest listing at 1543 Bardstown Rd shows 'Closed' (undated; may just be hours)"
+   },
+   {
+    "url": "https://www.wdrb.com/news/dragon-kings-daughter-expands-into-new-location-on-bardstown-road/article_e7719314-4674-11ed-a960-af2cabc28e4a.html",
+    "note": "WDRB 2022: moved into former Cafe Mimosa space at 1543 Bardstown Rd"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3363783654",
+  "name": "Dundee Tavern",
+  "status": "renamed",
+  "new_name": "Derby City Pizza",
+  "evidence": [
+   {
+    "url": "https://www.aol.com/tough-decision-dundee-tavern-close-150358559.html",
+    "note": "2024: Dundee Tavern closed (last day May 4, 2024) and rebranded as 10th Derby City Pizza location"
+   },
+   {
+    "url": "https://www.wdrb.com/dundee-to-derby-city-pizza-jpeg/image_049407de-51fd-11ef-95dc-9b01bfe93dab.html",
+    "note": "WDRB Aug 2024 image: Dundee to Derby City Pizza"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3363783665",
+  "name": "Eat A Pita",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.doordash.com/es/store/eat-a-pita-233937/",
+    "note": "DoorDash store page for Eat A Pita"
+   },
+   {
+    "url": "https://www.happycow.net/reviews/eat-a-pita-louisville-111885",
+    "note": "HappyCow listing at 2286 Bardstown Rd"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3375209380",
+  "name": "El Mundo",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://aol.com/frankfort-avenue-el-mundo-location-090038785.html",
+    "note": "Late 2023: Frankfort Ave El Mundo closed/for sale; Bardstown Road location to remain open"
+   },
+   {
+    "url": "https://www.findmeglutenfree.com/biz/el-mundo-highlands/5168846919565312",
+    "note": "El Mundo Highlands listing, 1767 Bardstown Rd, with hours"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3369099102",
+  "name": "Flannigan's Ale House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.toasttab.com/local/order/flanagans-ale-house-934-baxter-ave/r-700efe3b-927d-4c74-b96f-29faddaf937f",
+    "note": "Toast online ordering page for Flanagan's Ale House, 934 Baxter Ave, with hours"
+   },
+   {
+    "url": "https://www.ubereats.com/store/flanagans-ale-house/2lFd6RUXVsiLqGLf3d4v7A",
+    "note": "Uber Eats shows store closed on the platform as of Feb 19 2026 (platform only, not a permanent-closure notice)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3373722598",
+  "name": "Fun Boba Tea",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://ubereats.com/store/fun-boba-tea/jTOjLVNHVXmsBuBp0wSR4g",
+    "note": "Uber Eats store, 1608 Bardstown Rd"
+   },
+   {
+    "url": "https://www.restaurantji.com/ky/louisville/fun-boba-tea-/",
+    "note": "Listing with daily hours 12-8 PM"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w330429893",
+  "name": "Georgia's Sweet Potato Pie Company",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://whas11.com/article/money/business/georgias-sweet-potato-pie-company-launches-in-highlands-with-ribbon-cutting/417-fb76be9d-7987-4740-906c-1cc746cc25b4",
+    "note": "2021 ribbon cutting for 1559 Bardstown Rd shop"
+   },
+   {
+    "url": "https://overlookmaps.com/places/georgias-sweet-potato-pie-company-louisville-6297400062522094",
+    "note": "Listing with hours Wed-Sun; no closure flag (no 2025-26 date)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w329565879",
+  "name": "Gogi 1055 Korean BBQ",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://atmosfy.io/location/louisville/gogi-1055",
+    "note": "Listing for Gogi 1055 at 1055 Bardstown Rd"
+   },
+   {
+    "url": "https://www.giftly.com/gift-card/gogi-1055-korean-bbq-louisville",
+    "note": "Gift card listing, locally owned restaurant"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n13289424475",
+  "name": "Goodfellas Pizzeria",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.doordash.com/store/28112745",
+    "note": "DoorDash store for Goodfellas Pizzeria Baxter Ave"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/kentucky/goodfellas-pizzeria-baxter-ave-431375288",
+    "note": "MapQuest listing 642 Baxter Ave Ste 102 showing open"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n2848948717",
+  "name": "Green District Salads",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://ubereats.com/store/green-district-salads-highlands/PTNAwRB4TrmqfHr5yZUJqA",
+    "note": "Uber Eats store Green District Salads Highlands, 1449 Bardstown Rd (matches lat/lng at Bardstown/Eastern Pkwy)"
+   },
+   {
+    "url": "https://www.ezcater.com/catering/green-district-salads-louisville-bardstown-rd",
+    "note": "ezCater Bardstown Rd store"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3363641820",
+  "name": "Haraz Coffee House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/news/business/haraz-coffee-house-opens-second-louisville-location-in-the-highlands/article_806ba41c-a0dc-11ed-add2-8b2b8e7cce14.html",
+    "note": "WDRB 2023: Haraz opened Highlands location at Baxter Ave & Highland Ave corner (matches 970 Baxter coords)"
+   },
+   {
+    "url": "https://issuu.com/foodanddiningmagazine/docs/_vol_87_fall_2025/44",
+    "note": "Mentioned in Food & Dining Fall 2025"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n5269148662",
+  "name": "Havana Rumba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://startpage.mapquest.com/us/kentucky/havana-rumba-tapas-bar-290317332",
+    "note": "MapQuest listing Havana Rumba & Tapas Bar, 2210 Bardstown Rd (matches coords); newest review 9/6/2025"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w329188722",
+  "name": "Heart and Soy",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://order.online/store/-233599/",
+    "note": "DoorDash/order.online pickup & delivery page for Heart & Soy"
+   },
+   {
+    "url": "https://spinach.guide/venues/heart-and-soy-128183/",
+    "note": "Listing at 1216 Bardstown Rd with hours"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n13953129582",
+  "name": "Hideaway Saloon",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://styleblueprint.com/louisville/everyday/dive-bars-in-louisville",
+    "note": "StyleBlueprint dive-bar guide lists Hideaway Saloon, 1607 Bardstown Rd (matches coords)"
+   },
+   {
+    "url": "https://www.city-data.com/guides/ky/louisville/nightlife-hideaway-saloon-38178.html",
+    "note": "Listing 1607 Bardstown Rd"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3360773529",
+  "name": "Highland Morning",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/wdrb-in-the-morning/be-our-guest-at-highland-morning/article_0b9d11f2-10e9-11ee-96bc-ff995ebd158a.html",
+    "note": "WDRB 2023 feature on Highland Morning (Bardstown Rd, plus St. Matthews second location)"
+   },
+   {
+    "url": "https://gotolouisville.com/directory/highland-morning",
+    "note": "Tourism directory listing, 1416 Bardstown Rd"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w299929745",
+  "name": "Highlands Tap Room",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://eventective.com/louisville-ky/highlands-tap-room-643380.html",
+    "note": "Event venue listing, 1056/1058 Bardstown Rd"
+   },
+   {
+    "url": "https://www.allmenus.com/ky/louisville/313784-highlands-taproom-grill/menu/",
+    "note": "Menu listing 1058 Bardstown Rd; no closure report found"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w329565878",
+  "name": "Homemade Ice Cream and Pie Kitchen",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3373719479",
+  "name": "I ♥ Tacos",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w329933335",
+  "name": "Kashmir Restaurant",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3375222879",
+  "name": "Kiwami Ramen",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3360773527",
+  "name": "Kizito Cookies",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6065590591",
+  "name": "La Chasse",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6066622790",
+  "name": "La Peche Gourmet To Go and Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3368832068",
+  "name": "Le Petit Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3368831496",
+  "name": "Lilly's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n5269119084",
+  "name": "Lovafare (vegan)",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n9915806511",
+  "name": "Lucky Cat Café and Lounge",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.luckycatcafe.org/",
+    "note": "Listed website now 301-redirects to an unrelated optics retailer (tacticon.com) - domain lapsed, suggests possible closure; not confirmed"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n5269133037",
+  "name": "Molly Malones",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://toast.app/r/molly-malones-louisville-933-baxter-ave/order",
+    "note": "Toast online ordering page for Molly Malone's, 933 Baxter Ave (matches coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n5264982602",
+  "name": "Noche Mexican BBQ",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.nochemexicanbbq.com/",
+    "note": "Official site lists 1838 Bardstown Rd with hours, no closure notice; OpenTable 2026 badge"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3375256894",
+  "name": "North End Cafe",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whas11.com/article/news/why-is-north-end-cafe-closing-its-bardstown-rd-location/417-17cd62d6-56ee-4b77-8cd1-7a13c51df7f3",
+    "note": "WHAS11 headline seen in search results: 'Why is North End Cafe closing its Bardstown Rd location' (article body 403, date not seen)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3375256895",
+  "name": "North End Slice",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n5269138676",
+  "name": "Osheas Irish Pub",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.toasttab.com/local/order/o-shea-s-956-baxter",
+    "note": "Toast online ordering page for O'Shea's, 956 Baxter (matches coords)"
+   },
+   {
+    "url": "https://gotolouisville.com/directory/osheas-irish-pub",
+    "note": "Tourism directory listing O'Shea's Irish Pub"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w329958865",
+  "name": "PG&J's Dog Park Bar",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.pgjdogbar.com/",
+    "note": "Official site: hours, holiday hours through Dec 2026, events Nov 17-Dec 31 2026"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n9915810825",
+  "name": "Panchito's Ice Cream & Taqueria",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w329538247",
+  "name": "Payne Street Bakehouse",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://paynestreetbakehouse.com",
+    "note": "Official site active: curbside ordering by text and catering; no address/hours shown"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3375222881",
+  "name": "Pho Cafe on Bardstown",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3375209372",
+  "name": "Purrfect Day Cat Cafe",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.purrfectdaycafe.com/",
+    "note": "Official site lists 1741 Bardstown Rd with hours and booking link; no closure notice"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n12700158303",
+  "name": "ROC",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.rocrestaurant.com/",
+    "note": "Official site: 1327 Bardstown Rd, hours, 'open today' banner, 2026 copyright"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "r20201963",
+  "name": "Ramsi's Cafe On the World",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://ramsiscafe.com/",
+    "note": "Official site: 1293 Bardstown Rd, hours, promos; images uploaded March 2026"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3375209377",
+  "name": "Rawnaissance Raw Organic Desserts",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w330412601",
+  "name": "River City Drafthouse",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3467847353",
+  "name": "Roux",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w330555899",
+  "name": "Safai Coffee",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3375222882",
+  "name": "Sapporro Grill & Sushi",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3373722656",
+  "name": "Sarang",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6328331485",
+  "name": "Señora Arepa",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w330411891",
+  "name": "Shenanigans Bar & Grill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3363783640",
+  "name": "Sinclair Smoked Salmon",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3368830981",
+  "name": "Somewhere Louisville",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w330558017",
+  "name": "Sow Bistro",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6739141655",
+  "name": "Spinelli's Pizza",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6724092871",
+  "name": "Sunergos Coffee",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3357102175",
+  "name": "The Bard's Town",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3375222880",
+  "name": "The Bep - Boba Teahouse",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3364553593",
+  "name": "The Fat Lamb",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6066456089",
+  "name": "The Fish House",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w329933368",
+  "name": "The Joy Luck",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3363783649",
+  "name": "The Silly Axe Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3357102192",
+  "name": "Top 1 Korean BBQ & Hotpot",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w544898832",
+  "name": "Twig and Leaf",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "w337886842",
+    "name": "Burger King",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://content.govdelivery.com/accounts/KYLOUISVILLE/bulletins/3f69c41",
+        "note": "Official October2025 city bulletin explicitly identifies 6450 Outer Loop as former Burger King. Independently searched and loaded search result; same primary evidence as first pass because strongest exact-address source."
+      }
+    ]
+  },
+  {
+    "id": "n3373719472",
+    "name": "Smoothie King",
+    "status": "renamed",
+    "new_name": "Jump Start Smoothies",
+    "agrees_with_first": true,
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://jumpstartsmoothies.com/highlands-louisville/",
+        "note": "Current official Jump Start Highlands page identifies exact 1504 Bardstown address; distinct from initial Toast evidence."
+      },
+      {
+        "url": "https://www.ubereats.com/store/jump-start-smoothies-highlands/38OqaiCGQ2eiZELvA6WcVw",
+        "note": "Independent current exact-address delivery listing for replacement brand."
+      }
+    ]
+  }
+]

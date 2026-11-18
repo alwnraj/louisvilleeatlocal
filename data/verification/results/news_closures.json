@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Taco Bell",
+    "address_or_area": "1487 East 10th Street",
+    "closed_date": "2026-08-24 (reported former Taco Bell)",
+    "reopened": false,
+    "evidence_url": "https://www.aol.com/articles/york-burger-chain-holy-burger-175138000.html",
+    "note": "Courier Journal Aug 24, 2026 identifies 1487 E 10th as former Taco Bell leased to Holy Burger; opening anticipated within six months. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Wendy's",
+    "address_or_area": "2800 Packerland Way",
+    "closed_date": "2024-12 (announced)",
+    "reopened": false,
+    "evidence_url": "https://www.wlky.com/article/wendys-closing-five-louisville-locations/63186415",
+    "note": "December 2024 local report includes Packerland in five permanent Louisville closures; stale Yellow Pages open-now labels conflict with dated news. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Wendy's",
+    "address_or_area": "9489 Westport Road",
+    "closed_date": "2024 or earlier",
+    "reopened": false,
+    "evidence_url": "https://www.yahoo.com/news/whats-replacing-former-wendys-westport-090053863.html",
+    "note": "Courier Journal reports 7 Brew replacing former Wendys at exact 9489 Westport address; official 7 Brew location also seen. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Wendy's",
+    "address_or_area": "5101 Preston Highway",
+    "closed_date": "2024-12 (announced)",
+    "reopened": false,
+    "evidence_url": "https://www.wlky.com/article/wendys-closing-five-louisville-locations/63186415",
+    "note": "Report gives nearby 5105 Preston rather than OSM 5101; consistent site, but address discrepancy retained. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Wendy's",
+    "address_or_area": "4259 Outer Loop",
+    "closed_date": "2024-12 (announced)",
+    "reopened": false,
+    "evidence_url": "https://www.wlky.com/article/wendys-closing-five-louisville-locations/63186415",
+    "note": "December 2024 closure report includes exact Outer Loop address. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "White Castle",
+    "address_or_area": "4020 Shelbyville Road",
+    "closed_date": "2023-12-25",
+    "reopened": false,
+    "evidence_url": "https://www.wlky.com/article/st-matthews-white-castle-closing-christmas-day/46147224",
+    "note": "December 2023 report identifies exact address and permanent Christmas closure. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Panera Bread",
+    "address_or_area": "Downtown",
+    "closed_date": "2021-03",
+    "reopened": false,
+    "evidence_url": "https://www.wlky.com/article/panera-bread-closes-downtown-louisville-location/35843236",
+    "note": "March 2021 report confirms permanent closure at 400 W Market, matching mapped corner. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Panera Bread",
+    "address_or_area": "4024 Shelbyville Road",
+    "closed_date": "2020-12",
+    "reopened": false,
+    "evidence_url": "https://www.ubereats.com/store/perm-closed-panera-4024-shelbyville-rd/fft1TdXCR9ef19DnryedBw",
+    "note": "Exact location explicitly titled PERM CLOSED; independently corroborated by WLKY Dec 2020 report. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Mark's Feed Store",
+    "address_or_area": "1514 Bardstown Road",
+    "closed_date": "2025-08-24",
+    "reopened": false,
+    "evidence_url": "https://foodanddine.com/marks-feed-stores-location-in-deer-park-to-close-aug-24/",
+    "note": "July 18, 2025 report sets final service August 24 at exact 1514 Bardstown. Official Toast closure notice also seen. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Please & Thank You on the Avenue",
+    "address_or_area": "2341 Frankfort Avenue",
+    "closed_date": "2026-10-19",
+    "reopened": false,
+    "evidence_url": "https://www.bizjournals.com/louisville/news/2026/10/20/please-thank-you-closes-frankfort-avenue-store.html",
+    "note": "October 20, 2026 local report says exact 2341 Frankfort shop closed Oct 19; avoids contradictory automated Hoodline story. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Zeggz Amazing Eggs",
+    "address_or_area": "Lyndon & Westport",
+    "closed_date": "2019-04-01",
+    "reopened": false,
+    "evidence_url": "https://zeggzeggz.com/wp-content/uploads/2019/04/ZEGGZ-Lime-Kiln-Closing.pdf",
+    "note": "Dated April 3, 2019 brand press release confirms Lime Kiln closed April 1, 2019 for Mi Tierra expansion; distinct document from initial contact page. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "TGI Fridays",
+    "address_or_area": "415 South 4th Street",
+    "closed_date": "2024-06-24",
+    "reopened": false,
+    "evidence_url": "https://www.wlky.com/article/louisville-tgi-fridays-closes-fourth-street-live/61426739",
+    "note": "June 2024 local report confirms last Louisville TGIF at Fourth Street Live closed permanently. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "The Champagnery at Architype Gallery",
+    "address_or_area": "1764 Frankfort Avenue",
+    "closed_date": "2025",
+    "reopened": false,
+    "evidence_url": "https://www.wdrb.com/news/business/champagne-bar-on-frankfort-avenue-in-louisville-closing-its-doors/article_4b4e45d4-02b7-4920-9962-810890e5ae4e.html",
+    "note": "2025 closure report for exact 1764 Frankfort; 2024 reopening predates this later closure. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "The HUB",
+    "address_or_area": "Crescent Hill & Clifton",
+    "closed_date": "2024-12 (relocated)",
+    "reopened": false,
+    "evidence_url": "https://www.bizjournals.com/louisville/news/2024/12/05/the-hub-moving-to-bardstown-road-space.html",
+    "note": "Hub relocated from 2235 Frankfort to 1133 Bardstown December 2024, well over 150m; closed at old map point. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Bristol Bar and Grill",
+    "address_or_area": "614 West Main Street",
+    "closed_date": "2026-05-24",
+    "reopened": false,
+    "evidence_url": "https://foodanddine.com/bristol-bar-grill-will-close-downtown-after-service-on-may-24/",
+    "note": "May 23, 2026 local report confirms final service May 24 at exact 614 W Main. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Los Aztecas",
+    "address_or_area": "530 West Main Street",
+    "closed_date": "2019-11-01 (relocated)",
+    "reopened": false,
+    "evidence_url": "https://www.losaztecasnulu.com/louisville-los-aztecas-mexican-restaurant-about",
+    "note": "Restaurant history explicitly says 530 W Main moved to 445 E Market in 2019, well over 150m. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Milkwood Restaurant",
+    "address_or_area": "316 West Main Street",
+    "closed_date": "2020",
+    "reopened": false,
+    "evidence_url": "https://foodanddine.com/welcome-to-comings-goings-a-weekly-snapshot-of-the-food-and-dining-scene/",
+    "note": "2020 local report states Milkwood at 316 W Main closed as commercial restaurant and became McAtee Community Kitchen; stronger than expired domain evidence. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Cafe 360",
+    "address_or_area": "1582 Bardstown Road",
+    "closed_date": "2024-09",
+    "reopened": false,
+    "evidence_url": "https://www.wdrb.com/news/business/caf-360-on-bardstown-road-closes-its-doors/article_52fb2022-812f-11ef-943f-c3071f944131.html",
+    "note": "October 2024 report confirms Cafe 360 closure; later Hurry for Curry opened at same address, then itself closed in Nov 2026. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "North End Cafe",
+    "address_or_area": "2116 Bardstown Road",
+    "closed_date": "2019-02",
+    "reopened": false,
+    "evidence_url": "https://www.ubereats.com/store/north-end-cafe/rUHsORlAQcuu3LZfEmBMDw",
+    "note": "Exact 2116 Bardstown location closed on platform; 2019 WLKY closure roundup independently identifies address. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Vinaigrette Salad Kitchen",
+    "address_or_area": "3012 Bardstown Road",
+    "closed_date": "2026-09-02",
+    "reopened": false,
+    "evidence_url": "https://www.wdrbwave.com/2026/09/11/vinaigrette-salad-kitchen-closes-last-louisville-location-it-exits-market/?outputType=amp",
+    "note": "September 2026 report confirms last Louisville store at 3012 Bardstown closed Sept 2; earlier 2025 open report superseded. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "Yang-Kee Noodle",
+    "address_or_area": "Lyndon & Westport",
+    "closed_date": "2019",
+    "reopened": false,
+    "evidence_url": "https://www.wlky.com/article/here-are-the-restaurants-that-closed-in-louisville-in-2019/30286240",
+    "note": "2019 local closure roundup identifies Yang Kee at 7900 Shelbyville (Oxmoor), matching point; distinct from initial WDRB evidence. No later reopening at the old location found during this check; not proof no reopening occurred."
+  },
+  {
+    "name": "The Champagnery",
+    "address_or_area": "1764 Frankfort Avenue",
+    "closed_date": "2023 (temporary closure)",
+    "reopened": true,
+    "evidence_url": "https://www.bizjournals.com/louisville/news/2024/01/10/the-champagnery-reopens-after-year-long-closure.html",
+    "note": "Reopened January 5, 2024; a distinct later 2025 closure is separately recorded above."
+  }
+]

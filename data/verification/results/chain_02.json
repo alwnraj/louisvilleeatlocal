@@ -1,0 +1,997 @@
+[
+ {
+  "id": "n259306258",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/mount-washington/149-oakbrooke-drive.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/mount-washington.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5654178230",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/12434-lagrange-rd-.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5670314317",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/in/new-albany/4018-grant-line-road.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/in/new-albany.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n9982936309",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/in/new-albany/100-daisy-summit.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/in/new-albany.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11056001325",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/in/jeffersonville/5031-watertower-rd-.html",
+    "note": "Official locator page for 5031 Watertower Rd (OSM housenumber 5301 is a typo); geo 38.35198,-85.70469 matches; listed on Jeffersonville city page (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n13283031551",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/7420-westport-road.html",
+    "note": "Official locator page 7420 Westport Road, geo 38.27055,-85.61422 matches OSM point; listed on Louisville city page (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w273891620",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/jeffersontown/9102-taylorsville-rd.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/jeffersontown.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329500226",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/2801-w-broadway-ave.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329551955",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/middletown/12529-shelbyville-rd.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/middletown.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329566180",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/1069-bardstown-rd.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w330373048",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/2009-brownsboro-rd.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w332453659",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/3125-poplar-level-rd-.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336482084",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/6501-paramount-park-dr-.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336501650",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/3520-bardstown-rd-.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336682484",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/10541-fischer-park-drive.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337448363",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/11206-preston-hwy.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337707587",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/3950-taylorsville-road.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337717891",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/4910-shelbyville-rd.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w338401059",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/6800-bardstown-rd-.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339234543",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/5414-newcut-rd.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339254104",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/10701-dixie-hwy.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w340044020",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/4643-dixie-hwy.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w343715526",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/12609-taylorsville-rd.html",
+    "note": "Official locator page 12609 Taylorsville Rd, geo 38.18815,-85.51801 matches (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w350431805",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/108-e--broadway.html",
+    "note": "Official locator page 108 E. Broadway, geo 38.24538,-85.75267 matches OSM point (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w544701060",
+  "name": "Taco Bell",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/in/jeffersonville/1487-east-10th-street.html",
+    "note": "Official locator page now redirects to the locator index (2026-11-17); 1487 not on Jeffersonville city page, which lists 2966 E 10th St, 5031 Watertower Rd and 911 Gateway Dr"
+   },
+   {
+    "url": "https://locations.tacobell.com/in/jeffersonville.html",
+    "note": "Jeffersonville directory lists only 2966 E 10th, 5031 Watertower, 911 Gateway (2026-11-17)"
+   },
+   {
+    "url": "https://www.commercialsearch.com/commercial-property/us/in/jeffersonville/1487-e-10th-st/",
+    "note": "Search result: 1487 E 10th St listed as 'Turnkey QSR with Drive-Thru' for lease (date unknown)"
+   },
+   {
+    "url": "https://www.wdrb.com/news/wdrb-video/nyc-based-burger-chain-to-open-1st-indiana-location-in-jeffersonville/video_8dbb9cec-0efa-5f1c-9bec-89aeceaa2d75.html",
+    "note": "Search result: WDRB report that a burger chain (Holy Burger) will take over the former Taco Bell on 10th Street (date not seen)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w665447797",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/1801-south-brook-street.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w727598164",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/in/floyds-knobs/900-lafollette-center-north.html",
+    "note": "Official locator lists 900 Lafollette Center North, Floyds Knobs (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w728254434",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/in/clarksville/1325-veterans-pkwy-.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/in/clarksville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w934507375",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/in/sellersburg/8111-highway-311.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/in/sellersburg.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1077512541",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/crestwood/6521-veterans-memorial-pkwy.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/crestwood.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1093670239",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/in/jeffersonville/2966-e-10th-st.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/in/jeffersonville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1134934354",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/shepherdsville/1961-east-blue-lick-road.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/shepherdsville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1190685903",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/shepherdsville/120-n-joe-b--hall-ave-.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/shepherdsville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1526877054",
+  "name": "Taco Bell",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tacobell.com/ky/louisville/5868-new-cut-road.html",
+    "note": "Official Taco Bell locator page for this street address is live and the store is listed on the city directory page (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.tacobell.com/ky/louisville.html",
+    "note": "City directory page includes this address (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n1749243769",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Official Starbucks locator lists 'Univ. of Louisville Ekstrom Li', 2301 S. 3rd Street, open 7:30AM-10PM (checked 2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n2294941876",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Paddock Shops, 4001 Summit Plaza Dr Ste G15, open 5AM-9PM (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n2767100971",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Hwy 329 & I 71, 7203 Hwy 329, Crestwood, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n2789496731",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Hurstbourne & Taylorsville, 9036 Taylorsville Rd, Jeffersontown, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3364252337",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists LaGrange and Factory, 12911 Factory Ln (shown 'Closed' only for current hours at check time; store listed) (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3383405060",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Hyatt Regency Louisville Lobby, 311 S 4th St (same building as OSM 313 S 4th St), open 6AM-4PM (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3505154472",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Taylorsville & I-265, 12605 Taylorsville Rd, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5920908473",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Target St. Matthews 2473, 4174 Westport Rd, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6069056995",
+  "name": "Starbucks",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?place=38.25644%2C-85.75779",
+    "note": "Official locator search at these coordinates finds no store at this spot; nearest are Hyatt Regency 311 S 4th St (0.2 mi, a separate OSM entry) and Marriott 280 W Jefferson (0.3 mi) (2026-11-17). No address in OSM; could not confirm which former store this was."
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n6391860005",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Holiday Manor, 4942 US Hwy 42, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6804079685",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Louisville Marriott Downtown, 280 W Jefferson St, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6981364332",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Clarksville - Veterans Pkwy, 1231 Veterans Pkwy, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n7674871868",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Target Clarksville 2068, 1125 Veterans Pkwy, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n9446248838",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Target Louisville 1071, 4101 Towne Center Dr, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11268046279",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Middletown - Shelbyville & I 265, 12620 Shelbyville Rd, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11981631849",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?place=38.30536%2C-85.83825",
+    "note": "Locator search at these coordinates: Kroger New Albany 396, 200 New Albany Plaza, 0 miles away, open (2026-11-17)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n12391906931",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?place=38.33633%2C-85.70702",
+    "note": "Locator search at these coordinates: 10th & Herb Lewis Rd, 3566 E 10th St, Jeffersonville, 0 miles away, open (2026-11-17)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n12658886134",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?place=38.21568%2C-85.53807",
+    "note": "Locator search at these coordinates: Louisville-Blankenbaker & I-64, 1831 Blankenbaker Pkwy, 0 miles away, open (2026-11-17)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w158694734",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Hurstbourne & I-64, 1321 S. Hurstbourne Pkwy, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w332420197",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Prospect Plaza, 9205 US Highway 42, Prospect, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w334002961",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Frankfort & Lexington, 3702 Frankfort Ave, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w334007681",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Bardstown & Heather, 3401 Bardstown Rd, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337501564",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Shelbyville & Hurstbourne, 101 N Hurstbourne Ln, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337707586",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Taylorsville & Hikes, 3954 Taylorsville Rd, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337714731",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists 4400 Shelbyville Rd., open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339259014",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.25381,-85.81989,10z&place=2220%20State%20St%2C%20New%20Albany%2C%20IN",
+    "note": "Locator lists Dixie Hwy & Kerrick, 6731 Dixie Hwy, Dixie Manor Shopping Center, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w514511023",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists SDF Starbucks Rotunda, 600 Terminal Dr, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w682955460",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Westport and Freys Hill Rd, 10240 Westport Road (same store #1009826 as OSM website), open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w720710938",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.25381,-85.81989,10z&place=2220%20State%20St%2C%20New%20Albany%2C%20IN",
+    "note": "Locator lists New Albany - Wesley Commons, 2220 State St, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w824930272",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists 10th Street & I-65, 901 Gateway Drive, Jeffersonville, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1028871322",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Central & 3rd, 3103 S. Third Street, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1190671154",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?place=37.99211%2C-85.70666",
+    "note": "Locator search at these coordinates: I-65 and Hwy 44 - Shepherdsville, 174 Keystone Crossing Drive, 0 miles away, open (2026-11-17)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w1468476972",
+  "name": "Starbucks",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starbucks.com/store-locator?map=38.263645,-85.581445,10z&place=4001%20Summit%20Plaza%20Dr%2C%20Louisville%2C%20KY",
+    "note": "Locator lists Charlestown Rd & I-265, 4401 Charlestown Rd, New Albany, open (2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ }
+]

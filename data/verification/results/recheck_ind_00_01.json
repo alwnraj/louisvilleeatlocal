@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "w337108644",
+    "name": "Lolitas Tacos",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Only old exact4222Poplar listings found; current operation not established."
+  },
+  {
+    "id": "w337108136",
+    "name": "Marma Dukes",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://restaurants-cafes.com/Kentucky/Louisville/Marma_Dukes",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3187693661",
+    "name": "New Wave Burritos",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/new-wave-burritos-closing-louisville-food/44738278",
+        "note": "August 2023 local report announces closure at 3311 Preston Highway."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3395892510",
+    "name": "Oskar's Slider Bar",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.oskarssliderbar.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w334733226",
+    "name": "Pizzeria Villagio",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Only generic937Phillips listings; searches also return unrelated Virginia/Philadelphia businesses, rejected."
+  },
+  {
+    "id": "n11919125412",
+    "name": "Preston Boba",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/preston-boba-/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13283080840",
+    "name": "Proof Me Wrong Bourbon Bar",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.flylouisville.com/dining/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4039286231",
+    "name": "The Deuce",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/deuce-/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13283080839",
+    "name": "The Mint Julep",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.flylouisville.com/dining/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14018375036",
+    "name": "Asian Buffet",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.asianbuffetnewalbany.com/rf621e5r/restaurant/order-online/menus/buffet-menu/45640438?category=Dinner+Buffet&menu=Buffet+Menu",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13384448659",
+    "name": "Blossom Bar",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Blossom Bar addressless point not matched to current exact restaurant."
+  },
+  {
+    "id": "w1527363968",
+    "name": "Carali's Rotisserie Chicken",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://caralischicken.com/clarksville",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13424045321",
+    "name": "ChillBurger",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://thechillburger.com/contact-us/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13925338042",
+    "name": "China Food",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/in/sellersburg/china-food-/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5999579236",
+    "name": "Flippin' Pancakes",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Only old FlippinPancakes listings at1220Veterans/4320Charlestown; mapped Charlestown point current operation not established."
+  },
+  {
+    "id": "n6633976785",
+    "name": "Naila\u2019s Caribbean cuisine",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Old source gives1370Veterans whereas OSM1360; no current exact confirmation."
+  },
+  {
+    "id": "n13384448664",
+    "name": "Puerto Vallarta",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Search results chiefly SouthBend or Jeffersonville; rejected as not mapped NewAlbany-area point."
+  },
+  {
+    "id": "n6297867439",
+    "name": "Starlight",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.starlightcoffeeco.com/contact-us",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1339619918",
+    "name": "Starlight Coffee",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Official Starlight location list seen but mapped addressless point not confidently matched; may duplicate another entry."
+  },
+  {
+    "id": "n5716196283",
+    "name": "Topp't",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/in/new-albany/toppt-handcrafted-pizzas-chopped-salads-/",
+        "note": "Exact 379 Professional Court listing explicitly marked CLOSED; independent 2023 local closure report is in the crosscheck file."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1444321318",
+    "name": "William's Bakery",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/in/clarksville/williams-bakery-/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1291635957",
+    "name": "Yummy Bowl",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://ybclarksville.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5702447325",
+    "name": "Asian Wok",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.asianwokrestaurant.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5626565722",
+    "name": "Blue Dog Bakery & Cafe",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://bluedogbakeryandcafe.com/contact",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364312615",
+    "name": "Bourbons Bistro",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://bourbonsbistro.com/faq",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7618111885",
+    "name": "Cafe Aroma",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://cafearomaky.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5637325726",
+    "name": "Caffe Classico",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/caffe-classico",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364290692",
+    "name": "Caspian Grill",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/caspian-grill-persian-bistro-/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330369907",
+    "name": "Clifton Donut Shop",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://maps.roadtrippers.com/us/louisville-ky/food-drink/clifton-donut-shop",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364290689",
+    "name": "Crescent Hill Coffee",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://eggsoverfrankfortcrescenthillcoffee.com/order",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5643088122",
+    "name": "Eatz Vietnamese Restaurant",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.eatzvietnameseky.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364290686",
+    "name": "Eggs over Frankfort",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://eggsoverfrankfortcrescenthillcoffee.com/contact",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7618129085",
+    "name": "El Frijol",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Only OSM-derived ElFrijol listings found, not independent evidence."
+  },
+  {
+    "id": "n6391860085",
+    "name": "FABD Smokehouse",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "FABDSmokehouse exact3204Frankfort historic menu/listing but no reliable current confirmation."
+  },
+  {
+    "id": "n5702477122",
+    "name": "Gallant Fox Brewing Company",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://gallantfoxbrewing.com/louisville",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7211744480",
+    "name": "Gelato Gilberto",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://gelatogilberto.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n2548889297",
+    "name": "Great Wall",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "GreatWall current1977Brownsboro location does not match addressless point roughly400m east; cannot apply other entry evidence."
+  },
+  {
+    "id": "n7619070186",
+    "name": "Great Wall",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.greatwalllouisville.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6629335485",
+    "name": "Hooked on Frankfort",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/place/details/1554237",
+        "note": "Exact 3200 Frankfort listing marked permanently closed; Tripadvisor independently labels the same address CLOSED."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5700155943",
+    "name": "Kiwa",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wdrbwave.com/2026/11/03/louisville-korean-cafe-kiwa-temporarily-closes-frankfort-avenue/",
+        "note": "November 3, 2026 local news calls KIWA closure temporary; permanence is not established."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6065597390",
+    "name": "Levee at River House",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "RiverHouse operates at3015River but Levee separate venue identity/current status not established."
+  },
+  {
+    "id": "n3364206300",
+    "name": "Miki's Karaoke Bar",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/mikis-karaoke-bar-2230-frankfort-avenue",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12356469168",
+    "name": "New York Pizza Company",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://louisvillepizzaweek.com/restaurant/new-york-pizza-company/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330369910",
+    "name": "Ntaba Coffee Haus",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://ntabacoffee.haus/contact/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5681795914",
+    "name": "Osaka Sushi Bar",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://louisville.eater.com/venue/7858/osaka-sushi-japanese-cuisine",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066456090",
+    "name": "Ostra",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/frankfort-avenue-restaurant-ostra-closes-permanently-due-to-covid-19/32498399",
+        "note": "This 2020 closure was followed by a reopening. Use the separate independent crosscheck: final closure occurred January 8, 2022."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330370030",
+    "name": "Pat's Steak House",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://patssteakhouselouisville.com/contact-us",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7461437484",
+    "name": "Porcini",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.porcini502.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5624467444",
+    "name": "Red Hog",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://redhogartisanmeat.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6065590595",
+    "name": "River House Restaurant & Raw Bar",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.riverhouselouisville.com/contact",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9668218017",
+    "name": "Scholars Coffee",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://inside.sbts.edu/dining-services/",
+        "note": "Seminary directory confirms campus coffee service, but current access to the public is unconfirmed."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5692588322",
+    "name": "TMP The Manhattan Project",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.themanhattanprojectky.com/location",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13272377212",
+    "name": "Taqueria Danny",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "TaqueriaDanny delivery listing found but exact mapped point/operating status not sufficiently established."
+  },
+  {
+    "id": "n5649559522",
+    "name": "The Yellow Cactus",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Two exact2350Frankfort delivery listings conflict; one closed onUber. Needs own current confirmation."
+  },
+  {
+    "id": "n7243510117",
+    "name": "3rd Turn Oldham Gardens",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://oldhamgardens.3rdturnbrewing.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1078002456",
+    "name": "A Taste of Thai",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Sources give6549WHighway22 versus OSM6002PleasantColony; move distance/old spot not independently established."
+  },
+  {
+    "id": "n5218251592",
+    "name": "China King",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/crestwood/china-king-/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069723091",
+    "name": "Double Dragon II",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://kydoubledragon2.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7872507456",
+    "name": "Frascellis Pizza",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Tourism/old county directory listsFrascellis4310W146 but current service not established."
+  },
+  {
+    "id": "n5218203350",
+    "name": "Gustavo's mexican grill",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://gustavosmexgrill.com/contact/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5218281360",
+    "name": "Hoops",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Hoops point overlaps Rooties but current brand/succession unconfirmed."
+  },
+  {
+    "id": "n13473479121",
+    "name": "Los Compadres Taqueria",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/taqueria-los-compadres/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5218198892",
+    "name": "Red Pepper",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://redpepperpizzacompany.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5218187134",
+    "name": "Rikishi",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://toast.app/r/rikishi-6110-crestwood-station/order",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n10244209700",
+    "name": "Rooties Sports Bar & Grille",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Rooties current thirdparty hours appear generic9-6; embedded2year-old review says closed. No primary current evidence."
+  },
+  {
+    "id": "n7872507457",
+    "name": "Steve O's Italian Kitchen",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Only county directory reference4205W146; current service not established."
+  },
+  {
+    "id": "n3864886581",
+    "name": "TexMex BBQ",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "TexMexBBQ exact business not found; similarly named Crestwood restaurants rejected."
+  },
+  {
+    "id": "n13850142574",
+    "name": "Wilders Cafe",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://wilderscafe.toast.site/menu",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3372435504",
+    "name": "Abyssinia",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://abyssinialouisville.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383404342",
+    "name": "Addis Grill",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://addisgrill.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383404395",
+    "name": "Another Place Sandwich Shop",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/after-50-years-in-business-another-place-sandwich-shop-in-downtown-louisville-is-closing/35536117",
+        "note": "February 2021 local report announces closure at 119 South 7th Street."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3380192607",
+    "name": "Aspire Cafe & Juice Bar",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Only OSM-derivedAspire332Broadway references found."
+  },
+  {
+    "id": "n3383407651",
+    "name": "Atlantic No. 5",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/it-is-with-heavy-hearts-that-we-announce-the-closing-of-atlantic-no-5/",
+        "note": "May 2021 local report confirms Atlantic No. 5 at 605 West Main closed."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069217485",
+    "name": "Barbarella",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Barbarella point not matched to current exact business."
+  },
+  {
+    "id": "n6800719886",
+    "name": "Barrel Bar",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "CurrentBarrelBar110WMain evidence is >150m from map point; cannot transfer open status."
+  },
+  {
+    "id": "w331283045",
+    "name": "Bistro 301",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/new-restaurant-bar-planned-for-prominent-space-in-downtown-louisville/33296182",
+        "note": "July 2020 local report says Bistro 301 closed the previous summer and its space remained vacant."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5750135027",
+    "name": "Bourbon Barrel Burgers",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "BourbonBarrelBurgers map point not matched; search returns distinct Bourbon&Burgers and BourbonBarrelFoods."
+  },
+  {
+    "id": "n3383407383",
+    "name": "Brazeiros Churrascaria",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://brazeiros.com/locations/louisville-ky/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3380192627",
+    "name": "Brendon's Catch 23",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.bcatch23.com/reservations/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066643689",
+    "name": "Cafe Magnolia",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "LegacyWyndham listsCafeMagnolia; hotel new floorplans show different restaurants but distinct room identity cannot resolve."
+  },
+  {
+    "id": "n6066622788",
+    "name": "City Cafe",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/city-cafe-to-close-downtown-louisville-restaurant/article_3e95c62c-d898-11e9-8aea-57ef5150a5d7.html",
+        "note": "September 2019 local report sets City Cafe on West Broadway final service for September 20; matches the 505 West Broadway map point."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069056994",
+    "name": "Cravings a la Carte",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.cravingsalacarte.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6065597387",
+    "name": "Dish on Market",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.bizjournals.com/louisville/news/2020/07/30/longtime-downtown-restaurant-closes.html",
+        "note": "July 30, 2020 local report confirms permanent closure at 434 West Market."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383405090",
+    "name": "Down One Bourbon Bar & Restaurant",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://downonebourbonbar.com/",
+        "note": "Own site explicitly states permanent closure and a replacement experience planned for early 2027."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6800764292",
+    "name": "Ehrler's Ice Cream",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://ehrlers.com/locations-contact/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6065590587",
+    "name": "El Barrio",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "ElBarrio addressless downtown point not matched to current business."
+  },
+  {
+    "id": "n3372435580",
+    "name": "Encore on 4th",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Encore630S4th older city/OpenTable listings insufficient current evidence."
+  },
+  {
+    "id": "n3380191829",
+    "name": "Freddie's Bar and Lounge",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Freddies permanent-closed result says220E instead of220W; do not apply closure to wrong side."
+  },
+  {
+    "id": "n6800616486",
+    "name": "Griff's",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/griffs-/",
+        "note": "Exact 133 West Liberty listing includes coordinates matching the map point and is marked CLOSED. The independent crosscheck identifies its replacement as Parlour."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4755754362",
+    "name": "Impellizzeri's Pizza",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/the-original-impellizzeris-pizza-location-downtown-has-closed/",
+        "note": "December 2020 local report confirms Impellizzeris at 110 West Main closed."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383404391",
+    "name": "Jimmy Can't Dance",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.jimmycantdancebar.com/about",
+        "note": "Current own site places Jimmy Cant Dance at 730 East Market, well over 150 metres from the old 119 South 7th map point."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6093788938",
+    "name": "Maker/Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "MakerCafe exact downtown point not independently identified."
+  },
+  {
+    "id": "n3581286414",
+    "name": "Masala Grill",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://masalagrilllouisville.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "r13931929",
+    "name": "Merlle's Whiskey Kitchen",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://merleswhiskeykitchen.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069056993",
+    "name": "Mussel & Burger Bar",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.mussel-burger-bar.com/location/mussel-and-burger-bar-downtown/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6065590586",
+    "name": "O'Shea's Public House",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://osheaslouisville.net/patricks/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7661678685",
+    "name": "Pizza Bar",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.4thstlive.com/Eat-and-Drink/Pizza-Bar",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069217385",
+    "name": "Queue Cafe",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/queue-cafe-/",
+        "note": "Exact 220 West Main suite 160 listing marked CLOSED; no independent second source found."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069056987",
+    "name": "Robyn's Nest Bourbon Bistro",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "RobynsNest search results unrelated; current exact status not established."
+  },
+  {
+    "id": "n6069076485",
+    "name": "SCENE at the Center",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "SCENE501WMain event-night service appears on2023map, insufficient current operation confirmation."
+  },
+  {
+    "id": "n6328328087",
+    "name": "Safier Mediterranean Deli",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://safierdeli.com/",
+        "note": "Current source matches this business to its mapped location and provides hours, reservations, ordering, or other operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  }
+]

@@ -1,0 +1,798 @@
+[
+ {
+  "id": "n3373719472",
+  "name": "Smoothie King",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://reviews.birdeye.com/smoothie-king-149324453302049",
+    "note": "Birdeye lists Smoothie King at 1504 Bardstown Rd, undated; official locator could not be read"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n7647535431",
+  "name": "Smoothie King",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n13424045320",
+  "name": "Smoothie King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ezcater.com/catering/smoothie-king-clarksville-veterans-pkwy-suite",
+    "note": "ezCater ordering page for Smoothie King 1225 Veterans Pkwy Suite 500, Clarksville (matches coords) with delivery hours"
+   },
+   {
+    "url": "https://www.veritasrealty.com/wp-content/uploads/2024/10/1225-Veterans-Parkway-Flyer.pdf",
+    "note": "Oct 2024 leasing flyer lists Smoothie King in unit 500"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n5268994595",
+  "name": "Comfy Cow",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://thecomfycow.com/contact-us/",
+    "note": "Official locations page lists only Westport Village (1301 Herr Ln)"
+   },
+   {
+    "url": "https://issuu.com/foodanddiningmagazine/docs/_vol_83_fall_2024",
+    "note": "Fall 2024 Food & Dining lists Insomnia Cookies at 339 W. Cardinal Blvd, the former Comfy Cow UofL spot"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n11270589483",
+  "name": "The Comfy Cow",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://thecomfycow.com/contact-us/",
+    "note": "Official locations page lists only Westport Village; Middletown (13301 Shelbyville Rd) no longer listed"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3442823035",
+  "name": "The Comfy Cow Handcrafted Ice Cream",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://thecomfycow.com/contact-us/",
+    "note": "Official locations page lists Westport Village, 1301 Herr Ln #118 (matches coords)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5690581922",
+  "name": "Con Huevos",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://conhuevos.com/",
+    "note": "Official site lists Con Huevos @ Frankfort Ave, 2339 Frankfort Ave"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6392757785",
+  "name": "Con Huevos",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://conhuevos.com/",
+    "note": "Official site lists Con Huevos @ Holiday Manor, 4938 US Hwy 42 (matches coords)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6800836085",
+  "name": "Con Huevos",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://conhuevos.com/",
+    "note": "Official site lists Con Huevos @ OMNI Hotel, 210 W Liberty St (coords at Omni)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3814055658",
+  "name": "Drake's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://drakescomeplay.com/",
+    "note": "Official site lists Drake's St. Matthews (3939 Shelbyville Rd)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n13424045319",
+  "name": "Drake's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://drakescomeplay.com/drakes-jeffersonville-in/",
+    "note": "Official page: Drake's 1451 Veterans Pkwy, Jeffersonville IN with current hours; coords on Veterans Pkwy"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w336247330",
+  "name": "Drake's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://drakescomeplay.com/",
+    "note": "Official site lists Drake's Paddock (Summit Plaza) location"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6069217398",
+  "name": "Joella's Hot Chicken",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://joellas.com/locations.php",
+    "note": "Official locator lists Louisville - Middletown, 13401 Shelbyville Rd #101"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11974171977",
+  "name": "Joella's Hot Chicken",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://joellas.com/locations.php",
+    "note": "Official locator lists Clarksville, 1225 Veterans Pkwy Suite 700"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w334002910",
+  "name": "Joella's Hot Chicken",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://joellas.com/locations.php",
+    "note": "Official locator lists Louisville - St. Matthews, 3400 Frankfort Ave"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329569091",
+  "name": "Mark's Feed Store",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://marksfeedstore.com/locations",
+    "note": "Official locations page lists Fern Creek, 6501 Bardstown Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w330411872",
+  "name": "Mark's Feed Store",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/news/business/marks-feed-store-on-bardstown-road-closing-due-to-decreasing-traffic/article_798cdddb-69f5-4c1d-b79a-c70e4021c8fc.html",
+    "note": "WDRB: Highlands Mark's Feed Store at 1514 Bardstown Rd closed Aug 24, 2025"
+   },
+   {
+    "url": "https://marksfeedstore.com/locations",
+    "note": "Not on official list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w334000163",
+  "name": "Mark's Feed Store",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://marksfeedstore.com/locations",
+    "note": "Official locations page lists Dixie Highway, 10316 Dixie Hwy (Valley Station, matches coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6342436985",
+  "name": "Please & Thank You",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://wearepleaseandthankyou.com/",
+    "note": "Official site lists MARK location, 800 E Market St (NuLu)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n14001224652",
+  "name": "Please & Thank You",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://wearepleaseandthankyou.com/",
+    "note": "Official site lists RIVER location, 9561 US-42, Prospect"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5795892554",
+  "name": "Please & Thank You on the Avenue",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://wearepleaseandthankyou.com/",
+    "note": "Official site (old pleaseandthankyoulouisville.com redirects here) lists only Market St, US-42 Prospect and Duncan St; Frankfort Ave not listed"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3395892495",
+  "name": "Shiraz Mediterranean Grill",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://shirazmg.order.tryperdiem.com/locations",
+    "note": "Official ordering site lists Poplar Level, 3501 Poplar Level Rd for pickup/delivery"
+   },
+   {
+    "url": "https://www.zabihah.com/restaurants/8140f2b0-6375-42ab-8a5d-8b63307159c5/shiraz-mediterranean-louisville-ky",
+    "note": "Photos posted Apr 2026"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6392755488",
+  "name": "Shiraz Mediterranean Grill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://shirazmg.order.tryperdiem.com/locations",
+    "note": "Ordering site still lists Holiday Manor; MapQuest marks it closed - conflicting"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w330429895",
+  "name": "Shiraz Mediterranean Grill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://shirazmg.order.tryperdiem.com/locations",
+    "note": "Ordering site lists Bardstown Rd; MapQuest marks 1565 Bardstown Rd closed - conflicting"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n6069300185",
+  "name": "Zeggz",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://zeggzeggz.com/contact-us/",
+    "note": "Official locations page lists only Middletown (open) and Lime Kiln (closed); no Prospect/Summit location"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n11270546823",
+  "name": "Zeggz",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://zeggzeggz.com/contact-us/",
+    "note": "Official page: Middletown, 11615 Shelbyville Rd Ste 102, open daily 7am-2pm"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6066623490",
+  "name": "Zeggz Amazing Eggs",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://zeggzeggz.com/contact-us/",
+    "note": "Official page lists Lime Kiln, 2400 Lime Kiln Ln Ste B, as closed"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w334731662",
+  "name": "Denny's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.dennys.com/KY/LOUISVILLE",
+    "note": "Official locator lists 434 Eastern Parkway"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1190685915",
+  "name": "Denny's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.dennys.com/KY/SHEPHERDSVILLE",
+    "note": "Official locator lists 200 S Lakeview Dr, Shepherdsville, open 24 hours"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n1749243774",
+  "name": "Einstein Bros. Bagels",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.einsteinbros.com/us/ky/louisville",
+    "note": "Official locator lists University of Louisville, 2100 S Floyd St"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061529",
+  "name": "Einstein Bros. Bagels",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.einsteinbros.com/us/ky/louisville",
+    "note": "Official locator lists Bellarmine University, 2001 Newburg Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n14374060124",
+  "name": "Freddy's Frozen Custard",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n12678183701",
+  "name": "Freddy's Frozen Custard & Steakburgers",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3442159243",
+  "name": "Krispy Krunchy Chicken",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3444277564",
+  "name": "Krispy Krunchy Chicken",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3433086547",
+  "name": "Tropical Smoothie Cafe",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tropicalsmoothiecafe.com/ky/louisville",
+    "note": "Official locator lists 4114 Summit Plaza Drive"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11957248677",
+  "name": "Tropical Smoothie Cafe",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.tropicalsmoothiecafe.com/in/jeffersonville/1586-veterans-parkway",
+    "note": "Official locator store page live: 1586 Veterans Pkwy, (812) 920-0030"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w338214779",
+  "name": "Applebee's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.applebees.com/en-us/ky/louisville/4535-outer-loop-86004",
+    "note": "Official page live (now Applebee's | IHOP dual brand), 2026, daily 6am-12am"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w338400781",
+  "name": "Applebee's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://restaurants.applebees.com/en-us/ky/fern-creek/10006-will-way-98037",
+    "note": "Official page live, 2026 copyright, hours listed"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n13334804028",
+  "name": "Bayt Al Mocha",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://baytalmocha.com/locations",
+    "note": "Official locations page lists 655 S 4th St"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n13360492217",
+  "name": "Bayt Al Mocha",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://baytalmocha.com/locations",
+    "note": "Official locations page lists 327 W Cardinal Blvd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n14372059284",
+  "name": "Bubba's 33",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w1229645294",
+  "name": "Bubba's 33",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6069801089",
+  "name": "Chuck E. Cheese",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n12750423684",
+  "name": "Chuck E. Cheese",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3829329431",
+  "name": "Chuy's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w337698322",
+  "name": "Chuy's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n5690588821",
+  "name": "CM Chicken",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w338402812",
+  "name": "CM Chicken",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n12381248849",
+  "name": "Cold Stone Creamery",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n12391907057",
+  "name": "Cold Stone Creamery",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w339266954",
+  "name": "Dutch Bros. Coffee",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w1504055048",
+  "name": "Dutch Bros. Coffee",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3447596802",
+  "name": "Firehouse Subs",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3452841308",
+  "name": "Firehouse Subs",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6077278389",
+  "name": "Golden Corral",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w339260716",
+  "name": "Golden Corral",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6034930527",
+  "name": "Honey Baked Ham",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n11981658730",
+  "name": "Honey Baked Ham",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w337713202",
+  "name": "Hooters",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w338215070",
+  "name": "Hooters",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w337696190",
+  "name": "IHOP",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w821984912",
+  "name": "IHOP",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n12391906922",
+  "name": "Parlor Doughnuts",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w823043724",
+  "name": "Parlor Doughnuts",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3773229987",
+  "name": "Smashburger",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6066607788",
+  "name": "Smashburger",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w338213239",
+  "name": "Storming Crab",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w715684940",
+  "name": "Storming Crab",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6069217495",
+  "name": "Taziki's Mediterranean Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n11957248672",
+  "name": "Taziki's Mediterranean Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6069056988",
+  "name": "Al J's at the Conservatory",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6065590288",
+  "name": "Rivue Restaurant & Lounge",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w331282522",
+  "name": "Bluegrass Brewing Company",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w333988955",
+  "name": "Bluegrass Brewing Company",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ }
+]

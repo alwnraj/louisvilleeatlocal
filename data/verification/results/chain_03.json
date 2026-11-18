@@ -1,0 +1,794 @@
+[
+ {
+  "id": "n6044760425",
+  "name": "Wendy's",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/2100-s-floyd-st",
+    "note": "Official Wendy's locator page for this location returns 404 (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Official Louisville city list shows 18 other Wendy's but not 2100 S Floyd St (UofL campus)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6069733389",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/4041-taylorsville-rd",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061494",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/3301-cane-run-road",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061496",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/4312-cane-run-rd",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n13032043301",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/in/new-albany/3720-charlestown-road",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/in/new-albany",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w300130137",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/1108-bardstown_road",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329551957",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/12925-shelbyville-rd",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w332447083",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/4029-poplar-level-rd",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336481842",
+  "name": "Wendy's",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/dispensary-planned-for-former-okolona-wendy-s-in-louisville/video_522aca31-6f36-5379-9d20-fc2b4a92c197.html",
+    "note": "WDRB: former Wendy's at 2800 Packerland Way set to become Green Releaf Dispensary (2026)"
+   },
+   {
+    "url": "https://www.commercialcafe.com/commercial-property/us/ky/louisville/former-wendy-s-location-for-lease",
+    "note": "'Former Wendy's location' for lease"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/2800-packerland-way",
+    "note": "Official locator page 404; not in Louisville list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336501223",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/3610-buechel-bypass",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336611957",
+  "name": "Wendy's",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.7brew.com/ky/louisville/9489-westport-road",
+    "note": "7 Brew Coffee now operates at 9489 Westport Rd (former Wendy's site)"
+   },
+   {
+    "url": "https://www.aol.com/whats-replacing-former-wendys-westport-090053719.html",
+    "note": "Courier Journal: 7 Brew replacing the former Wendy's on Westport Road"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Not in official Wendy's Louisville list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336682487",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/10741-fischer-park-drive",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337118108",
+  "name": "Wendy's",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.commercialcafe.com/commercial-property/us/ky/louisville/former-fast-food-pad-for-lease",
+    "note": "5101 Preston Hwy listed as 'Former Fast Food Pad For Lease'"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/5101-preston-highway",
+    "note": "Official locator page 404; not in Louisville list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337212081",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/7601-shelbyville-road",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337494372",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/3422-taylor-road",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337711909",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/978-breckenridge-lane",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337838457",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/5240-bardstown-rd",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w338215081",
+  "name": "Wendy's",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://whas11.com/article/money/business/5-wendys-locations-in-louisville-kentucky-are-closing/417-39d0ad47-6610-4d6b-9aa8-62e0f32e7f58",
+    "note": "WHAS11: 4259 Outer Loop among 5 Louisville Wendy's closing for good (late 2024 closures)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/4259-outerloop",
+    "note": "Official locator page 404; not in Louisville list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w338409973",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/5036-mud-lane",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339243637",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/193-outer-loop",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339255617",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/8596-dixie-hwy",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339261390",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/5124-dixie-highway",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w345092432",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/1630-kentucky-mills-drive",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w544701072",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/in/jeffersonville/2940-east-highway-62",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/in/jeffersonville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w814452070",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville/1201-w-broadway",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/louisville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1190671153",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/ky/shepherdsville/158-keystone-crossroad-dr",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/ky/shepherdsville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1229647586",
+  "name": "Wendy's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wendys.com/united-states/in/clarksville/830-e-lewis-and-clark-pkwy",
+    "note": "Official Wendy's locator page live with matching address/phone (checked 2026-11-17)"
+   },
+   {
+    "url": "https://locations.wendys.com/united-states/in/clarksville",
+    "note": "Listed on official city location list"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6069217514",
+  "name": "Burger King",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/brand-city/middletown-ky/burger-king",
+    "note": "No address in OSM; coords reverse-geocode to ~12719 Shelbyville Rd, Middletown. Uber Eats Middletown BK page shows only 100 Mortown Way (Shelbyville); no BK on Shelbyville Rd 40243 found. Official BK locator not machine-readable. Possibly closed but not confirmed"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n11980061481",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/burger-king-3032-east-10th-street/P8C90d3YSMWCn8Dqtg3E6A",
+    "note": "Uber Eats store listing for BK 3032 East 10th Street (seen on Jeffersonville brand page, 2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n11980061497",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/brand-city/louisville-ky/burger-king",
+    "note": "Uber Eats Louisville BK brand page lists 6300 Greenwood Rd (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n11980061514",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/burger-king-315-keystone-crossing-drive/mGiyUoiiSwymZtuPaUJAKQ",
+    "note": "Uber Eats store listing for BK 315 Keystone Crossing Drive (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n11980061518",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/brand-city/louisville-ky/burger-king",
+    "note": "Uber Eats Louisville BK brand page lists 9512 Preston Highway (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w329523748",
+  "name": "Burger King",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.allmenus.com/ky/louisville/197321-burger-king/menu/",
+    "note": "Undated directory listing at 4030 Shelbyville Rd; not on Uber Eats Louisville BK brand page (11 stores). No current evidence either way"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w336675929",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/brand-city/louisville-ky/burger-king",
+    "note": "Uber Eats Louisville BK brand page lists 3701 Diann Marie Road (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w337607197",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/burger-king-9120-taylorsville-road/zhQQrOYVRbWArUK8YOmeUA",
+    "note": "Uber Eats store listing for BK 9120 Taylorsville Road (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w337833692",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/brand-city/louisville-ky/burger-king",
+    "note": "Uber Eats Louisville BK brand page lists 4620 S Hurstbourne Pkwy (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w337886842",
+  "name": "Burger King",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.loopnet.com/property/6450-outer-loop-louisville-ky-40228/21111-064503440000",
+    "note": "Search snippet: 3,750 SF building at 6450 Outer Loop with a May 2024 'For Lease' listing; BK not on Uber Eats Louisville brand page. Suggests closure but not confirmed"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w338400783",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/brand-city/louisville-ky/burger-king",
+    "note": "Uber Eats Louisville BK brand page lists 10001 Will Way (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w339096293",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/burger-king-3930-dixie-highway/GkyWlmdUSEewlFbcRRayhg",
+    "note": "Uber Eats store listing for BK 3930 Dixie Highway (Shively brand page, 2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w339243236",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/brand-city/louisville-ky/burger-king",
+    "note": "Uber Eats Louisville BK brand page lists 5611 New Cut Road (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w339267014",
+  "name": "Burger King",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://kcrea.resimplifi.com/listings/917d7c58-6902-dixie-hwy",
+    "note": "Lease listing (listed 2026-01-09, updated 2026-08-11): 'Coming Available: QSR with Drive-Thru', tenant field Burger King. Implies BK leaving/left; not on Uber Eats Louisville brand page"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w339667252",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/brand-city/louisville-ky/burger-king",
+    "note": "Uber Eats Louisville BK brand page lists 10600 Dixie Hwy (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w343715285",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/burger-king-1820-blankenbaker-pkwy/aQu_-_XyRfK51SK48nthxQ",
+    "note": "Uber Eats store listing for BK 1820 Blankenbaker Pkwy (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w674856942",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/burger-king-2309-state-street/JJpsPezmSHGCA0NQPzknWw",
+    "note": "Uber Eats store listing for BK 2309 State Street, New Albany (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w842038954",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/burger-king-1434-east-tenth-street/ndyva_zCT-qDVYp0OuOqEg",
+    "note": "Uber Eats store listing for BK 1434 East Tenth Street (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w934503488",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/burger-king-8110-highway-311/Ntx1ASE4QRaE7UBLEZMmRQ",
+    "note": "Uber Eats store listing for BK 8110 Highway 311 (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w1077512542",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/burger-king-6402-claymont-crossing/kVNOVdbUT6yNUOJzqOqVgg",
+    "note": "Uber Eats store listing for BK 6402 Claymont Crossing (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w1147367204",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://travelbullitt.org/taste",
+    "note": "Bullitt County tourism dining directory lists BK 127 Brookside Ct, 502-538-6974; Uber Eats Mount Washington category pages also list 'Burger King (127 Brookside Ct)'. Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w1190671162",
+  "name": "Burger King",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.storeopeninghours.com/burger-king-keystone-crossing-drive-shepherdsville-ky",
+    "note": "No address in OSM; coords on Conestoga Pkwy ~550 m from the BK at 315 Keystone Crossing Dr (n11980061514), described as near Keystone Crossroads & Conestoga Pkwy. Possibly a duplicate; no separate BK on Conestoga Pkwy found"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w1229644857",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/burger-king-915-e-lewis-and-clark-pkwy/tfmzs0cYTXKT2Ts40MbPyQ",
+    "note": "Uber Eats store listing for BK 915 E Lewis and Clark Pkwy (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w1233166864",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/brand-city/louisville-ky/burger-king",
+    "note": "Uber Eats Louisville BK brand page lists 311 Brenton Way (2026-11-17); store page https://www.ubereats.com/store/burger-king-311-brenton-way/wDzn1WbbRCO5CSU2F9zR7A. Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w1527362679",
+  "name": "Burger King",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/burger-king-3533-grantline-road/QPHlAlh4Rby_nkwGr_jtaA",
+    "note": "Uber Eats store listing for BK 3533 Grantline Road (2026-11-17). Official bk.com locator is a JS app not readable here"
+   }
+  ],
+  "confidence": "medium"
+ }
+]

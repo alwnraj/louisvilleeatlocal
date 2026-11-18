@@ -1,0 +1,941 @@
+[
+ {
+  "id": "n3363641825",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/ky/louisville/sandwiches-1081.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 976 Baxter Ave; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3364252338",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/ky/louisville/sandwiches-3234.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 12915 Factory Ln; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3364360450",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/ky/louisville/sandwiches-1474.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 12903 Shelbyville Rd; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3383404774",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/ky/louisville/sandwiches-1231.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 301 E Market St; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3395892498",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/ky/louisville/sandwiches-1816.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 3507 Poplar Level Rd; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n4780015135",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/in/new-albany/sandwiches-1802.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 2221 State St; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5220600101",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/in/jeffersonville/sandwiches-3185.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 5420 Hwy 62; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5268991097",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/ky/louisville/sandwiches-1232.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 341 W Cardinal Blvd; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6391860104",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/ky/louisville/sandwiches-2200.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 4919 Brownsboro Rd; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6392672288",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/ky/louisville/sandwiches-2625.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 10520 Westport Rd; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061484",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/in/clarksville/sandwiches-1581.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 1120 Veterans Pkwy; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061491",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/ky/louisville/sandwiches-0655.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 415 W Jefferson St; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061506",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/ky/louisville/sandwiches-4387.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 5105 Dixie Hwy; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061533",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/ky/louisville/sandwiches-0749.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 3901 Dutchmans Ln; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n13384448661",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/in/new-albany/sandwiches-1139.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 3001 Charlestown Crossing Way (locator coords 38.35053,-85.79623 match OSM point); also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n14005467400",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/ky/louisville/sandwiches-2696.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 4828 Norton Healthcare Blvd (locator coords 38.31216,-85.57269 match OSM point); also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w269739306",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/ky/louisville/sandwiches-0874.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 1321 S Hurstbourne Pkwy; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329524259",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/ky/louisville/sandwiches-0814.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address store #814 now listed as 4000 Shelbyville Rd; locator coords 38.25252,-85.65300 match OSM point (OSM says 3950); also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w824930271",
+  "name": "Jimmy John's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.jimmyjohns.com/in/jeffersonville/sandwiches-4069.html",
+    "note": "Official Jimmy John's location page live (fetched 2026-11-17), address 921 Gateway Dr; also in /us/ky/louisville or /us/in/* city directory"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n2926867893",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 1608 E 10th St, Jeffersonville (store 258), coords match, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w274188826",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 2350 Greene Way (store 264), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329524174",
+  "name": "White Castle",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whas11.com/article/life/food/st-matthews-white-castle-permanently-closing-christmas-day-louisville-kentucky/417-e4bb703f-68a9-4979-9f32-84349a215aa3",
+    "note": "WHAS11: St. Matthews White Castle at 4020 Shelbyville Rd permanently closing Christmas Day (marquee notice)"
+   },
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.29&long=-85.70&count=25&distance=25",
+    "note": "Official locator (2026-11-17) lists no store at 4020 Shelbyville Rd while nearby Louisville stores are listed"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329551958",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 12413 Shelbyville Rd (store 1137), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w330284301",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 700 W Broadway (store 253); OSM 702, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w331282822",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 105 E Market St (store 246), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w334036637",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 3705 Bardstown Rd (store 255), 24 hr, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336611941",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 9493 Westport Rd (store 1249), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337080709",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 793 Eastern Pkwy (store 248), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w338210383",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 2711 Fern Valley Rd (store 1008), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w338226286",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 4108 Outer Loop (store 1063), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w338400791",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 7200 Cedar Springs Blvd (store 568), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339210002",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 1922 S 7th St (store 249), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339232828",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 5520 National Tpke (store 1073), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339274991",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 7400 Dixie Hwy (store 257), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339494423",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 3701 7th Street Rd (store 251), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w823994736",
+  "name": "White Castle",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.29&long=-85.70&count=25&distance=25",
+    "note": "Official locator (2026-11-17) lists no Clarksville IN store; nearest Indiana stores are 1608 E 10th St Jeffersonville and 1701 E Spring St New Albany"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/indiana/white-castle-272824072",
+    "note": "MapQuest listing for White Castle 4023 Hwy 31 E, Clarksville shows status Closed (seen in search results)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w1190671157",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 175 Keystone Cross Rd, Shepherdsville (store 263), coords 37.99184,-85.70739 match, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1455848677",
+  "name": "White Castle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.whitecastle.com/api/vtl/get-nearest-location?lat=38.2&long=-85.7&count=60&distance=40",
+    "note": "White Castle official locator API (backs whitecastle.com/locations) lists 1701 E Spring St, New Albany (store 252), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3436530997",
+  "name": "El Nopal",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 9451 Westport Rd (El Nopal Westport Rd), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3445373104",
+  "name": "El Nopal",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 11336 Preston Hwy (El Nopal Preston), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3505150656",
+  "name": "El Nopal",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 12613 Taylorsville Rd, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n4450891790",
+  "name": "El Nopal",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 811 Eastern Pkwy (coords 38.21556,-85.74232 match OSM point), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n4780015138",
+  "name": "El Nopal",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 470 New Albany Plaza, New Albany IN (coords 38.30624,-85.83968 match), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6069723085",
+  "name": "El Nopal",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "Official El Nopal locator (2026-11-17) has no store near Factory Ln / La Grange Rd (40245); nearest Middletown store is 12937 Shelbyville Rd"
+   },
+   {
+    "url": "https://www.mapquest.com/us/kentucky/el-nopal-303883349",
+    "note": "Search results: MapQuest lists El Nopal at 12418 La Grange Rd, Louisville 40245 (Factory Ln area) as permanently closed (page itself returned empty)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n12391906921",
+  "name": "El Nopal",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 5420 IN-62 Suite 600, Jeffersonville IN (coords 38.35594,-85.70108 match), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n14177196686",
+  "name": "El Nopal",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 240 Eastbrooke Pointe Dr, Mt Washington (coords 38.05458,-85.53318 match), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w334731953",
+  "name": "El Nopal",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 2745 Crittenden Dr, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339667262",
+  "name": "El Nopal",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 10626 Dixie Hwy (Valley Station), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w345091472",
+  "name": "El Nopal",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 10500 Watterson Trail, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w823042970",
+  "name": "El Nopal",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 730 Rolling Creek Dr, New Albany IN, phone (812)590-3434, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n12064805327",
+  "name": "El Nopal Mexican Cuisine Gardine ln",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 3010 Bardstown Rd (El Nopal Gardiner), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339263842",
+  "name": "El Nopal Mexican Restaurant",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 4414 Dixie Hwy (Shively), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1078002463",
+  "name": "El Nopal Mexican Restaurant",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 6825 Central Ave, Crestwood, phone (502)654-7265, fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1190671175",
+  "name": "El Nopal Shepherdsville",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "Official El Nopal locator lists El Nopal Shepherdsville at 500 Highway 44 E (locator pin ~2 km NE of OSM point; only Shepherdsville El Nopal)"
+   },
+   {
+    "url": "https://order.online/store/el-nopal-shepherdsville-574048",
+    "note": "Online ordering store page for El Nopal (Shepherdsville) seen in search results"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6069217489",
+  "name": "El Nopel Mexican Restaurant",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.elnopalmex.com/wp-content/uploads/ssf-wp-uploads/ssf-data.json",
+    "note": "El Nopal official store-locator data (elnopalmex.com/locations) lists 12937 Shelbyville Rd (coords 38.24373,-85.51031 match OSM point), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n738651118",
+  "name": "Pizza Hut",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/ky/louisville/8131-bardstown-rd",
+    "note": "Official store URL now redirects to the Louisville city directory (2026-11-17), which no longer lists 8131 Bardstown Rd (nearby 6304 Bardstown Rd listed)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3321208606",
+  "name": "Pizza Hut",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/ky/louisville/3610-springhurst-blvd",
+    "note": "Official Pizza Hut location page live (fetched 2026-11-17) with matching street address"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3446758862",
+  "name": "Pizza Hut",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/ky/louisville/9160-taylorsville-rd",
+    "note": "Official store URL now redirects to the Louisville city directory (2026-11-17), which no longer lists 9160 Taylorsville Rd"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n5670314320",
+  "name": "Pizza Hut",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/in/new-albany/3316-grant-line-rd",
+    "note": "Official Pizza Hut location page live (fetched 2026-11-17) with matching street address"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n7700708086",
+  "name": "Pizza Hut",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/ky/louisville/1985-brownsboro-rd",
+    "note": "Official Pizza Hut location page live (fetched 2026-11-17) with matching street address"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11816539414",
+  "name": "Pizza Hut",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/ky/mount-washington/6442-hwy-44-east",
+    "note": "Official Pizza Hut location page live (fetched 2026-11-17) with matching street address"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n12391906945",
+  "name": "Pizza Hut",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/in/jeffersonville/3544-e-10th-street",
+    "note": "Official Pizza Hut page for 3544 E 10th St, Jeffersonville; locator coords 38.33512,-85.70769 match OSM point"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n14020848629",
+  "name": "Pizza Hut",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/ky/louisville/13210-shelbyville-rd",
+    "note": "Official Pizza Hut page for 13210 Shelbyville Rd; locator coords 38.24218,-85.51118 match OSM point"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329551172",
+  "name": "Pizza Hut",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/ky/middletown",
+    "note": "Official Middletown directory lists only 12975 Shelbyville Rd (and Louisville directory 13210 Shelbyville Rd); no store at 12425 Shelbyville Rd (2026-11-17)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w334062577",
+  "name": "Pizza Hut",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/ky/louisville/5366-new-cut-rd",
+    "note": "Official Pizza Hut location page live (fetched 2026-11-17) with matching street address"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336233497",
+  "name": "Pizza Hut",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/ky/louisville/2733-w-broadway-st",
+    "note": "Official Pizza Hut location page live (fetched 2026-11-17) with matching street address"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336501216",
+  "name": "Pizza Hut",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/ky/louisville/3601-buechel-by-pass",
+    "note": "Official Pizza Hut location page live (fetched 2026-11-17) with matching street address"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337191256",
+  "name": "Pizza Hut",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/ky/louisville/4211-shelbyville-rd",
+    "note": "Official Pizza Hut location page live (fetched 2026-11-17) with matching street address"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339262042",
+  "name": "Pizza Hut",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/ky/louisville/5368-dixie-hwy",
+    "note": "Official Pizza Hut location page live (fetched 2026-11-17) with matching street address"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w843613644",
+  "name": "Pizza Hut",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/ky/louisville/3803-7th-st",
+    "note": "Official Pizza Hut location page live (fetched 2026-11-17) with matching street address"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1276046391",
+  "name": "Pizza Hut",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.pizzahut.com/ky/hillview/1885-old-preston-hwy",
+    "note": "Official Pizza Hut location page live (fetched 2026-11-17) with matching street address"
+   }
+  ],
+  "confidence": "high"
+ }
+]

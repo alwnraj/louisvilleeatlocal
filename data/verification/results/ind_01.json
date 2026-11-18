@@ -1,0 +1,662 @@
+[
+ {
+  "id": "n3364201077",
+  "name": "The Champagnery at Architype Gallery",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.the-champagnery.com/",
+    "note": "Own website lists hours as 'Permanently Closed', all days closed (checked 2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5692585422",
+  "name": "The Grape Leaf",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.grapeleafonline.com/",
+    "note": "Own site live with 2217 Frankfort Ave address, current hours and Toast online ordering; no closure notice"
+   },
+   {
+    "url": "https://www.superpages.com/louisville-ky/bpp/the-grape-leaf-66859",
+    "note": "Directory listing at 2217 Frankfort Ave"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n5692585423",
+  "name": "The HUB",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.aol.com/popular-louisville-restaurant-bar-moving-122644564.html",
+    "note": "Courier Journal: The Hub at 2235 Frankfort Ave to close and relocate to Bardstown Rd (Highlands)"
+   },
+   {
+    "url": "https://www.hublouisville.com/",
+    "note": "Own site (c) 2026 now lists address 1133 Bardstown Road only"
+   },
+   {
+    "url": "https://content.govdelivery.com/accounts/KYLOUISVILLE/bulletins/3e47e54",
+    "note": "ABC license notice for 'Dive Bar on Frankfort' at 2235 Frankfort Ave"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5690578422",
+  "name": "The Irish Rover",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://loutoday.6amcity.com/newsletter/0000019c-d7f1-d0a0-a99d-d7f55c160000",
+    "note": "LOUtoday newsletter: Irish Rover hosting St. Patrick's Day 2026 deals"
+   },
+   {
+    "url": "https://atmosfy.io/location/louisville/the-irish-rover",
+    "note": "Listing at 2319 Frankfort Ave; note OSM website theirishrover.com now points to an unrelated Madrid pub (correct site appears to be theirishroverky.com)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n5649559522",
+  "name": "The Yellow Cactus",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://atmosfy.io/location/louisville/the-yellow-cactus-3460414",
+    "note": "Listing at 2350 Frankfort Ave with regular hours, undated"
+   },
+   {
+    "url": "https://www.mapquest.com/us/kentucky/the-yellow-cactus-519929196",
+    "note": "Search snippet showed a 'Closed' label, unclear if permanent; page could not be read"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n5634953421",
+  "name": "Time 4 Thai",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.time4thaiky.com/",
+    "note": "Own site live: 2206 Frankfort Ave, current hours, no closure notice"
+   },
+   {
+    "url": "https://wanderlog.com/place/details/2631886/time-4-thai",
+    "note": "Reviews dated Sept and Nov 2025"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n5649537832",
+  "name": "Varanese",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://varanese.com/",
+    "note": "Own site lists Fall Harvest Wine Dinner Nov 17, 2026 and holiday orders; 2106 Frankfort Ave"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5643082824",
+  "name": "Volare",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.volare-restaurant.com/",
+    "note": "Own site live, last modified 2026-06-16, OpenTable reservations"
+   },
+   {
+    "url": "https://www.wdrb.com/volare-restaurant/image_7db5f3eb-725a-4ec9-8ae4-ee1fa2494656.html",
+    "note": "WDRB photo of Volare on Frankfort Ave dated Feb 12, 2026"
+   },
+   {
+    "url": "https://gotolouisville.com/directory/volare-ristorante",
+    "note": "Listing at 2300 Frankfort Ave"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n13830115650",
+  "name": "dive bar on Frankfort",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://content.govdelivery.com/accounts/KYLOUISVILLE/bulletins/3e47e54",
+    "note": "Louisville ABC license notice: business at 2235 Frankfort Ave dba 'Dive Bar on Frankfort'"
+   },
+   {
+    "url": "https://issuu.com/foodanddiningmagazine/docs/_vol_88_winter_2025",
+    "note": "Food & Dining magazine (Winter 2025) listing describing Dive Bar on Frankfort, Hilltop Tavern lineage"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n7243510117",
+  "name": "3rd Turn Oldham Gardens",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w1078002456",
+  "name": "A Taste of Thai",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n5218251592",
+  "name": "China King",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w1116171939",
+  "name": "Crestwood Bistro",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "http://crestwood-bistro.com/",
+    "note": "Own site: 6461 Hwy 146 Crestwood, Tue-Sat hours, (c) 2026, no closure notice"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6069723091",
+  "name": "Double Dragon II",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n7872507456",
+  "name": "Frascellis Pizza",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n5218203350",
+  "name": "Gustavo's mexican grill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w1116172005",
+  "name": "Hometown Pizza",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.hometownpizza.com/",
+    "note": "Brand site lists Crestwood among current locations with phone 502-241-0111 (matches OSM); menu PDF Sept 2026"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n5218281360",
+  "name": "Hoops",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n2496181227",
+  "name": "Jucy's Bar-B-Que",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://jucysbarbq.com",
+    "note": "Own site (c) 2026 Jucy's Smokehouse, 7626 Old LaGrange Rd, online ordering active"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n13473479121",
+  "name": "Los Compadres Taqueria",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n5218198892",
+  "name": "Red Pepper",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n5218187134",
+  "name": "Rikishi",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n10244209700",
+  "name": "Rooties Sports Bar & Grille",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://rooties.com",
+    "note": "OSM-linked site is a Buffalo-based sauce/online store, no Westport Rd restaurant info"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n7872507457",
+  "name": "Steve O's Italian Kitchen",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3864886581",
+  "name": "TexMex BBQ",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n13850142574",
+  "name": "Wilders Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3372435504",
+  "name": "Abyssinia",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3383404342",
+  "name": "Addis Grill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3383404395",
+  "name": "Another Place Sandwich Shop",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3380192607",
+  "name": "Aspire Cafe & Juice Bar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3383407651",
+  "name": "Atlantic No. 5",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6069217485",
+  "name": "Barbarella",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6800719886",
+  "name": "Barrel Bar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w331283045",
+  "name": "Bistro 301",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n14201687003",
+  "name": "Blak Koffee",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.blakkoffee.com/",
+    "note": "Own site (c) 2025 lists Blak Koffee I at 1219 W Jefferson St Suite 102 with current hours"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n5750135027",
+  "name": "Bourbon Barrel Burgers",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3383407383",
+  "name": "Brazeiros Churrascaria",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3380192627",
+  "name": "Brendon's Catch 23",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3516264327",
+  "name": "Bristol Bar and Grill",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://wdrb.com/news/business/bristol-bar-grille-announces-closure-of-downtown-louisville-location/article_d5997667-7d2c-4afb-9cc6-377950fdcd8e.html",
+    "note": "WDRB headline: 'Bristol Bar & Grille announces closure of downtown Louisville location' (article body not readable)"
+   },
+   {
+    "url": "https://bristolbarandgrille.com/",
+    "note": "Brand site now redirects to bristolcatering.com"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6066643689",
+  "name": "Cafe Magnolia",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6800721486",
+  "name": "Chung King Palacd",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://chungkingpalace.carrd.co/",
+    "note": "Own site (OSM-linked) for Chung King Palace, 110 E Market St, lists hours, dine-in/delivery; undated"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n6066622788",
+  "name": "City Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6069056994",
+  "name": "Cravings a la Carte",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6065597387",
+  "name": "Dish on Market",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.facebook.com/p/Dish-on-Market-100054484779815/",
+    "note": "Facebook page exists but content not readable"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3383405090",
+  "name": "Down One Bourbon Bar & Restaurant",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6800764292",
+  "name": "Ehrler's Ice Cream",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6065590587",
+  "name": "El Barrio",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3372435580",
+  "name": "Encore on 4th",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3380191829",
+  "name": "Freddie's Bar and Lounge",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6800616486",
+  "name": "Griff's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n4755754362",
+  "name": "Impellizzeri's Pizza",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3383404391",
+  "name": "Jimmy Can't Dance",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n4755776092",
+  "name": "Los Aztecas",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.losaztecas.net",
+    "note": "Brand site lists only 445 E Market St (NuLu) and 1107 Herr Lane; 530 W Main St not listed"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w331282758",
+  "name": "Luigi's Pizzeria",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://luigispizzeria.com/",
+    "note": "Own site: 712 W Main St, current hours, daily menu uploaded June 2025, (c) 2026"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6093788938",
+  "name": "Maker/Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3581286414",
+  "name": "Masala Grill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "r13931929",
+  "name": "Merlle's Whiskey Kitchen",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w683231820",
+  "name": "Milkwood Restaurant",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://milkwoodrestaurant.com",
+    "note": "OSM-linked domain now an unrelated California food blog; no restaurant at 316 W Main referenced"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n6069056993",
+  "name": "Mussel & Burger Bar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6065590586",
+  "name": "O'Shea's Public House",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n7661678685",
+  "name": "Pizza Bar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6069217385",
+  "name": "Queue Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6069056987",
+  "name": "Robyn's Nest Bourbon Bistro",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6069076485",
+  "name": "SCENE at the Center",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6328328087",
+  "name": "Safier Mediterranean Deli",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ }
+]

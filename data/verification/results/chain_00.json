@@ -1,0 +1,795 @@
+[
+ {
+  "id": "n259306269",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/mount-washington/121-oakbrook-dr/13750.html",
+    "note": "Official McDonald's location page (store #13750, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n4849851307",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/4306-bardstown-rd/6341.html",
+    "note": "Official McDonald's location page (store #6341, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5239963573",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/3820-ruckriegel-parkway/33029.html",
+    "note": "Official McDonald's location page (store #33029, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5670314313",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/in/new-albany/802-hausfeldt-ln/12900.html",
+    "note": "Official McDonald's location page (store #12900, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n9982981346",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/in/georgetown/1051-n-luther-rd/12895.html",
+    "note": "Official McDonald's location page (store #12895, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11957248674",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/in/jeffersonville/1630-veterans-pkwy/40561.html",
+    "note": "Official McDonald's location page (store #40561, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w24657155",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/KY/LOUISVILLE/301-E-WARNOCK-ST/3283.html",
+    "note": "Official McDonald's location page (store #3283, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch (locator titled 301 University Blvd / 301 E Warnock St)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329388223",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/2209-taylorsville-rd/6806.html",
+    "note": "Official McDonald's location page (store #6806, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329509359",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/4940-brownsboro-rd/7359.html",
+    "note": "Official McDonald's location page (store #7359, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329542803",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/12414-la-grange-rd/22895.html",
+    "note": "Official McDonald's location page (store #22895, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329544755",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/2314-brownsboro-rd/25813.html",
+    "note": "Official McDonald's location page (store #25813, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329551044",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/12341-shelbyville-rd/3975.html",
+    "note": "Official McDonald's location page (store #3975, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329933252",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/1245-bardstown-rd/941.html",
+    "note": "Official McDonald's location page (store #941, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch (locator gives 1245 Bardstown Rd vs OSM 1243)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w330402473",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/3340-bardstown-rd/6206.html",
+    "note": "Official McDonald's location page (store #6206, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w330532715",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/520-n-22nd-st/5835.html",
+    "note": "Official McDonald's location page (store #5835, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w330976158",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/207-w-broadway/4776.html",
+    "note": "Official McDonald's location page (store #4776, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w331282657",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/420-e-market-st/6147.html",
+    "note": "Official McDonald's location page (store #6147, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w332312550",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/2500-dixie-hwy/4101.html",
+    "note": "Official McDonald's location page (store #4101, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w332420212",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/prospect/5905-timber-ridge-dr/26812.html",
+    "note": "Official McDonald's location page (store #26812, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w334690602",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/2800-outer-loop/7022.html",
+    "note": "Official McDonald's location page (store #7022, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336419478",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/6214-old-shepherdsville-rd/8166.html",
+    "note": "Official McDonald's location page (store #8166, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336481892",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/3005-fern-valley-rd/3994.html",
+    "note": "Official McDonald's location page (store #3994, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337083572",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/2720-w-broadway/7110.html",
+    "note": "Official McDonald's location page (store #7110, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337104532",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/3100-poplar-level-rd/4924.html",
+    "note": "Official McDonald's location page (store #4924, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337112646",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/3350-preston-hwy/7940.html",
+    "note": "Official McDonald's location page (store #7940, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337122285",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/9254-westport-rd/1247.html",
+    "note": "Official McDonald's location page (store #1247, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337130912",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/287-n-hubbards-lane/17189.html",
+    "note": "Official McDonald's location page (store #17189, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337188515",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/5015-shelbyville-rd/3891.html",
+    "note": "Official McDonald's location page (store #3891, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337275393",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/1212-w-broadway/1148.html",
+    "note": "Official McDonald's location page (store #1148, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337494373",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/3340-taylor-blvd/697.html",
+    "note": "Official McDonald's location page (store #697, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337501555",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/lyndon/9901-ormsby-station-road/24375.html",
+    "note": "Official McDonald's location page (store #24375, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337607798",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "unsure",
+  "evidence": [
+   {
+    "url": "https://www.storeopeninghours.com/mcdonalds-citadel-way-louisville-ky",
+    "note": "Third-party listing for McDonald's 8600 Citadel Way seen only as a search result (page 403, undated); official locator page could not be confirmed before search budget ran out"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w337707580",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/2961-breckenridge-ln/5190.html",
+    "note": "Official McDonald's location page (store #5190, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337711910",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/998-breckenridge-ln/23345.html",
+    "note": "Official McDonald's location page (store #23345, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w338206990",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/5600-preston-hwy/258.html",
+    "note": "Official McDonald's location page (store #258, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch (locator gives 5600 Preston Hwy vs OSM 5508)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w338229199",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/8220-preston-hwy/1433.html",
+    "note": "Official McDonald's location page (store #1433, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w338405625",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/5630-bardstown-rd/3666.html",
+    "note": "Official McDonald's location page (store #3666, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339054847",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/5001-s-3rd-st/6402.html",
+    "note": "Official McDonald's location page (store #6402, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339223324",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/4445-cane-run-rd/1733.html",
+    "note": "Official McDonald's location page (store #1733, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339234542",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/KY/LOUISVILLE/7426-S-3RD-STREET-ROAD/6429.html",
+    "note": "Official McDonald's location page (store #6429, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339254317",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/10411-dixie-hwy/10593.html",
+    "note": "Official McDonald's location page (store #10593, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch; note a newer store #41400 at 11701 Dixie Hwy also listed nearby, so a relocation cannot be ruled out"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w339255616",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/8600-dixie-hwy/116.html",
+    "note": "Official McDonald's location page (store #116, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339259012",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/6701-dixie-hwy/11126.html",
+    "note": "Official McDonald's location page (store #11126, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339264096",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://phoenix.aws.mapquest.com/us/kentucky/mcdonalds-272373070",
+    "note": "MapQuest listing at 4622 Dixie Hwy, Shively KY 40216 shows Open 24 hours, reviews ~4-7 months old (2026); official locator page not found in search"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w339647459",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/6400-greenwood-rd/8165.html",
+    "note": "Official McDonald's location page (store #8165, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w343474657",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/1100-hurstbourne-ln/3628.html",
+    "note": "Official McDonald's location page (store #3628, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w343716084",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/11600-blue-grass-pky/11737.html",
+    "note": "Official McDonald's location page (store #11737, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w539267408",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/in/jeffersonville/5506-hwy-62/36956.html",
+    "note": "Official McDonald's location page (store #36956, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w674843459",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/in/new-albany/2107-state-st/12096.html",
+    "note": "Official McDonald's location page (store #12096, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w727598157",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/in/floyds-knobs/600-lafollette-station/35578.html",
+    "note": "Official McDonald's location page (store #35578, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w744660351",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/shepherdsville/135-centre-dr/31169.html",
+    "note": "Official McDonald's location page (store #31169, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1000616998",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/12627-taylorsville-rd/35637.html",
+    "note": "Official McDonald's location page (store #35637, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch (locator gives 12627 Taylorsville Rd vs OSM 12625)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1093670238",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/in/jeffersonville/3000-e-10th-st/7496.html",
+    "note": "Official McDonald's location page (store #7496, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1116171979",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/crestwood/6410-w-hwy-146/31757.html",
+    "note": "Official McDonald's location page (store #31757, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1118814344",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/in/new-albany/2621-charlestown-rd/2008.html",
+    "note": "Official McDonald's location page (store #2008, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1190671173",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/shepherdsville/542-highway-44/4930.html",
+    "note": "Official McDonald's location page (store #4930, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1264634874",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/in/clarksville/1420-eastern-blvd/383.html",
+    "note": "Official McDonald's location page (store #383, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1264635055",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/in/jeffersonville/927-indiana-avenue/39485.html",
+    "note": "Official McDonald's location page (store #39485, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1264636035",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/louisville/7724-bardstown-road/35222.html",
+    "note": "Official McDonald's location page (store #35222, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1264636206",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/hillview/1911-old-preston-hwy-n/5733.html",
+    "note": "Official McDonald's location page (store #5733, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1524440310",
+  "name": "McDonald's",
+  "new_name": null,
+  "status": "open",
+  "evidence": [
+   {
+    "url": "https://www.mcdonalds.com/us/en-us/location/ky/lagrange/3850-commerce-parkway/40650.html",
+    "note": "Official McDonald's location page (store #40650, same ID as OSM website) for this address indexed in search results Nov 2026; page itself returned 403 to direct fetch"
+   }
+  ],
+  "confidence": "high"
+ }
+]

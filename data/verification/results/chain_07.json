@@ -1,0 +1,988 @@
+[
+ {
+  "id": "n3516264329",
+  "name": "Panera Bread",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/news/business/panera-bread-permanently-closes-downtown-louisville-location/article_20d916ac-85df-11eb-bea7-0f7f8f7a4837.html",
+    "note": "WDRB (2021): Panera permanently closed its downtown location at 400 W. Market St (4th & Market, matches coordinates)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n9991610622",
+  "name": "Panera Bread",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://directory.yext.com/en/panera-bread-114728599",
+    "note": "Yext listing (search result): Panera, 1040 Veterans Pkwy, Clarksville IN 47129, dine-in/delivery/takeout, 840 reviews"
+   },
+   {
+    "url": "https://reviews.birdeye.com/panera-bread-173506623839173",
+    "note": "Birdeye listing with current hours"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n11974214312",
+  "name": "Panera Bread",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/news/business/panera-bread-opens-on-state-street-in-new-albany/article_62a55914-b94b-11ed-b984-db94cda4e73d.html",
+    "note": "WDRB: Panera opened on State Street off I-265, New Albany, March 2 2023 (matches coords)"
+   },
+   {
+    "url": "https://directory.yext.com/en/panera-bread-3308222375",
+    "note": "Yext listing: 2135 State St, New Albany IN"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n11980061489",
+  "name": "Panera Bread",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/panera-401-e-chestnut-streets/uXGo1kYaRQGjktJHT4q2YQ",
+    "note": "Uber Eats store listing for Panera 401 E Chestnut St (search result)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n11980061502",
+  "name": "Panera Bread",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://reviews.birdeye.com/panera-bread-173506643376104",
+    "note": "Birdeye listing 6900 Dixie Hwy 40258 with hours Mon-Sat 6-9, Sun 7-9"
+   },
+   {
+    "url": "https://www.mapquest.com/us/kentucky/panera-bread-371102689",
+    "note": "MapQuest listing, 42 Yelp reviews"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w329523557",
+  "name": "Panera Bread",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/news/business/panera-bread-permanently-closes-downtown-louisville-location/article_20d916ac-85df-11eb-bea7-0f7f8f7a4837.html",
+    "note": "WDRB (2021): Panera restaurants at 1534 Bardstown Rd and 4024 Shelbyville Rd had closed over the past year"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w332453660",
+  "name": "Panera Bread",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/panera-3131-poplar-level-road/zwz1tcsGRuynG4n_5iF32w/9abd805e-816e-5abd-8e7f-9d821f9933c0/c5e74950-afa7-58e5-b878-92252ed1589d",
+    "note": "Uber Eats store listing Panera 3131 Poplar Level Road (search result)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w332557622",
+  "name": "Panera Bread",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.storeopeninghours.com/panera-bread-rudy-lane-louisville-ky",
+    "note": "Directory listing Panera Rudy Lane, 1801 Rudy Ln (search result)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w336682478",
+  "name": "Panera Bread",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.storeopeninghours.com/panera-bread-champion-farms-dr-louisville-ky",
+    "note": "Directory listing Panera 10451 Champion Farms Dr (search result)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w337527911",
+  "name": "Panera Bread",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/panera-13000-shelbyville-road/k_j3dq_JTKGTs7O9cE2lpw",
+    "note": "Uber Eats store listing Panera 13000 Shelbyville Road (search result)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w337711912",
+  "name": "Panera Bread",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://directory.yext.com/en/panera-bread-114687806",
+    "note": "Search-result summary lists Panera at 6221 Dutchmans Ln 40205 (The Springs)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w338190216",
+  "name": "Panera Bread",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://directory.yext.com/en/panera-bread-114686416",
+    "note": "Search-result summary lists Panera at 500 S Hurstbourne Pkwy 40222"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w679065414",
+  "name": "Panera Bread",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.mallsinamerica.com/kentucky/jefferson-commons/panera-bread",
+    "note": "Directory: Panera Bread in Jefferson Commons, Outer Loop (sources give 4901/4923 Outer Loop)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w1190671158",
+  "name": "Panera Bread",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w1345147683",
+  "name": "Panera Bread",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/news/business/panera-bread-becomes-first-tenant-of-long-planned-southpointe-commons/article_10feec4e-c887-11eb-9132-373e0c78c141.html",
+    "note": "WDRB June 2021: Panera opened as first tenant of SouthPointe Commons"
+   },
+   {
+    "url": "https://reviews.birdeye.com/panera-bread-173506605117503",
+    "note": "Birdeye listing with current hours"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3364361412",
+  "name": "Chick-fil-A",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.chick-fil-a.com/locations/browse/ky",
+    "note": "Official CFA KY locator lists Middletown Commons, 13313 Shelbyville Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061490",
+  "name": "Chick-fil-A",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.chick-fil-a.com/locations/ky/university-of-louisville-medical-center",
+    "note": "Official location page returns 404 (Nov 2026); hospital location, conflicting info whether still listed"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n11980061534",
+  "name": "Chick-fil-A",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.chick-fil-a.com/locations/browse/ky",
+    "note": "Official CFA KY locator lists Mall St. Matthews, 5000 Shelbyville Rd Ste 1630"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061535",
+  "name": "Chick-fil-A",
+  "status": "duplicate_or_not_a_restaurant",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://page-service.doordash.com/en/store/chick-fil-a-24589348",
+    "note": "DoorDash 'Chick-fil-A (7405 New Lagrange Road)'; CFA site named it 'Louisville Catering & Delivery' (catering/delivery hub); official page now 404 and not in KY locator"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n14372059289",
+  "name": "Chick-fil-A",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.chick-fil-a.com/locations/ky/glenmary",
+    "note": "Official page: CFA Glenmary, 7901 Bardstown Rd 40291, Mon-Sat hours (matches Fern Creek coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w336681655",
+  "name": "Chick-fil-A",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.chick-fil-a.com/locations/ky/springhurst",
+    "note": "Official page: Springhurst, 10501 Westport Rd, open Mon-Sat 6:30-10"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337188047",
+  "name": "Chick-fil-A",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.chick-fil-a.com/locations/ky/st-matthews",
+    "note": "Official page: St. Matthews, 5001 Shelbyville Rd, phone 502-894-8092 matches"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337607208",
+  "name": "Chick-fil-A",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.chick-fil-a.com/locations/ky/stonybrook",
+    "note": "Official page: Stonybrook, 2350 Shane Dr, open"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w537266874",
+  "name": "Chick-fil-A",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.chick-fil-a.com/locations/browse/ky",
+    "note": "Official KY locator lists Bardstown Road, 3420 Bardstown Rd 40218 (OSM 3408; same store/URL)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w674843464",
+  "name": "Chick-fil-A",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.chick-fil-a.com/locations/in/new-albany",
+    "note": "Official page: State Street, 2225 State St New Albany, phone matches"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w679065413",
+  "name": "Chick-fil-A",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.chick-fil-a.com/locations/browse/ky",
+    "note": "Official KY locator lists Jefferson Commons, 4925 Outer Loop"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w720116185",
+  "name": "Chick-fil-A",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.chick-fil-a.com/locations/in/veterans-parkway",
+    "note": "Official page: 1320 Veterans Pkwy Clarksville, hours"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1093670237",
+  "name": "Chick-fil-A",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.chick-fil-a.com/locations/in/jeffersonville",
+    "note": "Official page: 3549 E 10th St Jeffersonville, hours"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1513140950",
+  "name": "Chick-fil-A",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.chick-fil-a.com/locations/browse/ky",
+    "note": "Official KY locator lists Dixie Hwy (KY), 6630 Dixie Hwy 40258"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1527097670",
+  "name": "Chick-fil-A",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.chick-fil-a.com/locations/ky/preston-hwy",
+    "note": "Official page: Preston Hwy, 10501 Preston Hwy, open Mon-Sat 6-10"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n4689288195",
+  "name": "Waffle House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wafflehouse.com/louisville-ky-353/",
+    "note": "Official locator: #353, 4706 Preston Hwy (matches OSM website/coords)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5262580991",
+  "name": "Waffle House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wafflehouse.com/shepherdsville-ky-873/",
+    "note": "Official locator: #873, 2021 E Bluelick Rd, Shepherdsville"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n12452779023",
+  "name": "Waffle House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wafflehouse.com/louisville-ky-2237/",
+    "note": "Official locator: #2237, 612 Lyndon Lane (matches Lyndon coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w329551956",
+  "name": "Waffle House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wafflehouse.com/louisville-ky-1001/",
+    "note": "Official locator: #1001, 12923 Shelbyville Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336481855",
+  "name": "Waffle House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wafflehouse.com/louisville-ky-174/",
+    "note": "Official locator: #174, 2805 Fern Valley Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336678865",
+  "name": "Waffle House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wafflehouse.com/louisville-ky-1069/",
+    "note": "Official locator: #1069, 3739 Pamela Rae Ave"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337702476",
+  "name": "Waffle House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wafflehouse.com/louisville-ky-1568/",
+    "note": "Official locator: #1568, 4029 Taylorsville Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337849426",
+  "name": "Waffle House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wafflehouse.com/louisville-ky-1444/",
+    "note": "Official locator: #1444, 7715 Bardstown Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339254477",
+  "name": "Waffle House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wafflehouse.com/louisville-ky-1887/",
+    "note": "Official locator: #1887, 10563 Dixie Hwy"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w343475148",
+  "name": "Waffle House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wafflehouse.com/louisville-ky-1111/",
+    "note": "Official locator: #1111, 9800 Blairwood Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w345113496",
+  "name": "Waffle House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wafflehouse.com/jeffersontown-ky-932/",
+    "note": "Official locator: #932, 1620 Kentucky Mills"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w996819459",
+  "name": "Waffle House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wafflehouse.com/newalbany-in-349/",
+    "note": "Official locator: #349, 325 W Spring St New Albany"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1339619929",
+  "name": "Waffle House",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.wafflehouse.com/jeffersonville-in-2410/",
+    "note": "Official locator: #2410, 5415 Hwy 62 Jeffersonville (nearest match to coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3410869496",
+  "name": "Penn Station",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.penn-station.com/locations",
+    "note": "Official locator: #178, 3401 Bardstown Rd 40218 (Hikes Point; OSM side-street address 2204 Heather Ln at same spot)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3452858021",
+  "name": "Penn Station",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.penn-station.com/locations",
+    "note": "Official locator: #038, 4247 Outer Loop"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3453099463",
+  "name": "Penn Station",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.penn-station.com/locations",
+    "note": "Official locator lists only #038 4247 Outer Loop (~0.5 km west) and #258 5009 Mud Lane in this area; this unaddressed node may be a duplicate or old location"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3470245524",
+  "name": "Penn Station",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.penn-station.com/locations",
+    "note": "Official locator: #126, 2017 South Hurstbourne Pkwy"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3505154471",
+  "name": "Penn Station",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.penn-station.com/locations",
+    "note": "Official locator: #070, 1933 Blankenbaker Pkwy (OSM 1929)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n4780015133",
+  "name": "Penn Station",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.penn-station.com/locations",
+    "note": "Official locator: #072, 2154 New Albany Plaza, New Albany IN (State St area matching coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n12391907096",
+  "name": "Penn Station",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.penn-station.com/locations",
+    "note": "Official locator: #086, 3310 East 10th St, Jeffersonville IN"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n13033103010",
+  "name": "Penn Station",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.penn-station.com/locations",
+    "note": "Official locator: #197, 3035 Preston Hwy"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n13248703206",
+  "name": "Penn Station",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.penn-station.com/locations",
+    "note": "Official locator: #327, 2407 A Brownsboro Rd, phone 502-749-0406 matches"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n13384448663",
+  "name": "Penn Station",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.penn-station.com/locations",
+    "note": "Official locator: #157, 4317 Charlestown Road, New Albany IN (Charlestown Rd/I-265, matches coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n14374060128",
+  "name": "Penn Station",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.penn-station.com/locations",
+    "note": "Official locator: #337, 544 Conestoga Pkwy Ste 11, Shepherdsville"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n2802422185",
+  "name": "Heine Brothers' Coffee",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://heinebroscoffee.com/pages/locations",
+    "note": "Official locations page: Schnitzelburg, 822 Eastern Pkwy, hours"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n2802422186",
+  "name": "Heine Brothers' Coffee",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://heinebroscoffee.com/pages/locations",
+    "note": "Official: Northfield, 4901 Brownsboro Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3716895585",
+  "name": "Heine Brothers' Coffee",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://heinebroscoffee.com/pages/locations",
+    "note": "Official: Veterans Parkway, 1475 Veterans Pkwy, Jeffersonville IN"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n4755772899",
+  "name": "Heine Brothers' Coffee",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://heinebroscoffee.com/pages/locations",
+    "note": "Official locations page lists the only Main Street cafe at 101 S. 5th St (PNC Tower); 516 W Main St not listed (OSM entry last edited 2018)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n11974214316",
+  "name": "Heine Brothers' Coffee",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://heinebroscoffee.com/pages/locations",
+    "note": "Official: State Street, 414 W Daisy Lane New Albany"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w273502097",
+  "name": "Heine Brothers' Coffee",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://heinebroscoffee.com/pages/locations",
+    "note": "Official: Blankenbaker Parkway, 805 Blankenbaker Pkwy"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329188721",
+  "name": "Heine Brothers' Coffee",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://heinebroscoffee.com/pages/locations",
+    "note": "Official: Longest Avenue, 1250 Bardstown Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w333988956",
+  "name": "Heine Brothers' Coffee",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://heinebroscoffee.com/pages/locations",
+    "note": "Official: Chenoweth Lane, 119 Chenoweth Ln"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w333995771",
+  "name": "Heine Brothers' Coffee",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://heinebroscoffee.com/pages/locations",
+    "note": "Official: Gardiner Lane, 3060 Bardstown Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337189329",
+  "name": "Heine Brothers' Coffee",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://heinebroscoffee.com/pages/locations",
+    "note": "Official: Shelbyville Road, 4305 Shelbyville Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337701123",
+  "name": "Heine Brothers' Coffee",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://heinebroscoffee.com/pages/locations",
+    "note": "Official: Hikes Point, 3965 Taylorsville Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3773229988",
+  "name": "Dunkin'",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.dunkindonuts.com/locations/us/ky/louisville/320-s-4th-st/store-353573/",
+    "note": "Store page listed in Dunkin's official locations sitemap (locations.xml, lastmod 2026-11-17)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6399762831",
+  "name": "Dunkin'",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.dunkindonuts.com/locations/us/in/new-albany/3012-saint-joe-rd/store-355155/",
+    "note": "Store page listed in Dunkin's official locations sitemap (locations.xml, lastmod 2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6964909915",
+  "name": "Dunkin'",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.dunkindonuts.com/locations/us/ky/louisville/3333-newburg-rd/store-354744/",
+    "note": "Store page listed in Dunkin's official locations sitemap (locations.xml, lastmod 2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061483",
+  "name": "Dunkin'",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.dunkindonuts.com/locations/us/in/jeffersonville/2711-e-10th-st/store-350979/",
+    "note": "Store page listed in Dunkin's official locations sitemap (locations.xml, lastmod 2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061509",
+  "name": "Dunkin'",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.dunkindonuts.com/locations/us/ky/shively/4601-dixie-hwy/store-352666/",
+    "note": "Store page listed in Dunkin's official locations sitemap (locations.xml, lastmod 2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11980061525",
+  "name": "Dunkin'",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.dunkindonuts.com/locations/us/ky/louisville/5201-preston-highway/store-358657/",
+    "note": "Store page listed in Dunkin's official locations sitemap (locations.xml, lastmod 2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n12238407160",
+  "name": "Dunkin'",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.dunkindonuts.com/locations/us/ky/louisville/12401-shelbyville-rd/store-351288/",
+    "note": "Store page listed in Dunkin's official locations sitemap (locations.xml, lastmod 2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336481861",
+  "name": "Dunkin'",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.dunkindonuts.com/locations/us/ky/louisville/2815-fern-valley-rd/store-352137/",
+    "note": "Store page listed in Dunkin's official locations sitemap (locations.xml, lastmod 2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w645729439",
+  "name": "Dunkin'",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.dunkindonuts.com/locations/us/ky/louisville/9913-brownsboro-rd/store-354642/",
+    "note": "Store page listed in Dunkin's official locations sitemap (locations.xml, lastmod 2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1197726644",
+  "name": "Dunkin'",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.dunkindonuts.com/locations/us/ky/mount-washington/140-shadowmeade-ln/store-358134/",
+    "note": "Store page listed in Dunkin's official locations sitemap (locations.xml, lastmod 2026-11-17)"
+   }
+  ],
+  "confidence": "high"
+ }
+]

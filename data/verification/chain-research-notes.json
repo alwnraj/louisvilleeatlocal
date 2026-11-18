@@ -1,0 +1,1299 @@
+{
+  "checked": "2026-11-18",
+  "scope": "Missing chain batches chain_09,10,11,13; no site changes.",
+  "queries": [
+    "\"8UP Elevated Drinkery and Kitchen\" 350 West Chestnut Street Louisville restaurant hours location",
+    "\"Charr'd Bourbon Kitchen & Lounge\" 1903 Embassy Square Boulevard Louisville restaurant hours location",
+    "\"Great American Grill\" Prospect & Northeast Louisville area restaurant hours location",
+    "\"Porch Kitchen & Bar\" Downtown Louisville area restaurant hours location",
+    "\"Repeal Oak-Fired Steakhouse\" 101 West Main Street Louisville restaurant hours location",
+    "\"Sway\" 309 South 4th Street Louisville restaurant hours location",
+    "\"The Bistro at the Courtyard\" Downtown Louisville area restaurant hours location",
+    "\"Chili's\" 9720 Von Allmen Court Louisville restaurant hours location",
+    "\"Chili's\" 3007 Poplar Level Road Louisville restaurant hours location",
+    "\"Chili's\" 3623 Bardstown Road Louisville restaurant hours location",
+    "\"Chili's\" 421 South Hurstbourne Parkway Jeffersontown restaurant hours location",
+    "\"Chili's\" 11600 Antonia Way Louisville restaurant hours location",
+    "\"Chili's\" 6641 Dixie Highway Louisville restaurant hours",
+    "\"Chili's\" Clarksville, IN Indiana side restaurant hours",
+    "\"Chipotle\" 315 South 4th Street Louisville restaurant hours",
+    "\"Chipotle\" 10333 Westport Road Louisville restaurant hours",
+    "\"Chipotle\" 13303 Shelbyville Road Middletown restaurant hours",
+    "\"Chipotle\" 1620 Veterans Parkway Indiana side restaurant hours",
+    "\"Chipotle\" New Albany, IN Indiana side restaurant hours",
+    "\"Chipotle\" Highview & Fern Creek Louisville area restaurant hours",
+    "\"Chipotle\" 1075 Bardstown Road Louisville restaurant hours",
+    "\"Five Guys\" 4116 Summit Plaza Drive Louisville restaurant hours",
+    "\"Five Guys\" 13303 Shelbyville Road Middletown restaurant hours",
+    "\"Five Guys\" 4903 Outer Loop Louisville restaurant hours",
+    "\"Five Guys\" 2221 State Street New Albany restaurant hours",
+    "\"Five Guys\" 1500 Veterans Parkway Jeffersonville restaurant hours",
+    "\"Five Guys\" 9050 Dixie Highway 104 Louisville restaurant hours",
+    "\"Five Guys\" 4226 Shelbyville Road St Matthews restaurant hours",
+    "\"Panda Express\" 13311 Shelbyville Road Middletown restaurant hours",
+    "\"Panda Express\" 2100 South Floyd Street Louisville restaurant hours",
+    "\"Panda Express\" 1232 South Hurstbourne Parkway Louisville restaurant hours",
+    "\"Panda Express\" 10600 Westport Road Louisville restaurant hours",
+    "\"Panda Express\" 1075 Veterans Parkway Clarksville restaurant hours",
+    "\"Panda Express\" 335 Keystone Crossroad Drive Shepherdsville restaurant hours",
+    "\"Panda Express\" Clarksville, IN Indiana side restaurant hours",
+    "\"Wingstop\" 9401 Westport Road Louisville restaurant hours",
+    "\"Wingstop\" 4812 Dixie Highway Louisville restaurant hours",
+    "\"Wingstop\" 5524 New Cut Road Louisville restaurant hours",
+    "\"Wingstop\" 4659 Outer Loop Louisville restaurant hours",
+    "\"Wingstop\" 2007 South Hurstbourne Parkway Louisville area restaurant hours",
+    {
+      "q": "\"Wingstop\" 6209 Bardstown Road Louisville area restaurant hours location"
+    },
+    {
+      "q": "\"Wingstop\" 418 Adam Shepherd Parkway Shepherdsville restaurant hours location"
+    },
+    {
+      "q": "\"Coffee Crossing\" 4215 Charlestown Road New Albany restaurant hours location"
+    },
+    {
+      "q": "\"Coffee Crossing\" Clarksville, IN Indiana side restaurant hours location"
+    },
+    {
+      "q": "\"Coffee Crossing\" 3700 Paoli Pike Indiana side restaurant hours location"
+    },
+    {
+      "q": "\"Coffee Crossing\" 228 Spring Street Jeffersonville restaurant hours location"
+    },
+    {
+      "q": "\"Coffee Crossing\" 140 East Main Street Indiana side restaurant hours location"
+    },
+    {
+      "q": "\"Coffee Crossing\" 8105 CR Indiana side restaurant hours location"
+    },
+    {
+      "q": "\"Coffee Crossing\" 6671 US 150 Floyds Knobs restaurant hours location"
+    },
+    {
+      "q": "\"Captain D's\" 12933 Shelbyville Road Middletown restaurant hours location"
+    },
+    {
+      "q": "\"Captain D's\" 2960 Breckenridge Lane Louisville restaurant hours location"
+    },
+    {
+      "q": "\"Captain D's\" 5232 Bardstown Road Louisville restaurant hours location"
+    },
+    {
+      "q": "\"Captain D's\" 10101 Dixie Highway Louisville restaurant hours location"
+    },
+    {
+      "q": "\"Captain D's\" 3937 Dixie Highway Shively restaurant hours location"
+    },
+    {
+      "q": "\"Captain D's\" 1009 East Lewis and Clark Parkway Clarksville restaurant hours location"
+    },
+    {
+      "q": "\"Graeter's\" 2204 Bardstown Road Louisville restaurant hours location"
+    },
+    {
+      "q": "\"Graeter's\" 6509 Bardstown Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Graeter's\" 13817 English Villa Drive Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Graeter's\" Clarksville, IN Indiana location hours"
+    },
+    {
+      "q": "\"Graeter's\" 9430 Brownsboro Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Graeter's\" 140 Breckenridge Lane Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Bearno's Little Sicily Pizza\" Prospect & Northeast Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Bearno's Pizza\" 131 West Main Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Bearno's Pizza\" Lyndon & Westport Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Bearno's Pizza\" 5570 State Road 62 Indiana location hours"
+    },
+    {
+      "q": "\"Bearno's Pizza\" 1220 Highway 44 East Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Bearno's Pizza\" 10212 Taylorsville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Fazoli's\" 337 Whittington Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Fazoli's\" 11806 Standiford Plaza Drive Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Fazoli's\" 6011 Preston Highway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Fazoli's\" 10307 Dixie Highway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Fazoli's\" Clarksville, IN Indiana location hours"
+    },
+    {
+      "q": "\"Hardee's\" 2740 Allison Lane Indiana location hours"
+    },
+    {
+      "q": "\"Hardee's\" 5352 Dixie Highway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Hardee's\" 3459 Taylor Boulevard Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Hardee's\" 2909 Fern Valley Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Hardee's\" 301 West Court Avenue Indiana location hours"
+    },
+    {
+      "q": "\"Cracker Barrel\" 2701 Crittenden Drive Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Cracker Barrel\" 10150 Brookridge Village Boulevard Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Cracker Barrel\" 11000 Dixie Highway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Cracker Barrel\" 1401 Kentucky Mills Drive Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Cracker Barrel\" 275 Brenton Way Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"First Watch\" 201 South Hurstbourne Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"First Watch\" Highview & Fern Creek Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"First Watch\" 2225 Taylorsville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"First Watch\" 12913 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"First Watch\" 4948 U S Highway 42 Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Little Caesars\" Crestwood & Oldham Co. Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Little Caesars\" Jeffersontown Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Little Caesars\" 2868 Charlestown Road Indiana location hours"
+    },
+    {
+      "q": "\"Little Caesars\" Hillview & Mount Washington Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Little Caesars\" 3121 S 2nd Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Roosters\" Shively Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Roosters\" 10430 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Roosters\" 7405 Preston Highway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Roosters\" Highview & Fern Creek Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Roosters\" Clarksville, IN Indiana location hours"
+    },
+    {
+      "q": "\"Indies Fried Chicken\" Jeffersonville, IN Indiana location hours"
+    },
+    {
+      "q": "\"Indi's\" 5011 South 3rd Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Indi's\" 1033 West Broadway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Indi's\" 3505 Grant Line Road Indiana location hours"
+    },
+    {
+      "q": "\"Indi's Fast Food Restaurant\" 3820 West Market Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"La Catrina Mexican Kitchen\" 202 East Elm Street Indiana location hours"
+    },
+    {
+      "q": "\"La Catrina Tacos & Tequila\" 125 West Chestnut Street Indiana location hours"
+    },
+    {
+      "q": "\"Señor Iguanas\" 14000 Broadway Street Indiana location hours"
+    },
+    {
+      "q": "\"Señor Iguanas\" 5637 Outer Loop Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Señor Iguanas\" 9424 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Quills Coffee\" 2001 Frankfort Avenue Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Quills Coffee\" 802 East Main Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Quills Coffee\" Highlands Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Quills Coffee\" 10501 Watterson Trail Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Quills Coffee\" 11213 River Beauty Loop Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"7 Brew\" 7700 Laurel Ridge Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"7 Brew\" 10013 Brownsboro Rd Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"7 Brew\" Highview & Fern Creek Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Seven Brew\" 1626 Veterans Parkway Indiana location hours"
+    },
+    {
+      "q": "\"Bob Evans\" 10761 Fischer Park Drive Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Bob Evans\" 11800 Standiford Plaza Drive Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Bob Evans\" 9797 Blairwood Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Bob Evans\" 1101 East Lewis and Clark Parkway Indiana location hours"
+    },
+    {
+      "q": "\"Culver's\" 4630 South Hurstbourne Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Culver's\" 11801 Interchange Drive Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Culver's\" 1555 Veterans Parkway Indiana location hours"
+    },
+    {
+      "q": "\"Culver's\" 3525 East 10th Street Indiana location hours"
+    },
+    {
+      "q": "\"Jack in the Box\" 3232 Bardstown Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Jack in the Box\" 157 Keystone Crossroads Dr Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Jack in the Box\" Lyndon & Westport Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Jack in the Box\" 10700 Dixie Highway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Krispy Kreme\" 13319 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Krispy Kreme\" Veterans Parkway Indiana location hours"
+    },
+    {
+      "q": "\"Krispy Kreme\" Jeffersontown Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Krispy Kreme\" 3000 Bardstown Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Long John Silver's\" Middletown & Anchorage Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Long John Silver's\" 3407 West Broadway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Long John Silver's\" Clarksville, IN Indiana location hours"
+    },
+    {
+      "q": "\"Long John Silver's and Taco Bell\" 1805 Blankenbaker Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Olive Garden\" 9730 Von Allmen Court Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Olive Garden\" 4811 Outer Loop Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Olive Garden\" 1320 South Hurstbourne Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Olive Garden\" 1230 Veterans Parkway Indiana location hours"
+    },
+    {
+      "q": "\"Papa Murphy's\" Middletown & Anchorage Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Papa Murphy's\" 3024 South 3rd Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Papa Murphy's\" New Albany, IN Indiana location hours"
+    },
+    {
+      "q": "\"Papa Murphy's\" 5016 Mud Lane Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Raising Cane's\" 1250 Bardstown Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Raising Cane's\" 10490 Westport Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Raising Cane's\" 1905 South Hurstbourne Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Raising Cane's\" Highview & Fern Creek Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Skyline Chili\" 1266 Bardstown Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Skyline Chili\" 4024 Dutchmans Lane Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Skyline Chili\" 340 Whittington Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Skyline Chili\" 6801 Dixie Highway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Steak 'n Shake\" 10721 Fischer Park Drive Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Steak 'n Shake\" 2717 South Hurstbourne Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Steak 'n Shake\" 4545 Outer Loop Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Steak 'n Shake\" 980 East Lewis and Clark Parkway Indiana location hours"
+    },
+    {
+      "q": "\"Texas Roadhouse\" 5005 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Texas Roadhouse\" 3322 Outer Loop Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Texas Roadhouse\" 4406 Dixie Highway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Texas Roadhouse\" 13321 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"BoomBozz Pizza & Taphouse\" Lyndon & Westport Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"BoomBozz Pizza & Taphouse\" 1450 Veterans Parkway Indiana location hours"
+    },
+    {
+      "q": "\"BoomBozz Pizza & Taphouse\" 1448 Eastern Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"BoomBozz Pizza & Taphouse\" 1890 South Hurstbourne Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Home Run Burger\" 4600 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Home Run Burger\" 12949 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Home Run Burger\" 2723 South Hurstbourne Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Homerun Burger\" Old Louisville Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Parlour\" 2636 Frankfort Avenue Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Parlour\" 3910 Ruckriegel Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Parlour\" 131 West Chestnut Street Indiana location hours"
+    },
+    {
+      "q": "\"Parlour\" 115 West Market Street Indiana location hours"
+    },
+    {
+      "q": "\"Baskin-Robbins\" 9413 Westport Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Baskin-Robbins\" 12418 La Grange Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Baskin-Robbins\" 3959 Taylorsville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Crumbl\" 12949 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Crumbl\" 4110 Summit Plaza Drive Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Crumbl\" Clarksville, IN Indiana location hours"
+    },
+    {
+      "q": "\"Moe\" Clarksville, IN Indiana location hours"
+    },
+    {
+      "q": "\"Moe's Southwest Grill\" 4652 Chamberlain Lane Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Moe's Southwest Grill\" 2001 South Hurstbourne Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Nothing Bundt Cakes\" 4505 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Nothing Bundt Cakes\" 12949 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Nothing Bundt Cakes\" 4229 Town Center Boulevard Indiana location hours"
+    },
+    {
+      "q": "\"Red Lobster\" 986 Breckenridge Lane Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Red Lobster\" 4639 Outer Loop Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Red Lobster\" Clarksville, IN Indiana location hours"
+    },
+    {
+      "q": "\"Beef 'O' Brady's\" 11324 Preston Highway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Beef 'O' Brady's\" Middletown & Anchorage Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Beef 'O' Brady's\" 105 Lafollette Station Indiana location hours"
+    },
+    {
+      "q": "\"Blaze Pizza\" 13317 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Blaze Pizza\" 4118 Summit Plaza Drive Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Blaze Pizza\" 4848 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Cheddar's\" 10403 Westport Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Cheddar's\" 3521 Outer Loop Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Cheddar's\" Veterans Parkway Indiana location hours"
+    },
+    {
+      "q": "\"Frisch's Big Boy\" 1710 Lincoln Avenue Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Frisch's Big Boy\" 2962 Breckenridge Lane Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Frisch's Big Boy\" 7401 Dixie Highway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Jaggers\" Lyndon & Westport Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Jaggers\" 3528 East 10th Street Indiana location hours"
+    },
+    {
+      "q": "\"Jagggers\" Highview & Fern Creek Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Jet's Pizza\" 101 South Hubbards Lane Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Jet's Pizza\" Lyndon & Westport Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Jet's Pizza\" 233 Blankenbaker Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"LongHorn Steakhouse\" 9700 Von Allmen Court Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"LongHorn Steakhouse\" 2535 Hurstbourne Gem Lane Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"LongHorn Steakhouse\" 4813 Outer Loop Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Moby Dick House of Kabob\" 12414 Dixie Highway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Moby Dick House of Kabob\" 9150 Dixie Highway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Moby Dick House of Kabob\" 2700 South 3rd Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Outback Steakhouse\" Prospect & Northeast Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Outback Steakhouse\" 8101 Bardstown Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Outback Steakhouse\" 6520 Signature Drive Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Potbelly\" 4023 Summit Plaza Drive Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Potbelly\" 9018 Taylorsville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Potbelly\" 302 South 4th Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Cattleman's Roadhouse\" 2901 South Hurstbourne Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Cattleman's Roadhouse\" 139 Historical Trail Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Garage Bar\" 700 East Market Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Taj\" NuLu & Butchertown Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Grale Goods\" 1004 Bardstown Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Holy Grale\" 1034 Bardstown Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Guaca Mole\" 9921 Ormsby Station Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Taco Luchador\" 112 Meridian Avenue Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Hammerheads\" Germantown & Schnitzelburg Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Loop22\" 2222 Dundee Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Haymarket Whiskey Bar\" NuLu & Butchertown Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Haymarket Whiskey Bar\" 3020 River Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"LouVino\" 1606 Bardstown Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"LouVino\" 11400 Main Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Auntie Anne's\" Lyndon & Westport Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Bojangles\" 215 Conestoga Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"California Pizza Kitchen\" Lyndon & Westport Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Chicken Salad Chick\" 1520 Veterans Parkway Indiana location hours"
+    },
+    {
+      "q": "\"City Barbeque\" 4027 Poplar Level Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Dave's Hot Chicken\" Clarksville, IN Indiana location hours"
+    },
+    {
+      "q": "\"Famous Dave's\" 8605 Citadel Way Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Gordon Biersch Brewery Restaurant\" 400 South 4th Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Great American Cookies\" Lyndon & Westport Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Insomnia Cookies\" 948 Baxter Avenue Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"J. Alexander's Redlands Grill\" 102 Oxmoor Court Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Logan's Roadhouse\" 1540 Alliant Avenue Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"P.F. Chang's\" 9120 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Schlotzsky's\" 10531 Fischer Park Drive Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"The Seelbach Bar\" 500 South 4th Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Torchy's Tacos\" 1540 Veterans Parkway Indiana location hours"
+    },
+    {
+      "q": "\"Walk-On's Sports Bistreaux\" 970 East Lewis and Clark Parkway Indiana location hours"
+    },
+    {
+      "q": "\"Backyard Burger\" 1800 Priority Way Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Big Bad Breakfast\" Highlands Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Biggby Coffee\" Hillview & Mount Washington Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"BJ's Restaurant & Brewhouse\" Lyndon & Westport Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Bob's Steak & Chop House\" 400 South 2nd Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Bonefish Grill\" Middletown & Anchorage Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Bravo Italian Kitchen\" 206 Bullitt Lane Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Buca di Beppo\" 2051 South Hurstbourne Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Carrabba's Italian Grill\" 617 South Hurstbourne Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Charleys Philly Steaks\" 11300 Preston Highway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Corelife Eatery\" Clarksville, IN Indiana location hours"
+    },
+    {
+      "q": "\"Del Frisco's\" 4107 Oechsli Avenue Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Dickey's Barbecue Pit\" 10318 Taylorsville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Dog Haus\" 415 Bank Street Indiana location hours"
+    },
+    {
+      "q": "\"Duck Donuts\" 4600 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Extreme Pita\" Lyndon & Westport Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Gigi's Cupcakes\" 1977 South Hurstbourne Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Hard Rock Cafe\" 424 South 4th Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Howl at the Moon\" 434A South 4th Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Hunt Brothers Pizza\" Valley Station & PRP Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"J. Graham's Café\" Downtown Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Jason's Deli\" 4600 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Jeff Ruby's Steakhouse\" 325 West Main Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Joe's Crab Shack\" 131 River Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Lee's Famous Recipe Chicken\" 728 Rolling Creek Drive Indiana location hours"
+    },
+    {
+      "q": "\"Main Event\" 12500 Sycamore Station Place Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Maker's Mark Bourbon House & Lounge\" 446 South 4th Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Marco's Pizza\" 2011 Charlestown Road Indiana location hours"
+    },
+    {
+      "q": "\"Martin's Bar-B-Q Joint\" Lyndon & Westport Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Matt Winn's Steakhouse\" South End Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Mesh\" 3608 Brownsboro Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Metro Diner\" 4901 Outer Loop Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Mimi's Cafe\" 615 South Hurstbourne Parkway Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Mission BBQ\" 4607 Shelbyville Road Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Mitchell's Fish Market\" 4031 Summit Plaza Drive Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"MOD Pizza\" Hikes Point & Buechel Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Morton's The Steakhouse\" 626 West Main Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Mr Gatti's Pizza\" Clarksville, IN Indiana location hours"
+    },
+    {
+      "q": "\"Noodles & Company\" Jeffersontown Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"PBR Louisville\" 434, Suite 200 South 4th Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Proof on Main\" 702 West Main Street Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Rapid Fired Pizza\" Veterans Parkway Indiana location hours"
+    },
+    {
+      "q": "\"Red Robin\" 9870 Von Allmen Court Louisville Kentucky location hours"
+    },
+    {
+      "q": "\"Ruth's Chris Steak House\" 6100 Dutchmans Lane Louisville Kentucky location hours"
+    },
+    {
+      "q": "https://www.marriott.com/en-us/hotels/sdfls-louisville-marriott-east/dining/"
+    },
+    {
+      "q": "\"Great American Grill\" Prospect & Northeast Louisville KY open closed"
+    },
+    {
+      "q": "\"Porch Kitchen & Bar\" Downtown Louisville KY open closed"
+    },
+    {
+      "q": "https://www.repeallouisville.com/"
+    },
+    {
+      "q": "\"Sway\" 309 South 4th Street Louisville KY open closed"
+    },
+    {
+      "q": "\"The Bistro at the Courtyard\" Downtown Louisville KY open closed"
+    },
+    {
+      "q": "\"Chili's\" 6641 Dixie Highway Louisville KY open closed"
+    },
+    {
+      "q": "\"Chili's\" Clarksville, IN Indiana open closed"
+    },
+    {
+      "q": "https://locations.chipotle.com/ky/louisville/13303-shelbyville-rd"
+    },
+    {
+      "q": "\"Chipotle\" New Albany, IN Indiana open closed"
+    },
+    {
+      "q": "\"Chipotle\" Highview & Fern Creek Louisville KY open closed"
+    },
+    {
+      "q": "https://locations.chipotle.com/ky/louisville/1075-bardstown-rd"
+    },
+    {
+      "q": "\"Five Guys\" 4903 Outer Loop Louisville KY open closed"
+    },
+    {
+      "q": "https://restaurants.fiveguys.com/2221-state-street"
+    },
+    {
+      "q": "\"Panda Express\" Clarksville, IN Indiana open closed"
+    },
+    {
+      "q": "\"Coffee Crossing\" 4215 Charlestown Road Indiana open closed"
+    },
+    {
+      "q": "\"Coffee Crossing\" Clarksville, IN Indiana open closed"
+    },
+    {
+      "q": "\"Captain D's\" 12933 Shelbyville Road Louisville KY open closed"
+    },
+    {
+      "q": "\"Captain D's\" 2960 Breckenridge Lane Louisville KY open closed"
+    },
+    {
+      "q": "\"Captain D's\" 3937 Dixie Highway Louisville KY open closed"
+    },
+    {
+      "q": "https://www.graeters.com/stores/retail-stores/louisville/newalbany"
+    },
+    {
+      "q": "\"Bearno's Little Sicily Pizza\" Prospect & Northeast Louisville KY open closed"
+    },
+    {
+      "q": "\"Bearno's Pizza\" 131 West Main Street Louisville KY open closed"
+    },
+    {
+      "q": "\"Bearno's Pizza\" Lyndon & Westport Louisville KY open closed"
+    },
+    {
+      "q": "\"Fazoli's\" 337 Whittington Parkway Louisville KY open closed"
+    },
+    {
+      "q": "\"Fazoli's\" Clarksville, IN Indiana open closed"
+    },
+    {
+      "q": "https://locations.hardees.com/in/jeffersonville/2740-allison-lane"
+    },
+    {
+      "q": "https://locations.hardees.com/ky/louisville/3459-taylor-blvd"
+    },
+    {
+      "q": "https://locations.hardees.com/in/jeffersonville/301-w-court-ave"
+    },
+    {
+      "q": "\"First Watch\" Highview & Fern Creek Louisville KY open closed"
+    },
+    {
+      "q": "\"First Watch\" 4948 U S Highway 42 Louisville KY open closed"
+    },
+    {
+      "q": "https://littlecaesars.com/en-us/store/9562/"
+    },
+    {
+      "q": "\"Little Caesars\" Jeffersontown Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Little Caesars\" Hillview & Mount Washington Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Roosters\" Shively Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Roosters\" Highview & Fern Creek Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Roosters\" Clarksville, IN Indiana restaurant"
+    },
+    {
+      "q": "\"Indies Fried Chicken\" Jeffersonville, IN Indiana restaurant"
+    },
+    {
+      "q": "\"Indi's\" 5011 South 3rd Street Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Indi's Fast Food Restaurant\" 3820 West Market Street Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"La Catrina Mexican Kitchen\" 202 East Elm Street Indiana restaurant"
+    },
+    {
+      "q": "\"La Catrina Tacos & Tequila\" 125 West Chestnut Street Indiana restaurant"
+    },
+    {
+      "q": "\"Señor Iguanas\" 14000 Broadway Street Indiana restaurant"
+    },
+    {
+      "q": "\"Señor Iguanas\" 5637 Outer Loop Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Señor Iguanas\" 9424 Shelbyville Road Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Quills Coffee\" Highlands Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"7 Brew\" Highview & Fern Creek Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Bob Evans\" 10761 Fischer Park Drive Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Bob Evans\" 11800 Standiford Plaza Drive Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Bob Evans\" 9797 Blairwood Road Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Bob Evans\" 1101 East Lewis and Clark Parkway Indiana restaurant"
+    },
+    {
+      "q": "\"Jack in the Box\" Lyndon & Westport Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Krispy Kreme\" Veterans Parkway Indiana restaurant"
+    },
+    {
+      "q": "\"Krispy Kreme\" Jeffersontown Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Long John Silver's\" Middletown & Anchorage Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Long John Silver's\" Clarksville, IN Indiana restaurant"
+    },
+    {
+      "q": "\"Long John Silver's and Taco Bell\" 1805 Blankenbaker Parkway Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Olive Garden\" 1320 South Hurstbourne Parkway Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Papa Murphy's\" Middletown & Anchorage Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Papa Murphy's\" 3024 South 3rd Street Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Papa Murphy's\" New Albany, IN Indiana restaurant"
+    },
+    {
+      "q": "\"Raising Cane's\" Highview & Fern Creek Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Skyline Chili\" 1266 Bardstown Road Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Skyline Chili\" 4024 Dutchmans Lane Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Skyline Chili\" 340 Whittington Parkway Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Skyline Chili\" 6801 Dixie Highway Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Steak 'n Shake\" 10721 Fischer Park Drive Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"Texas Roadhouse\" 3322 Outer Loop Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"BoomBozz Pizza & Taphouse\" Lyndon & Westport Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"BoomBozz Pizza & Taphouse\" 1450 Veterans Parkway Indiana restaurant"
+    },
+    {
+      "q": "\"BoomBozz Pizza & Taphouse\" 1448 Eastern Parkway Louisville Kentucky restaurant"
+    },
+    {
+      "q": "\"BoomBozz Pizza & Taphouse\" 1890 South Hurstbourne Parkway Louisville Kentucky restaurant"
+    },
+    {
+      "q": "Home Run Burger 4600 Shelbyville Road Louisville KY official locations closed"
+    },
+    {
+      "q": "Home Run Burger 12949 Shelbyville Road Louisville KY official locations closed"
+    },
+    {
+      "q": "Homerun Burger Old Louisville Louisville KY official locations closed"
+    },
+    {
+      "q": "Baskin-Robbins 9413 Westport Road Louisville KY official locations closed"
+    },
+    {
+      "q": "Crumbl Clarksville, IN Indiana official locations closed"
+    },
+    {
+      "q": "Moe Clarksville, IN Indiana official locations closed"
+    },
+    {
+      "q": "Red Lobster Clarksville, IN Indiana official locations closed"
+    },
+    {
+      "q": "Beef 'O' Brady's Middletown & Anchorage Louisville KY official locations closed"
+    },
+    {
+      "q": "Cheddar's Veterans Parkway Indiana official locations closed"
+    },
+    {
+      "q": "Frisch's Big Boy 2962 Breckenridge Lane Louisville KY official locations closed"
+    },
+    {
+      "q": "Frisch's Big Boy 7401 Dixie Highway Louisville KY official locations closed"
+    },
+    {
+      "q": "Jaggers Lyndon & Westport Louisville KY official locations closed"
+    },
+    {
+      "q": "Jaggers 3528 East 10th Street Indiana official locations closed"
+    },
+    {
+      "q": "Jagggers Highview & Fern Creek Louisville KY official locations closed"
+    },
+    {
+      "q": "Jet's Pizza Lyndon & Westport Louisville KY official locations closed"
+    },
+    {
+      "q": "Jet's Pizza 233 Blankenbaker Parkway Louisville KY official locations closed"
+    },
+    {
+      "q": "Moby Dick House of Kabob 12414 Dixie Highway Louisville KY official locations closed"
+    },
+    {
+      "q": "Moby Dick House of Kabob 9150 Dixie Highway Louisville KY official locations closed"
+    },
+    {
+      "q": "Moby Dick House of Kabob 2700 South 3rd Street Louisville KY official locations closed"
+    },
+    {
+      "q": "Outback Steakhouse Prospect & Northeast Louisville KY official locations closed"
+    },
+    {
+      "q": "Potbelly 4023 Summit Plaza Drive Louisville KY official locations closed"
+    },
+    {
+      "q": "Potbelly 9018 Taylorsville Road Louisville KY official locations closed"
+    },
+    {
+      "q": "Potbelly 302 South 4th Street Louisville KY official locations closed"
+    },
+    {
+      "q": "Taj NuLu & Butchertown Louisville KY official locations closed"
+    },
+    {
+      "q": "Guaca Mole 9921 Ormsby Station Road Louisville KY official locations closed"
+    },
+    {
+      "q": "Taco Luchador 112 Meridian Avenue Louisville KY official locations closed"
+    },
+    {
+      "q": "Hammerheads Germantown & Schnitzelburg Louisville KY official locations closed"
+    },
+    {
+      "q": "Loop22 2222 Dundee Road Louisville KY official locations closed"
+    },
+    {
+      "q": "Haymarket Whiskey Bar NuLu & Butchertown Louisville KY official locations closed"
+    },
+    {
+      "q": "Haymarket Whiskey Bar 3020 River Road Louisville KY official locations closed"
+    },
+    {
+      "q": "LouVino 1606 Bardstown Road Louisville KY official locations closed"
+    },
+    {
+      "q": "Auntie Anne's Lyndon & Westport Louisville KY official locations closed"
+    },
+    {
+      "q": "California Pizza Kitchen Lyndon & Westport Louisville KY official locations closed"
+    },
+    {
+      "q": "Dave's Hot Chicken Clarksville, IN Indiana official locations closed"
+    },
+    {
+      "q": "Gordon Biersch Brewery Restaurant 400 South 4th Street Louisville KY official locations closed"
+    },
+    {
+      "q": "Great American Cookies Lyndon & Westport Louisville KY official locations closed"
+    },
+    {
+      "q": "Insomnia Cookies 948 Baxter Avenue Louisville KY official locations closed"
+    },
+    {
+      "q": "J. Alexander's Redlands Grill 102 Oxmoor Court Louisville KY official locations closed"
+    },
+    {
+      "q": "Backyard Burger 1800 Priority Way Louisville KY official locations closed"
+    },
+    {
+      "q": "Big Bad Breakfast Highlands Louisville KY official locations closed"
+    },
+    {
+      "q": "Biggby Coffee Hillview & Mount Washington Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "BJ's Restaurant & Brewhouse Lyndon & Westport Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Bonefish Grill Middletown & Anchorage Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Bravo Italian Kitchen 206 Bullitt Lane Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Carrabba's Italian Grill 617 South Hurstbourne Parkway Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Charleys Philly Steaks 11300 Preston Highway Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Corelife Eatery Clarksville, IN Indiana restaurant official locations closed"
+    },
+    {
+      "q": "Del Frisco's 4107 Oechsli Avenue Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Dickey's Barbecue Pit 10318 Taylorsville Road Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Duck Donuts 4600 Shelbyville Road Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Extreme Pita Lyndon & Westport Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Gigi's Cupcakes 1977 South Hurstbourne Parkway Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Hard Rock Cafe 424 South 4th Street Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Howl at the Moon 434A South 4th Street Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Hunt Brothers Pizza Valley Station & PRP Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "J. Graham's Café Downtown Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Jason's Deli 4600 Shelbyville Road Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Main Event 12500 Sycamore Station Place Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Maker's Mark Bourbon House & Lounge 446 South 4th Street Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Marco's Pizza 2011 Charlestown Road Indiana restaurant official locations closed"
+    },
+    {
+      "q": "Martin's Bar-B-Q Joint Lyndon & Westport Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Matt Winn's Steakhouse South End Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Mimi's Cafe 615 South Hurstbourne Parkway Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Mitchell's Fish Market 4031 Summit Plaza Drive Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "MOD Pizza Hikes Point & Buechel Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Mr Gatti's Pizza Clarksville, IN Indiana restaurant official locations closed"
+    },
+    {
+      "q": "Noodles & Company Jeffersontown Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "PBR Louisville 434, Suite 200 South 4th Street Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Rapid Fired Pizza Veterans Parkway Indiana restaurant official locations closed"
+    },
+    {
+      "q": "Red Robin 9870 Von Allmen Court Louisville Kentucky restaurant official locations closed"
+    },
+    {
+      "q": "Ruth's Chris Steak House 6100 Dutchmans Lane Louisville Kentucky restaurant official locations closed"
+    },
+    "Moby Dick 12414 Dixie 9150 Dixie 2700 third Louisville official",
+    "Senor Iguanas 14000 Broadway 9424 Shelbyville official",
+    "Guaca Mole 9921 Ormsby moved NuLu",
+    "Loop22 2222 Dundee closed Hammerheads",
+    "Fazolis 337 Whittington closed Louisville",
+    "Hardees 2740 Allison 301 Court Jeffersonville closed",
+    "Frischs 2962 Breckenridge 7401 Dixie closed",
+    "Duck Donuts 4600 Shelbyville closed WDRB",
+    "Noodles Company Hurstbourne Louisville closed",
+    "MOD Pizza Louisville Hikes Point closed",
+    "Rapid Fired Pizza Jeffersonville closed Veterans",
+    "Courtyard Louisville Downtown Bistro 100 second dining",
+    "\"Loop 22\" closed Louisville",
+    "\"Haymarket Whiskey Bar\" Louisville open 2026",
+    "\"Frisch\" \"2962\" closed",
+    "\"Frisch\" \"7401\" closed",
+    "\"Crumbl\" \"Jeffersonville\" cookies official",
+    "\"Panda Express\" \"Jeffersonville\" \"10th\"",
+    "\"Coffee Crossing\" \"Patrol Road\"",
+    "\"First Watch\" \"4948\" \"closed\"",
+    "\"Señor Iguanas\" \"9424\" closed",
+    "\"Senor Iguanas\" \"14000\" Broadway",
+    "\"Moby Dick\" \"12414\" hours",
+    "\"Moby Dick\" \"2700\" hours",
+    "\"Biggby\" \"Mount Washington\" coffee location",
+    "\"Jaggers\" \"Westport\" \"8014\"",
+    "\"Bistro\" \"Courtyard\" \"100 South Second\"",
+    "\"Great American Grill\" \"9850\"",
+    "Little Caesars Crestwood 9562 9791 8975 Louisville Mount Washington",
+    "Indis 3820 West Market Louisville hours",
+    "Krispy Kreme Jeffersontown closed Taylorsville",
+    "Long John Silvers 1805 Blankenbaker 12406 La Grange",
+    "Papa Murphys Middletown Louisville locations",
+    "Skyline Chili 6801 Dixie permanently closed",
+    "Steak n Shake 10721 Fischer Park closed",
+    "Boombozz Louisville Westport Highlands locations",
+    "Jaggers Westport Road Fern Creek eatjaggers locations",
+    "Moby Dick seafood Louisville official locations",
+    "Potbelly 302 S 4th Louisville official shop",
+    "BJ's Oxmoor Bonefish Louisville official"
+  ],
+  "limitations": [
+    "Some direct pages were inaccessible or JavaScript-only. Search snippets were used where available.",
+    "A failed page, absent locator entry, unavailable delivery, or conflicting addresses alone did not justify permanent closure.",
+    "Input worklist has canonicalization errors: Haymarket River Road is not Haymarket Whiskey Bar; Moby Dick Seafood is not House of Kabob.",
+    "Addressless input points matched to a named local road/venue have medium confidence and should be independently reviewed."
+  ],
+  "counts": {
+    "chain_09": {
+      "open": 64,
+      "unsure": 6,
+      "closed": 2
+    },
+    "chain_10": {
+      "closed": 3,
+      "open": 59,
+      "unsure": 10
+    },
+    "chain_11": {
+      "open": 58,
+      "unsure": 12,
+      "closed": 3
+    },
+    "chain_13": {
+      "open": 43,
+      "unsure": 19,
+      "closed": 13
+    }
+  }
+}

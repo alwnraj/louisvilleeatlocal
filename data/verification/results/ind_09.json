@@ -1,0 +1,772 @@
+[
+  {
+    "id": "w1029208202",
+    "name": "Sumo Sushi all you can eat",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://maps.roadtrippers.com/us/louisville-ky/food-drink/sumo-sushi-all-you-can-eat-louisville",
+        "note": "Address-matched listing gives operating hours and October 15, 2026 review at 3105 S 2nd Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1068084521",
+    "name": "Sunergos Coffee",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.sunergoscoffee.com/pages/locations",
+        "note": "Official locations page gives daily hours at 306 W Woodlawn Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13388987848",
+    "name": "The B.A. Colonial",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.thebacolonial.com/location/the-ba-colonial/",
+        "note": "Own restaurant page offers current menu at 818 W Kenwood Drive. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w339060704",
+    "name": "The Well Coffee Co.",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://wellcoffeecompany.toast.site/",
+        "note": "Own cafe Toast site advertises open doors/menu at 5225 New Cut Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6065597086",
+    "name": "211 Clover Lane Restaurant",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://joinpearl.co/restaurants/st-matthews/211-clover-lane",
+        "note": "Address-matched restaurant guide as of September 2026 lists lunch/dinner service at 211 Clover Lane. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6065590289",
+    "name": "Anoosh Bistro",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/hen-house-cafe-provisions-yields-to-wasabi-asian-cuisine-coming-this-summer/",
+        "note": "April 2026 local report confirms Anoosh Bistro was transformed into Äta, then Hen House, now closed for incoming Wasabi; Anoosh no longer operates. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337714714",
+    "name": "Bandido Taqueria Mexicana",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://bandidotm.com/locations/",
+        "note": "Official locations page gives daily service at 4214 Shelbyville Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3442884764",
+    "name": "Barry Bagels",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://maps.roadtrippers.com/us/ky/food-drink/barry-bagels-st-matthews",
+        "note": "Address-matched listing has daily bagel-shop hours and July 31 2026 review. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6178597442",
+    "name": "Base Camp Coffee at Quest Outdoors",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.superpages.com/glenview-ky/take-out-restaurants",
+        "note": "General directory hours only for coffee counter within Quest Outdoors; current operation unconfirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w436275101",
+    "name": "DiOrio's Pizza & Pub",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://dioriospizzapubprospect.toast.site/email-marketing",
+        "note": "Own Toast location page gives current bar hours at 310 Wallace Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6391859990",
+    "name": "Diamond Pub & Billiards",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/diamond-pub-%26-billiards/kbOiT9zURl-wpeq_CoZbiw",
+        "note": "Search mixes closed Barret Avenue branch with Frankfort Avenue branch; current mapped operation unresolved. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3442881685",
+    "name": "Equus",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.equusrestaurant.com/",
+        "note": "Own site retains 2018 content/hours; current Equus versus Jack’s identity needs cross-check. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6391859999",
+    "name": "Gasthaus German Restaurant",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://gasthaus.wordpress.com/2018/11/12/german-christmas-mass-4/",
+        "note": "Restaurant’s own WordPress site states Gasthaus permanently closed as of 2022. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6391859989",
+    "name": "Gerstle's",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://community.leoweekly.com/location/gerstles-17359794",
+        "note": "Venue/food listings found at 3801 Frankfort but current operation/hours not reliably confirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13443765176",
+    "name": "Half-Peach Bakery & Cafe",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://localveganspots.com/kentucky/saint-matthews/store/half-peach-bakery-cafe/",
+        "note": "Address-matched vegan cafe listing gives weekly hours at 170 Sears Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n10879657977",
+    "name": "Hanoi Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
+        "note": "Only OSM-derived Hanoi Cafe records at 104 Fairfax; current operation unconfirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6065597389",
+    "name": "Jack's Lounge",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.equusrestaurant.com/",
+        "note": "Own shared Equus/Jack’s site retains old content; current operation and separate listing identity unresolved. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3410741323",
+    "name": "Katrouz Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.pulled.coffee/shop/katrouz-cafe-louisville",
+        "note": "Only map-derived cafe records at 3801 Willis; current operation unconfirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13671779386",
+    "name": "King Gyros - St. Matthew’s Mall",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/greek-salad-Saint-Matthews-m301",
+        "note": "Search returns restaurant-category pages; no address-specific current menu/hours at St Matthews Mall established. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3447808161",
+    "name": "Little Greek",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://louisville.littlegreekfreshgrill.com/",
+        "note": "Official brand location page gives daily hours at 4600 Shelbyville Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3814039790",
+    "name": "Lonnie's Best Taste of Chicago",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/place/details/1272042/lonnies-best-taste-of-chicago",
+        "note": "Permanent-closure listing conflicts with own website’s continuing restaurant content; independent current check needed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6065597391",
+    "name": "Lou Lou Food & Drink",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.louloufoodanddrink.com/contact",
+        "note": "Own contact page gives daily dining hours at 108 Sears Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5266510443",
+    "name": "Mama's",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.superpages.com/st-matthews-ky/maternity-clothes",
+        "note": "Generic Mama’s query returned unrelated maternity stores; no valid mapped restaurant match. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337711887",
+    "name": "Mango's",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/mangos-mexican-grill-cantina-closes-at-dutchmans-lane-will-move-to-new-digs/",
+        "note": "August 2021 local report confirms closure/move from 6201 Dutchmans Lane. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364017717",
+    "name": "Molly Malone's",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.yahoo.com/news/irish-pub-st-matthews-close-172743059.html",
+        "note": "Restaurant at 3900 Shelbyville rebranded as Raven in 2020, then closed May 2024; old Molly Malone’s listing is obsolete. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w334002575",
+    "name": "Momma's Mustard, Pickles & BBQ",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://mommasbbq.com/contact/",
+        "note": "Own BBQ contact page gives daily hours at 102 Bauer Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w436275103",
+    "name": "Nam Nam Cafe",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.order.com/order/restaurant/nam-nam-cafe-menu/858",
+        "note": "Address-matched restaurant ordering page gives current menu/hours at 318 Wallace Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3442311772",
+    "name": "Noosh Nosh",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://nooshnosh.com/",
+        "note": "Own restaurant site advertises current ordering and 4816 Brownsboro location. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337714746",
+    "name": "Oriental House",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.orientalhousekentucky.com/",
+        "note": "Own restaurant site offers current online ordering at 4302 Shelbyville Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14220253175",
+    "name": "Phalcha",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://local.yahoo.com/cafes/ky/st-matthews/5/",
+        "note": "Search returned Mary Street Phalcha, not mapped St Matthews location; reject wrong-location evidence. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337711913",
+    "name": "Raffertys",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://nextdoor.com/pages/raffertys-of-louisville-louisville-ky-1/",
+        "note": "Address-matched restaurant listing gives seven-day service at 988 Breckenridge Lane. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3447808191",
+    "name": "Sakura Blue",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://sakurabluesushi.com/",
+        "note": "Own sushi site offers current dining and 4600 Shelbyville Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6391859998",
+    "name": "Shady Lane Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39824-d885278-Reviews-Shady_Lane_Cafe-Saint_Matthews_Kentucky.html",
+        "note": "Restaurant review listings lack visible current hours/address in retrieved excerpts; operation not sufficiently confirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337191422",
+    "name": "Spinelli's Pizzeria",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.yahoo.com/news/spinellis-pizza-location-st-matthews-173240360.html",
+        "note": "February 2025 report says appears closed; recent permanent closure/reopening not independently resolved. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329524387",
+    "name": "Sunergos Coffee",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.sunergoscoffee.com/pages/locations",
+        "note": "Official cafe location page lists Willis Avenue branch at 3922 Willis Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6329141685",
+    "name": "Taco Choza",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://tacochoza.com/",
+        "note": "Own restaurant site offers active ordering and St Matthews dining. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3410660500",
+    "name": "The Cheddar Box",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.yahoo.com/news/cheddar-box-st-matthews-staple-195545338.html",
+        "note": "January 2024 local report confirms 3909 Chenoweth Square deli closed; other Cheddar Box businesses separate. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5266491327",
+    "name": "The Fishery",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/the-fishery-3624-lexington-rd",
+        "note": "Own Toast location page gives current service at 3624 Lexington Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337713637",
+    "name": "W.W.Cousins",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://callejero-kentucky.openalfa.com/calles/dupont-road-st-matthews-city-ky-dupont-road",
+        "note": "Exact formatting search returned only OSM-derived records at 900 Dupont; alternate name check needed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3410660534",
+    "name": "Waylon's Feed and Firewater",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/waylon-s-feed-and-firewater-abruptly-closes-st-matthews-restaurant/article_6100257a-9c31-11e9-b09f-27ae431879a5.html",
+        "note": "July 2019 local news reports closure of restaurant at 3939 Shelbyville Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12699968777",
+    "name": "Äta",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/hen-house-cafe-provisions-yields-to-wasabi-asian-cuisine-coming-this-summer/",
+        "note": "April 2026 local report traces Äta → Hen House then closure for incoming Wasabi at 4864 Brownsboro; Äta no longer operates. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5770248511",
+    "name": "Catfish Haven Lake Bar & Grill",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/catfish-haven-lake-bar-and-grill-/",
+        "note": "Current review listing marked CLOSED but permanence not specified; needs independent current check. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337423000",
+    "name": "Christy's Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g39604-d1673798-Reviews-or15-Christi_s_Cafe-Louisville_Kentucky.html",
+        "note": "Address-matched review listing but current service hours/reviews not established. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3464533107",
+    "name": "Cosmic Pizza",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://dinehere.us/cosmicp",
+        "note": "Generic directory lists Cosmic Pizza at 6801 Dixie; possible old tenant alongside Fuji, current operation unconfirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w339268453",
+    "name": "Fuji Asian Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.ie/Restaurant_Review-g39604-d4717880-Reviews-Fuji_Asian_Bistro-Louisville_Kentucky.html",
+        "note": "Address-matched review pages found but current hours/menu not confirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5900605922",
+    "name": "Hibachi Buffet",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/hibachi-buffet-/",
+        "note": "Current listing at 5372 Dixie but mapped point/address absent; need location match and current hours. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3397256042",
+    "name": "Jeff's Burger Shack",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://nextdoor.com/pages/jeffs-burger-shack/",
+        "note": "Owner’s neighborhood post describes food-truck breakdown and not going out; timing/current fixed-site operation unclear. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w339269741",
+    "name": "Jessie's Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://louisvilleky.gov/government/metro-council-district-25/doors-open-jessies-dixie",
+        "note": "Only 2014 reopening report and older directory records at 9609 Dixie; current identity unresolved. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w339254271",
+    "name": "Kathy & Joe's Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://eatoutmap.com/en/usa/valley-station/restaurants",
+        "note": "Generic directory lists name/address but no current positive operational evidence. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3464337240",
+    "name": "La Carreta Mexican Restaurant & Bar",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://lacarettalouisville.com/",
+        "note": "Own restaurant site advertises current dining/menu at 10105 Dixie Highway Suite 101. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w339266866",
+    "name": "PRP's Ice Cream Corner",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://maps.roadtrippers.com/us/louisville-ky/food-drink/prps-ice-cream-corner",
+        "note": "Address-matched shop listing gives weekly hours and May 27, 2026 customer review; earlier owner retirement is not permanent closure. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12677619376",
+    "name": "West Point Station Bar and Grill",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/West-Point-Station-Bar-and-Grill-West-Point-Kentucky",
+        "note": "Exact venue listing explicitly says permanently closed in West Point Kentucky; location must be cross-checked. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337083171",
+    "name": "Chicago Steak & Lemonade",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/chicago-steak-and-lemonade-5-/",
+        "note": "Search result closure is for 9015 Galene Drive, not mapped 2126 W Broadway; rejected wrong-location evidence. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337083175",
+    "name": "Chopsticks House",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.cylex.us.com/louisville-jefferson-ky/chinese-restaurants/",
+        "note": "General directory only; other source explicitly says guessed typical hours, not confirmed by venue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066646785",
+    "name": "Common Table",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/us/ky/louisville/the-common-table-garden-cafe?to=place.ChIJKVjbaj9taYgRVJVSiz_cr0g",
+        "note": "Address-matched public garden cafe listing gives weekday hours at 1200 S 28th Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "id": "n6066549690",
+    "name": "Blue Bay Seafood Chicken",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.bluebayseafoodandchicken.com/",
+        "note": "Own site loaded: 4322 Poplar Level Rd, current ordering and hours."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5692585422",
+    "name": "The Grape Leaf",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.grapeleafonline.com/",
+        "note": "Current own site matches 2217 Frankfort Avenue."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375209379",
+    "name": "Darling's",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.darlingsbar.com/",
+        "note": "Current own site matches 1765 Bardstown Road, strengthening earlier stale-opening evidence."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3373722602",
+    "name": "Uptown Cafe",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.uptownlouisville.com/location/uptown-cafe/",
+        "note": "Current own hours/location page matches 1624 Bardstown Road."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1453383792",
+    "name": "Geraldine's Kitchen",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://geraldineskitchen.com/",
+        "note": "Own site matches 402 Wall Street, current 2026 menus and online ordering corroborate."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11980061481",
+    "name": "Burger King",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.cylex.us.com/company/burger-king-26639595.html",
+        "note": "Current exact-address restaurant hours listing for 3032 E10th, independently corroborates Uber Eats."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11980061497",
+    "name": "Burger King",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.bk.com/store-locator/store/27070",
+        "note": "Official locator search result matches 6300 Greenwood Rd."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11980061518",
+    "name": "Burger King",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/burger-king-12/",
+        "note": "Current menu/reviews listing matches 9512 Preston Hwy, corroborates Uber Eats."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337607197",
+    "name": "Burger King",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.bk.com/store-locator/store/5756",
+        "note": "Official locator search result matches 9120 Taylorsville Rd."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9991610622",
+    "name": "Panera Bread",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.townofclarksville.com/restaurants/",
+        "note": "Current municipal directory matches Panera 1040 Veterans Pkwy; official Panera page also indexed."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11980061489",
+    "name": "Panera Bread",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.panerabread.com/en-us/cafe/locations/ky/louisville",
+        "note": "Official city locator search result lists the mapped cafe address with pickup/order information. Dutchmans uses 6221 rather than OSM 6220; same street location, not assumed moved."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11980061502",
+    "name": "Panera Bread",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.panerabread.com/en-us/cafe/locations/ky/louisville",
+        "note": "Official city locator search result lists the mapped cafe address with pickup/order information. Dutchmans uses 6221 rather than OSM 6220; same street location, not assumed moved."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w332453660",
+    "name": "Panera Bread",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.panerabread.com/en-us/cafe/locations/ky/louisville",
+        "note": "Official city locator search result lists the mapped cafe address with pickup/order information. Dutchmans uses 6221 rather than OSM 6220; same street location, not assumed moved."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w332557622",
+    "name": "Panera Bread",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.panerabread.com/en-us/cafe/locations/ky/louisville",
+        "note": "Official city locator search result lists the mapped cafe address with pickup/order information. Dutchmans uses 6221 rather than OSM 6220; same street location, not assumed moved."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336682478",
+    "name": "Panera Bread",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.panerabread.com/en-us/cafe/locations/ky/louisville",
+        "note": "Official city locator search result lists the mapped cafe address with pickup/order information. Dutchmans uses 6221 rather than OSM 6220; same street location, not assumed moved."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337711912",
+    "name": "Panera Bread",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.panerabread.com/en-us/cafe/locations/ky/louisville",
+        "note": "Official city locator search result lists the mapped cafe address with pickup/order information. Dutchmans uses 6221 rather than OSM 6220; same street location, not assumed moved."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w338190216",
+    "name": "Panera Bread",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.panerabread.com/en-us/cafe/locations/ky/louisville",
+        "note": "Official city locator search result lists the mapped cafe address with pickup/order information. Dutchmans uses 6221 rather than OSM 6220; same street location, not assumed moved."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w679065414",
+    "name": "Panera Bread",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.panerabread.com/en-us/cafe/locations/ky/louisville",
+        "note": "Official city locator search result lists the mapped cafe address with pickup/order information. Dutchmans uses 6221 rather than OSM 6220; same street location, not assumed moved."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1345147683",
+    "name": "Panera Bread",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.panerabread.com/en-us/cafe/locations/ky/louisville",
+        "note": "Official city locator search result lists the mapped cafe address with pickup/order information. Dutchmans uses 6221 rather than OSM 6220; same street location, not assumed moved."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w339096293",
+    "name": "Burger King",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.cylex.us.com/company/burger-king-132909.html",
+        "note": "Current exact-address Burger King listing at 3930 Dixie Highway."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337833692",
+    "name": "Burger King",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/Burger-King-Louisville-19",
+        "note": "Current menu/hours listing at 4620 S Hurstbourne Parkway corroborates first-pass delivery page."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11980061514",
+    "name": "Burger King",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://travelbullitt.org/listing/burger-king-shepherdsville/",
+        "note": "Local tourism bureau confirms 315 Keystone Crossroads Drive."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1233166864",
+    "name": "Burger King",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.grubhub.com/restaurant/burger-king-311-brenton-way-shepherdsville/2128006",
+        "note": "Independent current order menu at 311 Brenton Way."
+      }
+    ],
+    "agrees_with_first": true,
+    "checked": "2026-11-18"
+  }
+]

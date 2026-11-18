@@ -1,0 +1,1404 @@
+[
+  {
+    "id": "n6800764196",
+    "name": "The Celtic Pig",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/southern-style-restaurant-relocating-downtown-louisville/39494448",
+        "note": "March 2022 local report identifies 217 East Main as the former Celtic Pig, replaced by Dasha Barbours."
+      },
+      {
+        "url": "https://leoweekly.com/food-drink/see-inside-dasha-barbours-expanded-southern-restaurant-in-downtown-louisville-15744713/",
+        "note": "Independent LEO story identifies Dasha Barbours in the former Celtic Pig space."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7661678885",
+    "name": "The Marque Bar",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Marque Bar has an ambiguous name and addressless map point; current business identity remains unresolved."
+  },
+  {
+    "id": "n3581286413",
+    "name": "Wei Wei Chinese Express",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.beyondmenu.com/42003/louisville/wei-wei-chinese-restaurant-louisville-40202/info.aspx",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383404332",
+    "name": "Yaching's East West Cuisine",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/here-are-the-restaurants-that-closed-in-louisville-in-2019/30286240",
+        "note": "2019 local closure roundup identifies Yachings at 105 South 4th Street."
+      },
+      {
+        "url": "https://www.yellowbot.com/yachings-louisville-ky.html",
+        "note": "Historical directory independently matches the old business to 105 South 4th. Its daily Closed label alone is not permanent-closure evidence."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12379116924",
+    "name": "Adrienne and Company",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.cakestoday.com/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11820469385",
+    "name": "Carr\u2019s BBQ",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.carrsbbqandmarket.com/hours-contact",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n10543006516",
+    "name": "Sams Food and Spirits",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://sams-foodandspirits.com/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4450998589",
+    "name": "El Tarasco",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/el-tarasco-3/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14201672402",
+    "name": "Hinterhof R\u00f6sterie Kaffee",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://hinterhofcoffee.com/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13324770594",
+    "name": "Phalcha",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/phalcha-coffee/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330275519",
+    "name": "Seidenfaddens",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/seidenfadens-/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3441763197",
+    "name": "Smiley's Pocket",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/smileys-pocket/",
+        "note": "Exact2124SPreston listing has no hours; Feb2026 licensing notice establishes plan, not current operation."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Exact address listing has no hours. A February 2026 licensing notice establishes plans, not current operation."
+  },
+  {
+    "id": "n3467853440",
+    "name": "Asiatique Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Asiatique closure sources give 1767 Bardstown; the map record gives 1716. Exact location mismatch remains unresolved."
+  },
+  {
+    "id": "n3363641807",
+    "name": "Baxter's 942 Bar & Grill",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Current third-party listing found for Baxters 942, but recent operating evidence is insufficient."
+  },
+  {
+    "id": "n3368832060",
+    "name": "Bristol Bar & Grill",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/bristol-bar-grille-closing-highlands-location-louisville/70503198",
+        "note": "February 2026 local report sets March 15 as final service at 1321 Bardstown Road."
+      },
+      {
+        "url": "https://www.aol.com/articles/tragic-bristol-bar-grille-close-201729000.html",
+        "note": "May 2026 Courier Journal report confirms the Highlands location closed March 15."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n2934216022",
+    "name": "Bunz",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Listings for Bunz at 969/971 Baxter found, but current operation is insufficiently confirmed."
+  },
+  {
+    "id": "n3364252317",
+    "name": "Firenza Pizza",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Only historic Firenza listings at 12406 La Grange found."
+  },
+  {
+    "id": "n11270546819",
+    "name": "Hometown Pizza - Middletown",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://hometownpizza.com/order-online/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364361417",
+    "name": "I Heart Juice Bar",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Exact juice bar left Uber Eats in 2021; platform departure alone cannot establish permanent closure."
+  },
+  {
+    "id": "n3363770013",
+    "name": "I Love Pollo",
+    "status": "renamed",
+    "new_name": "Tacos D'Amor",
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://tacosdamorus.com/",
+        "note": "Own current Tacos D Amor site lists 243 Blankenbaker Parkway, the mapped former I Love Pollo address."
+      },
+      {
+        "url": "https://guava.failover.uber.com/store/tacos-d-amor-blankenbaker/vO8is2eMXTaa6QTU2-jz4g",
+        "note": "Independent delivery listing identifies Tacos D Amor at the exact same address."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6392702989",
+    "name": "Kentucky State Donuts",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Mapped Kentucky State Donuts point is near La Grange Road; Yonutz on Shelbyville Road is a different location."
+  },
+  {
+    "id": "n3363962171",
+    "name": "Las Margaritas Mexican Cuisine",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://fromtherestaurant.com/las-margaritas-mexican/locations/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3363962794",
+    "name": "Masa Japanese Bistro & Sushi",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Toast shows closed all week, conflicting with generic third-party hours; permanent closure is unconfirmed."
+  },
+  {
+    "id": "n2496184448",
+    "name": "New Directions",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Addressless New Directions point not matched to a current business."
+  },
+  {
+    "id": "n3364360452",
+    "name": "Samurai Sushi And Hibachi",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/samurai-sushi-and-hibachi-12905-shelbyville-road",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5145584127",
+    "name": "Scott's",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Addressless Scotts point not matched; unrelated Scotts Station results rejected."
+  },
+  {
+    "id": "w883620479",
+    "name": "Bella Roma",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g37364-d6942169-Reviews-Bella_Roma_Italiana_Cuisine-New_Albany_Indiana.html",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w938694179",
+    "name": "Booty's Diner",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.zmenu.com/get-it-on-a-bun-at-booty-s-new-albany-online-menu/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1057027821",
+    "name": "Casa M\u00e9xico Gourmet",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2026/Casa-Mexico-Gourmet-2-25-26.pdf",
+        "note": "County inspection at exact 604 East Spring dated February 25, 2026 supports recent operation; matching business listing has weekly hours."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11971987458",
+    "name": "Cultivated Table and Sip House",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.cultivatedtable.com/contact",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w883990499",
+    "name": "Forest Music Hall",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Historic Forest Music Hall identity not confirmed as an operating public venue."
+  },
+  {
+    "id": "n7996383856",
+    "name": "Homemade Ice Cream & Pie Kitchen",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.zmenu.com/homemade-ice-cream-and-pie-kitchen-new-albany-online-menu/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7996525067",
+    "name": "Kolkin Coffee",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://kolkin.coffee/pages/contact",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1442471775",
+    "name": "Lady Tron's",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g37364-d12206997-Reviews-Lady_Tron_s-New_Albany_Indiana.html",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1579457340",
+    "name": "Norma Jean's Bakery",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/norma-jeans-and-how-theyre-lining-up-for-a-new-bakery-in-new-albany/",
+        "note": "May 2026 local report describes operating bakery and customer lines at exact 216 West Main."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w938694192",
+    "name": "Paper Dolls Deli",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2026/Paper-Dolls-Deli-6-10-26.pdf",
+        "note": "County inspection at exact 941 State dated June 10, 2026 and current local directory support recent operation; own hours not found."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1087711229",
+    "name": "Pastime Grill & Pub",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/in/new-albany/pastime-grill-and-pub-/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w884043542",
+    "name": "Pride Bar + Lounge",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/new-albany-in/mip/pride-bar-lounge-507718743",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n490481592",
+    "name": "Rich O's Public House",
+    "status": "renamed",
+    "new_name": "New Albanian Brewing Company Pizzeria & Public House",
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://newalbanian.com/history/",
+        "note": "Brand history explicitly combines Rich Os and Sportstime into NABC Pizzeria and Public House at 3312 Plaza Drive."
+      },
+      {
+        "url": "https://newalbanian.com/",
+        "note": "Current own site operates the combined business at 3312 Plaza Drive with weekly hours."
+      },
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2024/The-New-Albanian-04-10-24.PDF",
+        "note": "Independent county inspection records New Albanian Brewing at exact 3312 Plaza Drive, corroborating the consolidated current identity."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n490481591",
+    "name": "Sportstime Pizza",
+    "status": "renamed",
+    "new_name": "New Albanian Brewing Company Pizzeria & Public House",
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://newalbanian.com/history/",
+        "note": "Brand history combines the former Sportstime and Rich Os identities into NABC Pizzeria and Public House."
+      },
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2024/The-New-Albanian-04-10-24.PDF",
+        "note": "Independent county inspection records New Albanian Brewing at 3312 Plaza Drive."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w883636923",
+    "name": "Sweet B's",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Sweet Bs has a 2025 inspection at 137 East Market; True North has a 2026 inspection at the same address. Sharing versus replacement is unresolved."
+  },
+  {
+    "id": "n11972070184",
+    "name": "True North Coffee House",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2026/True-North-Coffee-1-30-26.pdf",
+        "note": "County inspection at exact 137 East Market dated January 30, 2026 and current coffee listing support recent operation."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11981631844",
+    "name": "Yamato",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://yamatonewalbany.com/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375494286",
+    "name": "Alex&nder",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://copperandkings.com/the-rooftop-bar/",
+        "note": "CurrentCopperKings officialrooftop operates withCulturedfood; whetherAlexNder remains an alias not established."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Copper and Kings rooftop operates with Cultured food. Whether Alex and er remains a valid alias is unresolved."
+  },
+  {
+    "id": "n6028042686",
+    "name": "Big Al\u2019s Beeritaville",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/mip/big-als-beeritaville-7886875",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13424071604",
+    "name": "Cherry Pickin'",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Addressless Cherry Pickin point not independently matched."
+  },
+  {
+    "id": "n6066545287",
+    "name": "Chicken King",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Chicken King search returned delivery results without enough exact mapped-location confirmation."
+  },
+  {
+    "id": "n13322053995",
+    "name": "Classico Takeout & Empanadas",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Classico Takeout and current Classico Pizzeria branding may refer to different locations; unresolved."
+  },
+  {
+    "id": "n13424071605",
+    "name": "Tacos Amor",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://tacosdamorus.com/-reservations",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330578742",
+    "name": "The Weekly Juicery",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Exact 632 East Market delivery listing is unavailable; this does not establish permanent closure."
+  },
+  {
+    "id": "n6066549687",
+    "name": "Fishery Station",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Fishery Station II listing found at 5610 Outer Loop; current operation at the mapped point remains unconfirmed."
+  },
+  {
+    "id": "n5747716221",
+    "name": "Holy Smokes Bar-B-Que and Catering",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/holy-smokes-bar-b-que-catering",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3453099464",
+    "name": "Spaghetti Shop",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Generic Spaghetti Shop ordering listing does not sufficiently establish current operation."
+  },
+  {
+    "id": "w330139956",
+    "name": "Stooge's Bar and Grill",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://stooges-bar-and-grill.eniplaces.com/contact",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9336873203",
+    "name": "Barry's Cheese Steaks & More",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wave3.com/2022/08/30/barrys-cheesesteaks-more-moving-valley-station/",
+        "note": "August 2022 local report confirms Barry moved from 1161 South 2nd to 5408 Valley Station Road, well over 150 metres."
+      },
+      {
+        "url": "https://www.wdrb.com/news/business/barrys-cheesesteaks-relocating-to-valley-station/article_f7aa32b4-27dd-11ed-8c57-0365866063e4.html",
+        "note": "Independent WDRB report confirms departure from Second and Oak in Old Louisville."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066550688",
+    "name": "Dixie Chicken",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/dixie-chicken-2/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6044760479",
+    "name": "Green to Go",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Green to Go campus point not matched; unrelated Tavern To Go results rejected."
+  },
+  {
+    "id": "n6066410788",
+    "name": "King's Fried Chicken",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.kingsfriedchickenlouisville.com/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9020029117",
+    "name": "Loaves and Fishes",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Loaves and Fishes nonprofit meal service found, but status as a public restaurant at this point is unconfirmed."
+  },
+  {
+    "id": "n9336873202",
+    "name": "Neon Pizza",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Neon Pizza addressless point not matched; unrelated pizza results rejected."
+  },
+  {
+    "id": "n6044760472",
+    "name": "O-Mori Ramen Bar",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "O-Mori campus point is over 150 metres from Renshoku at Second and Oak; evidence cannot transfer."
+  },
+  {
+    "id": "n5979203195",
+    "name": "P.O.D. Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "POD Cafe campus point not matched to a current dining outlet."
+  },
+  {
+    "id": "n9336873204",
+    "name": "Pizza Donisi",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/pizzadonisi",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337087095",
+    "name": "Whirlaway Tavern",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Only historic or OSM-derived Whirlaway references found."
+  },
+  {
+    "id": "n2637406501",
+    "name": "Casa Festa",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.menupix.com/louisville/restaurants/380157278/Casa-Fiesta-Louisville-KY",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w679975629",
+    "name": "Commonwealth Tap",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://nortoncommons.com/businesses/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n10163894970",
+    "name": "Dragon Cafe",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39770-d3694219-Reviews-Dragon_Cafe-Prospect_Kentucky.html",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7571670486",
+    "name": "Garrett's Goodies",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Garretts Goodies addressless point remains unresolved."
+  },
+  {
+    "id": "n14001203286",
+    "name": "Gustavo\u2019s",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://coverage-bf58bc100ca5cc47716916a5abe2778d.web.ordersave.com/page/our-locations",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14001203287",
+    "name": "King Donuts",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/prospect/king-donuts-/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4094978329",
+    "name": "1st Wok Chinese Resturant",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.firstwoklouisvilleky.com/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1068091566",
+    "name": "Nagaad Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Nagaad listing gives 349 West Kenwood; map gives 349 West Woodlawn. Move and current status are unresolved."
+  },
+  {
+    "id": "w337087475",
+    "name": "Overtime Sports Bar and Grill",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Overtime at 307 Central found only in OSM-derived references."
+  },
+  {
+    "id": "w1068084520",
+    "name": "PIzza King II",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://apple-maps-app-clip.failover.ubereats.com/store/louisvilles-pizza-king-2/rU2gTRO3UG2kkS7hxQYjbw",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9726086555",
+    "name": "Paddock Grill",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Churchill Downs Paddock Grill listing does not establish current public access or service schedule."
+  },
+  {
+    "id": "w1029208210",
+    "name": "Sam's Gyros",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/sams-gyros/FIC5kDqoV7-3qxT-W5xopQ",
+        "note": "Exact3123S2nd deliverylisting appears,but currentavailabilityunclear; retainunsure."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Exact Sam Gyros delivery listing found; current availability remains unclear."
+  },
+  {
+    "id": "w339058764",
+    "name": "Southside Seafood Resturant",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Southside Seafood found only in OSM-derived references."
+  },
+  {
+    "id": "n6178597442",
+    "name": "Base Camp Coffee at Quest Outdoors",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Quest Outdoors retail service does not establish whether its Base Camp coffee counter still operates."
+  },
+  {
+    "id": "n6391859990",
+    "name": "Diamond Pub & Billiards",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Diamond Frankfort listings persist; closure reports about another branch cannot establish this branch status."
+  },
+  {
+    "id": "n3442881685",
+    "name": "Equus",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Own Equus site retains 2018 content; generic newer listing hours are insufficient current confirmation."
+  },
+  {
+    "id": "n6391859989",
+    "name": "Gerstle's",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.gerstles.com/louisville/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n10879657977",
+    "name": "Hanoi Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Hanoi at 104 Fairfax is distinct from Nam Nam at 318 Wallace; wrong-location results rejected."
+  },
+  {
+    "id": "n6065597389",
+    "name": "Jack's Lounge",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Old shared Equus and Jacks website does not sufficiently confirm current lounge operation."
+  },
+  {
+    "id": "n3410741323",
+    "name": "Katrouz Cafe",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.kayrouzcafe.com/about-us/hours-of-operation/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13671779386",
+    "name": "King Gyros - St. Matthew\u2019s Mall",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://kinggyrosky.com/contact/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3814039790",
+    "name": "Lonnie's Best Taste of Chicago",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://lonniesbesttasteofchicago.org/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5266510443",
+    "name": "Mama's",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://mommasbbq.com/st-matthews/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14220253175",
+    "name": "Phalcha",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/phalcha-coffee-st-matthews/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6391859998",
+    "name": "Shady Lane Cafe",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://shadylaneky.com/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337191422",
+    "name": "Spinelli's Pizzeria",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.yahoo.com/news/spinellis-pizza-location-st-matthews-173240360.html",
+        "note": "February 2025 Courier Journal reports closure at 4001 Shelbyville Road; later current exact-address listing marks it CLOSED."
+      },
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/spinellis-pizzeria-/",
+        "note": "Independent Restaurantji listing marks exact 4001 Shelbyville CLOSED. A stale delivery listing mixes the Baxter name with the old address."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337713637",
+    "name": "W.W.Cousins",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wwcousins.com/contact",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5770248511",
+    "name": "Catfish Haven Lake Bar & Grill",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.menupix.com/louisville/restaurants/31889325/Catfish-Haven-Lake-Bar-and-Grill-Louisville-KY",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337423000",
+    "name": "Christy's Restaurant",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://christiscafe.com/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3464533107",
+    "name": "Cosmic Pizza",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Cosmic Pizza listing at 6801 Dixie may share a centre with other restaurants; current identity remains unconfirmed."
+  },
+  {
+    "id": "w339268453",
+    "name": "Fuji Asian Restaurant",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://fujidixiehwy.com/",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5900605922",
+    "name": "Hibachi Buffet",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Recent Hibachi Buffet reviews at 5372 Dixie do not match the mapped point several kilometres away."
+  },
+  {
+    "id": "n3397256042",
+    "name": "Jeff's Burger Shack",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Jeffs listing has hours but also a truck shutdown notice; no sufficiently current operating evidence."
+  },
+  {
+    "id": "w339269741",
+    "name": "Jessie's Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Jessies has old news and generic menus, without current operating confirmation."
+  },
+  {
+    "id": "w339254271",
+    "name": "Kathy & Joe's Restaurant",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.wave3.com/2022/08/30/barrys-cheesesteaks-more-moving-valley-station/",
+        "note": "August 2022 local report identifies Barry Cheesesteaks moving into exact 5408 Valley Station Road, replacing the old Kathy and Joe identity. Closure date of Kathy and Joe itself is not established."
+      },
+      {
+        "url": "https://www.wlky.com/article/barrys-cheesesteaks-closing-restaurant-valley-station/69499456",
+        "note": "November 2025 local report confirms the later Barry restaurant closure in Valley Station. This supports obsolete map identity, with medium confidence."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337083171",
+    "name": "Chicago Steak & Lemonade",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [],
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "review_note": "Chicago Steak and Lemonade at 2126 West Broadway found only in OSM-derived references."
+  },
+  {
+    "id": "w337083175",
+    "name": "Chopsticks House",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/chopsticks-house/hyc65JVjTjKVVLr6B0mvhA?diningMode=DELIVERY",
+        "note": "Second-pass source matches this business to its mapped location and provides operating information. Reviewed November 18, 2026."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  }
+]

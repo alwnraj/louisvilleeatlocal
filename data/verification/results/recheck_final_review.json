@@ -1,0 +1,40 @@
+[
+  {
+    "id": "n6069056992",
+    "name": "Subway",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/subway-222-witherspoon-aves/JWuHFaftTWuWR_nxIh8ndg",
+        "note": "Exact 222 E Witherspoon store no longer available since August 2026, corroborating first-pass official directory absence. Delivery-platform closure alone would not establish permanent closure."
+      },
+      {
+        "url": "https://www.ubereats.com/store/subway-222-witherspoon-aves/JWuHFaftTWuWR_nxIh8ndg",
+        "note": "Final independent QA: platform departure and absence from locator do not independently prove permanent closure at this exact mapped location. Keep visible flagged."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336682486",
+    "name": "Tumbleweed Tex Mex Grill",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/tumbleweed-tex-mex-grill/8DObyO21Tyi_ip-uzSPxoA",
+        "note": "Exact Springhurst location unavailable since August 2021; corroborates first-pass locator absence, not independent proof of permanent closure."
+      },
+      {
+        "url": "https://www.ubereats.com/store/tumbleweed-tex-mex-grill/8DObyO21Tyi_ip-uzSPxoA",
+        "note": "Final independent QA: platform departure and absence from locator do not independently prove permanent closure at this exact mapped location. Keep visible flagged."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  }
+]

@@ -1,0 +1,912 @@
+[
+  {
+    "id": "w883990517",
+    "name": "Seeds and Greens",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://seedsandgreensmarket.com/contact-us",
+        "note": "Own market/deli contact page gives service hours at 207 W 1st Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w720710935",
+    "name": "Sleepy Rooster Morning Kitchen",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://sleepyroostermk.com/",
+        "note": "Own brunch restaurant site offers online ordering at 2204 State Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n490481591",
+    "name": "Sportstime Pizza",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://untappd.com/v/sportstime-pizza/2257122",
+        "note": "Untappd says permanently closed for Sportstime at 3312 Plaza, but New Albanian alias/reopening history needs cross-check. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w883636923",
+    "name": "Sweet B's",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2024/Sweet-Bs-06-07-24.pdf",
+        "note": "Historical Sweet B’s inspection at 137 E Market; current True North at same complex, suite identity unresolved. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w715679488",
+    "name": "Sweet Stuff Bakery",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://sweetstuffbakery.com/",
+        "note": "Own bakery site gives current weekly hours at 323 E Spring Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13281218693",
+    "name": "Taqueria el Cerrito",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://maps.roadtrippers.com/us/new-albany-in/food-drink/taqueria-el-cerrito-new-albany-in--0",
+        "note": "Address-matched listing gives weekly hours for taco truck at 2025 E Spring Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w870603910",
+    "name": "The Earl",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://theearlbar.com/",
+        "note": "Own bar site advertises current happy hours at 109 E Market Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w883636904",
+    "name": "The Exchange Pub + Kitchen",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/the-exchange-pub-and-kitchen-w-main-st-118-new-albany?to=place.w.179700095.1796869876.1522306",
+        "note": "Address-matched listing gives daily pub hours at 118 W Main Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w883990506",
+    "name": "The High Dive",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/the-high-dive/",
+        "note": "Local venue listing gives Friday/Saturday bar hours at 141 W Main Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11972070184",
+    "name": "True North Coffee House",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2026/True-North-Coffee-1-30-26.pdf",
+        "note": "Official January 2026 inspection establishes identity but no current cafe hours found. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1455848675",
+    "name": "Uncommon Cups and Cones",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://uncommoncupsandcones.com/",
+        "note": "Own ice-cream cafe site advertises service at 518 Vincennes Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11981631844",
+    "name": "Yamato",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.yamatoramennewalbany.com/",
+        "note": "Search returned Yamato in New Albany Mississippi, not Indiana; rejected wrong-city evidence. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6800735394",
+    "name": "Akasha Brewing Company",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.akashabrewing.com/",
+        "note": "Own brewery site advertises taproom at 909 E Market Street Suite 700. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375494286",
+    "name": "Alex&nder",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.hiddenlouisville.com/blog/the-8-best-summer-patios-in-louisville-right-now",
+        "note": "Historic Alex&nder rooftop name at Copper & Kings; current branding/location service requires confirmation. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329538024",
+    "name": "Apocalypse Brew Works",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://apocalypsebrewworks.com/",
+        "note": "Own brewery/taproom site gives opening hours for Mellwood Avenue location. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14049388397",
+    "name": "Bar Genevieve",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.bargenevieve.com/contact",
+        "note": "Own bar contact page gives weekly hours at 730 E Market Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11273386951",
+    "name": "Bar Vetti",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.barvetti.com/location",
+        "note": "Own reservations page gives dining hours at 727 E Market Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6028042686",
+    "name": "Big Al’s Beeritaville",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://content.govdelivery.com/accounts/KYLOUISVILLE/bulletins/1cbf8b0",
+        "note": "Exact-name search returned old license and OSM directories only; current operations unconfirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6800764385",
+    "name": "Butchertown Grocery Bakery",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/butchertown/item-silk-velvet_f475bbc4-e5bc-4adc-a095-9a888348aa4e",
+        "note": "Live Toast location page gives opening hours at 743 E Main Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13424071604",
+    "name": "Cherry Pickin'",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/place/details/8753138/cherry-pickin",
+        "note": "Wanderlog includes permanent-closure wording while Waze has hours; current status unresolved. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066545287",
+    "name": "Chicken King",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/delivery/dish/louisville-ky/honey-chicken?mod=seoEnterAddress&next=%2Ffeed&ps=1",
+        "note": "Delivery search lists operating Chicken King but no address to match mapped point. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6739109222",
+    "name": "Ciao Ristorante",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://toast.app/r/ciao-ristorante-1201-payne-street/order?diningOption=delivery",
+        "note": "Toast gives current dining hours at 1201 Payne Street despite Uber Eats departure. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13322053995",
+    "name": "Classico Takeout & Empanadas",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/louisville-classico-takeout-empanadas/61074368",
+        "note": "2024 opening report and generic listing found; own current operating hours not established. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330579360",
+    "name": "Decade",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://decaderestaurant.com/",
+        "note": "Own site advertises restaurant/events and 1076 E Washington Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6065590593",
+    "name": "Decca",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.bizjournals.com/louisville/news/2022/08/12/decca-to-close-in-nulu.html",
+        "note": "2022 news reports Decca closure at 812 E Market Street; current Eater report confirms closure in 2022. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5460843517",
+    "name": "Feast BBQ",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.feastbbq.com/locations",
+        "note": "Official locations page gives seven-day service at 909 E Market, with dated 2026/2027 holiday exceptions. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375497059",
+    "name": "Galaxie",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.galaxiebar.com/louisville",
+        "note": "Own Louisville page offers menu and current dining at 732 E Market Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6800764286",
+    "name": "Goodwood",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/goodwood-brewing-closes-two-louisville-taprooms-amid-lawsuits-ownership-talks/article_fc1ae5cc-8d55-43a5-870c-0fc9772b5744.html",
+        "note": "April 1, 2026 news confirms NuLu East Main taproom closed March 30 amid lawsuits. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375497963",
+    "name": "Grind Burger Kitchen",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.grindburgerkitchen.com/",
+        "note": "Own restaurant site gives dine-in/ordering hours at 829 E Market Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4792216814",
+    "name": "HI-Five Doughnuts",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.hifivedoughnuts.com/",
+        "note": "Official shop now lists 1940 Harvard Drive, well beyond 150 m from mapped 1011 E Main; former location no longer current. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6065590594",
+    "name": "Harvest",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/nulu-farm-to-table-restaurant-harvest-closing-for-good/article_237a7f34-f2f7-11ea-92d1-733a9e6e9fdb.html",
+        "note": "Local news reports final service in September 2020 at 624 E Market Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6800764287",
+    "name": "International Tap House",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/international-tap-house-/",
+        "note": "Address-matched listing marked CLOSED at 637 E Main, updated August 12, 2026; independent listing agrees permanent closure. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12699906642",
+    "name": "Le Bodeguita",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://502restaurants.com/late-night-food-louisville/",
+        "note": "Address-matched local hours guide checked November 12, 2026 at 725 E Market Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w333481380",
+    "name": "Locals Food Hub & Pizza Pub",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://louisvillepizzaweek.com/restaurant/locals-food-hub-pizza-pub/",
+        "note": "November 9–15, 2026 Pizza Week participation gives current hours at 822 E Broadway. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4792241551",
+    "name": "Louis's The Ton",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/louisville-bar-closes-two-years-business-butchertown/40906136",
+        "note": "Local news identifies 1601 Story Avenue as former Louis’s The Ton, later Gold Bar. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6800735385",
+    "name": "Louisville Cream",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/louisville-cream/",
+        "note": "Address-matched listing gives current ice cream shop hours at 632 E Market Street; own site advertises shop. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11780423887",
+    "name": "Mac's at Mile Wide",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.milewidebeer.com/",
+        "note": "Host brewery’s own site lists Mac’s food service at 636 Barret Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13322054000",
+    "name": "Mashup Food Hall",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/new-food-hall-opens-in-louisvilles-nulu-neighborhood-with-7-diverse-restaurants/article_2efa143a-318d-4520-b845-101888d05280.html",
+        "note": "November 2025 local report confirms food hall opened at 750 E Jefferson; current business listing also found. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6800735292",
+    "name": "Mayan Cafe",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://resy.com/cities/louisville-ky/venues/mayan-cafe",
+        "note": "Current Resy venue page offers dinner reservations for NuLu restaurant; rejected stale pandemic-closure resource. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11780434482",
+    "name": "Mile Wide Beer Company",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/mile-wide-beer-company-plan-close-louisville-brewery/74314955",
+        "note": "November 2026 news says final day under current ownership will be December 31, 2026; remains open on check date. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12699950755",
+    "name": "Naive Latin Inspired Kitchen",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/Naive-Louisville",
+        "note": "Address-matched listing gives upcoming opening time at 1001 E Washington, updated October 2026. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066456088",
+    "name": "Nouvelle",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.nouvellewine.com/home",
+        "note": "Own wine bar site gives weekly hours at 214 S Clay Street Suite B. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4792216812",
+    "name": "Pho Ba Luu",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.cityof.com/ky/louisville/pho-ba-luu-2564281",
+        "note": "Address-matched local business listing gives weekly dining hours at 1019 E Main Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329525228",
+    "name": "Pizza Lupo",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.pizzalupo.com/",
+        "note": "Own restaurant site gives seven-day dinner hours at 1540 Frankfort Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375499199",
+    "name": "Rye",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://louisville.eater.com/venue/1138/rye-on-market",
+        "note": "Eater address-matched venue page explicitly marks 900 E Market permanently closed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w222195546",
+    "name": "Sergio’s World Beers",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.sergiosworldbeers.com/contact/",
+        "note": "Own contact page says open 365 days from 2 PM at 1605 Story Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330578568",
+    "name": "South Seas Tiki & Golf Lounge",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://southseastiki.com/",
+        "note": "Own restaurant site offers current food/drinks service at 1301 Story Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13424071605",
+    "name": "Tacos Amor",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://louisvilledowntown.org/hospitality-maps-2/",
+        "note": "Downtown Partnership identifies Tacos D Amor at 828 E Market, but no current hours established under mapped name. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13847699501",
+    "name": "The Last Refuge",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.thelastrefuge.com/contact",
+        "note": "Own contact page gives bar hours at 600 E Market Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w331282638",
+    "name": "The Vault",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.whistlepigwhiskey.com/brand-homes/the-vault",
+        "note": "Official WhistlePig brand page gives tasting hours/reservations at 403 E Market Street. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330578742",
+    "name": "The Weekly Juicery",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/place/details/1488604/the-weekly-juicery",
+        "note": "Permanent closure shown in one listing but Uber Eats still has menu; needs own site/current independent cross-check. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330579044",
+    "name": "The Whirling Tiger",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.thewhirlingtiger.com/contact/",
+        "note": "Own contact page gives seven-day bar hours at 1335 Story Avenue. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6800735287",
+    "name": "Toast on Market",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.derbycityweekend.com/2022/04/27/louisville-brunch-spot-toast-market-closing/",
+        "note": "April 2022 local news reports Louisville 620 E Market location closing in May; New Albany location is separate. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3368937219",
+    "name": "Ward 426",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/86-ward-426-today-we-have-decided-to-close-our-doors-for-good/",
+        "note": "Local food publication reports permanent closure of Ward 426 on July 7, 2019. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375496674",
+    "name": "Wiltshire on Market",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/wiltshire-on-market-closes-nulu-location-louisville/44592358",
+        "note": "July 2023 local news reports closure of 636 E Market restaurant; Eater also marks permanently closed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3434520600",
+    "name": "Around The Grill",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://aroundthegrillky.com/",
+        "note": "Own restaurant site gives seven-day hours at 5015 Poplar Level Road. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336482305",
+    "name": "Asian Pot",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.asianpotky.com/",
+        "note": "Own restaurant site has active ordering menu and opening hours for Louisville Asian Pot. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066549687",
+    "name": "Fishery Station",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.bringmethat.com/t/ky/louisville/40219/the-fishery-station",
+        "note": "Delivery listing says permanent closure, but exact address/point match needs independent check. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5747716221",
+    "name": "Holy Smokes Bar-B-Que and Catering",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.bbb.org/us/ky/louisville/profile/barbecue/holy-smokes-bar-b-que-catering-0402-2038564",
+        "note": "BBB identifies 7508 Preston Highway but current public dining hours at mapped point unconfirmed. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336416400",
+    "name": "Ole Hickory Pit Bar-B-Que",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.bizjournals.com/louisville/news/2020/05/29/ole-hickory-pit-restaurant-closes.html",
+        "note": "May 2020 local news reports permanent shutdown after 31 years; address numbering discrepancy requires cross-check. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3453099464",
+    "name": "Spaghetti Shop",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/spaghetti-shop",
+        "note": "General directory only at 4657 Outer Loop; no sufficient current operating evidence. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330139956",
+    "name": "Stooge's Bar and Grill",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://getmarketpulse.com/businesses/18959-stooge-s-bar-and-grill-louisville-ky",
+        "note": "Third-party price-monitoring page says menu checked August 2026, but no independently confirmed current opening hours. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336482540",
+    "name": "Trixie's Knockout Saloon & Grill",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/mip/trixies-knockout-saloon-grill-4930295",
+        "note": "Address-matched bar listing gives evening hours at 6112 Preston Highway, adjacent number to mapped 6114. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6065590589",
+    "name": "610 Magnolia",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://610magnolia.com/",
+        "note": "Own restaurant site advertises current tasting menu and reservation service in Old Louisville. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9336873203",
+    "name": "Barry's Cheese Steaks & More",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/barrys-cheese-steaks-%26-more/3HsJ-XUSWweh9ivQi4mQbA?pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkFvbW9yaSUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpvMm9ySFBDZm0xOFJmcUdGYlp3dHh2OCUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0E0MC44MjIyMTk3JTJDJTIybG9uZ2l0dWRlJTIyJTNBMTQwLjc0NzM1MjM5OTk5OTk4JTdE",
+        "note": "Uber Eats shows unavailable; platform departure alone cannot establish permanent closure. Checked in web search on 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  }
+]

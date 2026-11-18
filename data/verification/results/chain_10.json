@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "n11980061482",
+    "name": "Hardee's",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.showcase.com/2740-allison-ln-jeffersonville-in-47130/37626364/",
+        "note": "Commercial property listing identifies 2740 Allison Lane as previously occupied by Hardee's and available for lease. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11980061504",
+    "name": "Hardee's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://locations.hardees.com/ky/louisville/5352-dixie-hwy/",
+        "note": "Official business/location page lists 5352 Dixie Highway in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w333996844",
+    "name": "Hardee's",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://locations.hardees.com/ky/louisville/5352-dixie-hwy/",
+        "note": "Search result reviewed, but current operation at this exact mapped location was not established. Missing/inconsistent address, stale listing, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336481887",
+    "name": "Hardee's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://locations.hardees.com/ky/louisville/",
+        "note": "Official business/location page lists 2909 Fern Valley Road in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w824935574",
+    "name": "Hardee's",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.bizjournals.com/louisville/news/2026/03/18/former-area-hardees-location-changes-hands.html",
+        "note": "March 2026 report identifies 301 W Court Avenue as former Hardee's; city redevelopment document also describes its departure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w334731937",
+    "name": "Cracker Barrel",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.crackerbarrel.com/locations/states/ky/louisville/417",
+        "note": "Official business/location page lists 2701 Crittenden Drive in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w338403989",
+    "name": "Cracker Barrel",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://careers.crackerbarrel.com/jobs/location/KY/louisville/",
+        "note": "Official current recruitment page names this restaurant address. This supports operation, with less confidence than current dining hours. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w339668632",
+    "name": "Cracker Barrel",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.crackerbarrel.com/locations/states/ky/louisville/650",
+        "note": "Official business/location page lists 11000 Dixie Highway in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w345091282",
+    "name": "Cracker Barrel",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.crackerbarrel.com/locations/states/ky/jeffersontown/153?rwg_token=ACgRB3esSEdo6stB7ZskmHONk5GxMBw600Anp1g-BYnFD5LznQx5x3mp2hCElBE17Rq0a63vlhwE2KCI3Fx8rx4wQw1IUIbbxg%3D%3D",
+        "note": "Official business/location page lists 1401 Kentucky Mills Drive in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1233166865",
+    "name": "Cracker Barrel",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.crackerbarrel.com/locations/states/ky/shepherdsville/223",
+        "note": "Official business/location page lists 275 Brenton Way in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3447596800",
+    "name": "First Watch",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://firstwatch.com/locations/hurstbourne",
+        "note": "Official business/location page lists 201 South Hurstbourne Parkway in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14372059287",
+    "name": "First Watch",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://firstwatch.com/locations/fern-creek",
+        "note": "Current business/official location information identifies 7714 Bardstown Road, corresponding to the mapped neighborhood/road. Input lacks full address; location match has medium confidence. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329388294",
+    "name": "First Watch",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://firstwatch.com/locations/highlands",
+        "note": "Official business/location page lists 2225 Taylorsville Road in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329550774",
+    "name": "First Watch",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://firstwatch.com/locations/middletown",
+        "note": "Official business/location page lists 12913 Shelbyville Road in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337062634",
+    "name": "First Watch",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://guava.failover.uber.com/store/first-watch-louisville/eKpRiSDAVFuBRXiIjyRmww",
+        "note": "Current delivery listing identifies First Watch at 4948 US 42; no permanent-closure evidence found. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n1712804813",
+    "name": "Little Caesars",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/little-caesars-6001-pleasant-colony-ct/y7ulIcHJUty9D4fVxNjq5g?diningMode=DELIVERY",
+        "note": "Search result reviewed, but current operation at this exact mapped location was not established. Missing/inconsistent address, stale listing, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069846475",
+    "name": "Little Caesars",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://littlecaesars.com/en-us/store/9791/",
+        "note": "Official store 9791 is currently indexed as a Louisville pizza restaurant; shopping-center directory also identifies Little Caesars at Jeffersontown Commons near this point. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n7996447168",
+    "name": "Little Caesars",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://order.littlecaesars.com/en-us/order/pickup/stores/search/Hikes%20lane/",
+        "note": "Official business/location page lists 2868 Charlestown Road in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11112249555",
+    "name": "Little Caesars",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/little-caesars-2868-charlestown-rd/WqmnZQ7cXL6sqiL2c_gUfQ",
+        "note": "Search result reviewed, but current operation at this exact mapped location was not established. Missing/inconsistent address, stale listing, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1029208209",
+    "name": "Little Caesars",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://order.littlecaesars.com/en-us/order/pickup/stores/8932/order-time/",
+        "note": "Official business/location page lists 3121 S 2nd Street in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n2496352298",
+    "name": "Roosters",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://roosterswings.com/locations/",
+        "note": "Current business/official location information identifies 4420 Dixie Hwy Ste 101, corresponding to the mapped neighborhood/road. Input lacks full address; location match has medium confidence. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3447583321",
+    "name": "Roosters",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://roosterswings.com/locations/view-all-locations/ohio-state-area/",
+        "note": "Official business/location page lists 10430 Shelbyville Road in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5714037464",
+    "name": "Roosters",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://roosterswings.com/locations/view-all-locations/huntington/",
+        "note": "Official business/location page lists 7405 Preston Highway in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066622785",
+    "name": "Roosters",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://roosterswings.com/locations/",
+        "note": "Current business/official location information identifies 5338 Bardstown Road, corresponding to the mapped neighborhood/road. Input lacks full address; location match has medium confidence. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1291635950",
+    "name": "Roosters",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://roosterswings.com/locations/",
+        "note": "Current business/official location information identifies 1601 Greentree Boulevard, corresponding to the mapped neighborhood/road. Input lacks full address; location match has medium confidence. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1093670255",
+    "name": "Indies Fried Chicken",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.indischicken.com/locations",
+        "note": "Current business/official location information identifies 2978 East 10th Street, corresponding to the mapped neighborhood/road. Input lacks full address; location match has medium confidence. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w339054872",
+    "name": "Indi's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.indischicken.com/locations",
+        "note": "Official locator lists 5009 S 3rd Street; input number 5011 differs slightly for this same restaurant property. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w814452057",
+    "name": "Indi's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.indischicken.com/locations",
+        "note": "Official business/location page lists 1033 West Broadway in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w823043725",
+    "name": "Indi's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.indischicken.com/locations",
+        "note": "Official business/location page lists 3505 Grant Line Road in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w332560627",
+    "name": "Indi's Fast Food Restaurant",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/indis-fast-food-/",
+        "note": "Current dining listing matches 3820 West Market and provides restaurant reviews and hours. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w938694160",
+    "name": "La Catrina Mexican Kitchen",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://lacatrinamexicankitchen.com/",
+        "note": "Official page identifies this business at 202 East Elm Street, Louisville/Southern Indiana, with location or service information (checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1010268096",
+    "name": "La Catrina Tacos & Tequila",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://lacatrinatacosandtequila.com/",
+        "note": "Official page identifies this business at 125 West Chestnut Street, Louisville/Southern Indiana, with location or service information (checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11979358377",
+    "name": "Señor Iguanas",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://eatatiguanas.com/",
+        "note": "Search result reviewed, but current operation at this exact mapped location was not established. Missing/inconsistent address, stale listing, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13874605001",
+    "name": "Señor Iguanas",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://eatatiguanas.com/",
+        "note": "Official site lists the Okolona restaurant at 5637 Outer Loop with service information. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337694055",
+    "name": "Señor Iguanas",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://eatatiguanas.com/",
+        "note": "Search result reviewed, but current operation at this exact mapped location was not established. Missing/inconsistent address, stale listing, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5651944823",
+    "name": "Quills Coffee",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://quillscoffee.com/pages/our-cafes",
+        "note": "Official business/location page lists 2001 Frankfort Avenue in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6342436885",
+    "name": "Quills Coffee",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://quillscoffee.com/pages/our-cafes",
+        "note": "Official business/location page lists 802 East Main Street in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6342436886",
+    "name": "Quills Coffee",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://quillscoffee.com/pages/our-cafes",
+        "note": "Current business/official location information identifies 930 Baxter Avenue, corresponding to the mapped neighborhood/road. Input lacks full address; location match has medium confidence. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12672240101",
+    "name": "Quills Coffee",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://quillscoffee.com/pages/our-cafes",
+        "note": "Official business/location page lists 10501 Watterson Trail in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14246571219",
+    "name": "Quills Coffee",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://quillscoffee.com/pages/our-cafes",
+        "note": "Official business/location page lists 11213 River Beauty Loop in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3452979180",
+    "name": "7 Brew",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://locations.7brew.com/ky/louisville/7700-laurel-ridge-rd",
+        "note": "Official business/location page lists 7700 Laurel Ridge Road in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069185523",
+    "name": "7 Brew",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://locations.7brew.com/ky/louisville/10013-brownsboro-road",
+        "note": "Official business/location page lists 10013 Brownsboro Rd in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n14372059285",
+    "name": "7 Brew",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://locations.7brew.com/ky/louisville/10013-brownsboro-road",
+        "note": "Current business/official location information identifies 7609 Bardstown Road, corresponding to the mapped neighborhood/road. Input lacks full address; location match has medium confidence. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11957248675",
+    "name": "Seven Brew",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://locations.7brew.com/in/jeffersonville/1626-veterans-parkway",
+        "note": "Official business/location page lists 1626 Veterans Parkway in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336681653",
+    "name": "Bob Evans",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/bob-evans-379-10761-fischer-park-drive/uW9ZjMQ_SqqCXQNq0dZTKg",
+        "note": "Current delivery listing matches 10761 Fischer Park Drive. Official locator not established. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337444882",
+    "name": "Bob Evans",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/bob-evans-437-11800-standiford-plaza-drive/6VKk2q-USCKgdNd-03_FuQ",
+        "note": "Current delivery listing matches 11800 Standiford Plaza Drive. Official locator not established. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w343475147",
+    "name": "Bob Evans",
+    "status": "closed",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/revolving-sushi-restaurant-coming-to-former-bob-evans-location-in-east-louisville/article_2e5ce2ef-853b-4528-aa82-7179ddc31ccb.html",
+        "note": "Local 2026 report identifies 9797 Blairwood as former Bob Evans being replaced by sushi restaurant. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1225723020",
+    "name": "Bob Evans",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/bob-evans-e-lewis-and-clark-pkwy-1101-clarksville?to=place.w.179700095.1797328632.3379436",
+        "note": "Search result reviewed, but current operation at this exact mapped location was not established. Missing/inconsistent address, stale listing, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337833528",
+    "name": "Culver's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.culvers.com/restaurants/louisville-hurstbourne",
+        "note": "Official business/location page lists 4630 South Hurstbourne Parkway in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w338411488",
+    "name": "Culver's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.culvers.com/restaurants/louisville-interchange",
+        "note": "Official business/location page lists 11801 Interchange Drive in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w367812106",
+    "name": "Culver's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.culvers.com/restaurants/jeffersonville-in",
+        "note": "Official business/location page lists 1555 Veterans Parkway in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1193668716",
+    "name": "Culver's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.culvers.com/restaurants/jeffersonville-in-e-10th-st",
+        "note": "Official business/location page lists 3525 East 10th Street in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11980061531",
+    "name": "Jack in the Box",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://locations.jackinthebox.com/us/ky/louisville/3232-bardstown-rd",
+        "note": "Official business/location page lists 3232 Bardstown Road in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1190671180",
+    "name": "Jack in the Box",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://locations.jackinthebox.com/us/ky/shepherdsville/157-keystone-crossroads-dr",
+        "note": "Official business/location page lists 157 Keystone Crossroads Dr in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1504658651",
+    "name": "Jack in the Box",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://locations.jackinthebox.com/us/ky/louisville/9491-westport-rd",
+        "note": "Current business/official location information identifies 9491 Westport Road, corresponding to the mapped neighborhood/road. Input lacks full address; location match has medium confidence. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1573420054",
+    "name": "Jack in the Box",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://locations.jackinthebox.com/us/ky/louisville/10700-dixie-hwy",
+        "note": "Official business/location page lists 10700 Dixie Highway in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364361419",
+    "name": "Krispy Kreme",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://site.krispykreme.com/ky/louisville/13319-shelbyville-rd",
+        "note": "Official business/location page lists 13319 Shelbyville Road in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4022427287",
+    "name": "Krispy Kreme",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://site.krispykreme.com/in/jeffersonville/1575-veterans-pkwy",
+        "note": "Current business/official location information identifies 1575 Veterans Parkway, corresponding to the mapped neighborhood/road. Input lacks full address; location match has medium confidence. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069846474",
+    "name": "Krispy Kreme",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://site.krispykreme.com/ky/louisville/13319-shelbyville-rd",
+        "note": "Search result reviewed, but current operation at this exact mapped location was not established. Missing/inconsistent address, stale listing, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w333995571",
+    "name": "Krispy Kreme",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://site.krispykreme.com/ky/louisville",
+        "note": "Official business/location page lists 3000 Bardstown Road in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5654275221",
+    "name": "Long John Silver's",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ljsilvers.com/locations/ky/louisville/3407-broadway/",
+        "note": "Search result reviewed, but current operation at this exact mapped location was not established. Missing/inconsistent address, stale listing, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336482809",
+    "name": "Long John Silver's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ljsilvers.com/locations/ky/louisville/3407-broadway/",
+        "note": "Official business/location page lists 3407 West Broadway in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w1201591142",
+    "name": "Long John Silver's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ljsilvers.com/locations/in/clarksville/740-e-lewis-and-clark-parkway/",
+        "note": "Current business/official location information identifies 740 East Lewis and Clark Parkway, corresponding to the mapped neighborhood/road. Input lacks full address; location match has medium confidence. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w343716083",
+    "name": "Long John Silver's and Taco Bell",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.ljsilvers.com/locations/ky/louisville/3407-broadway/",
+        "note": "Search result reviewed, but current operation at this exact mapped location was not established. Missing/inconsistent address, stale listing, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w321766880",
+    "name": "Olive Garden",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://jobs.olivegarden.com/search/jobdetails/server/c2ee9361-8ad9-4a0d-89a0-7341903b90c6",
+        "note": "Official current recruitment page names this restaurant address. This supports operation, with less confidence than current dining hours. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w338212625",
+    "name": "Olive Garden",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.olivegarden.com/locations/ky/louisville/louisville-jefferson-mall/1852",
+        "note": "Official business/location page lists 4811 Outer Loop in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w343474718",
+    "name": "Olive Garden",
+    "status": "unsure",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.olivegarden.com/locations/ky/louisville/louisville-jefferson-mall/1852",
+        "note": "Search result reviewed, but current operation at this exact mapped location was not established. Missing/inconsistent address, stale listing, or insufficient current evidence; retained as unsure. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w821984638",
+    "name": "Olive Garden",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://jobs.olivegarden.com/search/jobdetails/host/f0358120-792f-46e8-a1b8-5b707ae542f7",
+        "note": "Official current recruitment page names this restaurant address. This supports operation, with less confidence than current dining hours. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n2250671112",
+    "name": "Papa Murphy's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://guava.failover.uber.com/store/papa-murphys-12535-shelbyville-roads/X5YaMrFEW2OdyRqXSIneVQ",
+        "note": "Current pickup/delivery listing identifies 12535 Shelbyville Road near the mapped Middletown point. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3441851175",
+    "name": "Papa Murphy's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/papa-murphys-/",
+        "note": "Current restaurant listing shows 3024 S Third with reviews and hours. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4780015136",
+    "name": "Papa Murphy's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://locations.papamurphys.com/in/new-albany",
+        "note": "Current business/official location information identifies 2221 State Street, corresponding to the mapped neighborhood/road. Input lacks full address; location match has medium confidence. Checked 2026-11-18."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n9364112233",
+    "name": "Papa Murphy's",
+    "status": "open",
+    "new_name": null,
+    "evidence": [
+      {
+        "url": "https://locations.papamurphys.com/ky/louisville",
+        "note": "Official business/location page lists 5016 Mud Lane in the Louisville/Southern Indiana area with restaurant, ordering, or hours information (search result checked 2026-11-18)."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  }
+]

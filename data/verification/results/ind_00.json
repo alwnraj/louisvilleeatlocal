@@ -1,0 +1,650 @@
+[
+ {
+  "id": "n6066549690",
+  "name": "Blue Bay Seafood Chicken",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://page-service.doordash.com/en/store/blue-bay-seafood-and-sushi-poplar-level-rd-24251256",
+    "note": "DoorDash listing 'Blue Bay Seafood and Sushi (Poplar Level Rd)', 4.3 from 1,000+ ratings, hours 11am-9:15pm; seafood boils + chicken wings"
+   },
+   {
+    "url": "https://issuu.com/foodanddiningmagazine/docs/_vol_76_winter_2022",
+    "note": "Food & Dining Winter 2022: Blue Bay Seafood & Sushi opened at 4322 Poplar Level Rd"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6066607790",
+  "name": "Blue Horse Cafe",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://order.online/en-US/store/22994412",
+    "note": "Online ordering listing for Blue Horse Restaurant & Bar (Phillips Ln), the Crowne Plaza Louisville Airport hotel restaurant at 830 Phillips Ln, matching the coordinates"
+   },
+   {
+    "url": "https://www.foodboss.com/louisville-ky/blue-horse-restaurant-and-bar-830-phillips-ln-louisville-delivery",
+    "note": "Delivery listing at 830 Phillips Ln; other listings say hours not available"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w334732334",
+  "name": "Dairy Kastle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/news/business/beloved-louisville-ice-cream-shop-dairy-kastle-opens-for-the-2024-season/article_b1019856-db60-11ee-b804-4bfd4c3ca3e1.html",
+    "note": "WDRB, Mar 2024: Dairy Kastle (575 Eastern Pkwy) opened for its 2024 season. Seasonal walk-up shop, so it's likely closed for winter in Nov. No 2025-26 source found"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w334731856",
+  "name": "Derby City Pizza Co.",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://slicelife.com/restaurants/ky/louisville/40217/derby-city-pizza-co/menu",
+    "note": "Slice ordering page for Derby City Pizza Co, 2500 Crittenden Dr 40217, opens 12pm"
+   },
+   {
+    "url": "https://atmosfy.io/listing/83257/kentucky/louisville/derby-city-pizza-co-174945",
+    "note": "Listed as the Derby City Pizza Louisville Campus location"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n4039209453",
+  "name": "Hometown Pizza",
+  "status": "renamed",
+  "new_name": "Craft House Pizza",
+  "evidence": [
+   {
+    "url": "https://www.atly.com/gluten-free/location/Craft-House-Pizza---Preston-Hwy",
+    "note": "Craft House Pizza - Preston Hwy at 4041 Preston Hwy, 40213"
+   },
+   {
+    "url": "https://hometownpizzaiillc.applicantstack.com/x/detail/a2rx706y3uta",
+    "note": "Job posting for Craft House Pizza, Preston Hwy, hosted by the Hometown Pizza LLC entity"
+   },
+   {
+    "url": "https://www.wdrb.com/craft-house-pizza---hometown-brewing-company/image_6d8f12be-7f21-11ef-8e7f-ab3d8726f829.html",
+    "note": "WDRB 2024: Craft House Pizza / Hometown Brewing Company"
+   },
+   {
+    "url": "https://reviews.birdeye.com/hometown-pizza-149285888076608",
+    "note": "Hometown Pizza listed at 4041 Preston Hwy Ste 100 (same address). A Louisville pizza guide calls it 'Craft House Pizza (Formerly Hometown Pizza)'"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n13672232825",
+  "name": "King Gyros - Lynnview",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://kinggyrosky.com/",
+    "note": "Official site lists Lynnview location at 5005 Preston Hwy, phone 502-414-5318; online ordering is offered for Lynnview"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w337108644",
+  "name": "Lolitas Tacos",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.louisvillehotbytes.com/?p=3658",
+    "note": "Older review of Lolita's Tacos, 4222 Poplar Level Rd. No current listing found"
+   },
+   {
+    "url": "https://issuu.com/foodanddiningmagazine/docs/_vol_88_winter_2025",
+    "note": "Food & Dining Winter 2025 snippet says a 'cult favorite Camp Taylor eatery at 4222 Poplar Level Rd.' left and the space briefly became a soup and sandwich shop, which may mean Lolita's closed; full text not readable"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w337108136",
+  "name": "Marma Dukes",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://sosbes.sos.ky.gov/BusSearchNProfile/Profile.aspx/?ctr=471241",
+    "note": "Marmaduke Management LLC is inactive / in bad standing per KY SOS; address not shown, so the link to this place is unconfirmed. No listing found for 4206 Poplar Level"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3187693661",
+  "name": "New Wave Burritos",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3395892510",
+  "name": "Oskar's Slider Bar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w334733226",
+  "name": "Pizzeria Villagio",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n11919125412",
+  "name": "Preston Boba",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n13283080840",
+  "name": "Proof Me Wrong Bourbon Bar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n4039286231",
+  "name": "The Deuce",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://phoenix.aws.mapquest.com/us/kentucky/the-deuce-639195223",
+    "note": "MapQuest listing shows 'Closed' (may only be hours at snapshot time) and has a 2023 review. Other guides place it at 4101 Preston Hwy, next to Hometown Pizza"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n13283080839",
+  "name": "The Mint Julep",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n14018375036",
+  "name": "Asian Buffet",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://asianbuffetin.com",
+    "note": "The OSM website now 301-redirects to asianbuffetnewalbany.com. Target page could not be read (HTTP 429)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n13384448659",
+  "name": "Blossom Bar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w1527363968",
+  "name": "Carali's Rotisserie Chicken",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n13424045321",
+  "name": "ChillBurger",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n13925338042",
+  "name": "China Food",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n5999579236",
+  "name": "Flippin' Pancakes",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n7674868876",
+  "name": "Kansai Japanese Steakhouse & Sushi Bar",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.kansaisteakhouse.com/",
+    "note": "Official site: Kansai Japanese Steakhouse, 1370 Veterans Pkwy #700, Clarksville IN, (812) 218-9538, current hours listed, no closing notice"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6633976785",
+  "name": "Naila’s Caribbean cuisine",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n13384448664",
+  "name": "Puerto Vallarta",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6297867439",
+  "name": "Starlight",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starlightcoffeeco.com/contact-us",
+    "note": "Site mentions 4 retail stores and a 'Sellersburg' ordering page but lists no addresses, so 7613 Old State Road 60 is unconfirmed"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w1339619918",
+  "name": "Starlight Coffee",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.starlightcoffeeco.com/",
+    "note": "Site says the company has 4 retail stores but lists no addresses"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w1446047367",
+  "name": "The Widow's Walk Ice Creamery",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.widowswalkicecreamery.com",
+    "note": "Official site: 415 E. Riverside Dr, Clarksville IN, 812-725-8415, live site with a 'Thunder 2026' link and no closing notice. Seasonal; site says call for hours"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n5716196283",
+  "name": "Topp't",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.topptpizza.com/",
+    "note": "Website domain no longer resolves (DNS ENOTFOUND). This may point to a closure but is not confirmed"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w1444321318",
+  "name": "William's Bakery",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w1291635957",
+  "name": "Yummy Bowl",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n9983836359",
+  "name": "Zesto",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://ilovezesto.com/locations/",
+    "note": "Official locator: Clarksville, 301 E. Lewis & Clark Pkwy, 812-280-8255, current hours"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n490469248",
+  "name": "Zesto's Ice Cream",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://ilovezesto.com/locations/",
+    "note": "Official locator: New Albany, 2740 Charlestown Road, 812-944-6845. The phone matches this entry and the coordinates are on Charlestown Rd. It is in New Albany, not Clarksville"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n5702447325",
+  "name": "Asian Wok",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "http://asianwoklouisville.com",
+    "note": "Website domain no longer resolves (DNS ENOTFOUND). Status unconfirmed"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n5626565722",
+  "name": "Blue Dog Bakery & Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3364312615",
+  "name": "Bourbons Bistro",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w430806095",
+  "name": "Burger Girl Diner",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://burgergirldiner.com/",
+    "note": "Official site: Burger Girl Diner, 3334 Frankfort Ave, (502) 709-5454, hours listed, no closing notice"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n7618111885",
+  "name": "Cafe Aroma",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n5637325726",
+  "name": "Caffe Classico",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3364290692",
+  "name": "Caspian Grill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w330369907",
+  "name": "Clifton Donut Shop",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3364290689",
+  "name": "Crescent Hill Coffee",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n5643088122",
+  "name": "Eatz Vietnamese Restaurant",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3364290686",
+  "name": "Eggs over Frankfort",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n7618129085",
+  "name": "El Frijol",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6391860085",
+  "name": "FABD Smokehouse",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n5702477122",
+  "name": "Gallant Fox Brewing Company",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n7211744480",
+  "name": "Gelato Gilberto",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n2548889297",
+  "name": "Great Wall",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n7619070186",
+  "name": "Great Wall",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6629335485",
+  "name": "Hooked on Frankfort",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w332330251",
+  "name": "Kingfish Restaurant",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "http://www.kingfishrestaurants.com/",
+    "note": "Official site: Zorn & River Road location, 3021 River Road, Louisville 40207, hours Sun-Thu 11-9, Fri-Sat 11-11"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n5700155943",
+  "name": "Kiwa",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6065597390",
+  "name": "Levee at River House",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3364206300",
+  "name": "Miki's Karaoke Bar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n12356469168",
+  "name": "New York Pizza Company",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w330369910",
+  "name": "Ntaba Coffee Haus",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n5681795914",
+  "name": "Osaka Sushi Bar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6066456090",
+  "name": "Ostra",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w330370030",
+  "name": "Pat's Steak House",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n7461437484",
+  "name": "Porcini",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n5624467444",
+  "name": "Red Hog",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6065590595",
+  "name": "River House Restaurant & Raw Bar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n9668218017",
+  "name": "Scholars Coffee",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n5692588322",
+  "name": "TMP The Manhattan Project",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n13272377212",
+  "name": "Taqueria Danny",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ }
+]

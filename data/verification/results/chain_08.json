@@ -1,0 +1,982 @@
+[
+ {
+  "id": "n454373037",
+  "name": "McAlister's Deli",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.mcalistersdeli.com/ky/louisville",
+    "note": "Official locator (fetched 2026-11-17) lists 9 Louisville stores incl. nearby Lime Kiln Ln and Plainview; 10041 Forest Green Blvd not listed"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/kentucky/mcalisters-deli-388186938",
+    "note": "Search result review (Oct 2025) of Lime Kiln store says the Forest Green / Hurstbourne store closed down"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n732887689",
+  "name": "McAlister's Deli",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.mcalistersdeli.com/ky/louisville",
+    "note": "Official locator lists Bardstown Road store, 6510 Bardstown Rd 40291 (matches Highview/Fern Creek coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n745697938",
+  "name": "McAlister's Deli",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.mcalistersdeli.com/ky/louisville",
+    "note": "Official locator lists Stony Brook: 2721 S Hurstbourne Pkwy 40220"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3364360464",
+  "name": "McAlister's Deli",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.mcalistersdeli.com/ky/louisville",
+    "note": "Official locator lists Middletown: 12911 Shelbyville Rd Suite 1"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3453099460",
+  "name": "McAlister's Deli",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.mcalistersdeli.com/ky/louisville",
+    "note": "Official locator lists Outer Loop: 4677 Outer Loop 40219 (matches Okolona coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n7674871845",
+  "name": "McAlister's Deli",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.mcalistersdeli.com/in/clarksville",
+    "note": "Official locator Clarksville IN page lists 1305 Veterans Pkwy"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11496620069",
+  "name": "McAlister's Deli",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.mcalistersdeli.com/ky/louisville",
+    "note": "Official locator lists Springhurst: 4002 Towne Center Dr 40241 (matches coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n12391906940",
+  "name": "McAlister's Deli",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.mcalistersdeli.com/in/jeffersonville",
+    "note": "Official locator Jeffersonville IN page lists 3552 E 10th St (matches coords near 10th St/Hwy 62)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n13513354836",
+  "name": "McAlister's Deli",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.mcalistersdeli.com/ky/louisville",
+    "note": "Official locator lists Breckenridge Lane: 980 Breckenridge Ln 40207 (matches St. Matthews coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n14024432262",
+  "name": "McAlister's Deli",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.mcalistersdeli.com/ky/louisville",
+    "note": "Official locator lists Lime Kiln: 2400 Lime Kiln Lane 40222"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w334372632",
+  "name": "Rally's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.mystore411.com/store/list_state/2583/Kentucky/Checkers-Rallys-store-locations",
+    "note": "Search results (Nov 2026) show 'Rally's Bardstown Road, 3290 Bardstown Road 40205' among official locator listings"
+   },
+   {
+    "url": "https://checkersandrallys.com/location/rally-s-8247-bardstown-rd-2815194",
+    "note": "Official location page (OSM link, edited 2026); site blocked automated fetch"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w337083921",
+  "name": "Rally's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.checkersandrallys.com/ky/louisville/2130-w.-broadway",
+    "note": "Official locator page 'Rally's W. Broadway, 2130 W. Broadway 40211' in search results Nov 2026"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w339223309",
+  "name": "Rally's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.mystore411.com/store/list_state/2583/Kentucky/Checkers-Rallys-store-locations",
+    "note": "Search results show 'Rally's Cane Run Road, 4401 Cane Run Road 40216'"
+   },
+   {
+    "url": "https://checkersandrallys.com/location/rally-s-8256-cane-run-rd-2796289",
+    "note": "Official location page (OSM link, edited 2026); blocked automated fetch"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w339237585",
+  "name": "Rally's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.rallys.com/ky/louisville/5506-new-cut-road",
+    "note": "Official locator page 'Rally's New Cut Road' in search results Nov 2026"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w385207451",
+  "name": "Rally's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.checkersandrallys.com/ky/louisville/3455-taylor-blvd.",
+    "note": "Official locator page for 3455 Taylor Blvd in search results, hours ~10AM-2AM"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w656636835",
+  "name": "Rally's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2024/Rallys-8255-routine-7-31-24.pdf",
+    "note": "Floyd County health inspection July 2024 of Rally's #8255, 401 Vincennes St New Albany (matches OSM store 8255)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w820708215",
+  "name": "Rally's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://checkersandrallys.com/location/rally-s-4302-state-st-2795577",
+    "note": "OSM-linked official page could not be fetched (403); search only showed an unconfirmed 'Rally's (2350 State Street)' on Uber Eats"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w823997491",
+  "name": "Rally's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/rallys-756-e-lewis-and-clark-pkwy/OnKt4CWiRt-zcnrx5sTgOQ",
+    "note": "Uber Eats store listing for Rally's 756 E Lewis and Clark Pkwy, Clarksville"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w1229645542",
+  "name": "Rally's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://checkersandrallys.com/location/rally-s-4289-adam-shepherd-pkwy-25075617",
+    "note": "OSM-linked official page blocked (403); no search confirmation found"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3435223700",
+  "name": "Zaxby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.zaxbys.com/locations/ky/louisville/3423-fern-valley-rd/catering",
+    "note": "Official Zaxby's location pages for 3423 Fern Valley Rd in search results, phone (502) 749-3972, hours listed"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5218652873",
+  "name": "Zaxby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.zaxbys.com/locations/in/jeffersonville/5430-e-highway-62/catering",
+    "note": "Official Zaxby's page for 5430 E Highway 62 Jeffersonville, phone (812) 725-9304"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6923919232",
+  "name": "Zaxby's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.zaxbys.com/locations/in/new-albany/2870-technology-ave",
+    "note": "Official page blocked (403) to automated fetch; search found no confirmation"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n11980061507",
+  "name": "Zaxby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.zaxbys.com/locations/ky/louisville/4949-dixie-hwy/fastfood",
+    "note": "Official Zaxby's page for 4949 Dixie Hwy, phone (502) 690-7282"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329902424",
+  "name": "Zaxby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.zaxbys.com/locations/ky/louisville/807-blankenbaker-pkwy/fastfood",
+    "note": "Official Zaxby's page for 807 Blankenbaker Pkwy, phone (502) 742-8600 (OSM 809 is adjacent number)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w338409974",
+  "name": "Zaxby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.doordash.com/en-US/business/zaxbys-12704/",
+    "note": "Search result: DoorDash listing Zaxby's 5025 Mud Ln, Louisville 40229 (undated)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w339254130",
+  "name": "Zaxby's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.zaxbys.com/locations/ky/louisville/10715-dixie-hwy",
+    "note": "Official Zaxby's page for 10715 Dixie Hwy, phone (502) 271-6990, hours listed"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1093670252",
+  "name": "Zaxby's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w1229646152",
+  "name": "Zaxby's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.zaxbys.com/locations/ky/shepherdsville/539-conestoga-pkwy",
+    "note": "Official page blocked (403); search found no confirmation"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n763649265",
+  "name": "Tumbleweed Tex Mex Grill",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.tumbleweedrestaurants.com/find-a-location/",
+    "note": "Official location list includes Brooks Road: 380 Brenton Way, Shepherdsville (I-65 Brooks exit, matches coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n11970555254",
+  "name": "Tumbleweed Tex Mex Grill",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.tumbleweedrestaurants.com/find-a-location/",
+    "note": "Official location list includes 3005 Charlestown Crossing, New Albany IN"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n12379116918",
+  "name": "Tumbleweed Tex Mex Grill",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.tumbleweedrestaurants.com/find-a-location/",
+    "note": "Official location list includes 718 Highlander Point Dr, Floyds Knobs IN"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w336501651",
+  "name": "Tumbleweed Tex Mex Grill",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.tumbleweedrestaurants.com/find-a-location/",
+    "note": "Official list includes Bashford Manor: 3602 Bardstown Rd (same building at Buechel Bypass/Bardstown Rd)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w336682486",
+  "name": "Tumbleweed Tex Mex Grill",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.tumbleweedrestaurants.com/find-a-location/",
+    "note": "Official location list (14 stores, fetched 2026-11-17) has no Springhurst / 3550 Springhurst Commons Dr store while other Louisville stores listed"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w337607804",
+  "name": "Tumbleweed Tex Mex Grill",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.tumbleweedrestaurants.com/find-a-location/",
+    "note": "Official location list has no 8609 Citadel Way / Hurstbourne store while other Louisville stores listed"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w338215080",
+  "name": "Tumbleweed Tex Mex Grill",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.tumbleweedrestaurants.com/find-a-location/",
+    "note": "Official list includes Outer Loop: 4255 Outer Loop 40219"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w339249758",
+  "name": "Tumbleweed Tex Mex Grill",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.tumbleweedrestaurants.com/find-a-location/",
+    "note": "Official list includes Valley Station: 9701 Dixie Highway"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1339619957",
+  "name": "Tumbleweed Tex Mex Grill",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.tumbleweedrestaurants.com/find-a-location/",
+    "note": "Official list includes Jeffersonville: 2784 Jefferson Centre Way, Jeffersonville IN (matches coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n734459905",
+  "name": "Buffalo Wild Wings",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.buffalowildwings.com/locations.xml",
+    "note": "Official BWW locations sitemap lists 10206 Westport Road Louisville (store-1357), matching Lyndon/Westport coords"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3166617361",
+  "name": "Buffalo Wild Wings",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.buffalowildwings.com/locations.xml",
+    "note": "Official sitemap lists jeffersontown/9134-taylorsville-road/store-22"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3364360449",
+  "name": "Buffalo Wild Wings",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.buffalowildwings.com/locations.xml",
+    "note": "Official sitemap lists middletown/12901-shelbyville-road/store-7"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3447808171",
+  "name": "Buffalo Wild Wings",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.buffalowildwings.com/locations.xml",
+    "note": "Official sitemap lists louisville/4600-shelbyville-road/store-1284"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3452841314",
+  "name": "Buffalo Wild Wings",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.buffalowildwings.com/locations.xml",
+    "note": "Official sitemap lists louisville/4917-outer-loop-road/store-1231 (OSM website field wrongly points to Five Guys)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3464533100",
+  "name": "Buffalo Wild Wings",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.buffalowildwings.com/locations.xml",
+    "note": "Official sitemap (fetched 2026-11-17) lists 6 Louisville-area BWW stores; none near Dixie Hwy / Valley Station"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3829346558",
+  "name": "Buffalo Wild Wings",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.buffalowildwings.com/locations.xml",
+    "note": "Official sitemap lists in/clarksville/1112-veterans-parkway/store-198"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w1448373449",
+  "name": "Buffalo Wild Wings",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.buffalowildwings.com/locations.xml",
+    "note": "Official sitemap lists louisville/3113-s-second-street/store-1920, matching South End coords"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w334007680",
+  "name": "Sonic",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.sonicdrivein.com/locations.xml",
+    "note": "Official Sonic locations sitemap (fetched 2026-11-17) lists only 3 Louisville stores (Ambrosse Ln, Springhurst, Standiford Plaza); 3425 Bardstown Rd absent; legacy URL guesses 404"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w335692193",
+  "name": "Sonic",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.sonicdrivein.com/locations.xml",
+    "note": "Official Sonic sitemap lacks 630 Winkler Ave while other Louisville stores listed"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w336682482",
+  "name": "Sonic",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.sonicdrivein.com/locations/us/ky/louisville/3641-springhurst-blvd/store-3610/",
+    "note": "Official store page with hours (10:00-23:45) and phone"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337445570",
+  "name": "Sonic",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.sonicdrivein.com/locations.xml",
+    "note": "Official sitemap lists louisville/11810-standiford-plaza-drive/store-4327"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337528083",
+  "name": "Sonic",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.sonicdrivein.com/locations.xml",
+    "note": "Official Sonic sitemap has no Middletown / 13310 Shelbyville Rd store while other Louisville stores listed"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w337836382",
+  "name": "Sonic",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.sonicdrivein.com/locations/us/ky/louisville/8600-ambrosse-lane/store-3522/",
+    "note": "Listed in official Sonic locations sitemap; legacy URL redirects to this store page"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w337887153",
+  "name": "Sonic",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.sonicdrivein.com/locations.xml",
+    "note": "Official Sonic sitemap lacks 6460 Outer Loop while other Louisville stores listed"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w1190671171",
+  "name": "Sonic",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.sonicdrivein.com/locations.xml",
+    "note": "Official sitemap lists shepherdsville/408-hwy-44-east/store-5122"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n9086856252",
+  "name": "Popeyes",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.popeyes.com/sitemap.xml",
+    "note": "restaurant_83101 (OSM-linked store) is present in official popeyes.com sitemap (3,072 restaurants), fetched 2026-11-17"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n11268046274",
+  "name": "Popeyes",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/popeyes-shelbyville-%26-evergreen/7Z9dUAlQRYGHXI12uqhgZg",
+    "note": "Uber Eats listing Popeyes 'Shelbyville & Evergreen', 12206 Shelbyville Rd 40243"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n11980061526",
+  "name": "Popeyes",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.popeyes.com/sitemap.xml",
+    "note": "restaurant_83053 present in official popeyes.com sitemap"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n14372059290",
+  "name": "Popeyes",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w337083941",
+  "name": "Popeyes",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/news/business/popeyes-louisiana-kitchen-opens-in-louisvilles-russell-neighborhood/article_d2b59e54-4396-11ef-99c2-9fe83aba5dba.html",
+    "note": "WDRB: Popeyes at 28th & Broadway opened July 2024; delivery apps list 2618 W Broadway"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w339275128",
+  "name": "Popeyes",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.popeyes.com/sitemap.xml",
+    "note": "restaurant_83160 present in official popeyes.com sitemap"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w674797378",
+  "name": "Popeyes",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.popeyes.com/sitemap.xml",
+    "note": "restaurant_85580 present in official popeyes.com sitemap"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w735339609",
+  "name": "Popeyes",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.popeyes.com/sitemap.xml",
+    "note": "restaurant_85384 present in official popeyes.com sitemap"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3368978747",
+  "name": "Jersey Mike's Subs",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://startpage.mapquest.com/us/kentucky/jersey-mikes-subs-431383539",
+    "note": "MapQuest snippet for 7941 Bardstown Rd shows 'Closed' (may be hours snapshot); official site blocked"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3437387131",
+  "name": "Jersey Mike's Subs",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/jersey-mikes-10521-fischer-park-drives/ncJ6JxMpR42pPr7cNRzGgA",
+    "note": "Uber Eats store listing 10521 Fischer Park Dr, 360+ ratings"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3829329437",
+  "name": "Jersey Mike's Subs",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ezcater.com/catering/jersey-mikes-subs-clarksville-veterans-pkwy",
+    "note": "ezCater catering page for Jersey Mike's Clarksville Veterans Pkwy"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n7865658495",
+  "name": "Jersey Mike's Subs",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ezcater.com/catering/jersey-mikes-subs-jeffersonville",
+    "note": "ezCater page for Jersey Mike's Jeffersonville"
+   },
+   {
+    "url": "https://www.franchising.com/amp/news/20171218_jersey_mikes_subs_opens_first_jeffersonville_locat.html",
+    "note": "Opened Dec 2017 at 5530 Highway 62"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n11974214309",
+  "name": "Jersey Mike's Subs",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.storeopeninghours.com/jersey-mikes-subs-daisy-lane-new-albany-in/amp",
+    "note": "Current listing for 404 Daisy Lane New Albany"
+   },
+   {
+    "url": "https://www.ezcater.com/catering/jersey-mikes-subs-new-albany",
+    "note": "ezCater page New Albany"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n12381248844",
+  "name": "Jersey Mike's Subs",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n14353775962",
+  "name": "Jersey Mike's Subs",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.storeopeninghours.com/jersey-mikes-subs-shepherdsville-ky",
+    "note": "A Shepherdsville Jersey Mike's listing exists but address/status not confirmed"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3442823047",
+  "name": "Wild Eggs",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wildeggs.com/locations",
+    "note": "Official list includes Westport Village: 1311 Herr Lane 40222 (matches coords)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3446758826",
+  "name": "Wild Eggs",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wildeggs.com/locations",
+    "note": "Official list includes Jeffersontown: 9010 Taylorsville Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6064659387",
+  "name": "Wild Eggs",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wildeggs.com/locations",
+    "note": "Official list includes Downtown Louisville: 121 S Floyd St (matches coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6876960442",
+  "name": "Wild Eggs",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wildeggs.com/locations",
+    "note": "Official list includes Middletown: 153 English Station Rd"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n13424045318",
+  "name": "Wild Eggs",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wildeggs.com/locations",
+    "note": "Official list includes Jeffersonville: 1450 Veterans Pkwy Suite 160 (matches coords)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w337713296",
+  "name": "Wild Eggs",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wildeggs.com/locations",
+    "note": "Official list includes Dupont: 3985 Dutchmans Lane"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1088009977",
+  "name": "Wild Eggs",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wildeggs.com/locations",
+    "note": "Official list includes New Albany: 223 W 5th St"
+   }
+  ],
+  "confidence": "high"
+ }
+]

@@ -1,0 +1,772 @@
+[
+ {
+  "id": "n14068590039",
+  "name": "El Sombrero",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://elsombreroin.com/",
+    "note": "Own website domain registration has expired (fetched 2026-11-17); no current listing found for 2784 Meijer Dr"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n14068590041",
+  "name": "Food Lab",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://phoenix.aws.mapquest.com/us/indiana/food-lab-681818076",
+    "note": "MapQuest listing at 2781 Jefferson Centre Way, undated; Heartland ordering page loads but content not verifiable"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w1453383792",
+  "name": "Geraldine's Kitchen",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://geraldineskitchen.com/",
+    "note": "Own site lists 402 Wall St and offers 'breakfast 2026' / 'lunch 2026' menu PDFs"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n14068584365",
+  "name": "Golden Blossom Buffet",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.goldenblossombuffet.com/",
+    "note": "Site behind bot checkpoint; no listing found confirming 2760 Jefferson Centre Way"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n6750919492",
+  "name": "H.M. Franks",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://phoenix.aws.mapquest.com/us/indiana/hm-franks-375366813",
+    "note": "MapQuest listing 355 Spring St, undated; no current evidence"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w1071196215",
+  "name": "Harbor and Hops",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://harborandhops.com/",
+    "note": "Own site: 3010 Gottbrath Pkwy, 'Open today 4-9pm', copyright 2025"
+   },
+   {
+    "url": "https://www.toasttab.com/local/harbor-and-hops-3010-gottbrath-parkway/r-bba1d67e-483a-4a4a-ab1c-469cb4c35981",
+    "note": "Toast listing with hours"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w640590450",
+  "name": "Harry's Taphouse & Kitchen",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://harrystaphouseandkitchen.com/",
+    "note": "Own site (c) 2026 lists Riverside Drive location, 130 W Riverside Dr, (812) 725-1111, online ordering"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n5220606707",
+  "name": "Jeff's Donuts",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/be-our-guest-at-jeffs-donuts/article_446b8610-cb3f-11ee-8499-1f93605974b3.html",
+    "note": "WDRB feature Feb 2024 on shop at State Road 62"
+   },
+   {
+    "url": "https://www.thedonutwhole.com/jeffs-donuts-jeffersonville-in/",
+    "note": "Listing 5420 IN-62 #300, open 24h"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n14068590040",
+  "name": "Kabuki",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/kabuki-hibachi-%26-ramen/VGaABDLiR4i_ZjJaqdPLPw",
+    "note": "Uber Eats store for Kabuki Hibachi & Ramen at 2784 Meijer Dr, 1000+ ratings"
+   },
+   {
+    "url": "https://www.restaurantji.com/in/jeffersonville/kabuki-hibachi-and-ramen-",
+    "note": "Restaurantji listing 'Kabuki Hibachi & Ramen by Meijer'"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w676442859",
+  "name": "Kingfish",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.cushmanwakefield.com/en/united-states/properties/for-sale/general-retail/in/jeffersonville/601-west-riverside-drive/s122206346s122206346-s",
+    "note": "Sale listing (updated Sep 2026) for KingFish 601 W Riverside Dr, business included - implies still operating; no closure report found"
+   },
+   {
+    "url": "https://www.wdrb.com/news/business/kingfish-puts-brand-restaurants-on-the-market-for-14m/article_3fd13e6b-a5d2-4129-8cb5-ae9ab5fa4bd8.html",
+    "note": "WDRB: owners listed business and properties for sale"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n6750919491",
+  "name": "Match Cigar Bar",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://riversidecigarshop.com/",
+    "note": "Riverside Cigar Shop & Lounge (OSM website for Match) site active, copyright 2026; Match is the adjoining lounge"
+   },
+   {
+    "url": "https://startpage.mapquest.com/us/indiana/match-cigar-bar-438470176",
+    "note": "MapQuest listing 207 Spring St"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w1452705992",
+  "name": "Pearl Street Game & Coffee House",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://joe.coffee/locations/in/jeffersonville/pearl-street-game-coffee-house-jeffersonville",
+    "note": "Listing at 405 Pearl St with hours, undated; latest news found is 2021 expansion"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w1452705993",
+  "name": "Pearl Street Taphouse",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.gosoin.com/blog/post/rollin-on-the-river-beer-fest-guide/",
+    "note": "Pearl Street Taphouse co-presents May 30, 2026 beer fest with VIP pre-party at the taphouse"
+   },
+   {
+    "url": "https://revbrew.com/events/deep-wood-preview-party-at-pearl-street-taphouse",
+    "note": "Jan 2026 event listed at the taphouse"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w640533181",
+  "name": "Pearl Street Treats",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://thehyphennews.com/2025/12/05/review-pearl-street-treats-offers-ice-cream-delights-to-downtown-jeffersonville/",
+    "note": "Dec 2025 review of Pearl Street Treats, 301 Pearl St, new owners since May 2024"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n2916114001",
+  "name": "Red Yeti",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.redyetijeff.com/",
+    "note": "Own site blocked by Cloudflare; listings undated"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w842731526",
+  "name": "Slammer's Tavern",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n9983836372",
+  "name": "The Alcove",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://thealcovebar.com/",
+    "note": "Own site lists 246 Spring Street, phone, events/parties booking"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w1453383793",
+  "name": "Town - A Neighborhood Pub",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.townaneighborhoodpub.com/",
+    "note": "Own site active: 415 Spring St, menu and catering menu"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n13322796944",
+  "name": "Union Pub and Social",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://uniongameyard.com/",
+    "note": "Own site 'Union Pub', 115 West Chestnut Street, menu/games/holiday party booking"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w1093670246",
+  "name": "Zesto's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w337062636",
+  "name": "Austins",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://reviews.birdeye.com/austins-restaurant-259840880",
+    "note": "Unclaimed listing at 4950 US-42, undated"
+   },
+   {
+    "url": "https://sosbes.sos.ky.gov/BusSearchNProfile/Profile.aspx/?ctr=231836",
+    "note": "Austin's Restaurant, Inc. corporate record inactive - inconclusive"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n14143336101",
+  "name": "BOMBAY GRILL - INDIAN RESTAURANT",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://bombaygrillky.com/",
+    "note": "Own site: 216 N Hurstbourne Pkwy, hours, (c) 2026"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n9878973844",
+  "name": "Bandido Taqueria Mexicana",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://bandidotm.com/",
+    "note": "Own site returned HTTP 406 to automated fetch"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n6391860110",
+  "name": "Barbour Lane Pizza & Deli",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3445798127",
+  "name": "Corner Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3442902391",
+  "name": "Craft House Pizza",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://crafthousepizza.com/",
+    "note": "Own site lists Westport Rd. location, 2813 N. Hurstbourne Pkwy Suite 101, pickup ordering"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3445815407",
+  "name": "El Rio Grande Mexican Restaurant",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "http://www.mexicanrestaurantlouisville.com/",
+    "note": "Own website did not resolve"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3436530764",
+  "name": "Fresh Wok",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w337693834",
+  "name": "Ginza's Asian Bistro",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n12323651739",
+  "name": "Gustavo's Mexican Grill",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://gustavosmexgrill.com/",
+    "note": "Own site (c) 2026 lists Hurstbourne location 401 S Hurstbourne Pkwy"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n13676306722",
+  "name": "Heavy plates",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://heavyplates502.square.site/",
+    "note": "Square site loads but shows no address/content verifiable"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3447597111",
+  "name": "Heitzman Traditional Bakery and Deli",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3321208396",
+  "name": "Hiko-A-Mon Sushi Bar and Fish Market",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://book.toasttab.com/r/hiko-a-mon-1115-herr-ln",
+    "note": "Toast booking page for hiko-A-mon, 1115 Herr Ln, with hours 4-8pm"
+   },
+   {
+    "url": "https://www.opentable.com/hiko-a-mon-modern-japanese-sushi-bar-and-fish-market",
+    "note": "OpenTable listing taking reservations"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6392755492",
+  "name": "Impelli",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3442807046",
+  "name": "Jade Palace",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n14183369602",
+  "name": "K- Brunch by Taco N' Madres",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6806472486",
+  "name": "La Cucina de Mama",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6392757287",
+  "name": "Liegue",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6391860105",
+  "name": "Mojito Tapas Restaurant",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w337694054",
+  "name": "Momma's BBQ",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://foodanddine.com/?p=32867",
+    "note": "Food & Dine (early 2025): Hurstbourne location at 119 S. Hurstbourne Pkwy stayed open during St. Matthews rebuild"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n12179504360",
+  "name": "Osteria Italian Seafood",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.osterialouisville.com/",
+    "note": "Own site blocked by bot check"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n9878973843",
+  "name": "Pizzaville",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://pizzavillepizza.com/",
+    "note": "Own site: 'Located at 2901 Goose Creek Road', holiday party booking"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n13283031543",
+  "name": "Scooters",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w336676225",
+  "name": "Sho Gun",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w336611152",
+  "name": "Taj Palace Indian Restaurant",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n6392757787",
+  "name": "Thai Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3442902372",
+  "name": "The Charcoal Restaurant",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.eatcharcoal.com/",
+    "note": "Own site: 2805 N. Hurstbourne Pkwy #100, hours, online ordering"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3445787833",
+  "name": "The Starving Artist Cafe & Deli",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w337211879",
+  "name": "ToGo Sushi",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.togosushiky.com/",
+    "note": "Own site active with menu and pickup phone 502-883-0666"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6069862345",
+  "name": "Yang-Kee Noodle",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/news/yang-kee-noodle-closes-oxmoor-center-restaurant-after-16-year-run/article_4da2fef8-6063-11e9-bdaa-dbe9d6cc403f.html",
+    "note": "WDRB Apr 2019: Yang Kee Noodle closed Oxmoor Center restaurant"
+   },
+   {
+    "url": "https://www.wdrb.com/news/business/yang-kee-noodle-closes-final-louisville-location-in-middletown-plans-to-relocate/article_04d2bb64-0e8e-11ed-9095-5f10df6fac26.html",
+    "note": "WDRB 2022: final Louisville location closed"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3443828792",
+  "name": "Z's Oyster Bar & Steakhouse",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.opentable.ie/r/zs-oyster-bar-louisville",
+    "note": "OpenTable listing, latest review 2016; no current evidence"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3434829824",
+  "name": "5 O'Clock Charlie's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n11270546816",
+  "name": "Alley Cat Cafe & Catering",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n2497238184",
+  "name": "Anchorage Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3364360694",
+  "name": "Bento Asian Restaurant",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://bentoasiankitchenky.kwickmenu.com/",
+    "note": "OSM menu link returns 'Restaurant not found' (404)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w1097418154",
+  "name": "Blind Squirrel",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://blindsquirrellouisville.com/",
+    "note": "Own site: 592 North English Station Road, hours, online ordering"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11270546821",
+  "name": "Boudreaux's New Orleans Style Sno-Balls",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "http://louisvillesnoballs.com/",
+    "note": "Own site returns near-empty page"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n2496184629",
+  "name": "Brix Wine Bar",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.airbnb.com/things-to-do/places/2676064",
+    "note": "Listing for Brix Wine Bar marked permanently closed"
+   },
+   {
+    "url": "https://overlookmaps.com/places/brix-wine-bar-and-bistro-louisville-1476076449263007",
+    "note": "Listing at 12418 La Grange Rd shown closed"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6069217500",
+  "name": "Carali's Rotisserie Chicken",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://caralischicken.com/",
+    "note": "Own site blocked by bot check"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n6066622787",
+  "name": "Cheddar Box Cafe",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/news/business/longtime-st-matthews-lunch-spot-closing-after-over-45-years-in-louisville/article_b95d6590-be08-11ee-a506-ab6724c79900.html",
+    "note": "WDRB Jan 2024: St. Matthews closing but Cheddar Box Cafe Middletown remains open"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3364360420",
+  "name": "Clay Oven Indian Restaurant",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://clayovenlouisville.com/",
+    "note": "Own site blocked by bot check"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n11270546824",
+  "name": "Coals Artisan Pizza",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.coalsartisanpizza.com/contact",
+    "note": "Own site lists St. Matthews and Middletown locations with hours and ordering"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329519048",
+  "name": "Cottage Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3364361409",
+  "name": "Double Dogs",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://doubledogs.biz/location/louisville-middletown/",
+    "note": "Official site (c) 2026 lists Louisville (Middletown) location"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w329510693",
+  "name": "El Toro",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ }
+]

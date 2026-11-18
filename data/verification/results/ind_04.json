@@ -1,0 +1,691 @@
+[
+ {
+  "id": "n3373722602",
+  "name": "Uptown Cafe",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.toasttab.com/uptown-cafe-louisville-1624-bardstown-rd",
+    "note": "Toast online-ordering page for Uptown Cafe at 1624 Bardstown Rd (seen in search results)"
+   },
+   {
+    "url": "https://opentable.com/r/uptown-cafe-louisville",
+    "note": "OpenTable listing with reservations and hours (search results)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w330429889",
+  "name": "Wheated",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://phoenix.aws.mapquest.com/us/kentucky/wheated-pizza-697163507",
+    "note": "MapQuest listing for Wheated Pizza with 2025 Yelp reviews (search results)"
+   },
+   {
+    "url": "https://issuu.com/foodanddiningmagazine/docs/_vol_83_fall_2024",
+    "note": "Food & Dining Fall 2024 lists Wheated at 1553 Bardstown Rd; Courier-Journal reported June 2024 opening"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6328088885",
+  "name": "Wick's Pizza",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://order.online/store/wick's-pizza-parlor-louisville-233970",
+    "note": "Online ordering page at 975 Baxter Ave exists but showed ordering hours 'Closed' when captured; no dated recent evidence found"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3369098884",
+  "name": "Wiltshire Pantry Bakery and Cafe",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.gotolouisville.com/directory/wiltshire-pantry-bakery-and-caf%C3%A9",
+    "note": "GoToLouisville directory lists 901 Barret Ave with phone"
+   },
+   {
+    "url": "https://spinach.guide/venues/wiltshire-pantry-141261/",
+    "note": "Listing with current hours for Barret Ave shop (undated)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w330429900",
+  "name": "Zas Pizza",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://phoenix.aws.mapquest.com/us/kentucky/zas-pizza-pub-5405855",
+    "note": "MapQuest listing shows Za's Pizza Pub at 1573 Bardstown Rd as Open with hours, not permanently closed; a review dated June 2025 mentioned in results; no closure news found"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n13953100730",
+  "name": "koko+rAe",
+  "status": "renamed",
+  "new_name": "Mom's Kitchen",
+  "evidence": [
+   {
+    "url": "https://zaikafind-com.pages.dev/louisville-ky/restaurants/moms-kitchen-aka-koko-rae",
+    "note": "Listing 'Mom's Kitchen A.K.A KOKO + RAE' at 1511 Bardstown Rd, Indian, 4.6 from 127 reviews"
+   },
+   {
+    "url": "https://issuu.com/foodanddiningmagazine/docs/vol_84_win_2024_",
+    "note": "Food & Dining Winter 2024: freestanding Mom's Kitchen at 1511 Bardstown Rd serving Indian food plus some of predecessor Koko+Rae's Caribbean dishes"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w337859040",
+  "name": "Aspen Creek",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://startpage.mapquest.com/us/kentucky/aspen-creek-grill-264768296",
+    "note": "MapQuest: Aspen Creek Grill, 8000 Bardstown Rd, regular hours, not marked permanently closed; newest review ~2 weeks old (Nov 2026)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n1709006507",
+  "name": "Bungalow Joe's Bar & Grill",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://bungalow-joes.com/",
+    "note": "Official site lists 7813 Beulah Church Rd (Fern Creek), copyright 2026, menu PDF dated Aug 2026"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n738651117",
+  "name": "Fiesta Time Amigos",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.ubereats.com/store/fiesta-time-amigos-fern-creek/J3jhVaq-WpqfRL9b98794A",
+    "note": "Uber Eats store 'Fiesta Time Amigos (Fern Creek)', 8123 Bardstown Rd 40291, hours 11-9:30, not marked closed"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6034589797",
+  "name": "Hitchin Post Inn",
+  "status": "open",
+  "new_name": "Hitching Post Inn",
+  "evidence": [
+   {
+    "url": "https://phoenix.aws.mapquest.com/us/kentucky/hitching-post-inn-5423240",
+    "note": "MapQuest: Hitching Post Inn, 7314 Fegenbush Ln 40228, listed Open daily 10am-4am; latest review ~11 months ago"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n12678184701",
+  "name": "Jeff's Donuts",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.jeffsdonuts.com/locations",
+    "note": "Official locations page lists Fern Creek: 6405 Bardstown Road, (502) 384-4451"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3448918171",
+  "name": "Mango's Bar and Grill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n6034620203",
+  "name": "Nu-View Bar and Grill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n13582733789",
+  "name": "Panaderia y Tienda Guadalajara 3",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://panaderiaytiendaguadalajara3.com/",
+    "note": "Own site: 4754 Bardstown Rd, (c) 2026, customer review dated 11/3/2026"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n2496186549",
+  "name": "Pastry Plus",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n1709000068",
+  "name": "Puerto Vallarta Mexican Restaurant",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Same address (7813 Beulah Church Rd) as Bungalow Joe's per its site; may be a former tenant or separate unit. Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "w338405613",
+  "name": "The Hungry Pelican",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.hungrypelicanlou.com/",
+    "note": "Own site: 5412 Bardstown Rd, current hours, 50 years in Fern Creek, Halloween hours banner"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n677657177",
+  "name": "Asian Moon",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n3467853442",
+  "name": "Bistro Le Relais",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n3410869493",
+  "name": "El Caporal",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n12064805337",
+  "name": "El Monstruo Louisville",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.eatokra.com/businesses/funmi-s-cafe",
+    "note": "Funmi's Cafe listed at 3028 Bardstown Rd (different business at this address)"
+   },
+   {
+    "url": "https://www.wdrb.com/news/business/new-west-african-restaurant-opens-on-bardstown-road-in-louisville/article_eab2a518-88da-11ef-8e00-c3821f7fbaf3.html",
+    "note": "WDRB Oct 2024: new West African restaurant opens on Bardstown Road (seen in search results, not opened)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n6069705490",
+  "name": "Hike's Point Lounge and Bar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n3375304505",
+  "name": "Homeade Ice Cream & Pie Kitchen",
+  "status": "open",
+  "new_name": "Homemade Ice Cream & Pie Kitchen (Highlands)",
+  "evidence": [
+   {
+    "url": "https://www.piekitchen.com/locations/",
+    "note": "Official locations page lists Highlands: 2525 Bardstown Road (matches coordinates)"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n6069620383",
+  "name": "Jock's Bar & Grill",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n13950417801",
+  "name": "Kathmandu",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "w330564839",
+  "name": "Kern's Korner",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n5269153316",
+  "name": "King Buffet",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "w329547377",
+  "name": "Queen of Sheba",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.queenofshebalouisville.com",
+    "note": "Own site: 2804 Taylorsville Rd, online ordering, reservations, DoorDash/UberEats links; no closure notice"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6069733386",
+  "name": "Queenie's Restaurant",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n6069718187",
+  "name": "Red Sun Chinese Restaurant",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n3447718891",
+  "name": "Shark's Seafood",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n5269159253",
+  "name": "Sullivan Bakery",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n13363819601",
+  "name": "TryMe Treats",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n6077278199",
+  "name": "Ville Tacos",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "w333995688",
+  "name": "Vinaigrette Salad Kitchen",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://vinaigrettesaladkitchen.com/menu/",
+    "note": "Official site lists only two locations, both Lexington (Hamburg, Palomar); no Louisville/3012 Bardstown Rd location"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n14360894702",
+  "name": "El Maguey Mexican Restaurant",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n4848336123",
+  "name": "Maggie Mae's Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n6066545286",
+  "name": "Veronica's Mexican Restaurant",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "w24022075",
+  "name": "hometown pizza",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "w343526641",
+  "name": "3rd Turn Brewing",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n6069846420",
+  "name": "AunTEA Pearl's Tea Establishment",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n12699941573",
+  "name": "Barcelona Bistro",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Own website returned HTTP 403; Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n12678171801",
+  "name": "Brass Social",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://brasssocial.com",
+    "note": "Own site: 11800 Electron Dr, est. 2024, online ordering/reservations, happy hour; only a temporary maintenance-closure notice"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w337696182",
+  "name": "Brownies the Shed Grill & Bar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n12750423686",
+  "name": "China King",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n6069846468",
+  "name": "Double Dragon",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n12672237601",
+  "name": "Gaslight Diner",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.gaslightdinerky.com/",
+    "note": "Own site: 10509 Watterson Trail, hours, online ordering and reservations, job listing"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6069809467",
+  "name": "Happy China",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n3505153162",
+  "name": "Hometown Pizza",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n12381248853",
+  "name": "Jeff's Donuts",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.jeffsdonuts.com/locations",
+    "note": "Official locations page lists Hurstbourne: 1985 S Hurstbourne Pkwy, (502) 365-3162"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3166614945",
+  "name": "Jumbo Buffet",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "w337607799",
+  "name": "Mussel and Burger Bar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n6066456091",
+  "name": "Passtime Fish House",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n2496184048",
+  "name": "Pier 17",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.pier17seafood.com/",
+    "note": "Own site lists 1975 S Hurstbourne Pkwy with Order Now link"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n5239976391",
+  "name": "RecBar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n12750423687",
+  "name": "Scoops",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n6069809469",
+  "name": "Shogun Japanese Steakhouse",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n6069785130",
+  "name": "Shreeji Fast Food",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Coordinates match Jeff's Donuts at 1985 S Hurstbourne Pkwy (open); may be a former tenant. Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n6069846423",
+  "name": "Sichuan Garden Chinese Restaurant",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n3446735316",
+  "name": "Yellow Cactus",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n3744913324",
+  "name": "Adrienne Bakery and Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "n14068590042",
+  "name": "Angie's Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Listed website (Google business.site, discontinued) returns 404, not closure evidence; Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "w1291783702",
+  "name": "BobaBun Cafe",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "w840573242",
+  "name": "Cast Iron Steakhouse",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Not checked: shared web-search budget was exhausted mid-run"
+ },
+ {
+  "id": "w554300511",
+  "name": "Clucker's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low",
+  "note": "Own website returned HTTP 403; Not checked: shared web-search budget was exhausted mid-run"
+ }
+]

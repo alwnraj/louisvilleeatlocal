@@ -3,6 +3,7 @@
 Run:  python3 -I scripts/build.py   (from the louisville-food-money-matrix folder)
 Input:  data/osm-raw.json  (Overpass export with edit metadata, Louisville area bounding box)
         data/brands.json   (researched owners, one record per brand)
+        data/verification.json (reviewed operating status, keyed by stable OSM id)
 Output: places.<hash>.js   (window.BRANDS + window.PLACES), and index.html is updated to load it
 """
 import hashlib, json, math, re, sys, unicodedata
@@ -169,6 +170,11 @@ def area_for(lat, lng, tags):
 
 def main():
     brands = json.loads((ROOT / "data/brands.json").read_text())
+    verification = json.loads((ROOT / "data/verification.json").read_text())
+    statuses = {"open", "unsure", "closed", "renamed", "duplicate_or_not_a_restaurant"}
+    for osm, result in verification.items():
+        if result.get("status") not in statuses:
+            raise ValueError(f"Invalid verification status for {osm}: {result.get('status')!r}")
     # A pattern starting with "=" must equal the whole name (for generic words like "Mesh" or "Bravo");
     # any other pattern matches as a whole-word prefix ("subway" matches "Subway - Bardstown Rd").
     pats = []
@@ -207,6 +213,7 @@ def main():
         b = brands[bi] if bi is not None else None
         rows.append({
             "n": b["n"] if b and norm(b["n"]).split()[0] == n.split()[0] and len(n) <= len(norm(b["n"])) + 12 else re.sub(r"\s+", " ", name),
+            "osm": e["type"][0] + str(e["id"]),   # stable id, used by data/verification.json
             "ll": [round(lat, 5), round(lng, 5)],
             "a": street, "area": area_for(lat, lng, t),
             "k": b["k"] if b else kind_for(t, name),
@@ -240,6 +247,25 @@ def main():
             if any(o["b"] == -1 and miles(o["ll"], r["ll"]) < 0.1 and (o["_key"].startswith(k) or k.startswith(o["_key"])) for o in final):
                 dropped["duplicate"] += 1; continue
         final.append(r)
+    # Filter after deduplication so a duplicate OSM node cannot resurrect a removed place.
+    reviewed, verification_dropped = [], Counter()
+    for r in final:
+        result = verification.get(r["osm"])
+        status = result["status"] if result else "unsure"
+        if status not in {"open", "unsure"}:
+            verification_dropped[status] += 1
+            continue
+        r["status"] = status
+        if result:
+            r["checked"] = result["checked"]
+            if result["evidence"]:
+                r["status_url"] = result["evidence"][0]["url"]
+        reviewed.append(r)
+    final = reviewed
+    print("Verification dropped:", {s: verification_dropped[s] for s in
+          ("closed", "renamed", "duplicate_or_not_a_restaurant")})
+    print("Verification unsure (kept and flagged):", sum(r["status"] == "unsure" for r in final))
+
     # "Confirmed independent": a LIBA / Louisville Originals member, or a researched local owner with a source
     cores = load_liba()
     for r in final:

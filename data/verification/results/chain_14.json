@@ -1,0 +1,458 @@
+[
+ {
+  "id": "w329551395",
+  "name": "Salsarita's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://salsaritas.com/?p=49632",
+    "note": "Salsarita's official site (Shepherdsville page) lists Middletown store at 12915 Shelbyville Rd, Louisville KY 40243"
+   },
+   {
+    "url": "https://www.restaurantnews.com/?p=144656",
+    "note": "Franchisee added drive-thru at 12915 Shelbyville Rd Middletown location (undated)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w336482091",
+  "name": "Shoney's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.restaurantji.com/ky/louisville/shoneys-/",
+    "note": "Listing at 6511 Signature Dr, (502) 969-8904, ~295 reviews, undated; official locator returned 403"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w337607249",
+  "name": "Smokey Bones",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wtvm.com/2026/04/28/columbus-smokey-bones-abruptly-closes-chain-appears-shut-down-nationwide/",
+    "note": "Smokey Bones shut down all locations nationwide on April 28, 2026"
+   },
+   {
+    "url": "https://www.newsweek.com/smokey-bones-chain-closes-all-restaurants-nationwide-11897570",
+    "note": "Chain closes all restaurants nationwide (2026)"
+   },
+   {
+    "url": "https://www.groupon.com/biz/louisville/smokey-bones-bbq-grill",
+    "note": "Listing for 2525 Hurstbourne Gem Ln shown as closed"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w59498266",
+  "name": "Stoney River",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://stoneyriver.com/3900-summit-plaza-drive/",
+    "note": "Official location page: 3900 Summit Plaza Dr, current hours, no closure notice, (c) 2026"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3321208766",
+  "name": "sweetFrog",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3516418240",
+  "name": "TGI Fridays",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/news/business/tgi-fridays-at-fourth-street-live-in-downtown-louisville-closes-for-good/article_74b4df46-327e-11ef-9ee1-8f3a01ba9fb5.html",
+    "note": "WDRB: TGI Fridays at Fourth Street Live closes for good (~June 2024)"
+   },
+   {
+    "url": "https://www.opentable.com/r/tgi-fridays-louisville-downtown-louisville",
+    "note": "OpenTable listing for 415 S 4th St marked permanently closed"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w1464021568",
+  "name": "The Capital Grille",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/news/business/the-capital-grille-opens-louisville-location-on-shelbyville-road/article_76cd397e-a402-11ed-b827-ab724984658a.html",
+    "note": "Opened Feb 3, 2023 at 7600 Shelbyville Rd"
+   },
+   {
+    "url": "https://www.opentable.com/r/the-capital-grille-louisville",
+    "note": "Active OpenTable listing with current hours"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n12452779030",
+  "name": "The Cheesecake Factory",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://locations.thecheesecakefactory.com/ky/louisville-97.html",
+    "note": "Official locator: 5000 Shelbyville Rd Suite 1585, hours, dine-in/takeout/delivery"
+   },
+   {
+    "url": "https://s29.q4cdn.com/187116270/files/content_files/Locations-10-21-26.pdf",
+    "note": "Company location list dated 10-21-26"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3360773516",
+  "name": "The Eagle",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.opentable.com/r/the-eagle-highlands-louisville?rid=347116",
+    "note": "Active OpenTable listing for The Eagle, 1314 Bardstown Rd, daily hours, ~1,200 reviews; not marked closed (review dates not confirmed)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3470245530",
+  "name": "The Melting Pot",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.meltingpot.com/louisville-ky/",
+    "note": "Official page: 2045 S Hurstbourne Pkwy, regular + 2026-27 holiday hours, 'Forever Fondue' promo now thru Nov 22, no closure notice"
+   },
+   {
+    "url": "https://www.toasttab.com/local/order/the-melting-pot-louisville-ky/r-1d5b8441-b4e5-4ac1-bd2f-0b32a3c44695",
+    "note": "Toast online ordering page"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "w331282821",
+  "name": "The Old Spaghetti Factory",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.osf.com/location/louisville-ky/",
+    "note": "Official location page: 235 West Market St, hours, active order online/reservations, no closure notice"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n11974171978",
+  "name": "The Peach Cobbler Factory",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.townofclarksville.com/?p=22506",
+    "note": "Grand opening near 1401 Veterans Pkwy, Dec 9, 2022 (old)"
+   },
+   {
+    "url": "https://www.peachcobblerfactory.com/the-peach-cobbler-factory-locations/364-clarksville-in",
+    "note": "Official location page now returns 404 (possible closure, not confirmed)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w678469382",
+  "name": "The Simple Greek",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://reviews.birdeye.com/the-simple-greek-159319176428246",
+    "note": "Listing at 3029 Poplar Level Rd with hours 11-9, 425 reviews (undated)"
+   },
+   {
+    "url": "https://www.foodboss.com/louisville-ky/the-simple-greek-louisville-3029-poplar-level-rd-louisville-delivery",
+    "note": "Delivery page for this location"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n7661678686",
+  "name": "The Sports & Social Club",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://4thstlive.com/eat-and-drink/the-sports-and-social-club",
+    "note": "Fourth Street Live official site lists The Sports & Social Club"
+   },
+   {
+    "url": "https://www.4thstlive.com/soccer-2026",
+    "note": "Venue site advertises 2026 soccer watch parties"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3447718845",
+  "name": "The Wing Zone",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n13953128276",
+  "name": "Tiger Sugar",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.leoweekly.com/food-drink/boba-tea-chain-tiger-sugar-opens-new-location-in-louisville-15759011",
+    "note": "Tiger Sugar opened first KY location at 1501 Bardstown Rd on Sat March 11 (2023); no current-dated evidence"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "w676442860",
+  "name": "Upland Brewing",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://uplandbrewing.com/locations",
+    "note": "Official locations page lists Jeffersonville Riverfront, 707 W Riverside Dr, today's hours, Nov 28 event"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3992799824",
+  "name": "World of Beer",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.worldofbeer.com/locations",
+    "note": "Official locator lists Louisville: 9850 Von Allmen Ct Ste 108, Louisville KY 40241 (matched by area/ZIP; OSM has no address)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6044760478",
+  "name": "Aqua Sushi",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n11270589484",
+  "name": "Biscuit Belly",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.biscuitbelly.com/location-directory",
+    "note": "Official directory lists Middletown: 13301 Shelbyville Rd, Louisville KY 40223"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3395421094",
+  "name": "Captain's Quarters",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.cqriverside.com/",
+    "note": "Official site: 5700 Captain's Quarters Rd, weekend brunch hours, Thanksgiving buffet/cruise promos, online ordering; (c)2025"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6065590588",
+  "name": "Doc Crow's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.doccrows.com/",
+    "note": "Official site: Whiskey Row downtown Louisville (127 W Main St), active reservations/menus; mentions soon-to-open Indianapolis location"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6069056991",
+  "name": "Hell or High Water",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.toasttab.com/local/hell-or-high-water-112-west-washington-st-suite-2/r-fa7a1ea0-e4b7-4611-be89-dd14e5ffbbeb",
+    "note": "Toast page for Hell or High Water, 112 W Washington St (same Whiskey Row block, entry via Main St shop)"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "w329565886",
+  "name": "Jack Fry's",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.jackfrys.com/",
+    "note": "Official site: open 7 days a week with lunch/dinner hours, no closure notice"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6066549691",
+  "name": "Le Moo",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.lemoo.com/",
+    "note": "Official domain now redirects to a domain-for-sale page (atom.com)"
+   },
+   {
+    "url": "https://www.opentable.com/le-moo",
+    "note": "OpenTable listing still active with management replies (undated)"
+   }
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "n3433087846",
+  "name": "Malone's and Harry's American Bar & Grill",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://paddockshops.com/directory/malones-and-harry-s-american-bar-grill",
+    "note": "Paddock Shops directory lists Malone's and Harry's American Bar & Grill, 4370 Summit Plaza Dr"
+   },
+   {
+    "url": "https://opentable.com/r/malones-louisville",
+    "note": "Active OpenTable listing, ~3,800 reviews"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n738010857",
+  "name": "Martini Italian Bistro",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.martinilouisville.com/",
+    "note": "Official site: 4021 Summit Plaza Dr, holiday hours (Dec 24/25/31, Jan 1), no closure notice"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n6066549689",
+  "name": "Mike Linnig's",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "n3375497062",
+  "name": "Royals Hot Chicken",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.royalshotchicken.com/location-hours",
+    "note": "Official site: 736 E Market St, hours, closure dates listed for Nov 3 2026 and into 2027"
+   }
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "n3373719480",
+  "name": "Seviche",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://sevicherestaurant.com/",
+    "note": "Official site: 1538 Bardstown Rd, Mon-Sun 5pm-close, no closure notice"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n13248773204",
+  "name": "The Silver Dollar",
+  "status": "unsure",
+  "new_name": null,
+  "evidence": [],
+  "confidence": "low"
+ },
+ {
+  "id": "w337085156",
+  "name": "Wagner's Pharmacy",
+  "status": "open",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://spectrumnews1.com/ky/louisville/news/2025/04/22/wagner-s-pharmacy-readies-for-derby-151",
+    "note": "April 2025: Wagner's Pharmacy, 3113 S 4th St, readies for Derby 151"
+   },
+   {
+    "url": "https://www.wagnerspharmacy.com/",
+    "note": "Official site with Tue-Sun hours, no closure notice"
+   }
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "n3383407007",
+  "name": "Whiskey Dry",
+  "status": "closed",
+  "new_name": null,
+  "evidence": [
+   {
+    "url": "https://www.wdrb.com/news/business/fourth-street-live-restaurant-in-louisville-plans-to-relocate-after-recent-closure/article_6f905561-1e82-4de2-9e28-b4199b8dfe7c.html",
+    "note": "WDRB: space is the former Whiskey Dry location that closed in 2020; Locos opened there June 2023 and later closed"
+   }
+  ],
+  "confidence": "high"
+ }
+]

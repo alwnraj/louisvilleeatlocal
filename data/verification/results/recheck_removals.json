@@ -1,0 +1,907 @@
+[
+  {
+    "id": "n4780015155",
+    "name": "Subway",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.superpages.com/new-albany-in/restaurants?page=4",
+        "note": "Search found Subway-Closed references in New Albany but did not establish exact State Street address or match to coordinate; retain unsure rather than trust missing directory alone."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069056992",
+    "name": "Subway",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/subway-222-witherspoon-aves/JWuHFaftTWuWR_nxIh8ndg",
+        "note": "Exact 222 E Witherspoon store no longer available since August 2026, corroborating first-pass official directory absence. Delivery-platform closure alone would not establish permanent closure."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330564804",
+    "name": "Subway",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.jetspizza.com/stores/kentucky/louisville/2500-bardstown-rd/",
+        "note": "Jet Pizza operates at 2500 Bardstown but sources show multiple suites; this does not prove Subway in suite 1 closed. Initial missing-locator verdict not independently corroborated."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w544701060",
+    "name": "Taco Bell",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.aol.com/articles/york-burger-chain-holy-burger-175138000.html",
+        "note": "Courier Journal Aug 24, 2026 identifies 1487 E 10th as former Taco Bell leased to Holy Burger; opening anticipated within six months."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069056995",
+    "name": "Starbucks",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://louisvilledowntown.org/coffee-shops-in-downtown-louisville/",
+        "note": "Current downtown directory lists Heine PNC and several hotel Starbucks. No address on map point, so cannot confidently identify former store; missing locator alone insufficient."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6044760425",
+    "name": "Wendy's",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/wendys-4/",
+        "note": "Exact 2100 S Floyd location explicitly marked CLOSED; third-party listings with daily closed-now labels are not equivalent."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336481842",
+    "name": "Wendy's",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/wendys-closing-five-louisville-locations/63186415",
+        "note": "December 2024 local report includes Packerland in five permanent Louisville closures; stale Yellow Pages open-now labels conflict with dated news."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336611957",
+    "name": "Wendy's",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.yahoo.com/news/whats-replacing-former-wendys-westport-090053863.html",
+        "note": "Courier Journal reports 7 Brew replacing former Wendys at exact 9489 Westport address; official 7 Brew location also seen."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337118108",
+    "name": "Wendy's",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/wendys-closing-five-louisville-locations/63186415",
+        "note": "Report gives nearby 5105 Preston rather than OSM 5101; consistent site, but address discrepancy retained."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w338215081",
+    "name": "Wendy's",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/wendys-closing-five-louisville-locations/63186415",
+        "note": "December 2024 closure report includes exact Outer Loop address."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11980061493",
+    "name": "Domino's",
+    "status": "duplicate_or_not_a_restaurant",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.indeed.com/q-dominos-pizza-l-elizabethtown%2C-ky-jobs.html",
+        "note": "Independent job listing ties exact 4111 N Dixie address to Elizabethtown, supported by official Domino store. OSM city/address belongs far outside mapped West End point; classify misplaced entry rather than claiming real store closed."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11980061488",
+    "name": "KFC",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/kfc-2/",
+        "note": "Exact 2513 Preston location explicitly marked CLOSED; Uber Eats title likewise says Closed."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336611953",
+    "name": "KFC",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.superpages.com/louisville-ky/bpp/kfc-closed-471097291",
+        "note": "Exact 9487 Westport location named KFC - Closed; official delivery subpage persists, so old 404 alone was inadequate."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337494272",
+    "name": "KFC",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.commercialcafe.com/commercial-property/us/ky/louisville/3280-taylor-blvd/",
+        "note": "Property updated Sept 28, 2026 offers former KFC at exact address; official /delivery page shows Closed all days."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w300587052",
+    "name": "Qdoba",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.loopnet.com/Listing/4600-Shelbyville-Rd-Louisville-KY/11998952/",
+        "note": "Current property listing describes former Qdoba space at exact address."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337501562",
+    "name": "Qdoba",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/qdoba-restaurants",
+        "note": "Search locates old 100 Daventry listing but no explicit permanent closure or exact current successor; missing city directory alone not independently corroborated."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329550775",
+    "name": "Arby's",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/arbys",
+        "note": "Old 12933 Shelbyville listing persists; OSM says 12929. No independent explicit closure at exact spot found; sitemap absence alone insufficient."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337128164",
+    "name": "Arby's",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.ibegin.com/directory/us/kentucky/louisville/category/restaurants-fast-food/",
+        "note": "Historic exact 9905 Lagrange listing found, without reliable current operation/closure evidence."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329524174",
+    "name": "White Castle",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/st-matthews-white-castle-closing-christmas-day/46147224",
+        "note": "December 2023 report identifies exact address and permanent Christmas closure."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w823994736",
+    "name": "White Castle",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/in/clarksville/white-castle-/",
+        "note": "Exact 4023 US31 address has full weekly 24-hour schedule, official admin locator and current Town of Clarksville directory; original locator absence conflicts."
+      },
+      {
+        "url": "https://admin.whitecastle.com/locations/1077",
+        "note": "Official indexed page identifies Castle LVLE32 at exact 4023 E US Rt31 with ordering and phone."
+      },
+      {
+        "url": "https://www.townofclarksville.com/restaurants/",
+        "note": "Town restaurant directory lists White Castle at exact address."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069723085",
+    "name": "El Nopal",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/el-nopal-/",
+        "note": "Exact 12418 La Grange #120 location explicitly marked CLOSED; Uber Eats unavailable since Oct 2025."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n738651118",
+    "name": "Pizza Hut",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://locations.pizzahut.com/ky/louisville/8131-bardstown-rd/pizzeria",
+        "note": "Official exact-address page loaded and shows full weekly hours, phone and ordering; official city takeout page lists same address. Original redirect-based closure unsupported."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3446758862",
+    "name": "Pizza Hut",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://locations.pizzahut.com/ky/louisville/9160-taylorsville-rd",
+        "note": "Official exact-address page loaded with full weekly delivery/carryout hours, phone, ordering. Contradicts first-pass claim this URL redirected."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329551172",
+    "name": "Pizza Hut",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://eatoutmap.com/en/usa/douglass-hills",
+        "note": "Historic/OSM-derived listing still shows 12425 Shelbyville; official base URL inaccessible. No independent closure evidence sufficient."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3516264329",
+    "name": "Panera Bread",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/panera-bread-closes-downtown-louisville-location/35843236",
+        "note": "March 2021 report confirms permanent closure at 400 W Market, matching mapped corner."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w329523557",
+    "name": "Panera Bread",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/perm-closed-panera-4024-shelbyville-rd/fft1TdXCR9ef19DnryedBw",
+        "note": "Exact location explicitly titled PERM CLOSED; independently corroborated by WLKY Dec 2020 report."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11980061535",
+    "name": "Chick-fil-A",
+    "status": "duplicate_or_not_a_restaurant",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/chick-fil-a-unveils-first-louisville-food-truck/33405512",
+        "note": "July 2020 report describes exact 7405 New LaGrange facility as catering/delivery hub outside traditional restaurant model; 2025 health inspection record identifies food truck base."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4755772899",
+    "name": "Heine Brothers' Coffee",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/heine-brothers-coffee-main-street/ZjAulYH_VkasZ-vmRMQoUw",
+        "note": "Old exact 516 Main listing persists; current PNC store is nearby at 101 S5th. Without exact former entrance geolocation, move may be within 150m; missing old address alone insufficient."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n454373037",
+    "name": "McAlister's Deli",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://images1.showcase.com/d2/HRZVLEBw2yYsMFtV4qVU2tn_YIrXR7KaRKwFPMgcUkA/document.pdf",
+        "note": "Lease brochure identifies suite 10041 Forest Green as available and formerly McAlisters Deli."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w336682486",
+    "name": "Tumbleweed Tex Mex Grill",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/tumbleweed-tex-mex-grill/8DObyO21Tyi_ip-uzSPxoA",
+        "note": "Exact Springhurst location unavailable since August 2021; corroborates first-pass locator absence, not independent proof of permanent closure."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337607804",
+    "name": "Tumbleweed Tex Mex Grill",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.menuswithprice.com/tumbleweed-tex-mex-grill-and-margarita-bar-menu/louisville/8293031/",
+        "note": "Exact 8609 Citadel historic listing found but no reliable independent current closure/successor evidence."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3464533100",
+    "name": "Buffalo Wild Wings",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/Buffalo-Wild-Wings-Louisville",
+        "note": "Search returns permanently closed Louisville Buffalo Wild Wings listing but exact street not established; old Dixie address listings do not prove status at this coordinate."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w334007680",
+    "name": "Sonic",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.city-data.com/locations/SONICDriveIn/Louisville-Kentucky.html",
+        "note": "Exact historic 3425 Bardstown entry found; no independently reliable current closure evidence."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w335692193",
+    "name": "Sonic",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.allbiz.com/business/sonic-drive-in_506f",
+        "note": "Exact 630 Winkler listing has hours whereas low-quality closure aggregator says closed. Neither establishes current operation; initial sitemap absence uncorroborated."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337528083",
+    "name": "Sonic",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://noshgrid.com/deals/ky/middletown",
+        "note": "2026 deal aggregator still advertises Sonic at 13310 Shelbyville, but cannot establish reliability. Old locator absence alone insufficient."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337887153",
+    "name": "Sonic",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.dunkindonuts.com/locations/us/ky/louisville/6460-outer-loop/store-364581/",
+        "note": "Official Dunkin page lists current hours at exact former Sonic address."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5268994595",
+    "name": "Comfy Cow",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/the-comfy-cow-5/",
+        "note": "Exact 339 W Cardinal location explicitly marked CLOSED."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n11270589483",
+    "name": "The Comfy Cow",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g39604-d8731654-Reviews-The_Comfy_Cow-Louisville_Kentucky.html",
+        "note": "Exact Middletown listing persists with daily closed-now label, not permanent closure. Official site inaccessible during second pass; cannot independently confirm first pass."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w330411872",
+    "name": "Mark's Feed Store",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/marks-feed-stores-location-in-deer-park-to-close-aug-24/",
+        "note": "July 18, 2025 report sets final service August 24 at exact 1514 Bardstown. Official Toast closure notice also seen."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5795892554",
+    "name": "Please & Thank You on the Avenue",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.bizjournals.com/louisville/news/2026/10/20/please-thank-you-closes-frankfort-avenue-store.html",
+        "note": "October 20, 2026 local report says exact 2341 Frankfort shop closed Oct 19; avoids contradictory automated Hoodline story."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069300185",
+    "name": "Zeggz",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.aol.com/news/zeegz-middletown-closes-plans-smaller-172415065.html",
+        "note": "Courier Journal reports original 4600 Chamberlain location closed in 2017; mapped coordinate matches Chamberlain and independent Wanderlog marks permanent closure."
+      },
+      {
+        "url": "https://wanderlog.com/place/details/3285927/zeggz-amazing-eggs-chamberlain",
+        "note": "Exact 4600 Chamberlain location permanently closed."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6066623490",
+    "name": "Zeggz Amazing Eggs",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://zeggzeggz.com/wp-content/uploads/2019/04/ZEGGZ-Lime-Kiln-Closing.pdf",
+        "note": "Dated April 3, 2019 brand press release confirms Lime Kiln closed April 1, 2019 for Mi Tierra expansion; distinct document from initial contact page."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w337607249",
+    "name": "Smokey Bones",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/smokey-bones-jeffersontown/KWlXICDWTmCMFaGvpLf6pg",
+        "note": "Exact 2525 Hurstbourne location unavailable since Feb 2026; independent Courier Journal April 2026 report confirms chainwide remaining Kentucky closure."
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/stocks/articles/smokey-bones-closes-lone-kentucky-180817616.html",
+        "note": "Courier Journal April 2026 report says final Kentucky store Bowling Green closed; Louisville store therefore already gone, closure date not inferred from platform timestamp."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3516418240",
+    "name": "TGI Fridays",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/louisville-tgi-fridays-closes-fourth-street-live/61426739",
+        "note": "June 2024 local report confirms last Louisville TGIF at Fourth Street Live closed permanently."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3383407007",
+    "name": "Whiskey Dry",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/place/details/1234157/whiskey-dry",
+        "note": "Exact 412 S 4th location marked permanently closed; corroborates first-pass local report."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4039209453",
+    "name": "Hometown Pizza",
+    "status": "renamed",
+    "new_name": "Craft House Pizza",
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://crafthousepizza.com/",
+        "note": "Current brand site lists Craft House Pizza at 4041 Preston with hours and phone; first-pass historical same-address Hometown identity supports rename."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3364201077",
+    "name": "The Champagnery at Architype Gallery",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/champagne-bar-on-frankfort-avenue-in-louisville-closing-its-doors/article_4b4e45d4-02b7-4920-9962-810890e5ae4e.html",
+        "note": "2025 closure report for exact 1764 Frankfort; 2024 reopening predates this later closure."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n5692585423",
+    "name": "The HUB",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.bizjournals.com/louisville/news/2024/12/05/the-hub-moving-to-bardstown-road-space.html",
+        "note": "Hub relocated from 2235 Frankfort to 1133 Bardstown December 2024, well over 150m; closed at old map point."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3516264327",
+    "name": "Bristol Bar and Grill",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/bristol-bar-grill-will-close-downtown-after-service-on-may-24/",
+        "note": "May 23, 2026 local report confirms final service May 24 at exact 614 W Main."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n4755776092",
+    "name": "Los Aztecas",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.losaztecasnulu.com/louisville-los-aztecas-mexican-restaurant-about",
+        "note": "Restaurant history explicitly says 530 W Main moved to 445 E Market in 2019, well over 150m."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w683231820",
+    "name": "Milkwood Restaurant",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/welcome-to-comings-goings-a-weekly-snapshot-of-the-food-and-dining-scene/",
+        "note": "2020 local report states Milkwood at 316 W Main closed as commercial restaurant and became McAtee Community Kitchen; stronger than expired domain evidence."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3373722593",
+    "name": "Cafe 360",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/caf-360-on-bardstown-road-closes-its-doors/article_52fb2022-812f-11ef-943f-c3071f944131.html",
+        "note": "October 2024 report confirms Cafe 360 closure; later Hurry for Curry opened at same address, then itself closed in Nov 2026."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3363783654",
+    "name": "Dundee Tavern",
+    "status": "renamed",
+    "new_name": "Derby City Pizza (subsequently announced as Parlour Pizza + Pints)",
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/a-concept-swap-dundee-tavern-to-close-then-reopen-as-derby-city-pizza/",
+        "note": "Dundee transitioned to Derby City Pizza in 2024. September 2026 report announces a further Parlour replacement; old Dundee identity definitively obsolete."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n3375256894",
+    "name": "North End Cafe",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/north-end-cafe/rUHsORlAQcuu3LZfEmBMDw",
+        "note": "Exact 2116 Bardstown location closed on platform; 2019 WLKY closure roundup independently identifies address."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n13953100730",
+    "name": "koko+rAe",
+    "status": "renamed",
+    "new_name": "Mom's Kitchen",
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/moms-kitchen-indian-replaces-and-retains-koko-rae-caribbean/",
+        "note": "October 18, 2024 local article identifies new owners and Moms Kitchen replacing Koko + Rae at exact 1511 Bardstown."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n12064805337",
+    "name": "El Monstruo Louisville",
+    "status": "open",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/el-monstruo/",
+        "note": "Exact 3028 Bardstown listing provides weekly hours; city June2024 announcement confirms El Monstruo opening at that address. Funmis was predecessor, not replacement."
+      },
+      {
+        "url": "https://content.govdelivery.com/accounts/KYLOUISVILLE/bulletins/3a548ba",
+        "note": "Official Louisville June28 2024 announcement identifies grand opening at exact address."
+      }
+    ],
+    "confidence": "medium",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "w333995688",
+    "name": "Vinaigrette Salad Kitchen",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wdrbwave.com/2026/09/11/vinaigrette-salad-kitchen-closes-last-louisville-location-it-exits-market/?outputType=amp",
+        "note": "September 2026 report confirms last Louisville store at 3012 Bardstown closed Sept 2; earlier 2025 open report superseded."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n6069862345",
+    "name": "Yang-Kee Noodle",
+    "status": "closed",
+    "new_name": null,
+    "agrees_with_first": true,
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/here-are-the-restaurants-that-closed-in-louisville-in-2019/30286240",
+        "note": "2019 local closure roundup identifies Yang Kee at 7900 Shelbyville (Oxmoor), matching point; distinct from initial WDRB evidence."
+      }
+    ],
+    "confidence": "high",
+    "checked": "2026-11-18"
+  },
+  {
+    "id": "n2496184629",
+    "name": "Brix Wine Bar",
+    "status": "unsure",
+    "new_name": null,
+    "agrees_with_first": false,
+    "evidence": [
+      {
+        "url": "https://nosynelly.com/ky/louisville/restaurants/brix-wine-bar-bistro-12418-la-grange-rd",
+        "note": "June26 2026 health inspection indexed and active-license directory conflict with old closed listings; current primary operation unconfirmed, so do not remove."
+      }
+    ],
+    "confidence": "low",
+    "checked": "2026-11-18"
+  }
+]
