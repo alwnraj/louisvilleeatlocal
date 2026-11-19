@@ -1,0 +1,586 @@
+[
+  {
+    "id": "n3321208401",
+    "name": "Home Run Burger",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/family-owned-burger-chain-in-louisville-sold-to-undisclosed-buyer/35182888",
+        "note": "January 2021 reporting explicitly identifies the Shelbyville Road Plaza branch as closed in late 2018."
+      },
+      {
+        "url": "https://unilocal.fr/etats-unis/louisville/home-run-burgers-et-fries-49369",
+        "note": "Historical branch identity at 4600 Shelbyville Road; generic daily hours are stale, not reopening evidence."
+      }
+    ],
+    "research_note": "Old Shelbyville Road Plaza branch closed in 2018; do not confuse it with 12949 Shelbyville Road."
+  },
+  {
+    "id": "n3436530756",
+    "name": "Baskin-Robbins",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://maps.roadtrippers.com/us/louisville-ky/food-drink/baskin-robbins-louisville-ky--2",
+        "note": "Address-matched listing has hours but official locator omitsWestport; current status unresolved. Checked in web search on2026-11-18."
+      },
+      {
+        "url": "https://maps.roadtrippers.com/us/louisville-ky/food-drink/baskin-robbins-louisville-ky--2",
+        "note": "Exact Westport listing has dated September 2026 review and hours, but conflicts with official locator omission and no matching current permit; preserve uncertainty."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  },
+  {
+    "id": "n3830893872",
+    "name": "Moe",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/clarksville-in/moe-s-southwest-grill",
+        "note": "Search mixes Noblesville and Clarksville Tennessee Moe’s; no current Clarksville Indiana location established. Checked in web search on2026-11-18."
+      },
+      {
+        "url": "https://www.storeshours.com/moes-southwest-grill/indiana",
+        "note": "Historical Clarksville Indiana branch is 1020 Veterans Parkway, not Clarksville Tennessee. No current operation established."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  },
+  {
+    "id": "w337706687",
+    "name": "Frisch's Big Boy",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://louisville.m.legistar.com/View.ashx?GUID=8017F97C-DC86-4D12-8B71-170C44E880EE&ID=769653&M=M",
+        "note": "Official March 2020 committee minutes identify Mike’s Carwash redevelopment at 2962 Breckinridge Lane and reference former Frisch’s approval."
+      },
+      {
+        "url": "https://birdeye.com/mikes-carwash-174025322041866",
+        "note": "Business-claimed current Mike’s Carwash at 2962 Breckenridge Lane, weekly hours and recent reviews."
+      },
+      {
+        "url": "https://carwashfinder-us.com/car-wash/mike-s-carwash-louisville-ky/",
+        "note": "Current carwash coordinates 38.21811,-85.62928 match old Frisch’s point within 10m."
+      }
+    ],
+    "research_note": "Former Frisch’s building has become a car wash at the exact address and coordinates."
+  },
+  {
+    "id": "w337853317",
+    "name": "Frisch's Big Boy",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/frischs-big-boy-7401-dixie-hwy/aZdkpKLdQvCzIKHAyGNkhw",
+        "note": "Uber Eats departure2023 not permanent-closure proof; northernKentucky Dixie closure is different city and rejected. Checked in web search on2026-11-18."
+      },
+      {
+        "url": "https://content.govdelivery.com/attachments/KYLOUISVILLE/2026/04/29/file_attachments/3633143/IARC%20Report%20042926.pdf",
+        "note": "April 2026 official project record proposes Longhorn at 7401 Dixie. A proposal alone does not establish completed replacement or permanent closure."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  },
+  {
+    "id": "w337418676",
+    "name": "Moby Dick House of Kabob",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.mobyskabob.com/",
+        "note": "House of Kabob is WashingtonDC-region brand; mapped Louisville identity appears incorrect and requires local Seafood source. Checked in web search on2026-11-18."
+      },
+      {
+        "url": "https://pizza.dominos.com/kentucky/louisville/12416-dixie-highway",
+        "note": "Current Domino’s at 12416 has 2026 reviews and a permit within 8m. Input says 12414 and old local seafood sources also say 12416; do not assert replacement without resolving tenancy. This is Louisville seafood, not DC House of Kabob."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  },
+  {
+    "id": "n13424045320",
+    "name": "Smoothie King",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.ezcater.com/catering/smoothie-king-clarksville-veterans-pkwy-suite",
+        "note": "ezCater ordering page for Smoothie King 1225 Veterans Pkwy Suite 500, Clarksville (matches coords) with delivery hours"
+      },
+      {
+        "url": "https://www.veritasrealty.com/wp-content/uploads/2024/10/1225-Veterans-Parkway-Flyer.pdf",
+        "note": "Oct 2024 leasing flyer lists Smoothie King in unit 500"
+      },
+      {
+        "url": "https://locations.smoothieking.com/ll/us/in/clarksville/1225-veterans-pkwy-ste-500/",
+        "note": "Official exact-location page exists but weekly hours are blank. Census interpolation matches approximately 92m; retain unsure pending fresh operating evidence."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  },
+  {
+    "id": "n11270589483",
+    "name": "The Comfy Cow",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g39604-d8731654-Reviews-The_Comfy_Cow-Louisville_Kentucky.html",
+        "note": "Exact Middletown listing persists with daily closed-now label, not permanent closure. Official site inaccessible during second pass; cannot independently confirm first pass."
+      },
+      {
+        "url": "https://images2.loopnet.com/d2/cAWIfTnKAM45M3bRfBoRJqBmkZXv6JuDYv1sD3J1gAU/document.pdf",
+        "note": "Shopping-center flyer indicates a dentist at former Comfy Cow, but old generic ordering listings conflict and unit identity was not conclusively resolved."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  },
+  {
+    "id": "n3444277564",
+    "name": "Krispy Krunchy Chicken",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://locations.krispykrunchy.com/ky/louisville/10501-dixie-hwy",
+        "note": "Official Dixie branch found at 10501, not mapped 1610. Reject wrong-location evidence; nearby JJ Food Mart retail permit does not establish this chicken counter."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  },
+  {
+    "id": "n12750423684",
+    "name": "Chuck E. Cheese",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.chuckecheese.com/louisville-ky/adventurezone/locations/",
+        "note": "Official directory lists 2030 S Hurstbourne, a separate mapped location from this coordinate; cannot establish current restaurant here."
+      },
+      {
+        "url": "https://www.chuckecheese.com/louisville-ky/arcade/",
+        "note": "Official Louisville store is 2030 S Hurstbourne; this map point is at a different Ruckriegel Parkway retail center. Do not relocate or mark closed from another store’s existence."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  },
+  {
+    "id": "n3829329431",
+    "name": "Chuy's",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://careers.chuys.com/search/jobdetails/dishwasherjanitor/b2759988-e0be-4489-8175-eb82ab4e0954",
+        "note": "Official October 23, 2026 posting at 1440 Veterans Parkway Court, Clarksville Indiana."
+      },
+      {
+        "url": "https://www.waze.com/live-map/directions/chuys-veterans-pkwy-1440-clarksville?to=place.w.179700095.1797263097.1124084",
+        "note": "Exact-address listing has weekly hours and embedded location coordinates, read directly to resolve addressless map marker."
+      }
+    ],
+    "research_note": "Official October 2026 recruiting evidence plus exact-address Waze weekly hours and embedded coordinates 38.330382381,-85.75526589 match mapped point within 10m."
+  },
+  {
+    "id": "n12391907057",
+    "name": "Cold Stone Creamery",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.coldstonecreamery.com/stores/ice-cream-near-jeffersonville/23571",
+        "note": "Official Jeffersonville store found, but OSM addressless point labeled Clarksville needs exact-coordinate match."
+      },
+      {
+        "url": "https://www.coldstonecreamery.com/stores/ice-cream-near-jeffersonville/23571",
+        "note": "Official 1013 Jeffersonville Commons store has full current hours, but published structured coordinates are incorrectly downtown; exact addressless map point remains unconfirmed. RestaurantGuru coordinate fetch failed; not closure evidence."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  },
+  {
+    "id": "w339260716",
+    "name": "Golden Corral",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.proxibid.com/Auctions-ASAP/Golden-Corral-Restaurant-Auction/event-catalog/192609",
+        "note": "Auctioneer identifies abandoned former Golden Corral equipment at 5362 Dixie Highway."
+      },
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/pier-17-seafood-dixie-/",
+        "note": "Subsequent Pier 17 at exact 5362 explicitly described as old Golden Corral; Pier 17 also now marked closed."
+      }
+    ],
+    "research_note": "Exact old Golden Corral auction and subsequent Pier 17 occupant establish closure at this address; do not copy stale directory hours."
+  },
+  {
+    "id": "n3773229987",
+    "name": "Smashburger",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://smashburger.com/locations/us/ky/louisville/312-s-fourth-st",
+        "note": "Own location page lists 312 S Fourth, phone 502-583-1500, and full weekly dine-in hours."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active permit 99231: SMASHBURGER, 316 S 4TH ST. Coordinates must be checked separately; some municipal geocodes are invalid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official matching permit 99231 inspection on 2026-07-01: SMASHBURGER, 316 S 4TH ST."
+      }
+    ],
+    "research_note": "Official current downtown page has weekly hours and same phone; 312/316 numbering discrepancy is resolved by exact downtown permit and 15m civic match."
+  },
+  {
+    "id": "n6064659386",
+    "name": "Haymarket Whiskey Bar",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.kentuckytourism.com/media/docs/default-source/default-document-library/what%27s-new-in-kentucky-bourbon.pdf",
+        "note": "State tourism publication explicitly identifies Frank’s Whiskey Place opening in former Haymarket Whiskey Bar space at 331 E Market."
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Attraction_Review-g39604-d2486420-Reviews-or50-Haymarket_Whiskey_Bar-Louisville_Kentucky.html",
+        "note": "Exact 331 E Market attraction reported permanently closed."
+      }
+    ],
+    "research_note": "Old whiskey bar at 331 E Market became Frank’s Whiskey Place. It is not the unrelated Haymarket cafe or nearby Haymarket Bistro. Current Frank’s operation is not asserted."
+  },
+  {
+    "id": "n6069862327",
+    "name": "California Pizza Kitchen",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.oxmoorcenter.com/en/directory/24544/",
+        "note": "Oxmoor’s own current directory lists California Pizza Kitchen, north side, telephone 502-425-5125."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active permit 67845: CALIFORNIA PIZZA KITCHEN, 7900 SHELBYVILLE RD. Coordinates must be checked separately; some municipal geocodes are invalid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official matching permit 67845 inspection on 2026-06-10: CALIFORNIA PIZZA KITCHEN, 7900 SHELBYVILLE RD."
+      }
+    ],
+    "research_note": "Current mall-owned directory and recent exact-mall permit identify CPK at Oxmoor. Mall marker matches mall footprint; municipal longitude zero is rejected, not used as location proof."
+  },
+  {
+    "id": "n6069862355",
+    "name": "Great American Cookies",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.oxmoorcenter.com/en/directory/24552/",
+        "note": "Oxmoor’s own directory identifies Great American Cookie at 7900 Shelbyville Road, phone 502-426-3002."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active permit 124648: GREAT AMERICAN COOKIES #78857, 7900 SHELBYVILLE RD. Coordinates must be checked separately; some municipal geocodes are invalid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official matching permit 124648 inspection on 2026-02-20: GREAT AMERICAN COOKIES #78857, 7900 SHELBYVILLE RD."
+      }
+    ],
+    "research_note": "Current mall-owned directory and recent exact-mall permit identify Great American Cookies at Oxmoor, distinct from Mall St Matthews and Jefferson Mall. Municipal off-county coordinates rejected; interior unit pin approximate."
+  },
+  {
+    "id": "n14355306467",
+    "name": "Biggby Coffee",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://louisville.legistar.com/View.ashx?GUID=5A6AAC8D-2CFB-4362-9DE8-C44D501BF880&ID=1417946&M=PA",
+        "note": "Search returns proposed Biggby locations elsewhere in Louisville, not mapped Hillview point; rejected wrong-location evidence. Checked in web search on2026-11-18."
+      },
+      {
+        "url": "https://www.wdrbwave.com/2025/11/05/listens-live-bullitt-county-chamber-commerce-biggby-coffee-november-5th-2025/",
+        "note": "Owner and assistant manager interviewed November 2025 for 6340 Highway 44 East; establishment exists, but this addressless point’s exact match still needs independent geolocation."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  },
+  {
+    "id": "n6069862357",
+    "name": "Extreme Pita",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g39604-d10391792-Reviews-Extreme_Pita-Louisville_Kentucky.html",
+        "note": "Review listings have no current operating evidence or precise mall-unit match. Checked in web search on2026-11-18."
+      },
+      {
+        "url": "https://www.tripadvisor.in/Restaurant_Review-g39604-d10391792-Reviews-Extreme_Pita-Louisville_Kentucky.html",
+        "note": "Oxmoor identity confirmed, but generic mall hours and old reviews cannot establish operation today. Closed now is not permanent closure."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  },
+  {
+    "id": "n12677619514",
+    "name": "Hunt Brothers Pizza",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/valley-station-ky/pizza?page=2",
+        "note": "Search lists other HuntBrothers counters, not exact mapped WestPoint point; no current address verified. Checked in web search on2026-11-18."
+      },
+      {
+        "url": "https://www.huntbrotherspizza.com/locations/",
+        "note": "Official locator consulted; no exact mapped West Point counter established. Other Hunt Brothers stores rejected."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  },
+  {
+    "id": "n9726086554",
+    "name": "Matt Winn's Steakhouse",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.churchilldowns.com/seating-experiences/dining/matt-winns/",
+        "note": "Official Matt Winn’s dining page offers three-course meal, dining room seating and tickets on specified race dates. Seasonal access only; not daily operation."
+      },
+      {
+        "url": "https://www.churchilldowns.com/day-at-the-races/seating-guide/",
+        "note": "Official seating guide separately identifies Matt Winn’s Steakhouse dining experience."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active permit 110658: MATT WINN STEAKHOUSE, 700 CENTRAL AVE. Coordinates must be checked separately; some municipal geocodes are invalid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official matching permit 110658 inspection on 2026-11-06: MATT WINN STEAKHOUSE, 700 CENTRAL AVE."
+      }
+    ],
+    "research_note": "Current track-owned page offers dining tickets with specified seasonal dates. Treat as a formal ticketed dining room, not a permanently closed restaurant or generic stadium concession."
+  },
+  {
+    "id": "n6069763987",
+    "name": "MOD Pizza",
+    "status": "renamed",
+    "new_name": "Taco City",
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.diningandcooking.com/restaurants/45162/",
+        "note": "October 2026 report cites Courier Journal account of Taco City opening June 2022 in former MOD Pizza at 3085 Breckenridge."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active permit 115679: TACO CITY 3, 3085 BRECKENRIDGE LN. Coordinates must be checked separately; some municipal geocodes are invalid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official matching permit 115679 inspection on 2026-07-31: TACO CITY 3, 3085 BRECKENRIDGE LN."
+      }
+    ],
+    "research_note": "Taco City 3 now occupies exact 3085 Breckenridge Lane; civic coordinates within 17m and recent inspection corroborate current occupant."
+  },
+  {
+    "id": "n3321208766",
+    "name": "sweetFrog",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/sweet-frog-frozen-yogurt",
+        "note": "Listings describe temporary closure; no exact-address/current evidence to resolve addressless Springhurst point."
+      },
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/mip/sweetfrog-480308183",
+        "note": "Historical 10494 Westport identity established, but no current operation or permanent closure corroborated. New Albany closure is a different venue and rejected."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  },
+  {
+    "id": "n3360773516",
+    "name": "The Eagle",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.eaglerestaurant.com/locations/",
+        "note": "Own location directory lists The Eagle at 1314 Bardstown Road."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/ABC_State_ActiveLicenses/FeatureServer/0",
+        "note": "Active state license records 4733–4735 at 1314 Bardstown give coordinates 38.234763,-85.714731 matching map point."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active permit 101210: THE EAGLE FOOD & BEER HALL, 1314 BARDSTOWN RD. Coordinates must be checked separately; some municipal geocodes are invalid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official matching permit 101210 inspection on 2026-07-29: THE EAGLE FOOD & BEER HALL, 1314 BARDSTOWN RD."
+      }
+    ],
+    "research_note": "Official current location page, exact-address July 2026 inspection and active alcohol-license coordinates match map point; bad bulk food-permit longitude is rejected."
+  },
+  {
+    "id": "w678469382",
+    "name": "The Simple Greek",
+    "status": "renamed",
+    "new_name": "Maya Bagel Express",
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/maya-bagel-express-arrives-on-poplar-level-road/",
+        "note": "2022 local opening report identifies Maya Bagel Express at exact 3029 Poplar Level."
+      },
+      {
+        "url": "https://www.mayabagelexpress.com/",
+        "note": "Current merchant site has menu and online ordering."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active permit 117257: MAYA BAGEL EXPRESS, 3029 POPLAR LEVEL RD. Coordinates must be checked separately; some municipal geocodes are invalid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official matching permit 117257 inspection on 2026-09-24: MAYA BAGEL EXPRESS, 3029 POPLAR LEVEL RD."
+      }
+    ],
+    "research_note": "Current Maya Bagel Express occupies exact former Simple Greek address, with recent inspection and merchant website."
+  },
+  {
+    "id": "n3447718845",
+    "name": "The Wing Zone",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://www.sluurpy.us/louisville/restaurant/3783447/wing-zone",
+        "note": "Exact-address menu listings remain at 3038 Hunsinger, but freshness/current hours not sufficient to establish current operation."
+      },
+      {
+        "url": "https://www.sluurpy.us/louisville/restaurant/3783447/wing-zone",
+        "note": "Historical exact address confirmed. Nearby current Cousins Maine Lobster permit says suite 102; raw map says suite 101, while other old directories say 102. Suite conflict unresolved; do not infer replacement."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  },
+  {
+    "id": "n6044760478",
+    "name": "Aqua Sushi",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "evidence": [
+      {
+        "url": "https://louisville.edu/healthpromotion/files/ULDiningVeganVegetarianGuide.pdf/",
+        "note": "University dining guide mentions Aqua Sushi; cannot establish whether this exact campus point still operates or public access."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Current campus permit lists Zen Sushi in SAC at 2100 S Floyd. Old Aqua Sushi campus guide does not establish same stall/rebrand; keep flagged."
+      }
+    ],
+    "research_note": "Additional review did not establish current operation or permanent closure at this exact mapped location. Retain visibly flagged."
+  }
+]

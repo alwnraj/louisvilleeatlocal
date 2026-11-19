@@ -1,0 +1,486 @@
+[
+  {
+    "id": "w337527911",
+    "name": "Panera Bread",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D92131&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 92131: PANERA BREAD #1669, 13000 SHELBYVILLE RD; coordinates 38.2431,-85.5151 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D92131&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-08-24. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "w338409974",
+    "name": "Zaxby's",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D124776&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 124776: ZAXBY'S #42401, 5025 MUD LN; coordinates 38.0924,-85.6712 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D124776&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-09-03. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "n14372059290",
+    "name": "Popeyes",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D118935&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 118935: POPEYE'S LOUISIANA KITCHEN #12683, 7723 BARDSTOWN RD; coordinates 38.1346,-85.5791 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D118935&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-07-31. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "n12381248844",
+    "name": "Jersey Mike's Subs",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D120202&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 120202: JERSEY MIKE'S SUBS #10018, 1983 S HURSTBOURNE PKWY; coordinates 38.2171,-85.5862 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D120202&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-07-06. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "w337273036",
+    "name": "Fazoli's",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D67437&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 67437: FAZOLI'S, 9433 VIKING CENTER DR; coordinates 38.2432,-85.5776 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D67437&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-08-20. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "w336682483",
+    "name": "Steak 'n Shake",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D128703&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 128703: STEAK N SHAKE #707, 10721 FISCHER PARK DR; coordinates 38.297,-85.5529 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D128703&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-04-22. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "w338407460",
+    "name": "BoomBozz Pizza & Taphouse",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D115680&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 115680: BOOMBOZZ PIZZA & WATCH BAR, 1890 S HURSTBOURNE PKWY; coordinates 38.2197,-85.5842 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D115680&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-08-14. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "n6392755488",
+    "name": "Shiraz Mediterranean Grill",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D79560&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 79560: SHIRAZ MEDITERRANEAN GRILL, 2210 HOLIDAY MANOR CTR; coordinates 38.2827,-85.6316 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D79560&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-07-28. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "n6077278389",
+    "name": "Golden Corral",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D115630&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 115630: GOLDEN CORRAL, 4032 TAYLORSVILLE RD; coordinates 38.2193,-85.623 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D115630&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-08-10. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "n6066607788",
+    "name": "Smashburger",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D99178&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 99178: SMASHBURGER, 9409 SHELBYVILLE RD; coordinates 38.2473,-85.5779 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D99178&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-06-10. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "n6069056988",
+    "name": "Al J's at the Conservatory",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D34835&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 34835: GALT AL J'S & THELMA'S DELI, 140 N 4TH ST; coordinates 38.2581,-85.7568 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D34835&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-09-28. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "n6800735392",
+    "name": "Taj",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D126003&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 126003: TAJ NULU, 807 E MARKET ST; coordinates 38.25331,-85.73764 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D126003&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-10-27. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "n6069862356",
+    "name": "Auntie Anne's",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D124976&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 124976: AUNTIE ANNE'S, 7900 SHELBYVILLE RD; coordinates 38.2468,-85.6105 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D124976&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-11-06. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "n6069846444",
+    "name": "Noodles & Company",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D96111&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 96111: NOODLES & COMPANY, 1225 S HURSTBOURNE PKWY; coordinates 38.2273,-85.5766 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D96111&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-09-23. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "w336482091",
+    "name": "Shoney's",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D42087&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 42087: SHONEY'S #1772, 6511 SIGNATURE DR; coordinates 38.1562,-85.7143 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D42087&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-08-20. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "n13953128276",
+    "name": "Tiger Sugar",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D117745&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 117745: TIGER SUGAR, 1501 BARDSTOWN RD; coordinates 38.23209,-85.70869 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D117745&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-07-23. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "n6066549689",
+    "name": "Mike Linnig's",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "prior_status": "unsure",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0/query?where=EstablishmentID%3D35213&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official active establishment record 35213: MIKE LINNIG'S RESTAURANT, 9308 CANE RUN RD; coordinates 38.1191,-85.8972 match the mapped location or exact street address. Viewed 18 Nov 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number%3D35213&outFields=%2A&returnGeometry=false&f=pjson",
+        "note": "Official food-service record for the same permit/name/address reports inspection on 2026-09-24. Positive evidence of 2026 operation, not a real-time hours guarantee."
+      }
+    ],
+    "research_note": "Resolved missing-address/location ambiguity with official coordinates and a recent inspection; absence from the separate incomplete permitted-food endpoint was not treated as closure."
+  },
+  {
+    "id": "n13446959109",
+    "name": "Marco's Pizza",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://www.marcos.com/our-locations/restaurants/IN/New-Albany/marcos-pizza-charlestown-rd-new-albany-1/",
+        "note": "Official current store page: 2011 Charlestown Rd, full weekly hours and Open today ordering; structured coordinates38.3045282,-85.8130523 are about32m from mappedpoint."
+      }
+    ],
+    "research_note": "Exactaddress and coordinates resolve original location ambiguity."
+  },
+  {
+    "id": "n7647535431",
+    "name": "Smoothie King",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://locations.smoothieking.com/ll/us/in/new-albany/4214-charlestown-rd-1/",
+        "note": "Official current location page loads4214CharlestownRd with full Mon–Sunhours and ordering. Censusexactaddressmatch is107m fromOSMpoint; streetgeocode is approximate."
+      },
+      {
+        "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=4214+Charlestown+Rd%2C+New+Albany+IN+47150&benchmark=Public_AR_Current&format=json",
+        "note": "OfficialCensusgeocoder exactstreetaddressmatch observed18Nov2026; supportinglocationevidence only, notproof ofoperation."
+      }
+    ],
+    "research_note": "Resolvedlocation ambiguity usingcurrent operating source andindependent/published coordinates; no closure inferredfrommissingdirectories."
+  },
+  {
+    "id": "n14374060124",
+    "name": "Freddy's Frozen Custard",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://travelbullitt.org/dining/american-restaurant/",
+        "note": "Local tourism directory marks Freddy’s450ConestogaParkway OPEN; current official recruiting and Restaurantji corroborate the address. Censusmatchingaddress is121m from mappedpoint."
+      },
+      {
+        "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=450+Conestoga+Pkwy%2C+Shepherdsville+KY&benchmark=Public_AR_Current&format=json",
+        "note": "OfficialCensusgeocoder exactstreetaddressmatch observed18Nov2026; supportinglocationevidence only, notproof ofoperation."
+      }
+    ],
+    "research_note": "Resolvedlocation ambiguity usingcurrent operating source andindependent/published coordinates; no closure inferredfrommissingdirectories."
+  },
+  {
+    "id": "n11981658730",
+    "name": "Honey Baked Ham",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://www.valpak.com/local/new-albany-in/honey-baked-ham-new-albany-87130?store=324434",
+        "note": "November2026 location-specific coupon page identifies HoneyBakedHam3602NorthgateCourt; FloydCounty2025inspection corroborates address. Censusstreetmatch145m fromOSMpoint."
+      },
+      {
+        "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=3602+Northgate+Ct%2C+New+Albany+IN+47150&benchmark=Public_AR_Current&format=json",
+        "note": "OfficialCensusgeocoder exactstreetaddressmatch observed18Nov2026; supportinglocationevidence only, notproof ofoperation."
+      }
+    ],
+    "research_note": "Resolvedlocation ambiguity usingcurrent operating source andindependent/published coordinates; no closure inferredfrommissingdirectories."
+  },
+  {
+    "id": "n12391906922",
+    "name": "Parlor Doughnuts",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://www.parlordoughnuts.com/shops/jeffersonville-in",
+        "note": "Officialcurrentpage3060GottbrathParkwayhasdailyhoursandordering. PublishedGetDirections shortlink resolves toGoogleMaps destination38.3499816,-85.703936,about22m fromOSMpoint."
+      },
+      {
+        "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=3060+Gottbrath+Pkwy%2C+Jeffersonville+IN+47130&benchmark=Public_AR_Current&format=json",
+        "note": "OfficialCensusgeocoder exactstreetaddressmatch observed18Nov2026; supportinglocationevidence only, notproof ofoperation."
+      }
+    ],
+    "research_note": "Resolvedlocation ambiguity usingcurrent operating source andindependent/published coordinates; no closure inferredfrommissingdirectories."
+  },
+  {
+    "id": "n6069217495",
+    "name": "Taziki's Mediterranean Cafe",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://www.tazikis.com/location/middletown",
+        "note": "Official current restaurant page13317ShelbyvilleSuite105 hasweeklyhoursandordering. Its directions destination38.2436555,-85.5059798 isabout25m fromOSM; MetroAugust2026inspection corroborates identity despitecoarsercivicgeocode."
+      }
+    ],
+    "research_note": "Resolvedlocation ambiguity usingcurrent operating source andindependent/published coordinates; no closure inferredfrommissingdirectories."
+  },
+  {
+    "id": "n13384463445",
+    "name": "Dave's Hot Chicken",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://restaurants.daveshotchicken.com/in/",
+        "note": "OfficialIndiana directory embeds Jeffersonvillelocationcoordinates38.3262022,-85.7474068,about13m fromOSMpoint, resolving its erroneousClarksville area label."
+      }
+    ],
+    "research_note": "Resolvedlocation ambiguity usingcurrent operating source andindependent/published coordinates; no closure inferredfrommissingdirectories."
+  },
+  {
+    "id": "n3765637769",
+    "name": "BoomBozz Pizza & Taphouse",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://boombozz.com/locations/jeffersonville",
+        "note": "Official current branch page1450VeteransParkway hasfullweeklyhours. Itsdirectionsdestination38.329225912242,-85.747097040539 isabout59m fromOSMpoint."
+      }
+    ],
+    "research_note": "Resolvedlocation ambiguity usingcurrent operating source andindependent/published coordinates; no closure inferredfrommissingdirectories."
+  }
+]

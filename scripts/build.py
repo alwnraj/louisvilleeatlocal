@@ -257,16 +257,17 @@ def main():
         result = verification.get(r["osm"])
         status = result["status"] if result else "unreviewed"
         if status == "renamed" and result.get("new_name"): status = "open"   # relabelled above, still operating
-        if status != "open":
-            verification_dropped[status] += 1   # closed, renamed (no successor), duplicate, unsure or unreviewed
+        if status not in {"open", "unsure"}:
+            verification_dropped[status] += 1   # closed, renamed (no successor), duplicate or unreviewed
             continue
-        r["status"] = "open"
+        r["status"] = status
         r["checked"] = result["checked"]
         if result["evidence"]:
             r["status_url"] = result["evidence"][0]["url"]
         reviewed.append(r)
     final = reviewed
     print("Verification dropped:", dict(verification_dropped))
+    print("Operating status unsure (kept and flagged):", sum(r["status"] == "unsure" for r in final))
 
     # "Confirmed independent": a LIBA / Louisville Originals member, or a researched local owner with a source
     cores = load_liba()

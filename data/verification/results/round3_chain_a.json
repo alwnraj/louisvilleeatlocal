@@ -1,0 +1,874 @@
+[
+  {
+    "id": "n4780015155",
+    "name": "Subway",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.superpages.com/new-albany-in/restaurants?page=4",
+        "note": "Search found Subway-Closed references in New Albany but did not establish exact State Street address or match to coordinate; retain unsure rather than trust missing directory alone."
+      },
+      {
+        "url": "https://maps.me/catalog/food/amenity-fast_food/united-states-of-america/new-albany-153628992/",
+        "note": "OldSubway2441StateSuiteDGPSmatchespoint; usedidentityonly."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "IdentifiedpreciseoldSubway2441StateStSuiteDviaGPS38.30908,-85.84497 (9m). SomeYellowpagesresultsExplicitClosed,butothersoldactiveandcenterleasesnoexactSuiteDvacancy; keepunsure."
+  },
+  {
+    "id": "n6069056992",
+    "name": "Subway",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/subway-222-witherspoon-aves/JWuHFaftTWuWR_nxIh8ndg",
+        "note": "Exact 222 E Witherspoon store no longer available since August 2026, corroborating first-pass official directory absence. Delivery-platform closure alone would not establish permanent closure."
+      },
+      {
+        "url": "https://www.ubereats.com/store/subway-222-witherspoon-aves/JWuHFaftTWuWR_nxIh8ndg",
+        "note": "Final independent QA: platform departure and absence from locator do not independently prove permanent closure at this exact mapped location. Keep visible flagged."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Fresh222WitherspoonSubwayUberlistingpersistsbutunavailabledatepriorpass; civicnearbyWaterfrontWine222WitherspoonSTE101Cis differenttenant andnotreplacementproof."
+  },
+  {
+    "id": "w330564804",
+    "name": "Subway",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.jetspizza.com/stores/kentucky/louisville/2500-bardstown-rd/",
+        "note": "Jet Pizza operates at 2500 Bardstown but sources show multiple suites; this does not prove Subway in suite 1 closed. Initial missing-locator verdict not independently corroborated."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Exact2500Bardstown shoppingcenter hasJetPizza,WingstopSuite4,Ehrler; SubwayoldSuite1mayseparate.Multitenantsameaddresscannotproveclosure."
+  },
+  {
+    "id": "n6069056995",
+    "name": "Starbucks",
+    "prior_status": "unsure",
+    "status": "renamed",
+    "new_name": "Heine Bros Coffee",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/heine-brothers-opens-downtown-louisville-coffee-shop/article_a3d373e8-4710-11ec-baa4-df37bbb2a934.html",
+        "note": "November2021 opening at Fifth/Main PNC Tower in space formerly occupied by Starbucks."
+      },
+      {
+        "url": "https://louisvilledowntown.org/coffee-shops-in-downtown-louisville/",
+        "note": "Current downtown directory lists Heine PNC at101 South5th Street."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Blank-address PNC Tower point matches current Heine 32m away; independent reporting explicitly identifies former Starbucks space."
+  },
+  {
+    "id": "n6044760425",
+    "name": "Wendy's",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/wendys-4/",
+        "note": "Exact 2100 S Floyd location explicitly marked CLOSED; third-party listings with daily closed-now labels are not equivalent."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Exact2100SFloydcampusSACmanydiningoutlets; schoolmicroMarketcivicpoint0misbuildinggeocode,notformerWendyunit. CurrentcampusrenovationsPDFfoundbutnoexplicitWendyreplacement;retainunsure."
+  },
+  {
+    "id": "n6069217514",
+    "name": "Burger King",
+    "prior_status": "unsure",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/burger-king",
+        "note": "Explicit BurgerKing-CLOSED at12719ShelbyvilleRoad."
+      },
+      {
+        "url": "https://www.discounttire.com/store/KY/LOUISVILLE/s/2024?storeCode=1344",
+        "note": "Current official DiscountTire location and hours at12719ShelbyvilleRd."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Identified old blank-address BurgerKing as12719Shelbyville; exactaddress now tire shop, not LouLou12717 adjacent."
+  },
+  {
+    "id": "w1190671162",
+    "name": "Burger King",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://travelbullitt.org/listing/burger-king-shepherdsville/",
+        "note": "Tourism directory lists 315 Keystone Crossroads Drive but no coordinate match established against addressless OSM point; cannot verify exact mapped location."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "CurrenttourismBurgerKing315Keystonefound; blankOSMpointnotindependentlymatchedtoexactbuilding. Census315 returnednomatch; roadgeocoderPanera276unexpectedlyatthispoint, so do notclaimprecisematch."
+  },
+  {
+    "id": "n13846896473",
+    "name": "Dairy Queen",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.dairyqueen.com/en-us/locations/in/jeffersonville/1710-veterans-pkwy/13075/",
+        "note": "Official current location at1710Veterans with daily7AM opening and evening closing times; closed-until wording is time-of-day."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Official1710Veterans store with full daily hours; Census road interpolation38.328599,-85.742349 within~123m of blank OSM point."
+  },
+  {
+    "id": "n14372059296",
+    "name": "Dairy Queen",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.dairyqueen.com/en-us/locations/ky/louisville/5103-outer-loop/12973/",
+        "note": "Official5103OuterLoop store12973 current listing."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number+IN+%28113764%2C126018%2C115947%2C92131%2C124776%2C118935%2C120202%2C67437%2C111845%29&outFields=%2A&returnGeometry=false&f=json",
+        "note": "Official Metro inspection query viewed 2026-11-18: permit 115947; DairyQueen#12973,5103OuterLoop inspected2026-09-04."
+      },
+      {
+        "url": "https://order.online/store/DairyQueenGrillChill-918812/?hideModal=true&lat=38.138412&lng=-85.66384&pickup=true",
+        "note": "Order listing exact5103OuterLoop and coordinates match this blank-address map point."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Current5103OuterLoop is correct mapped point: order.online URL latitude38.138412 longitude-85.66384 within6m, civic21m. IMPORTANT possible mislocated duplicate: existing openOSM n11980061519 also has5103OuterLoop but maps~600m away; parent must resolve duplicate separately."
+  },
+  {
+    "id": "w821982256",
+    "name": "DQ Grill & Chill",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/clarksville-in/bpp/dairy-queen-grill-chill-474224435",
+        "note": "Listing explicitly says temporarily closed, while delivery listings remain. Temporary closure is not evidence of permanent closure; current operation unresolved."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "1055VeteransstilltemporarilyclosedinYellowpages,butotheropenhourslistings; currentofficialpageunavailable. Temporaryclosureisnotpermanentremoval."
+  },
+  {
+    "id": "w1093670243",
+    "name": "DQ Grill & Chill",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://fourteenfoods.net/ffstore/2909-e-10th-street-jeffersonville-indiana/",
+        "note": "Franchisee location page remains, but third-party listings conflict (closed/temporarily closed). Current operation not established."
+      },
+      {
+        "url": "https://fourteenfoods.net/ffstore/2909-e-10th-street-jeffersonville-indiana/",
+        "note": "Franchiseeold2909E10thstilllistsfullhours; conflictswithnew1710Veteranssamephone."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Franchiseeofficial2909E10thfullhoursfound, butcurrentDQstore13075now1710VeteranswithSAMEphone8122888456; oldDQpage2025vsnew2026indicatespossiblemove. Contradictoryofficialpages needclosureconfirmation."
+  },
+  {
+    "id": "n3170512516",
+    "name": "Papa John's",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://lamppost.fyi/louisville/neighborhood/university/food_service",
+        "note": "Search found Papa Johns at 2336 S Floyd and food service at 2100 S Floyd, but cannot locate this addressless campus point precisely. Possible campus concession."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "FoundhistoricalPapaJohnUofLSAC2100SFloyd2013inspection, distinctfromcurrent2336SFloyd. Campusaddresssharedmultipleoutlets; noexplicitcurrentPapaorclosureproof."
+  },
+  {
+    "id": "w337501562",
+    "name": "Qdoba",
+    "prior_status": "unsure",
+    "status": "renamed",
+    "new_name": "Eat A Pita",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://eatapitaville.com/",
+        "note": "Owner site labels100DaventryLane EatAPita-Lyndon NOW OPEN, with daily hours."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number+IN+%28113764%2C126018%2C115947%2C92131%2C124776%2C118935%2C120202%2C67437%2C111845%29&outFields=%2A&returnGeometry=false&f=json",
+        "note": "Official Metro inspection query viewed 2026-11-18: permit 113764; EatAPita100Daventry inspected2026-08-06."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Same100DaventryLane and current civic point3m away; formerQdoba identity must not remain."
+  },
+  {
+    "id": "w329550775",
+    "name": "Arby's",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/arbys",
+        "note": "Old 12933 Shelbyville listing persists; OSM says 12929. No independent explicit closure at exact spot found; sitemap absence alone insufficient."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "CivicFreddy12929Shelbyville3mfromArbypoint,butArbyofficialcurrentwebsite12933isadjacent52meast; CaptainDsOSMalsoswapped12933. Mustresolveoldaddressswap/mislocationbeforedeletingArby."
+  },
+  {
+    "id": "w337128164",
+    "name": "Arby's",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.ibegin.com/directory/us/kentucky/louisville/category/restaurants-fast-food/",
+        "note": "Historic exact 9905 Lagrange listing found, without reliable current operation/closure evidence."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Exact9905LaGrangeoldArbylistingonly; nearbyIcelandSports1701UPS67misnotreplacement. Noexplicitclosureorcurrentownerproof."
+  },
+  {
+    "id": "w329551172",
+    "name": "Pizza Hut",
+    "prior_status": "unsure",
+    "status": "renamed",
+    "new_name": "7 Brew Coffee",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://locations.7brew.com/ky/middletown/12525-shelbyville-rd",
+        "note": "Current official7Brew location. Raw JSON-LD latitude38.24533 longitude-85.52359 exactly matches mappedPizzaHut."
+      },
+      {
+        "url": "https://www.pizzahut.com/assets/w/marketingpages/glutenfree/GF_Stores_5.pdf",
+        "note": "Historical official PizzaHut list identifies12525ShelbyvilleRd Middletown, phone5022443939, confirming old mapped number incorrect."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "OSM12425 is street-number error: official7Brew12525 embeds EXACT oldOSM point38.24533,-85.52359. Old officialPizzaHut storelist also gives12525Shelbyville; currentPizzaHut13210 is separate."
+  },
+  {
+    "id": "w337527911",
+    "name": "Panera Bread",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number+IN+%28113764%2C126018%2C115947%2C92131%2C124776%2C118935%2C120202%2C67437%2C111845%29&outFields=%2A&returnGeometry=false&f=json",
+        "note": "Official Metro inspection query viewed 2026-11-18: permit 92131; Panera#1669,13000ShelbyvilleRd inspected2026-08-24."
+      },
+      {
+        "url": "https://locations.panerabread.com/ky/middletown/13000-shelbyville-rd.html",
+        "note": "Official13000Shelbyville location page checked; exact mappedaddress."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Reviewed exactaddress current2026 inspection; officialPanera URL still serves business page."
+  },
+  {
+    "id": "w1190671158",
+    "name": "Panera Bread",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://travelbullitt.org/listing/panera-bread/",
+        "note": "Current county tourism listsPanera exact276KeystoneCrossroads and officialPanera URL."
+      },
+      {
+        "url": "https://www.ezcater.com/catering/panera-bread-shepherdsville",
+        "note": "Current catering offering exact276KeystoneCrossroads."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Exact276KeystoneCrossroads address current county tourism listing and current delivery listing corroborate operation. Panera migrated locator to JS application, so old locator failure is not closure."
+  },
+  {
+    "id": "n3453099463",
+    "name": "Penn Station",
+    "prior_status": "unsure",
+    "status": "renamed",
+    "new_name": "Wingstop",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://locations.wingstop.com/ky/louisville/wingstop-1549-louisville-ky-40219",
+        "note": "OfficialWingstop exact4659OuterLoop with daily carryout and delivery hours."
+      },
+      {
+        "url": "https://www.yellowpages.com/prospect-ky/penn-station-east-coast-subs",
+        "note": "OldPennStation listing4659OuterLoop; distinguishes from4247 currentaddress."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "OldPennStation4659OuterLoop identified from exactaddress directories. CurrentWingstop4659 civic geocode8m from blankOSMpoint; do not mistake currentPennStation4247OuterLoop as same location."
+  },
+  {
+    "id": "n4755772899",
+    "name": "Heine Brothers' Coffee",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/heine-brothers-coffee-main-street/ZjAulYH_VkasZ-vmRMQoUw",
+        "note": "Old exact 516 Main listing persists; current PNC store is nearby at 101 S5th. Without exact former entrance geolocation, move may be within 150m; missing old address alone insufficient."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "CurrentPNCHeine101S5thwithin~110mofold516WMain; couldsamebrandmovedshortdistanceandduplicatealreadyrepresented. Retainunsureuntilparentdedup/entrancecheck; noautomaticclosure."
+  },
+  {
+    "id": "w820708215",
+    "name": "Rally's",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://checkersandrallys.com/location/rally-s-4302-state-st-2795577",
+        "note": "Official source says 2316 State while delivery/recruitment says 2350 State. Addressless mapped point needs coordinate resolution; retain uncertainty."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "OfficialRallypageactivebutaddress2316Stateconflictscurrentrecruitment2350State; official2316isalsoTake5carwashaddress. BlankOSMpointnotpreciselymatched; retainunsure."
+  },
+  {
+    "id": "w338409974",
+    "name": "Zaxby's",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.zaxbys.com/locations/ky/louisville/5025-mud-ln",
+        "note": "Official5025MudLn location."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number+IN+%28113764%2C126018%2C115947%2C92131%2C124776%2C118935%2C120202%2C67437%2C111845%29&outFields=%2A&returnGeometry=false&f=json",
+        "note": "Official Metro inspection query viewed 2026-11-18: permit 124776; Zaxby#42401,5025MudLane inspected2026-09-03."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Exact current official locator and civic geocode7m."
+  },
+  {
+    "id": "w1093670252",
+    "name": "Zaxby's",
+    "prior_status": "unsure",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.in.gov/idoc/files/Restaurants-in-Clark-County.pdf",
+        "note": "State restaurant list identifiesZaxby2740AllisonLane Jeffersonville."
+      },
+      {
+        "url": "https://www.showcase.com/2740-allison-ln-jeffersonville-in-47130/37626364/",
+        "note": "Current broker listing explicitly previouslyoccupiedHardees, available sale/lease."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Zaxby blankOSMpoint is same building as Hardee2740Allison point (3m apart); state2016 restaurant list confirms oldZaxby2740Allison. Current commercial listing says formerHardee vacant sale/lease; oldZaxby not operating here."
+  },
+  {
+    "id": "w336682486",
+    "name": "Tumbleweed Tex Mex Grill",
+    "prior_status": "unsure",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/glenview-ky/tumbleweed",
+        "note": "Explicit Tumbleweed-CLOSED3550SpringhurstCommons."
+      },
+      {
+        "url": "https://foodanddine.com/i-love-tacos-opens-at-the-omni-hotel-louisville-in-3-2-1/",
+        "note": "2024 local foodreport listsI LoveTacos Springhurst at3550SpringhurstCommons, confirming replacement."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "FormerTumbleweed3550Springhurst replaced byI LoveTacos by2024; currentTacos successor may be temporarilyclosed after fire, so do not assert newbrand operating."
+  },
+  {
+    "id": "w337607804",
+    "name": "Tumbleweed Tex Mex Grill",
+    "prior_status": "unsure",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.autogroupoflouisville.com/",
+        "note": "Currentdealer homepage gives8609CitadelWay andinventory."
+      },
+      {
+        "url": "https://www.loopnet.com/Listing/8609-Citadel-Way-Louisville-KY/34225847/",
+        "note": "Commercial listing explicitly formerrestaurantconvertedtoturnkeyschool."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Formerrestaurant8609Citadel convertedtoschool then car dealership; exactcurrent dealership address confirmed."
+  },
+  {
+    "id": "n3464533100",
+    "name": "Buffalo Wild Wings",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/Buffalo-Wild-Wings-Louisville",
+        "note": "Search returns permanently closed Louisville Buffalo Wild Wings listing but exact street not established; old Dixie address listings do not prove status at this coordinate."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "OldBuffaloWildWings6801Dixieidentifiedfromphone5029351978; currentFujiSuite102andothercenterstoresnotproofoldBWWsuite. Generalpermanentlyclosedaggregatorinsufficientalone."
+  },
+  {
+    "id": "w334007680",
+    "name": "Sonic",
+    "prior_status": "unsure",
+    "status": "renamed",
+    "new_name": "El Cimarron Cuban Restaurant",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://elcimarronrestaurant.com/contact/",
+        "note": "Owner contactpage3425Bardstown currenthours/menu/order."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number+IN+%28113764%2C126018%2C115947%2C92131%2C124776%2C118935%2C120202%2C67437%2C111845%29&outFields=%2A&returnGeometry=false&f=json",
+        "note": "Official Metro inspection query viewed 2026-11-18: permit 126018; ElCimarronCuban3425Bardstown inspected2026-08-06."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Exact3425Bardstown oldSonic point nowElCimarron, civic1m."
+  },
+  {
+    "id": "w335692193",
+    "name": "Sonic",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.allbiz.com/business/sonic-drive-in_506f",
+        "note": "Exact 630 Winkler listing has hours whereas low-quality closure aggregator says closed. Neither establishes current operation; initial sitemap absence uncorroborated."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "630Winklerexplicitclosedonlowqualityclosureaggregator, competingstalehoursdirectoriesandnoprecisecurrentreplacement; retainunsure."
+  },
+  {
+    "id": "w337528083",
+    "name": "Sonic",
+    "prior_status": "unsure",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://mikescarwash.com/pages/locations/",
+        "note": "OfficialMikeCarwash locations13310Shelbyville."
+      },
+      {
+        "url": "https://www.mikescarwash.com/pages/news/2022",
+        "note": "Official2022news announcesgroundbreakingat13310Shelbyville forfourthLouisvillecarwash."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Exact13310Shelbyville occupiedcarwash since2022; oldSonicgone."
+  },
+  {
+    "id": "n14372059290",
+    "name": "Popeyes",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number+IN+%28113764%2C126018%2C115947%2C92131%2C124776%2C118935%2C120202%2C67437%2C111845%29&outFields=%2A&returnGeometry=false&f=json",
+        "note": "Official Metro inspection query viewed 2026-11-18: permit 118935; Popeye#12683,7723BardstownRd inspected2026-07-31."
+      },
+      {
+        "url": "https://acebrands.net/",
+        "note": "ActualPopeyesfranchisee currentstorelist includes7723BardstownRd."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "CivicPopeyes7723Bardstown22m, exact2026foodinspection and franchisee storelist."
+  },
+  {
+    "id": "n3829329437",
+    "name": "Jersey Mike's Subs",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.jerseymikes.ca/locations/11024%2C11023%2C11026",
+        "note": "OfficialJerseyMikes multi-storesearch lists1305VeteransParkway ClarksvilleIN."
+      },
+      {
+        "url": "https://www.iexitapp.com/Indiana/I-65/Exit%205/14973",
+        "note": "Currentexitdirectory identifiesJerseyMikes1305VeteransParkway westofI65."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Blankpointmatches1305VeteransParkway; Censusaddressinterpolation38.328707,-85.759985 is68m south ofOSM point."
+  },
+  {
+    "id": "n12381248844",
+    "name": "Jersey Mike's Subs",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.jerseymikes.com/10018/louisville-ky",
+        "note": "Officialstore10018 gives1983HurstbourneParkway."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number+IN+%28113764%2C126018%2C115947%2C92131%2C124776%2C118935%2C120202%2C67437%2C111845%29&outFields=%2A&returnGeometry=false&f=json",
+        "note": "Official Metro inspection query viewed 2026-11-18: permit 120202; JerseyMike#10018,1983SHurstbourne inspected2026-07-06."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Exact1983SHurstbourne currentcivicpoint10m; currentofficialstore10018 supportsbrand."
+  },
+  {
+    "id": "n5949868534",
+    "name": "Great American Grill",
+    "prior_status": "unsure",
+    "status": "renamed",
+    "new_name": "Garden Grille & Bar",
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.hilton.com/en/hotels/sdfnegi-hilton-garden-inn-louisville-northeast/dining/",
+        "note": "Officialhotel dining identifiesGardenGrille andbreakfasthours."
+      },
+      {
+        "url": "https://musselmanhotels.com/our-hotels/hilton-garden-inn-northeast/",
+        "note": "Hoteloperator confirmsTheGardenGrille&Bar restaurant atHiltonGardenInnNortheast."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Mapped hotelcafe69m fromHiltonGardenInn9850ParkPlaza. Samehotelrestaurant currentlynamedGardenGrille; olderGreatAmericanGrillname obsolete."
+  },
+  {
+    "id": "w339258579",
+    "name": "Chili's",
+    "prior_status": "unsure",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.showcase.com/6641-dixie-hwy-louisville-ky-40258/17329626/",
+        "note": "Broker explicitlyFormerChilisRestaurantat6641Dixie."
+      },
+      {
+        "url": "https://www.chilis.com/locations/us/kentucky/louisville",
+        "note": "CurrentofficialLouisvillelocations reviewed; no6641Dixie."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Exact6641Dixie brokerdescribesformerChilis; brandcurrentcitylocator confirmsothersitesandnothisaddress."
+  },
+  {
+    "id": "n6399762803",
+    "name": "Coffee Crossing",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2026/Coffee-Crossing-Charlestown-Rd-2-24-26.pdf",
+        "note": "2026 official inspection and own locator say 4212 Charlestown while OSM says 4215; precise mapped storefront match unresolved. Checked in web search on2026-11-18."
+      },
+      {
+        "url": "https://www.coffeecrossing.com/locations-hours",
+        "note": "OfficialCharlie4212CharlestownSuite5hoursandembeddedmap pin174mfromOSM."
+      },
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2026/Coffee-Crossing-Charlestown-Rd-2-24-26.pdf",
+        "note": "Countyinspection2026-02-24samecurrent4212address; noold4215locationconfirmation."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "OfficialCoffeeCrossingcurrent4212CharlestownSuite5has2026countyinspection; officialembeddedpin38.3499883,-85.79296 is174mfromOSM4215point, beyond150mrule. Cannotcallopenatmappedlocationwithoutstorefront/oldnumberconfirmation."
+  },
+  {
+    "id": "w329550776",
+    "name": "Captain D's",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.waze.com/live-map/directions/%28closed-for-remodel%29captain-ds-shelbyville-rd-12929-middletown?to=place.w.179896702.1798901488.1133210",
+        "note": "Listing title explicitly says Closed For Remodel at 12929 Shelbyville. Restaurantji says CLOSED but permanence is unresolved; OSM address is 12933. Earlier grouped Yellow Pages permanent-closure label belonged to a different store at 3801 Oaklawn and is rejected. Checked 2026-11-18."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "CaptainDs12933inputmayaddressswapwithadjacentArbyofficial12933andFreddy12929. Wazeremodelstatusandoldnumbermisassignmentunresolved; missingofficiallocatornotclosure."
+  },
+  {
+    "id": "n7573377487",
+    "name": "Bearno's Little Sicily Pizza",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.cityof.com/ky/louisville/restaurants/pizza?p=1",
+        "note": "Search does not establish mapped River Road-area restaurant; other Bearno’s locations rejected. Checked in web search on2026-11-18."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "RiverRoadBearnoexactaddressnotestablished; currentofficialstorelistotherlocationscannotidentifythisblankpointnearHarbortown. Retainunsure."
+  },
+  {
+    "id": "w337273036",
+    "name": "Fazoli's",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://fazolis.com/stores/ky-louisville-9433-viking-center-dr-40222/",
+        "note": "OfficialHurstbourne store9433VikingCenterDr."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number+IN+%28113764%2C126018%2C115947%2C92131%2C124776%2C118935%2C120202%2C67437%2C111845%29&outFields=%2A&returnGeometry=false&f=json",
+        "note": "Official Metro inspection query viewed 2026-11-18: permit 67437; Fazolis9433VikingCenter inspected2026-08-20."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Input337Whittington is alternateoldaddress; civic9433VikingCenter samepoint7m and officialcurrentFazolis."
+  },
+  {
+    "id": "n11980061482",
+    "name": "Hardee's",
+    "prior_status": "unsure",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.showcase.com/2740-allison-ln-jeffersonville-in-47130/37626364/",
+        "note": "Currentcommerciallisting explicitlypreviouslyoccupiedHardee, sale/lease."
+      },
+      {
+        "url": "https://www.propertyshark.com/cre/commercial-property/us/in/jeffersonville/2740-allison-ln-1/",
+        "note": "Currentlisting3580sqftfreestandingformerHardeeavailableforsaleorlease."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Exact2740Allison currentvacantformerHardee advertisedsalelease; oldZaxbysamepointalsoobsolete."
+  },
+  {
+    "id": "w333996844",
+    "name": "Hardee's",
+    "prior_status": "unsure",
+    "status": "renamed",
+    "new_name": "Taco Bell",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.loopnet.com/Listing/3459-Taylor-Blvd-Louisville-KY/31320901/",
+        "note": "Commerciallisting explicitlyFormerHardee3459Taylor."
+      },
+      {
+        "url": "https://jobs.tacobell.com/jobs/?mypage=1&searchlocation=Louisville%2C+KY",
+        "note": "OfficialTacoBell jobslistsrestaurant3459TaylorBlvdLouisville."
+      },
+      {
+        "url": "https://www.crexi.com/properties/2012620/kentucky-taco-bell",
+        "note": "CurrentpropertyadvertisesTacoBell3459TaylorBlvd."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Exact3459Taylor formerHardee nowTacoBell; civicpermit126638alsoexactaddress."
+  },
+  {
+    "id": "n11979358377",
+    "name": "Señor Iguanas",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://eatatiguanas.com/",
+        "note": "Officialcurrentthree-location site includesClarksville1415Broadway,currentmenuand embedded exactcoordinatesmatchingOSM."
+      },
+      {
+        "url": "https://www.in.gov/atc/files/2026.2-LB.pdf",
+        "note": "2026IndianaalcoholrenewalDBASenorIguanas1415Broadway."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Mapped14000Broadway is erroneousnumber. OfficialownerHTML embeddedClarksvillepin38.31906926487593,-85.75465166024668 matchesOSMwithin5m andgives1415Broadway."
+  },
+  {
+    "id": "w337694055",
+    "name": "Señor Iguanas",
+    "prior_status": "unsure",
+    "status": "renamed",
+    "new_name": "El Cancun Mexican Restaurant",
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/mip/el-cancun-mexican-restaurant-552584149",
+        "note": "Exact9424Shelbyville ElCancun listingwithhoursandphone5027423697."
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39604-d20252806-Reviews-El_Cancun_Mexican_Restaurant-Louisville_Kentucky.html",
+        "note": "Secondlocation-specificElCancunlistingat9424ShelbyvilleRd."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Exact9424Shelbyville currentlylistedElCancun; ownSeñorIguanasthree-locationsiteexcludesthisoldbranch. Newbrandcurrentoperationnotstrongenoughtoadd automatically."
+  },
+  {
+    "id": "w1225723020",
+    "name": "Bob Evans",
+    "prior_status": "unsure",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.townofclarksville.com/restaurants/",
+        "note": "CurrentTownClarksvilledirectorylistsBobEvans1101ELewisClarkParkway andphone."
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g37012-d881862-Reviews-Bob_Evans-Clarksville_Indiana.html",
+        "note": "Current2026restaurantlistingexact1101ELewisClark."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "Exact1101ELewisClarkcurrentmunicipalrestaurantdirectoryandcurrentreviews; noaddressambiguity."
+  },
+  {
+    "id": "n6069846474",
+    "name": "Krispy Kreme",
+    "prior_status": "unsure",
+    "status": "renamed",
+    "new_name": "King Donuts",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0/query?where=permit_number+IN+%28113764%2C126018%2C115947%2C92131%2C124776%2C118935%2C120202%2C67437%2C111845%29&outFields=%2A&returnGeometry=false&f=json",
+        "note": "Official Metro inspection query viewed 2026-11-18: permit 111845; KingDonuts9569TaylorsvilleRd inspected2026-04-15."
+      },
+      {
+        "url": "https://cremaapp.com/shop/bdb765c4-124d-4216-893f-5e2491fae8b1",
+        "note": "KingDonuts exact9569Taylorsville listing includes customerstatementthatitreplacedKrispyKremeinfrontofKingPin."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "OldKrispyKreme9569TaylorsvilleSuite101nowKingDonuts; actualrecentcivicfoodinspectionandcustomerexplicitreplacementreport."
+  },
+  {
+    "id": "n5654275221",
+    "name": "Long John Silver's",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/Middletown-Kentucky/5",
+        "note": "General result says may be permanently closed; no exact mapped La Grange-area address/current evidence. Checked in web search on2026-11-18."
+      },
+      {
+        "url": "https://www.ibegin.com/directory/us/kentucky/louisville/category/restaurants-seafood/",
+        "note": "ExplicitLongJohnSilver|TacoBell-CLOSED12434LaGrange; additionalcurrentevidencerequired."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "IdentifiedoldLongJohnSilver/TacoBellcombo12434LaGrange; iBeginexplicitCLOSEDbutcurrentTacoBellpermitataddresscouldreflectcombobrandremovedormoved. Needcurrentmenu/ownbrandproofbeforeclosed."
+  },
+  {
+    "id": "w339258880",
+    "name": "Skyline Chili",
+    "prior_status": "unsure",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/fort-knox-ky/chilis-restaurant",
+        "note": "Old6801Dixie directory remains; current official site could not confirm move/new address, so do not infer closure. Research lead7105Dixie proved FairfieldOhio, not Louisville; rejected wrong-city relocation inference. Checked in web search on2026-11-18."
+      }
+    ],
+    "checked": "2026-11-18",
+    "research_note": "6801DixieSuite120formerSkyline. Ohio7105DixieisFairfieldandnotLouisville relocation. Shoppingcentercurrentother-suitepermitsdonotproveSkylineclosure; onlyweakclosureaggregator."
+  }
+]

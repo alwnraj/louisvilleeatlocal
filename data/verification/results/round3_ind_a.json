@@ -1,0 +1,1621 @@
+[
+  {
+    "id": "n6066607790",
+    "name": "Blue Horse Cafe",
+    "status": "renamed",
+    "new_name": "Al's Table",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.linkedin.com/posts/crowne-plaza-louisville_our-hotel-renovations-are-almost-complete-activity-7199058415292190720-3fb8",
+        "note": "Hotel post explicitly calls Al’s Table formerly Blue Horse Restaurant & Bar."
+      },
+      {
+        "url": "https://www.ihg.com/crowneplaza/hotels/us/en/louisville/sdfpl/hoteldetail/dining",
+        "note": "Current hotel dining identifies Al’s Table at the same Crowne Plaza."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 32910: AL'S TABLE, 830 PHILLIPS LN; coordinates 38.192, -85.7405. Inspected 2026-04-14; matched to mapped business by name/address and coordinates where valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Latest official inspection permit 32910: AL'S TABLE, 830 PHILLIPS LN; 2026-04-14, score 96."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Hotel directly identifies former Blue Horse as Al’s Table. Current active permit coordinates are about 67m from mapped hotel outlet."
+  },
+  {
+    "id": "w334732334",
+    "name": "Dairy Kastle",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://dairykastle.com/",
+        "note": "Restaurant’s own site remains for Dairy Kastle at 575 Eastern Parkway."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 121792: DAIRY KASTLE, 575 EASTERN PKWY; coordinates 38.2126, -85.7473. Inspected 2026-09-02; matched to mapped business by name/address and coordinates where valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Latest official inspection permit 121792: DAIRY KASTLE, 575 EASTERN PKWY; 2026-09-02, score 99."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 575 Eastern Parkway, official active permit coordinate within 7m and September 2026 inspection. Seasonal ice cream operation; this verdict does not promise winter service."
+  },
+  {
+    "id": "w334731856",
+    "name": "Derby City Pizza Co.",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://derbycitypizza.com/locations-2/",
+        "note": "Own location list gives 2500 Crittenden Drive and hours."
+      },
+      {
+        "url": "https://order.toasttab.com/online/derby-city-pizza-co-louisville-campus",
+        "note": "Current restaurant ordering endpoint for Louisville Campus location."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 90149: DERBY CITY PIZZA, 2500 CRITTENDEN DR; coordinates 38.2084, -85.7513. Inspected 2026-08-04; matched to mapped business by name/address and coordinates where valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Latest official inspection permit 90149: DERBY CITY PIZZA, 2500 CRITTENDEN DR; 2026-08-04, score 96."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 2500 Crittenden Drive, official coordinates within 5m and August 2026 inspection."
+  },
+  {
+    "id": "w337108644",
+    "name": "Lolitas Tacos",
+    "status": "renamed",
+    "new_name": "Louie's Hot Chicken & Barbecue",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://leoweekly.com/news/is-louisville-still-weird-was-it-ever-15777054/",
+        "note": "Identifies what formerly was Lolita’s Tacos as now Louie’s Hot Chicken & Barbecue."
+      },
+      {
+        "url": "https://order.toasttab.com/online/louies-hot-chicken-barbecue",
+        "note": "Restaurant ordering page identifies Louie’s at 4222 Poplar Level Road."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 128098: LOUIE'S HOT CHICKEN AND BBQ, 4222 POPLAR LEVEL RD; coordinates 38.1981, -85.7081. Inspected 2026-04-07; matched to mapped business by name/address and coordinates where valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Latest official inspection permit 128098: LOUIE'S HOT CHICKEN AND BBQ, 4222 POPLAR LEVEL RD; 2026-04-07, score 99."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "2019 local reporting explicitly says former Lolita’s is now Louie’s. Current restaurant order page and 2026 permit identify 4222 Poplar Level, about 14m from original mapped building."
+  },
+  {
+    "id": "w334733226",
+    "name": "Pizzeria Villagio",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.kentuckykingdom.com/explore-the-park/dining/",
+        "note": "Reviewed current official park dining; exact historic outlet not established."
+      },
+      {
+        "url": "https://www.zmenu.com/pizzeria-villagio-louisville-online-menu/",
+        "note": "Historical listing at 937 Phillips Lane; cannot prove current operation."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Historical Pizzeria Villagio listing is a Kentucky Kingdom park vendor. Current park dining does not establish this exact outlet/name; missing menu listing is not closure."
+  },
+  {
+    "id": "n13384448659",
+    "name": "Blossom Bar",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.rainbowblossom.com/hours-and-locations",
+        "note": "Market lists New Albany 3003 Charlestown Crossing and a Blossom Bar link."
+      },
+      {
+        "url": "https://www.blossombarlouisville.com/",
+        "note": "Current bar location page omits New Albany, creating an unresolved conflict."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "New Albany market currently lists a Blossom Bar-hours link, but linked Blossom Bar page lists only three Kentucky outlets. New Albany current bar operation and mapped point not yet established; do not copy Kentucky hours."
+  },
+  {
+    "id": "n5999579236",
+    "name": "Flippin' Pancakes",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/new-albany-in/family-style-restaurants",
+        "note": "Historical Flippin Pancakes listing at 4320 Charlestown Road; closed-now label only."
+      },
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2025/Chis-China-Bistro-7-1-25.PDF",
+        "note": "Official Chi’s China Bistro inspection uses same street number, but unit correspondence is unresolved."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Flippin Pancakes directory address 4320 Charlestown Road conflicts with Chi’s China Bistro inspection at same numbered shopping center. No suite/replacement history proves exact location; cannot remove from shared address alone."
+  },
+  {
+    "id": "n6633976785",
+    "name": "Naila’s Caribbean cuisine",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/fresco-tea-bar-will-expand-to-veterans-parkway-in-clarksville/",
+        "note": "December 2022 report says 1370 Veterans Parkway was previously Naila’s Caribbean Cuisine."
+      },
+      {
+        "url": "https://foodanddine.com/the-clarksville-location-of-fresco-tea-bar-has-closed/",
+        "note": "Fresco at 1370 Veterans Parkway #100 closed April 19, 2024."
+      },
+      {
+        "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1370+Veterans+Parkway+Clarksville+IN&benchmark=Public_AR_Current&format=json",
+        "note": "Official Census locates 1370 Veterans Parkway about 85m from original mapped Naila’s point. Approximate street interpolation supports location; news sources establish former Naila’s identity and replacement."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Former Naila’s at 1370 Veterans Parkway became Fresco in 2023; Fresco closed April 2024. Input number 1360 conflicts, but official Census locates 1370 about 85m from original mapped point in same shopping center, supporting old-site identification. Not claiming Fresco is currently open."
+  },
+  {
+    "id": "n13384448664",
+    "name": "Puerto Vallarta",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.mexicanrestaurantnewalbany.com/",
+        "note": "Own site promotes dine-in and takeout at 4214 Charlestown Road, New Albany."
+      },
+      {
+        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2026/Puerto-Vallarta-2-16-26.PDF",
+        "note": "Official February 16, 2026 inspection of Puerto Vallarta at 4214 Charlestown Road."
+      },
+      {
+        "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=4214+Charlestown+Rd+New+Albany+IN&benchmark=Public_AR_Current&format=json",
+        "note": "Official Census matched 4214 CHARLESTOWN RD, NEW ALBANY, IN, 47150 at 38.350000265326, -85.795756358949, approximately 125m from mapped point. Street interpolation is approximate; operation supported separately by own current site and/or 2026 inspection."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Current own site and official February 2026 inspection establish Puerto Vallarta at 4214 Charlestown Road, New Albany. Official Census location is about 125m from blank-address point; approximate shopping-center geocode supports location but does not distinguish units. Medium confidence."
+  },
+  {
+    "id": "w1339619918",
+    "name": "Starlight Coffee",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.starlightcoffeeco.com/contact-us",
+        "note": "Official current Sellersburg location lists 7613 Old State Road 60 and weekly hours."
+      },
+      {
+        "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=7613+Old+State+Rd+60+Sellersburg+IN&benchmark=Public_AR_Current&format=json",
+        "note": "Official Census address interpolation gives 38.3719603,-85.7586185, about 7km west of mapped point. Conflict remains unresolved."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Own site lists 7613 Old State Road 60 Sellersburg, but official Census geocode is about 7km from original blank-address point. Could be a bad geocode or another outlet; do not approve a same-name match without an exact directions link."
+  },
+  {
+    "id": "n7618129085",
+    "name": "El Frijol",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.allmenus.com/ky/louisville/1009564-el-frijol-bar-and-grill/menu/",
+        "note": "Historic El Frijol address."
+      },
+      {
+        "url": "https://lamppost.fyi/louisville/neighborhood/clifton-heights/food_service",
+        "note": "Current July 23, 2026 Joely’s inspection at 1999 Brownsboro; exact unit unresolved."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "El Frijol historic address 1999B Brownsboro has current JOELY’S permit at 1999 Brownsboro about 35m away. Unit B correspondence/shared-space history not confirmed, so replacement lead is insufficient alone."
+  },
+  {
+    "id": "n6391860085",
+    "name": "FABD Smokehouse",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.kentuckytourism.com/explore/fabd-smokehouse-4650",
+        "note": "Current state tourism listing identifies FABD Smokehouse at 3204 Frankfort Avenue."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 52124: FRANKFORT AVENUE BEER DEPOT, 3204 FRANKFORT AVE; coordinates 38.2541, -85.6749. Inspected 2026-07-23; matched to mapped business by name/address and coordinates where valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Latest official inspection permit 52124: FRANKFORT AVENUE BEER DEPOT, 3204 FRANKFORT AVE; 2026-07-23, score 95."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "FABD is Frankfort Avenue Beer Depot’s abbreviation, rather than a different successor. Exact 3204 Frankfort location, current official tourism listing, 2026 inspection and coordinate within 9m."
+  },
+  {
+    "id": "n2548889297",
+    "name": "Great Wall",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/openings/",
+        "note": "Reports Great Wall moved from end of Brownsboro Kroger strip to 1977 Brownsboro Road."
+      },
+      {
+        "url": "https://leoweekly.com/news/dining-guide-2006-15767235/",
+        "note": "Historic dining guide identifies Great Wall at 2206 Brownsboro Road."
+      },
+      {
+        "url": "https://greatwalllouisville.com/",
+        "note": "Current restaurant site identifies 1977 Brownsboro Road."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Mapped point is old Great Wall at the end of the Kroger strip around 2206 Brownsboro. Local reporting explicitly confirms move to 1977 Brownsboro, about 390m away; this old point is closed."
+  },
+  {
+    "id": "n5700155943",
+    "name": "Kiwa",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.bizjournals.com/louisville/news/2026/11/02/kiwa-closes-temporarily-as-owner-seeks-buyer.html",
+        "note": "November 2, 2026 report describes temporary closure while owner seeks buyer."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Two November 2026 articles explicitly call Kiwa temporarily closed while owner seeks a buyer. Other permits at 2235 Frankfort are different suites and cannot confirm Kiwa."
+  },
+  {
+    "id": "n6065597390",
+    "name": "Levee at River House",
+    "status": "renamed",
+    "new_name": "Levee Bourbon Lounge",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.leveebourbonlounge.com/",
+        "note": "Explicit former/current name statement, address and Friday/Saturday opening hours."
+      },
+      {
+        "url": "https://www.opentable.com/river-house-restaurant-and-raw-bar",
+        "note": "River House at 3015 River Road remains current host restaurant; lounge is attached."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Own current website explicitly states Levee at River House has become Levee Bourbon Lounge at same 3015 River Road. Same venue continues under new name."
+  },
+  {
+    "id": "n9668218017",
+    "name": "Scholars Coffee",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://inside.sbts.edu/dining-services/",
+        "note": "Current campus dining page lists Scholars’ Coffee Mon-Fri 7am-9pm, Saturday 8am-5pm."
+      },
+      {
+        "url": "https://www.pulled.coffee/shop/scholars-coffee-louisville",
+        "note": "Operational cafe listing at matching coordinate, checked July 29, 2026."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 113255: SCHOLARS COFFEE, 2825 LEXINGTON RD; coordinates 38.2464, -85.6856. Inspected 2026-09-08; matched to mapped business by name/address and coordinates where valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Latest official inspection permit 113255: SCHOLARS COFFEE, 2825 LEXINGTON RD; 2026-09-08, score 99."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "University own current dining page lists Scholars’ Coffee hours. Exact campus venue supported by operational coffee directory coordinate 38.2484,-85.6859 within about 12m. Official permit campus geocode is inaccurate, so did not use that coordinate as confirmation."
+  },
+  {
+    "id": "n13272377212",
+    "name": "Taqueria Danny",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://taqueria-danny.square.site/",
+        "note": "Original OSM business site reviewed but exact current truck parking not established."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Taqueria Danny permits 119554,124680,128842 identify mobile trailers with zero coordinates, not this fixed point."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Taqueria Danny has inspected mobile trailers but their permit addresses do not establish fixed 3320 Frankfort site. Platform departure September 2026 cannot establish closure; own Square address/current parking unresolved."
+  },
+  {
+    "id": "n5649559522",
+    "name": "The Yellow Cactus",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://nosynelly.com/scoop/LIC-ABR-26-01358-the-yellow-cactus-3-is-staying-open-at-2350-frankfort-ave",
+        "note": "October 30, 2026 liquor-license renewal for Yellow Cactus at 2350 Frankfort Avenue."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 117413: YELLOW CACTUS, 2350 FRANKFORT AVE; coordinates 38.2532, -85.7009. Inspected 2026-07-13; matched to mapped business by name/address and coordinates where valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Latest official inspection permit 117413: YELLOW CACTUS, 2350 FRANKFORT AVE; 2026-07-13, score 98."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 2350 Frankfort active permit is within 26m, with July 2026 inspection and October liquor-license renewal. Uber Eats departure is not physical closure."
+  },
+  {
+    "id": "w1078002456",
+    "name": "A Taste of Thai",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://public.cdpehs.com/KYEnvPBL/%28S%28d1gmty4godgsh5egu5lis0kc%29%29/VW_PUBLIC_EST_INSP/ShowVW_PUBLIC_EST_INSPTable.aspx?County=93",
+        "note": "Official Oldham list records A Taste of Thai at 6549 W Highway 22, March 18, 2026 score 94 and May 26 follow-up score 100."
+      },
+      {
+        "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=6549+W+Highway22+Crestwood+KY&benchmark=Public_AR_Current&format=json",
+        "note": "Official Census matched 6549 W STATE HWY 22, CRESTWOOD, KY, 40014 at 38.324559889011, -85.471608450375, approximately 43m from mapped point. Street interpolation is approximate; operation supported separately by own current site and/or 2026 inspection."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Original 6002 Pleasant Colony Court address is erroneous: official Census location of current A Taste of Thai at 6549 W Highway 22 lies about 43m from original mapped point. Official March/May 2026 inspections and own current business listing support open at this location."
+  },
+  {
+    "id": "n7872507456",
+    "name": "Frascellis Pizza",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://frascellis.com/location/",
+        "note": "Own current Frascelli’s location page gives 4310 W Highway 146 and weekday hours."
+      },
+      {
+        "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=4310+W+Highway146+Buckner+KY&benchmark=Public_AR_Current&format=json",
+        "note": "Official Census matched 4310 W HWY 146, BUCKNER, KY, 40010 at 38.383250436618, -85.440639222973, approximately 70m from mapped point. Street interpolation is approximate; operation supported separately by own current site and/or 2026 inspection."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Own current Frascelli’s site gives 4310 W Highway 146 and service hours. Official Census address interpolation is about 70m from original blank-address point, supporting exact Buckner location. Medium confidence because street interpolation is approximate."
+  },
+  {
+    "id": "n5218281360",
+    "name": "Hoops",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.showcase.com/12205-westport-rd-louisville-ky-40245/29051355/",
+        "note": "Commercial listing says former Rooties at 12205 Westport is vacant; historic Hoops identity unconfirmed."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Hoops point is 5m from closed Rooties at 12205 Westport. No independent historic Hoops address proves identity or duplicate; Hoops on Strawberry Lane is unrelated."
+  },
+  {
+    "id": "n10244209700",
+    "name": "Rooties Sports Bar & Grille",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.showcase.com/12205-westport-rd-louisville-ky-40245/29051355/",
+        "note": "Former Rooties restaurant space at 12205 Westport offered for lease, described recently vacant."
+      },
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/rooties-sports-bar-and-grille-/",
+        "note": "Exact 12205 Westport restaurant marked CLOSED."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 12205 Westport commercial listing identifies former Rooties space as recently vacant and offered for lease; directory independently marks closed. A 2026 directory timestamp with 2021/22 reviews is not reopening evidence."
+  },
+  {
+    "id": "n7872507457",
+    "name": "Steve O's Italian Kitchen",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/popular-barbecue-restaurant-in-oldham-county-planning-to-reopen-friday/article_66e30f66-70e0-11ed-acc1-2b45a858468e.html",
+        "note": "November 30, 2022 WDRB report explicitly says Oldham County Steve O’s Italian Kitchen closed earlier that month."
+      },
+      {
+        "url": "https://www.cityof.com/ky/louisville/steve-os-italian-kitchen-2559861",
+        "note": "Historic Steve O’s identity and 4205 W Highway 146 address; generic directory hours are not reopening evidence."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "WDRB explicitly reported Oldham County Steve O’s closed in November 2022 after 17 years. Historical address 4205 W Highway 146 distinguishes the former Frankfort Avenue branch."
+  },
+  {
+    "id": "n3864886581",
+    "name": "TexMex BBQ",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Search for exact TexMex BBQ around mapped Crestwood/LaGrangeRoad point returned unrelated barbecue locations. No current source/actual street address to support open or removal."
+  },
+  {
+    "id": "n3380192607",
+    "name": "Aspire Cafe & Juice Bar",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://eatsindex.com/restaurants/aspire-cafe-juice-bar-louisville-ky",
+        "note": "Generic brunch prose has no verifiable current operating source; rejected as open evidence."
+      },
+      {
+        "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
+        "note": "Repeats OSM name and address; not independent current verification."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Only OSM-derived directories and an unsubstantiated brunch article returned for 332 W Broadway Suite 106. Generic EatIndex atmosphere prose was rejected as current operating evidence."
+  },
+  {
+    "id": "n6069217485",
+    "name": "Barbarella",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/barbarella-nightclub-in-downtown-louisville-up-for-sale-for-2m/article_b288130a-b749-11eb-a0ab-9f82ab529a63.html",
+        "note": "May 2021 report: 116 E Main closed March 2020, briefly reopened July, then closed again; building for sale. Permanent closure not formally announced at publication."
+      },
+      {
+        "url": "https://wanderlog.com/place/details/11029942/barbarella-louisville",
+        "note": "Exact 116 E Main listing now marked permanently closed."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 116 E Main nightclub closed during 2020 and building was marketed in 2021; current exact-site listing marks permanently closed. No reopening evidence found."
+  },
+  {
+    "id": "n6800719886",
+    "name": "Barrel Bar",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.barrelbarlouisville.com/",
+        "note": "Own current Barrel Bar & Grill is 110 W Main, not mapped 120 W Jefferson."
+      },
+      {
+        "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
+        "note": "OSM-derived Barrel Bar at 120 W Jefferson; no current verification."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Mapped Barrel Bar is 120 W Jefferson. Current Barrel Bar & Grill at 110 W Main is a different point; its hours cannot verify this location."
+  },
+  {
+    "id": "n5750135027",
+    "name": "Bourbon Barrel Burgers",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://bourbon-burgers.com/",
+        "note": "Different business: Bourbon & Burgers at 117 St Matthews Avenue, not the mapped arena concession."
+      },
+      {
+        "url": "https://www.aol.com/articles/st-matthews-burger-restaurant-close-204748000.html",
+        "note": "November 2026 closure of different St Matthews restaurant; rejected as evidence for this point."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Mapped level-4 Yum Center concession could not be matched to current arena vendor. Bourbon & Burgers at 117 St Matthews is unrelated; its November 2026 closure does not apply here."
+  },
+  {
+    "id": "n6066643689",
+    "name": "Cafe Magnolia",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://gotolouisville.s3.amazonaws.com/emailer/Downtown_Map_Both_Sides.pdf",
+        "note": "Historical downtown visitor map listsCafeMagnoliaGaltHouse; not current operation."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Old tourism map identifies Cafe Magnolia at Galt House. Current hotel food permits do not establish this exact outlet or direct successor."
+  },
+  {
+    "id": "n6800721486",
+    "name": "Chung King Palacd",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://chungkingpalace.carrd.co/",
+        "note": "Current ownmenu110EastMarket, indoor dining and hours11am-8:30pm."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 54170: CHUNG KING PALACE, 110 E MARKET ST; coordinates 38.2544, -85.7512. Matched by business name/address; coordinate only used if valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official latest inspection permit 54170: CHUNG KING PALACE, 110 E MARKET ST; 2026-06-22, score 98."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Worklist spelling Palacd is a typo. Own current menu identifies Chung King Palace at 110 E Market with indoor dining and hours; June 2026 permit coordinate is within 10m."
+  },
+  {
+    "id": "n6065590587",
+    "name": "El Barrio",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.bizjournals.com/louisville/news/2019/03/04/whiskey-row-restaurant-closes-and-doc-crows-owners.html",
+        "note": "March 4, 2019 report says El Barrio closed the prior Saturday and next-door Doc Crow’s owners leased space."
+      },
+      {
+        "url": "https://www.wdrb.com/news/business/owners-of-doc-crows-to-open-a-new-restaurant-in-whiskey-row/article_364fabbe-3e91-11e9-a425-73b95232bb8f.html",
+        "note": "Independent March 4, 2019 confirmation that El Barrio closed on Whiskey Row."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "El Barrio at 129 W Main on Whiskey Row closed March 2, 2019. Two independent local reports describe the same space adjoining Doc Crow’s."
+  },
+  {
+    "id": "n3372435580",
+    "name": "Encore on 4th",
+    "status": "renamed",
+    "new_name": "The Black Jockeys Lounge",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/downtown-restaurant-entertainment-venue-rebrands-to-the-black-jockey-lounge/35110777",
+        "note": "January 2021 report identifies Encore at 630 S Fourth becoming Black Jockey Lounge."
+      },
+      {
+        "url": "https://bourbonsbistro.com/press/2022/1/17/looking-for-a-restaurant-to-try-here-are-12-places-where-you-can-eat-on-an-outside-patio",
+        "note": "2022 report confirms completed rebrand; uses 600 S Fourth rather than 630."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "WLKY identifies Encore at 630 S Fourth rebranding to Black Jockey Lounge in 2021. A 2022 follow-up confirms rebrand, though it varies street number as 600; this verdict addresses the obsolete Encore name."
+  },
+  {
+    "id": "n3380191829",
+    "name": "Freddie's Bar and Lounge",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/place/details/12681308/freddies-220-bar",
+        "note": "Closed listing says 220 East Broadway, which conflicts with mapped West Broadway."
+      },
+      {
+        "url": "https://gotolouisville.s3.amazonaws.com/emailer/Downtown_Map_Both_Sides.pdf",
+        "note": "Historical tourism map identifies Freddie’s at 220 W Broadway."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Closed Freddie’s directory uses 220 E Broadway, while original and historical tourism map say 220 W Broadway. Wrong-direction conflict prevents reliable removal."
+  },
+  {
+    "id": "n6093788938",
+    "name": "Maker/Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.kmacmuseum.org/cafe",
+        "note": "Current museum cafe menu and Tuesday-Sunday 10am-5pm hours at 715 W Main."
+      },
+      {
+        "url": "https://worldcafemap.com/en/usa/louisville/near/kentucky-science-center",
+        "note": "Lists Maker/Cafe and KMAC Cafe separately; duplicate identity remains unresolved."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Current KMAC Cafe at 715 W Main is about 19m from old indoor Maker/Cafe point. No explicit former-name or duplicate history establishes that the old marker represents the same cafe."
+  },
+  {
+    "id": "n6069056987",
+    "name": "Robyn's Nest Bourbon Bistro",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://content.govdelivery.com/accounts/KYLOUISVILLE/bulletins/211bc81",
+        "note": "City 2018 opening notice for Robyn’s Nest Bourbon Bistro at 611 W Main."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "City 2018 notice identifies Robyn’s Nest at 611 W Main. Nearby Wiltshire at 605 and Wild Swann at 601 are different addresses; proximity alone does not prove replacement."
+  },
+  {
+    "id": "n6069076485",
+    "name": "SCENE at the Center",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.kentuckyperformingarts.org/venues/kentucky-center/plan-your-visit/scene-at-the-center",
+        "note": "Original SCENE URL returns 404; not evidence of closure."
+      },
+      {
+        "url": "https://www.opentable.com/r/scene-at-the-center-louisville",
+        "note": "Stale restaurant page still references 2019-20 theater season."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Historic SCENE is an event-timed lounge at 501 W Main. Its old URL returns 404; generic current Kentucky Center food permit does not prove this exact outlet is open or closed."
+  },
+  {
+    "id": "n7661678885",
+    "name": "The Marque Bar",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
+        "note": "Repeats old Marque Bar at 430 S Fourth, without independent current verification."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Only OSM-derived Marque Bar at 430 S Fourth found. Current neighboring venues at 434 or 446 cannot be substituted without unit or history evidence."
+  },
+  {
+    "id": "n3441763197",
+    "name": "Smiley's Pocket",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://louisvillebarsandrestaurants.com/places/smileys-pocket/",
+        "note": "Exact 2124 S Preston public directory describes bar and pool tables."
+      },
+      {
+        "url": "https://kypublicnotice.com/KYLegals/2026/70131-2026-02-20_1001.pdf",
+        "note": "February 2026 public notice for Smiley’s Pocket at 2124/2126 S Preston."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 129261: SMILEY'S POCKET, 2124 S PRESTON ST; coordinates 38.2166, -85.7452. Matched by business name/address; coordinate only used if valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official latest inspection permit 129261: SMILEY'S POCKET, 2124 S PRESTON ST; 2026-08-06, score 99."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 2124 S Preston active permit within 3m, August 2026 inspection, February licensing notice and public local bar listing support operation. Original private-access tag may be stale; medium confidence reflects access uncertainty."
+  },
+  {
+    "id": "n3467847352",
+    "name": "Akiko's Restaurant",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://akikos2000.wixsite.com/akikos-karaoke",
+        "note": "Own site says still OPEN, gives 1123 Bardstown and nightly 9pm-4am hours."
+      },
+      {
+        "url": "https://www.wdrb.com/news/louisville-karaoke-bar-will-stay-open-after-reaching-agreement-with-landlord/article_41eb62c7-d9ae-4ec4-a276-fd600a9ab738.html",
+        "note": "March closure was rescinded after agreement with landlord."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 61472: AKIKO'S KARAOKE, 1123 BARDSTOWN RD; coordinates 38.2382, -85.7198. Matched by business name/address; coordinate only used if valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official latest inspection permit 61472: AKIKO'S KARAOKE, 1123 BARDSTOWN RD; 2026-09-03, score 99."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Own current Akiko’s site explicitly says still OPEN at 1123 Bardstown with nightly hours. Exact September 2026 inspection confirms operation after March closure was rescinded."
+  },
+  {
+    "id": "n3467853440",
+    "name": "Asiatique Restaurant",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://louisville.eater.com/venue/439/asiatique",
+        "note": "Historical Asiatique at 1767 Bardstown explicitly marked permanently closed."
+      },
+      {
+        "url": "https://foodanddine.com/el-mundos-world-is-growing-with-a-second-location-slated-for-bardstown-road/",
+        "note": "2019 report identifies former Asiatique, then Flavour, at 1767 Bardstown becoming El Mundo."
+      },
+      {
+        "url": "https://cherokeetriangle.com/wp-content/uploads/2020/09/Spr-2020-CTA-newsletter-copy3.pdf",
+        "note": "Neighborhood newsletter corroborates Asiatique at 1767 Bardstown and subsequent El Mundo."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Original street number 1716 is wrong: historical Asiatique at 1767 Bardstown matches point. Independent local reporting and neighborhood newsletter confirm Asiatique, then Flavour, then El Mundo at this address."
+  },
+  {
+    "id": "n3363641807",
+    "name": "Baxter's 942 Bar & Grill",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/after-more-than-a-year-city-officials-uphold-denial-of-louisville-bars-liquor-license/article_fdb81582-60d8-430d-bd79-04cf18e926f9.html",
+        "note": "April 6, 2026 denial upheld; still described as temporarily closed."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "April 2026 WDRB still describes Baxter’s 942 as temporarily closed while liquor-license denial is appealed. No final permanent closure or reopening established."
+  },
+  {
+    "id": "n2934216022",
+    "name": "Bunz",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://leoweekly.com/food-drink/heres-what-to-eat-at-paristowns-village-market-food-hall-16192747/",
+        "note": "2024 review says former Baxter Avenue Bunz moved to Village Market."
+      },
+      {
+        "url": "https://www.bizjournals.com/louisville/news/2023/08/01/banditz-pizza-opening.html",
+        "note": "Bunz moved from 969 Baxter to Village Market in August 2022."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Old Baxter Avenue Bunz moved to Village Market in 2022, confirmed by two local publications. Current permit is 712 Brent Street and does not verify the old Baxter marker."
+  },
+  {
+    "id": "n3363783654",
+    "name": "Dundee Tavern",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://foodanddine.com/a-concept-swap-dundee-tavern-to-close-then-reopen-as-derby-city-pizza/",
+        "note": "2024 report documents Dundee to Derby City Pizza concept swap."
+      },
+      {
+        "url": "https://www.aol.com/articles/parlour-pizza-open-former-dundee-134756000.html",
+        "note": "September 2026 report retrospectively confirms Dundee Tavern closed May 2024, before Derby City Pizza; Parlour planned."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Old Dundee Tavern at 2224 Dundee closed in May 2024 and became Derby City Pizza. September 2026 Parlour plan is not claimed open; old Dundee identity is definitively obsolete."
+  },
+  {
+    "id": "w330429893",
+    "name": "Georgia's Sweet Potato Pie Company",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.bbb.org/us/ky/louisville/profile/pie/georgias-sweet-potato-pie-company-0402-159153826",
+        "note": "Current 1559 Bardstown bakery listing with Wednesday-Sunday hours."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 111846: GEORGIA'S SWEET POTATO PIE COMPANY, 1559 BARDSTOWN RD; coordinates 38.2314, -85.7061. Matched by business name/address; coordinate only used if valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official latest inspection permit 111846: GEORGIA'S SWEET POTATO PIE COMPANY, 1559 BARDSTOWN RD; 2026-06-06, score 98."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 1559 Bardstown active permit coordinate within 1m and June 2026 inspection, corroborated current bakery listing."
+  },
+  {
+    "id": "w329188722",
+    "name": "Heart and Soy",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://heartandsoy.net/wp-site/contact/",
+        "note": "Own current contact page gives 1216 Bardstown and daily service hours."
+      },
+      {
+        "url": "https://heartandsoy.net/",
+        "note": "Own site promotes dine-in and carryout at 1216 Bardstown."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 89079: HEART & SOY, 1216 BARDSTOWN RD; coordinates 38.142, -85.431. Matched by business name/address; coordinate only used if valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official latest inspection permit 89079: HEART & SOY, 1216 BARDSTOWN RD; 2026-05-22, score 97."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Own current restaurant site gives 1216 Bardstown and hours, matching May 2026 inspection. Official coordinates are badly wrong and were rejected."
+  },
+  {
+    "id": "n13953129582",
+    "name": "Hideaway Saloon",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.thepoolfool.com/bar/the-hideaway-saloon/",
+        "note": "Exact 1607 Bardstown bar lists nightly 7pm-4am hours."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 55139: HIDEAWAY SALOON, 1607 BARDSTOWN RD; coordinates 38.2306, -85.7038. Matched by business name/address; coordinate only used if valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official latest inspection permit 55139: HIDEAWAY SALOON, 1607 BARDSTOWN RD; 2026-06-02, score 96."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 1607 Bardstown active permit coordinate within 15m and June 2026 inspection, corroborated nightly bar hours."
+  },
+  {
+    "id": "w299929745",
+    "name": "Highlands Tap Room",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.thehighlandstaproom.com/",
+        "note": "Own current site gives 1058 Bardstown and separate Grill/Tappy hours."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 124163: HIGHLANDS TAP ROOM, 1058 BARDSTOWN RD; coordinates 38.23866, -85.72201. Matched by business name/address; coordinate only used if valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official latest inspection permit 124163: HIGHLANDS TAP ROOM, 1058 BARDSTOWN RD; 2026-07-22, score 98."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Own current 1058 Bardstown Taproom site matches permit within 11m and July 2026 inspection. Input 1056 is a neighboring number in the same Taproom complex."
+  },
+  {
+    "id": "w329565878",
+    "name": "Homemade Ice Cream and Pie Kitchen",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://wanderlog.com/list/geoCategory/26841",
+        "note": "Exact 1041 Bardstown Pie Kitchen marked permanently closed."
+      },
+      {
+        "url": "https://www.openingtimes.co/homemade-ice-cream-pie-kitchen-louisville-ky",
+        "note": "Same-address directory admits generic hours are unconfirmed by venue."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 1041 Bardstown listing is marked permanently closed, but only one independent closure indicator found; generic directories conflict with stale hours. Other Pie Kitchen branches are not this point."
+  },
+  {
+    "id": "n3375222879",
+    "name": "Kiwami Ramen",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/new-ramen-restaurant-opens-in-louisville-on-bardstown-road/article_870b79ca-1154-11ef-ac9f-93084aa89305.html",
+        "note": "Local opening report specifically identifies Kiwami at 1700 Bardstown."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active establishment permit 122361: KIWAMI RAMEN, 1700 BARDSTOWN RD; coordinates 38.22995, -85.70382. Matched by business name/address; coordinate only used if valid."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official latest inspection permit 122361: KIWAMI RAMEN, 1700 BARDSTOWN RD; 2026-06-25, score 96."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 1700 Bardstown current Kiwami active permit within 11m and June 2026 inspection, corroborated local opening report."
+  },
+  {
+    "id": "n3368832068",
+    "name": "Le Petit Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
+        "note": "Historical mapped Le Petit Cafe at 1325 Bardstown; not independent current evidence."
+      },
+      {
+        "url": "https://hubbiz.com/w/the-butterfly-garden-ky",
+        "note": "Old Butterfly Garden listing at 1325; conflicting name history unresolved."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Only old OSM-derived Le Petit Cafe identity at 1325 Bardstown found. Butterfly Garden and current ROC use nearby 1327; proximity does not prove same footprint or replacement."
+  },
+  {
+    "id": "n5269119084",
+    "name": "Lovafare (vegan)",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.manta.com/c/mks3213/lovafare",
+        "note": "Unclaimed Lovafare directory uses 1527 Highland Avenue, different from OSM-derived 2009 Highland."
+      },
+      {
+        "url": "https://dinehere.us/KY/LOUISVILLE",
+        "note": "OSM-like directory lists Lovafare at 2009 Highland; not current independent proof."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Lovafare directories conflict: 1527 Highland Avenue versus mapped 2009 Highland. Current Black Italian at 2009 Highland and Kebab House around corner cannot establish old Lovafare footprint or closure."
+  },
+  {
+    "id": "w329538247",
+    "name": "Payne Street Bakehouse",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.paynestreetbakehouse.com/contact",
+        "note": "Own location and current hours at 225 S Spring Street."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 105397: PAYNE STREET BAKEHOUSE, 225 S SPRING ST, coordinates 38.2518, -85.7188. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 105397: PAYNE STREET BAKEHOUSE, 225 S SPRING ST; 2026-11-04, score 100."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 225 S Spring active permit within 10m and November 4, 2026 inspection. Own current contact page lists daily hours and curbside order number."
+  },
+  {
+    "id": "n3375222881",
+    "name": "Pho Cafe on Bardstown",
+    "status": "open",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g39604-d12508311-Reviews-Pho_Cafe_on_Bardstown-Louisville_Kentucky.html",
+        "note": "Claimed Pho Cafe listing at exact 1704 Bardstown; old reviews alone were not used as current evidence."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 102690: PHO CAFE ON BARDSTOWN, 1704 BARDSTOWN RD, coordinates 38.134, -85.422. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 102690: PHO CAFE ON BARDSTOWN, 1704 BARDSTOWN RD; 2026-10-21, score 97."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 1704 Bardstown matches original address and October 21, 2026 inspection. Official permit coordinates are badly wrong and were rejected. Current claimed restaurant listing corroborates identity; recent exact inspection resolves old-review ambiguity."
+  },
+  {
+    "id": "n3373722656",
+    "name": "Sarang",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://sarang.netwaiter.com/louisville/about/",
+        "note": "Same 1908 Eastern Parkway restaurant lists weekly service hours; currently closed is a time-of-day label."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 97376: SARANG, 1908 EASTERN PKWY, coordinates 38.2317, -81.7094. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 97376: SARANG, 1908 EASTERN PKWY; 2026-11-05, score 97."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 1908 Eastern Parkway, current official November 5, 2026 inspection score 97. Official longitude -81.7094 is invalid for Louisville and was rejected; exact original street address matched. Uber Eats 2021 departure is not closure."
+  },
+  {
+    "id": "n6328331485",
+    "name": "Señora Arepa",
+    "status": "renamed",
+    "new_name": "Palermo's Italian Restaurant",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.wdrb.com/news/business/se-ora-arepa-to-open-in-february-after-taco-luchador-closes-in-the-highlands/article_68784644-aa59-11ee-b487-dbab06054d9f.html",
+        "note": "Historical Señora Arepa location identified at 938 Baxter Avenue."
+      },
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/palermo-s-italian-restaurant-/",
+        "note": "Current Palermo’s at 938 Baxter; December 2025 opening reference and 2026 reviews."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 127453: PALERMOS 2 ITALIAN RESTAURANT, 938 BAXTER AVE, coordinates 38.2412, -85.72528. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 127453: PALERMOS 2 ITALIAN RESTAURANT, 938 BAXTER AVE; 2026-10-26, score 92."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 938 Baxter mapped point now Palermo’s; official active permit within 3m, October 26, 2026 inspection, and dated December 2025/March/August 2026 customer reviews. Prior Bourbon & Burgers lead was wrong St Matthews branch and was rejected."
+  },
+  {
+    "id": "w330411891",
+    "name": "Shenanigans Bar & Grill",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/shenanigans-irish-grille-/",
+        "note": "Exact 1611 Norris Place Shenanigans listing with current menu/hours."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 34855: SHENANIGAN'S, 1611 NORRIS PLACE, coordinates 38.2272, -85.7083. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 34855: SHENANIGAN'S, 1611 NORRIS PLACE; 2026-07-14, score 98."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 1611 Norris Place, active permit coordinate within 1m and July 14, 2026 inspection. Restaurant listing corroborates same address and weekly hours."
+  },
+  {
+    "id": "w330558017",
+    "name": "Sow Bistro",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.yellowpages.com/glenview-ky/take-out-restaurants",
+        "note": "Sow Bistro at 1770 Bardstown; generic closed-now/hours listing is not current verification."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Only historical Sow Bistro 1770 Bardstown directories found. Current Parachute permit uses 1770 1/2 but geocode is misplaced; unit and replacement relationship not proved. Do not call closed from missing permit."
+  },
+  {
+    "id": "n6066456089",
+    "name": "The Fish House",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://fishhouselouisville.com/",
+        "note": "Own current restaurant page at 1310 Winter Avenue offers ordering and restaurant service."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 33158: FISH HOUSE, 1310 WINTER AVE, coordinates 38.2358, -85.727. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 33158: FISH HOUSE, 1310 WINTER AVE; 2026-11-04, score 96."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Blank address resolved by own current Fish House website at 1310 Winter Avenue and official active permit within 2m with November 4, 2026 inspection."
+  },
+  {
+    "id": "n3369098884",
+    "name": "Wiltshire Pantry Bakery and Cafe",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://wiltshirepantry.com/contact/",
+        "note": "Own current Highlands cafe at 901 Barret, Mon-Sat 7:30am-2:30pm and Sunday 9am-2pm."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 93057: WILTSHIRE PANTRY BAKERY & DELI, 901 BARRET AVE, coordinates 38.2403, -85.7311. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 93057: WILTSHIRE PANTRY BAKERY & DELI, 901 BARRET AVE; 2026-06-08, score 100."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 901 Barret Avenue, own site current Highlands cafe hours. Permit coordinates within 8m and June 2026 inspection."
+  },
+  {
+    "id": "w330429900",
+    "name": "Zas Pizza",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.bbb.org/us/ky/louisville/profile/restaurants/zas-pizza-pub-0402-23003644",
+        "note": "Current Za’s Pizza Pub profile at 1573 Bardstown with hours."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 33201: ZA'S PIZZA & PUB, 1573 BARDSTOWN RD, coordinates 38.2312, -85.7052. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 33201: ZA'S PIZZA & PUB, 1573 BARDSTOWN RD; 2026-07-09, score 96."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 1573 Bardstown, active permit coordinate within 4m and July 2026 inspection. Current business profile has same address and weekly hours."
+  },
+  {
+    "id": "n3448918171",
+    "name": "Mango's Bar and Grill",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://mangosmexicanrestaurants.com/menu?dialogState=orderDetails",
+        "note": "Own current Mango’s menu at 4632 Hendrik Drive, open-now ordering."
+      },
+      {
+        "url": "https://mangosmexicanrestaurants.com/",
+        "note": "Own restaurant website promotes same dining/event venue."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 92095: MANGO'S MEXICAN GRILL, 4632 HENDRIK DR, coordinates 38.186, -85.6086. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 92095: MANGO'S MEXICAN GRILL, 4632 HENDRIK DR; 2026-05-14, score 91."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Own current ordering menu explicitly open at exact 4632 Hendrik Drive, corroborated May 2026 inspection. Official geocode is about 176m north and was not used as precise proof. Uber Eats October 2026 departure is not physical closure."
+  },
+  {
+    "id": "n677657177",
+    "name": "Asian Moon",
+    "status": "renamed",
+    "new_name": "Oriental Cafe",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.openingtimes.co/asian-moon-louisville-ky",
+        "note": "Old Asian Moon: 3360 Hikes Lane, telephone 502-451-0077; generic hours not used as open evidence."
+      },
+      {
+        "url": "https://www.orientalcafeky.com/",
+        "note": "Current Oriental Cafe own site: same 3360 Hikes Lane and phone, active ordering and hours."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 94248: ORIENTAL CAFE, 3360 HIKES LN, coordinates 38.2192, -85.6266. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 94248: ORIENTAL CAFE, 3360 HIKES LN; 2026-07-23, score 95."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Historical Asian Moon at 3360 Hikes Lane has same telephone as current Oriental Cafe at identical address. Current own-site ordering/hours and 2026 permit about 40m from mapped point support old name replacement."
+  },
+  {
+    "id": "n6069705490",
+    "name": "Hike's Point Lounge and Bar",
+    "status": "renamed",
+    "new_name": "The Dubliner",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://leoweekly.com/news/community-staple-hikes-point-bar-is-closing-down-after-more-than-half-a-century-17063444/",
+        "note": "2024 story explicitly identifies closure and planned Dubliner at same 3937 Taylorsville Road."
+      },
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/hikes-point-bar-and-lounge-/",
+        "note": "Exact former 3937 Taylorsville listing marked CLOSED."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 124649: DUBLINER, 3937 TAYLORSVILLE RD, coordinates 38.2206, -85.6274. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 124649: DUBLINER, 3937 TAYLORSVILLE RD; 2026-06-08, score 98."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Local news explicitly reports Hikes Point Bar & Lounge at 3937 Taylorsville closing and becoming The Dubliner. Current Dubliner active permit within 15m, June 2026 inspection establishes completed replacement."
+  },
+  {
+    "id": "w330564839",
+    "name": "Kern's Korner",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 101344: KERN'S KORNER, 2600 BARDSTOWN RD, coordinates 38.2222, -85.6836. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 101344: KERN'S KORNER, 2600 BARDSTOWN RD; 2026-08-13, score 96."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact 2600 Bardstown, active permit coordinate within 3m and August 13, 2026 inspection."
+  },
+  {
+    "id": "n6069733386",
+    "name": "Queenie's Restaurant",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.lemongrasscafeandmarket.com/",
+        "note": "Current restaurant’s own site gives 2956 Richland Avenue, menu and hours."
+      },
+      {
+        "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
+        "note": "OSM-derived Queenie’s at 2956 Richland; not independent historical confirmation."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Current Lemongrass at 2956 Richland is only 7m from mapped Queenie’s point, but only OSM-derived Queenie’s address found. Need independent historical name/closure or explicit succession before removing."
+  },
+  {
+    "id": "n6069718187",
+    "name": "Red Sun Chinese Restaurant",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://images1.showcase.com/d2/UHFc8iMZg2BIQt-JELsWKsncmYz0By7AOC1r2ZGhTU0/document.pdf",
+        "note": "Breckenridge Plaza tenant plan identifies Red Sun Chinese Restaurant at 3437 Breckenridge Lane."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 56317: RED SUN, 3437 BRECKENRIDGE LN, coordinates 38.1986, -85.6228. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 56317: RED SUN, 3437 BRECKENRIDGE LN; 2026-05-21, score 94."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Blank address resolved by current official Red Sun permit at 3437 Breckenridge Lane, coordinate within 7m and May 2026 inspection. Commercial plaza site plan independently identifies Red Sun at unit 3437."
+  },
+  {
+    "id": "n13363819601",
+    "name": "TryMe Treats",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://kentucky-streets.openalfa.com/zipcodes/6040218/shopping",
+        "note": "OSM-derived home bakery description at 2014 Peabody; insufficient independent current operation."
+      },
+      {
+        "url": "https://www.yellowpages.com/st-matthews-ky/take-out-restaurants",
+        "note": "TryMe Treats listing uses 2414 Peabody, conflicting number."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Original OSM describes a small home bakery at 2014 Peabody, while some directories list 2414 Peabody with a different phone. No independent current public storefront/order pickup confirmed. Not removed merely because home-based."
+  },
+  {
+    "id": "n6077278199",
+    "name": "Ville Tacos",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://www.realty.com/homedetails/3205-mid-dale-ln-louisville-ky-40220",
+        "note": "Nearby-place list repeats OSM Ville Tacos; not independent business evidence."
+      },
+      {
+        "url": "https://www.yellowpages.com/lex-ky/mexican-restaurants",
+        "note": "Ville Taqueria is 3922 Westport Road; rejected same-name mismatch."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Ville Tacos exact blank-address point cannot be tied to current business. Ville Taqueria at 3922 Westport and Taco City at 3085 Breckenridge are different identities; no unsupported substitution."
+  },
+  {
+    "id": "n4848336123",
+    "name": "Maggie Mae's Cafe",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://bullittcountykyguide.com/",
+        "note": "Maggie Mae’s Cafe LLC at 435 N Bardstown; undated directory, not sufficient current proof."
+      },
+      {
+        "url": "https://leoweekly.com/news/2015-summer-dining-guide-15774149/",
+        "note": "Historic exact-address cafe and Facebook contact."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Exact historic Maggie Mae’s 435 N Bardstown supported by 2015/2016 dining guides and current unclaimed county directory. No current own-site, recent inspection or dated operation found. Rejected Maggie Mae’s Sunrise Cafe Clearwater Florida."
+  },
+  {
+    "id": "n6066545286",
+    "name": "Veronica's Mexican Restaurant",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://order.online/store/veronica-s-mexican-restaurant-11470-preston-hwy-35498419",
+        "note": "Current Veronica’s ordering menu at 11470 Preston Highway with pickup/delivery hours."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 126633: VERONICA'S MEXICAN RESTAURANT #3, 11470 PRESTON HWY, coordinates 38.0852, -85.6683. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 126633: VERONICA'S MEXICAN RESTAURANT #3, 11470 PRESTON HWY; 2026-06-10, score 97."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Blank address resolved as Veronica’s #3 at 11470 Preston Highway by active permit coordinates within 9m and June 2026 inspection. Current ordering page matches exact address."
+  },
+  {
+    "id": "w24022075",
+    "name": "hometown pizza",
+    "status": "unsure",
+    "new_name": null,
+    "confidence": "low",
+    "evidence": [
+      {
+        "url": "https://hometownpizza.com/our-locations/",
+        "note": "Own official current Mt Washington location list with telephone and hours."
+      },
+      {
+        "url": "https://travelbullitt.org/listing/hometown-pizza/",
+        "note": "County tourism address at 11155 Kentucky 44 and weekly service hours."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Official own location list and tourism page establish Hometown at 11155 E Highway 44. Blank-address OSM building still needs coordinate tie; no removal inferred."
+  },
+  {
+    "id": "w343526641",
+    "name": "3rd Turn Brewing",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://jeffersontown.3rdturnbrewing.com/",
+        "note": "Own brewery site identifies 10408 Watterson Trail and publishes dated November 2026 events."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Own current Jeffersontown site at 10408 Watterson Trail publishes November 20, 21 and 27, 2026 events and food truck dates, confirming continued operation."
+  },
+  {
+    "id": "n6069846420",
+    "name": "AunTEA Pearl's Tea Establishment",
+    "status": "closed",
+    "new_name": null,
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://www.wlky.com/article/these-restaurants-closed-permanently-during-the-pandemic/32804252",
+        "note": "WLKY reports AunTEA Pearls in Plainview announced closure May 22, 2020 and quotes its closure announcement."
+      },
+      {
+        "url": "https://www.superpages.com/fisherville-ky/coffee-shops?page=5",
+        "note": "Historical Auntea Pearls Tea Establishment at 9816 Linn Station Road."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "WLKY quotes AunTEA Pearls’ May 22, 2020 closure in Plainview. Historical 9816 Linn Station address identifies this tea business. Nearby Vallarta at 9874 is not claimed as direct replacement."
+  },
+  {
+    "id": "n6069846468",
+    "name": "Double Dragon",
+    "status": "open",
+    "new_name": null,
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://doubledragonnine.com/",
+        "note": "Own current Double Dragon Nine ordering page gives 9501 Taylorsville Road #109 and weekly hours."
+      },
+      {
+        "url": "https://doubledragonnine.3menucities.com/default.aspx",
+        "note": "Restaurant ordering page independently confirms exact suite and service."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official ACTIVE establishment permit 72225: DOUBLE DRAGON #9, 9501 TAYLORSVILLE RD, coordinates 38.2067, -85.5812. Name and exact address matched; invalid coordinates were not used."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Official inspection permit 72225: DOUBLE DRAGON #9, 9501 TAYLORSVILLE RD; 2026-07-14, score 96."
+      }
+    ],
+    "checked": "2026-11-18",
+    "prior_status": "unsure",
+    "research_note": "Own current Double Dragon Nine ordering site identifies 9501 Taylorsville Road Suite 109, with active official permit within 40m and July 2026 inspection."
+  }
+]

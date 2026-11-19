@@ -1,0 +1,55 @@
+{
+  "checked": "2026-11-18",
+  "scope": "Parent source and location review of all proposed closed, renamed and nonrestaurant verdicts; duplicate scan against all 1613 original places, plus an open sample. Primary research files retained unchanged.",
+  "corrections": [
+    {
+      "id": "n3372435580",
+      "name": "Encore on 4th",
+      "proposed_status": "renamed",
+      "accepted_status": "unsure",
+      "reason": "Encore became Black Jockey’s Lounge, but current directories disagree between closed and temporarily closed and no reopening was verified. Do not present the successor as confirmed open."
+    },
+    {
+      "id": "w337694055",
+      "name": "Señor Iguanas",
+      "proposed_status": "renamed",
+      "accepted_status": "unsure",
+      "reason": "Senor Iguanas became El Cancun, but current El Cancun operation is not established: no matching active food permit, stale exact-address listings and conflicting closure reports. Keep flagged rather than add a confirmed-open successor."
+    },
+    {
+      "id": "n3453099463",
+      "name": "Penn Station",
+      "proposed_status": "renamed",
+      "accepted_status": "duplicate_or_not_a_restaurant",
+      "reason": "Old Penn Station would duplicate existing confirmed-open Wingstop n11980061521, only about 5m away at 4659 Outer Loop. Retain the existing Wingstop ID; do not create another pin."
+    },
+    {
+      "id": "n3467853440",
+      "name": "Asiatique Restaurant",
+      "proposed_status": "closed",
+      "accepted_status": "duplicate_or_not_a_restaurant",
+      "reason": "Old Asiatique point overlaps confirmed-open El Mundo n3375209380, about 10m away. Current El Mundo permit 110579 and merchant site confirm same 1767 Bardstown premises; do not create a second pin."
+    },
+    {
+      "id": "n3436530756",
+      "name": "Baskin-Robbins",
+      "proposed_status": "unsure",
+      "accepted_status": "open",
+      "reason": "Exact 9413 Westport listing has a dated September 13, 2026 customer review, another September 2024 review, and weekly hours. Official locator omission and absence from an incomplete municipal directory do not establish closure. Medium confidence because operating evidence is a third-party listing."
+    }
+  ],
+  "coverage": {
+    "batches": 25,
+    "places": 1613,
+    "round3_records": 240,
+    "original_unsure": 217,
+    "additional_unsure": 23
+  },
+  "counts": {
+    "unsure": 84,
+    "renamed": 26,
+    "closed": 28,
+    "open": 98,
+    "duplicate_or_not_a_restaurant": 4
+  }
+}
