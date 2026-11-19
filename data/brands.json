@@ -2955,5 +2955,19 @@
   "note": "Market and café operating as Haymarket by Ashbourne Farms, unrelated to Haymarket Whiskey Bar. Exact ownership is not confirmed.",
   "src": "https://haymkt.com/haymarket-river-road/",
   "u": true
+ },
+ {
+  "n": "Copper & Kings Rooftop Bar",
+  "m": [
+   "copper kings"
+  ],
+  "c": "ind",
+  "k": "Bar & pub",
+  "o": "Bourdon Spirits Company",
+  "y": "2025",
+  "note": "Louisville-based, family-owned Bourdon Spirits Company acquired Copper & Kings from Constellation Brands on August 5, 2025. The rooftop bar operates at the Louisville distillery.",
+  "src": "https://www.prnewswire.com/news-releases/bourdon-spirits-company-acquires-copper--kings-from-constellation-brands-302522401.html",
+  "u": false,
+  "hq": true
  }
 ]

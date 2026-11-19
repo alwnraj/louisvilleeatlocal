@@ -1052,22 +1052,27 @@
     "agree": null
   },
   "n4780015155": {
-    "status": "unsure",
-    "new_name": null,
-    "confidence": "low",
+    "status": "renamed",
+    "new_name": "Firehouse Subs",
+    "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.superpages.com/new-albany-in/restaurants?page=4",
-        "note": "Search found Subway-Closed references in New Albany but did not establish exact State Street address or match to coordinate; retain unsure rather than trust missing directory alone."
+        "url": "https://hoodline.com/2026/10/firehouse-subs-finally-lands-in-new-albany-ending-southern-indiana-s-bridge-run/",
+        "note": "October 6, 2026 report gives new Firehouse Subs address, Suite D, opening and daily hours. AI-assisted secondary report cites News and Tribune; primary article inaccessible, so medium confidence."
       },
       {
-        "url": "https://maps.me/catalog/food/amenity-fast_food/united-states-of-america/new-albany-153628992/",
-        "note": "OldSubway2441StateSuiteDGPSmatchespoint; usedidentityonly."
+        "url": "https://www.cylex.us.com/company/firehouse-subs-new-albany-state-st-40735737.html",
+        "note": "Exact 2441 State Street Suite D, New Albany IN listing and hours; updated October 10. Generic description mistakenly says NY and is not relied upon."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=2441+State+Street%2C+New+Albany%2C+IN&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent rooftop address match, score 100, 18m from mapped point; establishes location only, not operation."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": false
+    "agree": false,
+    "address": "2441 State Street, Suite D"
   },
   "n5207079941": {
     "status": "open",
@@ -1137,7 +1142,7 @@
         "note": "Final independent QA: platform departure and absence from locator do not independently prove permanent closure at this exact mapped location. Keep visible flagged."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": false
   },
@@ -1448,16 +1453,20 @@
     "agree": null
   },
   "w330564804": {
-    "status": "unsure",
+    "status": "closed",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.jetspizza.com/stores/kentucky/louisville/2500-bardstown-rd/",
-        "note": "Jet Pizza operates at 2500 Bardstown but sources show multiple suites; this does not prove Subway in suite 1 closed. Initial missing-locator verdict not independently corroborated."
+        "url": "https://www.merchantcircle.com/ky-louisville-40205/food-and-dining/catering-services",
+        "note": "Directory identifies Subway - Closed at exact 2500 Bardstown Road."
+      },
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/subway-corporate-office",
+        "note": "Current nearby Subway listings at 3006 and 1250 Bardstown distinguish separate branches; no positive operation at 2500."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": false
   },
@@ -2669,7 +2678,7 @@
         "note": "Exact 2100 S Floyd location explicitly marked CLOSED; third-party listings with daily closed-now labels are not equivalent."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -3424,18 +3433,23 @@
     "agree": null
   },
   "w1190671162": {
-    "status": "unsure",
+    "status": "open",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
         "url": "https://travelbullitt.org/listing/burger-king-shepherdsville/",
-        "note": "Tourism directory lists 315 Keystone Crossroads Drive but no coordinate match established against addressless OSM point; cannot verify exact mapped location."
+        "note": "County tourism lists Burger King at 315 Keystone Crossroads, full weekly hours and bk.com store 81634."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=315+Keystone+Crossroad+Drive%2C+Shepherdsville%2C+KY&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent Esri address match (PointAddress, score 100), approximately 1m from original mapped point. Location evidence only; operation is supported separately."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "315 Keystone Crossroads Drive"
   },
   "w1229644857": {
     "status": "open",
@@ -4145,7 +4159,7 @@
         "note": "Listing explicitly says temporarily closed, while delivery listings remain. Temporary closure is not evidence of permanent closure; current operation unresolved."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -4163,7 +4177,7 @@
         "note": "Franchiseeold2909E10thstilllistsfullhours; conflictswithnew1710Veteranssamephone."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -4499,7 +4513,7 @@
         "note": "Search found Papa Johns at 2336 S Floyd and food service at 2100 S Floyd, but cannot locate this addressless campus point precisely. Possible campus concession."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -5106,7 +5120,7 @@
         "note": "Old 12933 Shelbyville listing persists; OSM says 12929. No independent explicit closure at exact spot found; sitemap absence alone insufficient."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": false
   },
@@ -5162,7 +5176,7 @@
         "note": "Historic exact 9905 Lagrange listing found, without reliable current operation/closure evidence."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": false
   },
@@ -7145,18 +7159,31 @@
     "agree": null
   },
   "n4755772899": {
-    "status": "unsure",
+    "status": "open",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
-        "url": "https://www.ubereats.com/store/heine-brothers-coffee-main-street/ZjAulYH_VkasZ-vmRMQoUw",
-        "note": "Old exact 516 Main listing persists; current PNC store is nearby at 101 S5th. Without exact former entrance geolocation, move may be within 150m; missing old address alone insufficient."
+        "url": "https://www.wdrb.com/news/heine-brothers-opens-downtown-louisville-coffee-shop/article_a3d373e8-4710-11ec-baa4-df37bbb2a934.html",
+        "note": "Current PNC shop opened at Fifth/Main in the old Starbucks space."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=101+S+5th+St%2C+Louisville%2C+KY&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent Esri address match (PointAddress, score 100), approximately 112m from original mapped point. Location evidence only; operation is supported separately."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active permit 114025: HEINE BROTHERS COFFEE, 101 S 5TH ST STE A200."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Matching official permit 114025, HEINE BROTHERS COFFEE, 101 S 5TH ST STE A200, inspected 2026-10-07. Snapshot retrieved November 18, reviewed November 19."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": false
+    "agree": false,
+    "address": "101 South 5th Street, Suite A200"
   },
   "n11974214316": {
     "status": "open",
@@ -7629,18 +7656,23 @@
     "agree": null
   },
   "w820708215": {
-    "status": "unsure",
+    "status": "open",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
         "url": "https://checkersandrallys.com/location/rally-s-4302-state-st-2795577",
-        "note": "Official source says 2316 State while delivery/recruitment says 2350 State. Addressless mapped point needs coordinate resolution; retain uncertainty."
+        "note": "Own store 4302 has full weekly hours and ordering; headline 2316 State, location description 2350 State."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=2350+State+Street%2C+New+Albany%2C+IN&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent Esri address match (PointAddress, score 100), approximately 1m from original mapped point. Location evidence only; operation is supported separately."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "2350 State Street"
   },
   "w823997491": {
     "status": "open",
@@ -8026,7 +8058,7 @@
         "note": "Search returns permanently closed Louisville Buffalo Wild Wings listing but exact street not established; old Dixie address listings do not prove status at this coordinate."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": false
   },
@@ -8078,16 +8110,20 @@
     "kind": "Mexican & Tex-Mex"
   },
   "w335692193": {
-    "status": "unsure",
+    "status": "closed",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "medium",
     "evidence": [
       {
         "url": "https://www.allbiz.com/business/sonic-drive-in_506f",
-        "note": "Exact 630 Winkler listing has hours whereas low-quality closure aggregator says closed. Neither establishes current operation; initial sitemap absence uncorroborated."
+        "note": "Exact 630 Winkler Sonic marked closed; old hours and old phone explicitly historical."
+      },
+      {
+        "url": "https://closeddownrestaurants.com/louisville-kentucky-a-tribute-to-lost-restaurants-that-once-defined-the-city-closed-down-places-louisville-restaurant-history/",
+        "note": "Independent aggregator explicitly identifies Sonic at 630 Winkler as permanently closed; used only with exact Allbiz record."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": false
   },
@@ -9105,26 +9141,27 @@
     "agree": null
   },
   "n6399762803": {
-    "status": "unsure",
+    "status": "open",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
-        "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2026/Coffee-Crossing-Charlestown-Rd-2-24-26.pdf",
-        "note": "2026 official inspection and own locator say 4212 Charlestown while OSM says 4215; precise mapped storefront match unresolved. Checked in web search on2026-11-18."
-      },
-      {
         "url": "https://www.coffeecrossing.com/locations-hours",
-        "note": "OfficialCharlie4212CharlestownSuite5hoursandembeddedmap pin174mfromOSM."
+        "note": "Own current location and weekly hours at 4212 Charlestown Road, Suite 5."
       },
       {
         "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2026/Coffee-Crossing-Charlestown-Rd-2-24-26.pdf",
-        "note": "Countyinspection2026-02-24samecurrent4212address; noold4215locationconfirmation."
+        "note": "Official Floyd County food inspection February 24, 2026 for Charlestown Road Coffee Crossing."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=4212+Charlestown+Road%2C+New+Albany%2C+IN&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent rooftop address match, score 100, 20m from mapped point; establishes location only, not operation."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "4212 Charlestown Road, Suite 5"
   },
   "n12391906917": {
     "status": "open",
@@ -9220,7 +9257,7 @@
         "note": "Listing title explicitly says Closed For Remodel at 12929 Shelbyville. Restaurantji says CLOSED but permanence is unresolved; OSM address is 12933. Earlier grouped Yellow Pages permanent-closure label belonged to a different store at 3801 Oaklawn and is rejected. Checked 2026-11-18."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -9388,7 +9425,7 @@
         "note": "Search does not establish mapped River Road-area restaurant; other Bearno’s locations rejected. Checked in web search on2026-11-18."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -10054,7 +10091,7 @@
         "note": "2024 exact-area discussion raises closure concerns; not used alone as proof of permanent closure."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -10417,20 +10454,16 @@
     "agree": null
   },
   "n5654275221": {
-    "status": "unsure",
+    "status": "duplicate_or_not_a_restaurant",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
-        "url": "https://restaurantguru.com/Middletown-Kentucky/5",
-        "note": "General result says may be permanently closed; no exact mapped La Grange-area address/current evidence. Checked in web search on2026-11-18."
-      },
-      {
-        "url": "https://www.ibegin.com/directory/us/kentucky/louisville/category/restaurants-seafood/",
-        "note": "ExplicitLongJohnSilver|TacoBell-CLOSED12434LaGrange; additionalcurrentevidencerequired."
+        "url": "https://locations.tacobell.com/ky/louisville/12434-lagrange-rd-.html",
+        "note": "Official active restaurant at 12434 LaGrange with drive-through and dining hours. Same site as the co-branded point already represented by n5654178230."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -10687,16 +10720,16 @@
     "agree": null
   },
   "w339258880": {
-    "status": "unsure",
+    "status": "closed",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
-        "url": "https://www.yellowpages.com/fort-knox-ky/chilis-restaurant",
-        "note": "Old6801Dixie directory remains; current official site could not confirm move/new address, so do not infer closure. Research lead7105Dixie proved FairfieldOhio, not Louisville; rejected wrong-city relocation inference. Checked in web search on2026-11-18."
+        "url": "https://foodanddine.com/comings-goings-61/",
+        "note": "Fall 2018 local restaurant report lists Skyline Chili at 6801 Dixie Highway among closures."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -11089,20 +11122,20 @@
     "agree": null
   },
   "n3830893872": {
-    "status": "unsure",
+    "status": "closed",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
-        "url": "https://www.yellowpages.com/clarksville-in/moe-s-southwest-grill",
-        "note": "Search mixes Noblesville and Clarksville Tennessee Moe’s; no current Clarksville Indiana location established. Checked in web search on2026-11-18."
+        "url": "https://foodanddine.com/comings-goings-61/",
+        "note": "Fall 2018 local reporting explicitly identifies the closed 1020 Veterans Parkway location."
       },
       {
-        "url": "https://www.storeshours.com/moes-southwest-grill/indiana",
-        "note": "Historical Clarksville Indiana branch is 1020 Veterans Parkway, not Clarksville Tennessee. No current operation established."
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=1020+Veterans+Parkway%2C+Clarksville%2C+IN&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent rooftop address match, score 100, 93m from mapped point; establishes location only, not operation."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -11381,20 +11414,20 @@
     "agree": true
   },
   "w337853317": {
-    "status": "unsure",
+    "status": "closed",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
-        "url": "https://www.ubereats.com/store/frischs-big-boy-7401-dixie-hwy/aZdkpKLdQvCzIKHAyGNkhw",
-        "note": "Uber Eats departure2023 not permanent-closure proof; northernKentucky Dixie closure is different city and rejected. Checked in web search on2026-11-18."
+        "url": "https://www.aol.com/articles/longhorn-steakhouse-adding-another-louisville-090114000.html",
+        "note": "Courier Journal September 9, 2026 report identifies construction at former Frisch’s, 7401 Dixie, expected winter 2026/spring 2027 opening."
       },
       {
-        "url": "https://content.govdelivery.com/attachments/KYLOUISVILLE/2026/04/29/file_attachments/3633143/IARC%20Report%20042926.pdf",
-        "note": "April 2026 official project record proposes Longhorn at 7401 Dixie. A proposal alone does not establish completed replacement or permanent closure."
+        "url": "https://www.reutersconnect.com/item/a-longhorn-steakhouse-is-being-built-where-the-former-frischs-restaurant-stood-at-7401-dixie-highway-in-louisvilles-south-end/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk2NzA4Mzk",
+        "note": "USA Today Network photo dated August 27, 2026 explicitly documents new construction where Frisch’s stood."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -11538,7 +11571,7 @@
         "note": "Current Domino’s at 12416 has 2026 reviews and a permit within 8m. Input says 12414 and old local seafood sources also say 12416; do not assert replacement without resolving tenancy. This is Louisville seafood, not DC House of Kabob."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -11691,26 +11724,23 @@
     "agree": true
   },
   "n13424045320": {
-    "status": "unsure",
+    "status": "open",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
-        "url": "https://www.ezcater.com/catering/smoothie-king-clarksville-veterans-pkwy-suite",
-        "note": "ezCater ordering page for Smoothie King 1225 Veterans Pkwy Suite 500, Clarksville (matches coords) with delivery hours"
-      },
-      {
-        "url": "https://www.veritasrealty.com/wp-content/uploads/2024/10/1225-Veterans-Parkway-Flyer.pdf",
-        "note": "Oct 2024 leasing flyer lists Smoothie King in unit 500"
-      },
-      {
         "url": "https://locations.smoothieking.com/ll/us/in/clarksville/1225-veterans-pkwy-ste-500/",
-        "note": "Official exact-location page exists but weekly hours are blank. Census interpolation matches approximately 92m; retain unsure pending fresh operating evidence."
+        "note": "Own page shows Mon–Fri 7am–9pm, Saturday 8am–9pm and Sunday 10am–8pm at 1225 Veterans Suite 500."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=1225+Veterans+Parkway%2C+Clarksville%2C+IN&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent Esri address match (PointAddress, score 100), approximately 16m from original mapped point. Location evidence only; operation is supported separately."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 1,
-    "agree": null
+    "agree": null,
+    "address": "1225 Veterans Parkway, Suite 500"
   },
   "n5268994595": {
     "status": "closed",
@@ -11740,7 +11770,7 @@
         "note": "Shopping-center flyer indicates a dentist at former Comfy Cow, but old generic ordering listings conflict and unit identity was not conclusively resolved."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": false
   },
@@ -12176,7 +12206,7 @@
         "note": "Official Dixie branch found at 10501, not mapped 1610. Reject wrong-location evidence; nearby JJ Food Mart retail permit does not establish this chicken counter."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -12328,7 +12358,7 @@
         "note": "Official Louisville store is 2030 S Hurstbourne; this map point is at a different Ruckriegel Parkway retail center. Do not relocate or mark closed from another store’s existence."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -12407,22 +12437,23 @@
     "agree": false
   },
   "n12391907057": {
-    "status": "unsure",
+    "status": "open",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
         "url": "https://www.coldstonecreamery.com/stores/ice-cream-near-jeffersonville/23571",
-        "note": "Official Jeffersonville store found, but OSM addressless point labeled Clarksville needs exact-coordinate match."
+        "note": "Own store 23571 at 1013 Jeffersonville Commons Drive lists full weekly hours and nearby Schlosser Farm / Ellingsworth Dairy intersection."
       },
       {
-        "url": "https://www.coldstonecreamery.com/stores/ice-cream-near-jeffersonville/23571",
-        "note": "Official 1013 Jeffersonville Commons store has full current hours, but published structured coordinates are incorrectly downtown; exact addressless map point remains unconfirmed. RestaurantGuru coordinate fetch failed; not closure evidence."
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=1013+Jeffersonville+Commons+Drive%2C+Jeffersonville%2C+IN&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent Esri address match (PointAddress, score 100), approximately 11m from original mapped point. Location evidence only; operation is supported separately."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "1013 Jeffersonville Commons Drive"
   },
   "w339266954": {
     "status": "open",
@@ -13283,22 +13314,27 @@
     "agree": null
   },
   "n14355306467": {
-    "status": "unsure",
+    "status": "open",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
-        "url": "https://louisville.legistar.com/View.ashx?GUID=5A6AAC8D-2CFB-4362-9DE8-C44D501BF880&ID=1417946&M=PA",
-        "note": "Search returns proposed Biggby locations elsewhere in Louisville, not mapped Hillview point; rejected wrong-location evidence. Checked in web search on2026-11-18."
+        "url": "https://www.wdrbwave.com/2025/11/05/listens-live-bullitt-county-chamber-commerce-biggby-coffee-november-5th-2025/",
+        "note": "Owner and assistant manager describe operating Biggby at 6340 Highway 44 East in November 2025."
       },
       {
-        "url": "https://www.wdrbwave.com/2025/11/05/listens-live-bullitt-county-chamber-commerce-biggby-coffee-november-5th-2025/",
-        "note": "Owner and assistant manager interviewed November 2025 for 6340 Highway 44 East; establishment exists, but this addressless point’s exact match still needs independent geolocation."
+        "url": "https://www.yellowpages.com/shepherdsville-ky/mip/biggby-coffee-577538596",
+        "note": "Exact-address current listing has full weekly hours and matching telephone."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=6340+Highway+44+E%2C+Shepherdsville%2C+KY&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent Esri address match (PointAddress, score 100), approximately 6m from original mapped point. Location evidence only; operation is supported separately."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "6340 Highway 44 East"
   },
   "n6069862337": {
     "status": "open",
@@ -13482,7 +13518,7 @@
         "note": "Oxmoor identity confirmed, but generic mall hours and old reviews cannot establish operation today. Closed now is not permanent closure."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -13529,22 +13565,23 @@
     "agree": null
   },
   "n12677619514": {
-    "status": "unsure",
+    "status": "open",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.yellowpages.com/valley-station-ky/pizza?page=2",
-        "note": "Search lists other HuntBrothers counters, not exact mapped WestPoint point; no current address verified. Checked in web search on2026-11-18."
+        "url": "https://www.yellowpages.com/west-point-ky/mip/hunt-brothers-pizza-576816104",
+        "note": "Hunt Brothers Pizza at 101 Main Street, West Point, inside West Point Valero Food Mart; weekly hours."
       },
       {
-        "url": "https://www.huntbrotherspizza.com/locations/",
-        "note": "Official locator consulted; no exact mapped West Point counter established. Other Hunt Brothers stores rejected."
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=101+Main+Street%2C+West+Point%2C+KY&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent rooftop address match, score 100, 8m from mapped point; establishes location only, not operation."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "101 Main Street"
   },
   "n6066622789": {
     "status": "open",
@@ -13989,7 +14026,7 @@
         "note": "Historical 10494 Westport identity established, but no current operation or permanent closure corroborated. New Albany closure is a different venue and rejected."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -14161,20 +14198,16 @@
     "agree": null
   },
   "n3447718845": {
-    "status": "unsure",
+    "status": "closed",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.sluurpy.us/louisville/restaurant/3783447/wing-zone",
-        "note": "Exact-address menu listings remain at 3038 Hunsinger, but freshness/current hours not sufficient to establish current operation."
-      },
-      {
-        "url": "https://www.sluurpy.us/louisville/restaurant/3783447/wing-zone",
-        "note": "Historical exact address confirmed. Nearby current Cousins Maine Lobster permit says suite 102; raw map says suite 101, while other old directories say 102. Suite conflict unresolved; do not infer replacement."
+        "url": "https://restaurantguru.com/WingZone-Louisville",
+        "note": "Explicit Permanently closed label and exact 3038 Hunsinger address."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -14238,7 +14271,7 @@
         "note": "Current campus permit lists Zen Sushi in SAC at 2100 S Floyd. Old Aqua Sushi campus guide does not establish same stall/rebrand; keep flagged."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -14657,7 +14690,7 @@
         "note": "Historical listing at 937 Phillips Lane; cannot prove current operation."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -14732,22 +14765,27 @@
     "agree": false
   },
   "n13384448659": {
-    "status": "unsure",
+    "status": "open",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
         "url": "https://www.rainbowblossom.com/hours-and-locations",
-        "note": "Market lists New Albany 3003 Charlestown Crossing and a Blossom Bar link."
+        "note": "Own locations page explicitly lists New Albany Blossom Bar hours at 3003 Charlestown Crossing."
       },
       {
-        "url": "https://www.blossombarlouisville.com/",
-        "note": "Current bar location page omits New Albany, creating an unresolved conflict."
+        "url": "https://www.wdrb.com/news/business/rainbow-blossom-celebrates-reopening-of-expanded-new-albany-location-blossom-bar/article_7aeac41a-2f41-11ef-b6e5-3736a4977c5d.html",
+        "note": "June 2024 reporting confirms expanded New Albany market and Blossom Bar reopening."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=3003+Charlestown+Crossing%2C+New+Albany%2C+IN&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent rooftop address match, score 100, 43m from mapped point; establishes location only, not operation."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "3003 Charlestown Crossing"
   },
   "w1527363968": {
     "status": "open",
@@ -14805,7 +14843,7 @@
         "note": "Official Chi’s China Bistro inspection uses same street number, but unit correspondence is unresolved."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -14895,7 +14933,7 @@
         "note": "Official Census address interpolation gives 38.3719603,-85.7586185, about 7km west of mapped point. Conflict remains unresolved."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -15151,7 +15189,7 @@
         "note": "Current July 23, 2026 Joely’s inspection at 1999 Brownsboro; exact unit unresolved."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -15283,7 +15321,7 @@
         "note": "November 2, 2026 report describes temporary closure while owner seeks buyer."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -15473,22 +15511,23 @@
     "agree": false
   },
   "n13272377212": {
-    "status": "unsure",
+    "status": "open",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "medium",
     "evidence": [
       {
-        "url": "https://taqueria-danny.square.site/",
-        "note": "Original OSM business site reviewed but exact current truck parking not established."
+        "url": "https://www.ubereats.com/store/taqueria-danny/qPsjgJ8MUkmJh1zjNXg42g",
+        "note": "Newer storefront at 3320 Frankfort, menu, scheduled ordering and weekly hours."
       },
       {
-        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
-        "note": "Taqueria Danny permits 119554,124680,128842 identify mobile trailers with zero coordinates, not this fixed point."
+        "url": "https://www.restaurantji.com/ky/louisville/taqueria-danny-/",
+        "note": "Same exact address, weekly hours and May, June and August 2026 customer reviews."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "3320 Frankfort Avenue"
   },
   "n3364201077": {
     "status": "closed",
@@ -15765,16 +15804,20 @@
     "agree": null
   },
   "n5218281360": {
-    "status": "unsure",
+    "status": "closed",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "medium",
     "evidence": [
       {
         "url": "https://www.showcase.com/12205-westport-rd-louisville-ky-40245/29051355/",
-        "note": "Commercial listing says former Rooties at 12205 Westport is vacant; historic Hoops identity unconfirmed."
+        "note": "Broker listing explicitly says freestanding former Rootie’s building at 12205 Westport is recently vacant; not merely listed for sale."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=12205+Westport+Road%2C+Louisville%2C+KY&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent rooftop address match, score 100, 3m from mapped point; establishes location only, not operation."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -15875,7 +15918,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -15949,7 +15992,7 @@
         "note": "Repeats OSM name and address; not independent current verification."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -16003,7 +16046,7 @@
         "note": "OSM-derived Barrel Bar at 120 W Jefferson; no current verification."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -16036,20 +16079,20 @@
     "agree": null
   },
   "n5750135027": {
-    "status": "unsure",
+    "status": "duplicate_or_not_a_restaurant",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
-        "url": "https://bourbon-burgers.com/",
-        "note": "Different business: Bourbon & Burgers at 117 St Matthews Avenue, not the mapped arena concession."
+        "url": "https://www.kfcyumcenter.com/plan-your-visit/faqs",
+        "note": "Arena describes its official concession provider and facility food/drink policies."
       },
       {
-        "url": "https://www.aol.com/articles/st-matthews-burger-restaurant-close-204748000.html",
-        "note": "November 2026 closure of different St Matthews restaurant; rejected as evidence for this point."
+        "url": "https://www.kfcyumcenter.com/premium-know-before-you-go",
+        "note": "Arena’s own guide identifies event bars and concession stands within the venue."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -16105,7 +16148,7 @@
         "note": "Historical downtown visitor map listsCafeMagnoliaGaltHouse; not current operation."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -16241,7 +16284,7 @@
         "note": "2025 interview describes renovation closure and planned reopening, not confirmation of reopening."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -16259,7 +16302,7 @@
         "note": "Historical tourism map identifies Freddie’s at 220 W Broadway."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -16334,22 +16377,36 @@
     "agree": null
   },
   "n6093788938": {
-    "status": "unsure",
-    "new_name": null,
-    "confidence": "low",
+    "status": "renamed",
+    "new_name": "KMAC Café",
+    "confidence": "medium",
     "evidence": [
       {
         "url": "https://www.kmacmuseum.org/cafe",
-        "note": "Current museum cafe menu and Tuesday-Sunday 10am-5pm hours at 715 W Main."
+        "note": "Museum’s own current cafe page and menu identify KMAC Café."
       },
       {
-        "url": "https://worldcafemap.com/en/usa/louisville/near/kentucky-science-center",
-        "note": "Lists Maker/Cafe and KMAC Cafe separately; duplicate identity remains unresolved."
+        "url": "https://www.kmacmuseum.org/visit-2",
+        "note": "Museum at 715 West Main, public cafe Tuesday–Sunday 10–5."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=715+W+Main+Street%2C+Louisville%2C+KY&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent rooftop address match, score 100, 25m from mapped point; establishes location only, not operation."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active permit 101737: KMAC CAFE, 715 W MAIN ST."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Matching official permit 101737, KMAC CAFE, 715 W MAIN ST, inspected 2026-09-30. Snapshot retrieved November 18, reviewed November 19."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "715 West Main Street",
+    "kind": "Coffee & café"
   },
   "n3581286414": {
     "status": "open",
@@ -16459,7 +16516,7 @@
         "note": "City 2018 opening notice for Robyn’s Nest Bourbon Bistro at 611 W Main."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -16477,7 +16534,7 @@
         "note": "Stale restaurant page still references 2019-20 theater season."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -16621,7 +16678,7 @@
         "note": "Repeats old Marque Bar at 430 S Fourth, without independent current verification."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -17393,7 +17450,7 @@
         "note": "April 6, 2026 denial upheld; still described as temporarily closed."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -17857,7 +17914,7 @@
         "note": "Same-address directory admits generic hours are unconfirmed by venue."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -17979,7 +18036,7 @@
         "note": "Old Butterfly Garden listing at 1325; conflicting name history unresolved."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -18015,7 +18072,7 @@
         "note": "OSM-like directory lists Lovafare at 2009 Highland; not current independent proof."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -18428,7 +18485,7 @@
         "note": "Sow Bistro at 1770 Bardstown; generic closed-now/hours listing is not current verification."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -19069,7 +19126,7 @@
         "note": "OSM-derived Queenie’s at 2956 Richland; not independent historical confirmation."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -19145,7 +19202,7 @@
         "note": "TryMe Treats listing uses 2414 Peabody, conflicting number."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -19163,7 +19220,7 @@
         "note": "Ville Taqueria is 3922 Westport Road; rejected same-name mismatch."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -19209,7 +19266,7 @@
         "note": "Historic exact-address cafe and Facebook contact."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -19236,22 +19293,27 @@
     "agree": true
   },
   "w24022075": {
-    "status": "unsure",
+    "status": "open",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
-        "url": "https://hometownpizza.com/our-locations/",
-        "note": "Own official current Mt Washington location list with telephone and hours."
+        "url": "https://order.toasttab.com/online/hometownpizza-mtwashington/item-pork_890aca11-d26b-4c31-bbea-1c210232be33",
+        "note": "Merchant Hometown Pizza Mount Washington ordering menu identifies 11155 Highway 44 East."
       },
       {
-        "url": "https://travelbullitt.org/listing/hometown-pizza/",
-        "note": "County tourism address at 11155 Kentucky 44 and weekly service hours."
+        "url": "https://www.waze.com/live-map/directions/hometown-pizza-11155-ky-44-mount-washington?to=place.w.179896701.1798770397.1109014",
+        "note": "Exact-address listing supplies full weekly service hours."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=11155+Highway+44+E%2C+Mount+Washington%2C+KY&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent Esri address match (PointAddress, score 100), approximately 3m from original mapped point. Location evidence only; operation is supported separately."
       }
     ],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "11155 Highway 44 East"
   },
   "w343526641": {
     "status": "open",
@@ -19566,7 +19628,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -20026,8 +20088,17 @@
     "status": "unsure",
     "new_name": null,
     "confidence": "low",
-    "evidence": [],
-    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://www.restaurantji.com/ky/barbourmeade/barbour-lane-pizza-and-deli-/",
+        "note": "Exact 3301 Barbour Lane marked closed; conflicts with published Toast schedule."
+      },
+      {
+        "url": "https://order.toasttab.com/online/barbourlanepizza/item-cheese-pizza_e725dae2-a548-44c8-ac36-996923227ef1",
+        "note": "Merchant menu still publishes opening schedule, conflicting with closed directory; current operation unresolved."
+      }
+    ],
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -20145,7 +20216,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -20336,20 +20407,39 @@
     "agree": null
   },
   "n13283031543": {
-    "status": "unsure",
+    "status": "open",
     "new_name": null,
-    "confidence": "low",
-    "evidence": [],
-    "checked": "2026-11-18",
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://restaurantguru.com/Scooters-Coffee-Louisville-6",
+        "note": "9248 Westport, recent customer reviews and owner responses within six months, weekly hours."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=9248+Westport+Road%2C+Louisville%2C+KY&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent rooftop address match, score 100, 3m from mapped point; establishes location only, not operation."
+      }
+    ],
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "9248 Westport Road"
   },
   "w336676225": {
     "status": "unsure",
     "new_name": null,
     "confidence": "low",
-    "evidence": [],
-    "checked": "2026-11-18",
+    "evidence": [
+      {
+        "url": "https://shogunsoutheast.com/louisville-ky/",
+        "note": "Old official brand page still publishes weekly hours at 4110 Hampton Lake Way; may be stale."
+      },
+      {
+        "url": "https://www.restaurantji.com/ky/louisville/shogun-/",
+        "note": "Exact ShoGun listing marked closed; current successor Juno operation not established."
+      }
+    ],
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -20480,7 +20570,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -20730,7 +20820,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -20767,7 +20857,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -20809,7 +20899,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -20910,7 +21000,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -21834,13 +21924,36 @@
     "agree": null
   },
   "n3375494286": {
-    "status": "unsure",
-    "new_name": null,
-    "confidence": "low",
-    "evidence": [],
-    "checked": "2026-11-18",
+    "status": "renamed",
+    "new_name": "Copper & Kings Rooftop Bar",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://copperandkings.com/up-on-the-rooftop/",
+        "note": "Own rooftop holiday event November 5–December 31, 2026 supports current operation."
+      },
+      {
+        "url": "https://foodanddine.com/restaurant-comings-goings-spring-2022/",
+        "note": "Explicitly identifies former Alex&nder at 1121 East Washington becoming Copper and Kings Rooftop Bar and Restaurant."
+      },
+      {
+        "url": "https://copperandkings.com/the-rooftop-bar/",
+        "note": "Current own rooftop page describes drinks and food service."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "Official active permit 126856: COPPER & KINGS, 1121 E WASHINGTON ST."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Matching official permit 126856, COPPER & KINGS, 1121 E WASHINGTON ST, inspected 2026-07-15. Snapshot retrieved November 18, reviewed November 19."
+      }
+    ],
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "1121 East Washington Street",
+    "kind": "Bar & pub"
   },
   "w329538024": {
     "status": "open",
@@ -22531,7 +22644,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -22642,7 +22755,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -22743,7 +22856,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -22780,7 +22893,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -22831,7 +22944,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -22994,7 +23107,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -23399,13 +23512,27 @@
     "agree": null
   },
   "w1068091566": {
-    "status": "unsure",
+    "status": "open",
     "new_name": null,
-    "confidence": "low",
-    "evidence": [],
-    "checked": "2026-11-18",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.toasttab.com/local/order/nagaad-cafe-1808-berry-blvd/r-12e3e70c-82c3-4df0-8f75-2e1f10411e8a",
+        "note": "Actual page heading and location both say 349 West Kenwood Way, with menu and full weekly hours; slug contains an old address and is not used as the location."
+      },
+      {
+        "url": "https://www.ubereats.com/store/nagaad-cafe/5RbHhaesRaijtbzoX8lKEg",
+        "note": "Current menu and daily 9–9 hours at 349 West Kenwood Way."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=349+W+Kenwood+Way%2C+Louisville%2C+KY&f=pjson&outFields=Addr_type%2CMatch_addr%2CPlaceName&maxLocations=2&forStorage=false",
+        "note": "Independent rooftop address match, score 100, 11m from mapped point; establishes location only, not operation."
+      }
+    ],
+    "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "349 West Kenwood Way"
   },
   "w337087475": {
     "status": "renamed",
@@ -23637,7 +23764,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -24151,7 +24278,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },
@@ -24196,7 +24323,7 @@
     "new_name": null,
     "confidence": "low",
     "evidence": [],
-    "checked": "2026-11-18",
+    "checked": "2026-11-19",
     "passes": 2,
     "agree": true
   },

@@ -214,6 +214,7 @@ def main():
         if not (BBOX[0] <= lat <= BBOX[2] and BBOX[1] <= lng <= BBOX[3]): dropped["outside"] += 1; continue
         bi = brand_of(t)
         street = " ".join(x for x in [t.get("addr:housenumber", ""), t.get("addr:street", "")] if x).strip()
+        street = (vr or {}).get("address") or street  # reviewed current address; retain the original OSM point
         b = brands[bi] if bi is not None else None
         rows.append({
             "n": b["n"] if b and norm(b["n"]).split()[0] == n.split()[0] and len(n) <= len(norm(b["n"])) + 12 else re.sub(r"\s+", " ", name),
