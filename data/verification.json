@@ -2669,13 +2669,17 @@
     "agree": null
   },
   "n6044760425": {
-    "status": "unsure",
+    "status": "closed",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
+        "url": "https://louisville.edu/sustainability/operations/buildings-energy",
+        "note": "University explicitly dates SAC Wendy’s closure to 2025 in its waste cooking oil discussion."
+      },
+      {
         "url": "https://www.restaurantji.com/ky/louisville/wendys-4/",
-        "note": "Exact 2100 S Floyd location explicitly marked CLOSED; third-party listings with daily closed-now labels are not equivalent."
+        "note": "Exact 2100 South Floyd restaurant listing marked CLOSED, independently corroborating university statement."
       }
     ],
     "checked": "2026-11-19",
@@ -11558,22 +11562,32 @@
     "agree": null
   },
   "w337418676": {
-    "status": "unsure",
-    "new_name": null,
-    "confidence": "low",
+    "status": "renamed",
+    "new_name": "Domino's",
+    "confidence": "high",
     "evidence": [
       {
-        "url": "https://www.mobyskabob.com/",
-        "note": "House of Kabob is WashingtonDC-region brand; mapped Louisville identity appears incorrect and requires local Seafood source. Checked in web search on2026-11-18."
+        "url": "https://pizza.dominos.com/kentucky/louisville/12416-dixie-highway",
+        "note": "Official current Domino’s page with weekly hours, ordering and exact 12416 Dixie address."
       },
       {
-        "url": "https://pizza.dominos.com/kentucky/louisville/12416-dixie-highway",
-        "note": "Current Domino’s at 12416 has 2026 reviews and a permit within 8m. Input says 12414 and old local seafood sources also say 12416; do not assert replacement without resolving tenancy. This is Louisville seafood, not DC House of Kabob."
+        "url": "https://www.buildzoom.com/contractor/dean-shields",
+        "note": "Permit transcription COM-ELC-25-00678 explicitly connects old Moby Dick at 12414 Dixie to completed Domino’s conversion. Secondary transcription, not represented as direct city permit retrieval."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "November 18 official snapshot: active permit 125914, DOMINO'S PIZZA #1472, 12416 DIXIE HWY; coordinates within 8m of original OSM point."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Same official permit 125914 inspected 2026-11-06. Snapshot retrieved November 18 and reviewed November 19."
       }
     ],
     "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "12416 Dixie Highway",
+    "kind": "Pizza"
   },
   "w339255615": {
     "status": "open",
@@ -11767,7 +11781,7 @@
       },
       {
         "url": "https://images2.loopnet.com/d2/cAWIfTnKAM45M3bRfBoRJqBmkZXv6JuDYv1sD3J1gAU/document.pdf",
-        "note": "Shopping-center flyer indicates a dentist at former Comfy Cow, but old generic ordering listings conflict and unit identity was not conclusively resolved."
+        "note": "Historical Middletown Commons leasing brochure contains Comfy Cow and tenant plans. Indexed visual description mentions a dentist but exact tenant replacement was not visually verified; not closure proof."
       }
     ],
     "checked": "2026-11-19",
@@ -12204,6 +12218,10 @@
       {
         "url": "https://locations.krispykrunchy.com/ky/louisville/10501-dixie-hwy",
         "note": "Official Dixie branch found at 10501, not mapped 1610. Reject wrong-location evidence; nearby JJ Food Mart retail permit does not establish this chicken counter."
+      },
+      {
+        "url": "https://www.yellowpages.com/louisville-ky/mip/krispy-krunchy-chicken-495944854",
+        "note": "Exact address and historical brand-provided description, but no hours or dated current operation; remains unsure."
       }
     ],
     "checked": "2026-11-19",
@@ -14841,6 +14859,10 @@
       {
         "url": "https://www.in.gov/counties/floyd/health-department/files/food-inspections/retail-food-inspections/2025/Chis-China-Bistro-7-1-25.PDF",
         "note": "Official Chi’s China Bistro inspection uses same street number, but unit correspondence is unresolved."
+      },
+      {
+        "url": "https://www.superpages.com/new-albany-in/restaurants?page=5",
+        "note": "Both English Muffin and Flippin Pancakes use 4320 Charlestown in old directories; neither establishes exact successor/unit or current operation."
       }
     ],
     "checked": "2026-11-19",
@@ -15319,6 +15341,10 @@
       {
         "url": "https://www.bizjournals.com/louisville/news/2026/11/02/kiwa-closes-temporarily-as-owner-seeks-buyer.html",
         "note": "November 2, 2026 report describes temporary closure while owner seeks buyer."
+      },
+      {
+        "url": "https://www.wdrbwave.com/2026/11/03/louisville-korean-cafe-kiwa-temporarily-closes-frankfort-avenue/",
+        "note": "November 3 report explicitly says temporary closure while owner seeks buyer; retains uncertainty."
       }
     ],
     "checked": "2026-11-19",
@@ -15990,6 +16016,10 @@
       {
         "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
         "note": "Repeats OSM name and address; not independent current verification."
+      },
+      {
+        "url": "https://mightykindnesshoot.weebly.com/2017-hoot-booths--kind-fair.html",
+        "note": "Independent 2017 event page confirms Aspire at 332 West Broadway historically; not current operation."
       }
     ],
     "checked": "2026-11-19",
@@ -17448,6 +17478,10 @@
       {
         "url": "https://www.wdrb.com/news/business/after-more-than-a-year-city-officials-uphold-denial-of-louisville-bars-liquor-license/article_fdb81582-60d8-430d-bd79-04cf18e926f9.html",
         "note": "April 6, 2026 denial upheld; still described as temporarily closed."
+      },
+      {
+        "url": "https://coverage-c07d4755f158bd415202522ce3254cc2.web.ordersave.com/menu",
+        "note": "Ordering page explicitly temporarily closed; does not establish permanent closure."
       }
     ],
     "checked": "2026-11-19",
@@ -17901,17 +17935,21 @@
     "agree": null
   },
   "w329565878": {
-    "status": "unsure",
+    "status": "closed",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "medium",
     "evidence": [
       {
         "url": "https://wanderlog.com/list/geoCategory/26841",
-        "note": "Exact 1041 Bardstown Pie Kitchen marked permanently closed."
+        "note": "Specific Homemade Ice Cream and Pie Kitchen entry at 1041 Bardstown and phone 502-618-3380 explicitly labeled Permanently Closed."
+      },
+      {
+        "url": "https://piekitchen.com/locations/",
+        "note": "Current own directory lists Highlands at 2525 Bardstown and Fern Creek at 5606, not the former 1041 location. Used to corroborate explicit closure, not as sole proof."
       },
       {
         "url": "https://www.openingtimes.co/homemade-ice-cream-pie-kitchen-louisville-ky",
-        "note": "Same-address directory admits generic hours are unconfirmed by venue."
+        "note": "Earlier contradictory hours are generic and not venue-confirmed."
       }
     ],
     "checked": "2026-11-19",
@@ -19113,22 +19151,32 @@
     "agree": null
   },
   "n6069733386": {
-    "status": "unsure",
-    "new_name": null,
-    "confidence": "low",
+    "status": "renamed",
+    "new_name": "Lemongrass Café & Market",
+    "confidence": "high",
     "evidence": [
       {
         "url": "https://www.lemongrasscafeandmarket.com/",
-        "note": "Current restaurant’s own site gives 2956 Richland Avenue, menu and hours."
+        "note": "Current own restaurant site publishes 2956 Richland, menu, ordering and full weekly hours."
       },
       {
-        "url": "https://kentucky-streets.openalfa.com/louisville-city/eating-drinking",
-        "note": "OSM-derived Queenie’s at 2956 Richland; not independent historical confirmation."
+        "url": "https://thelunchpailgang.blogspot.com/2011/02/queenies-soul-cuisine.html",
+        "note": "Independent February 1, 2011 account of dining at Queenie’s Soul Cuisine explicitly gives 2956 Richland."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Environmental_Health_Bulk_Data_Establishments/FeatureServer/0",
+        "note": "November 18 official snapshot: active permit 105791, LEMONGRASS RESTAURANT & MARKET, 2956 RICHLAND AVE; coordinates within 7m of original OSM point."
+      },
+      {
+        "url": "https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Inspection_Results_Food_Service_Establishments/FeatureServer/0",
+        "note": "Same official permit 105791 inspected 2026-07-14. Snapshot retrieved November 18 and reviewed November 19."
       }
     ],
     "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "2956 Richland Avenue",
+    "kind": "Asian"
   },
   "n6069718187": {
     "status": "open",
@@ -20437,6 +20485,10 @@
       {
         "url": "https://www.restaurantji.com/ky/louisville/shogun-/",
         "note": "Exact ShoGun listing marked closed; current successor Juno operation not established."
+      },
+      {
+        "url": "https://www.order.com/order/restaurant/juno-japanese-restaurant-menu/1106",
+        "note": "Exact-address Juno menu and ordering hours persist, but current orderability/reopening not established amid conflicting records; remains unsure."
       }
     ],
     "checked": "2026-11-19",
@@ -20566,10 +20618,19 @@
     "agree": false
   },
   "n3434829824": {
-    "status": "unsure",
+    "status": "duplicate_or_not_a_restaurant",
     "new_name": null,
-    "confidence": "low",
-    "evidence": [],
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://liquor-stores.cmac.ws/KY/Louisville/",
+        "note": "Exact name, address 14808 Taylorsville and phone 502-263-4075 listed specifically under liquor stores."
+      },
+      {
+        "url": "https://www.merchantcircle.com/ky-fisherville/retail-shopping/convenience-stores",
+        "note": "Same name, address and phone listed as convenience retail; unrelated Florida bar not used."
+      }
+    ],
     "checked": "2026-11-19",
     "passes": 2,
     "agree": true
@@ -20856,7 +20917,16 @@
     "status": "unsure",
     "new_name": null,
     "confidence": "low",
-    "evidence": [],
+    "evidence": [
+      {
+        "url": "https://www.ubereats.com/store/i-love-juice-bar-13317-shelbyville-rd/sEcq6U1sSGGSOhooUAq0wA",
+        "note": "Exact Suite 102 left this delivery platform in 2021; platform exit alone is not physical closure."
+      },
+      {
+        "url": "https://toast.app/r/juice-bar-middletown-13317-shelbyville-road/order/r-d068f2f4-f793-42d5-b42c-2e6cf654bfb3",
+        "note": "Merchant menu at Suite 102 persists with Closed label; cannot distinguish current hours from closed business."
+      }
+    ],
     "checked": "2026-11-19",
     "passes": 2,
     "agree": true
@@ -20999,7 +21069,12 @@
     "status": "unsure",
     "new_name": null,
     "confidence": "low",
-    "evidence": [],
+    "evidence": [
+      {
+        "url": "https://allevents.in/anchorage/halloween-with-soul-circus-at-new-direction/200028723147533",
+        "note": "Exact-address Halloween event is October 31, 2025, not 2026; cannot prove post-September 2026 reopening."
+      }
+    ],
     "checked": "2026-11-19",
     "passes": 2,
     "agree": true
@@ -22940,10 +23015,19 @@
     "agree": null
   },
   "w337087095": {
-    "status": "unsure",
+    "status": "closed",
     "new_name": null,
-    "confidence": "low",
-    "evidence": [],
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/historic-bourbon-bar-sees-new-life-as-the-longtail-building-a-multi-use-entrepreneurial-event-space-301027314.html",
+        "note": "Release issued by The LongTail Building, March 24, 2020, explicitly names former Whirlaway Tavern and 2532 South Fourth conversion."
+      },
+      {
+        "url": "https://www.linkedin.com/company/the-longtail-building",
+        "note": "Owner company profile at 2532 South Fourth describes event and entrepreneurial space, founded 2018."
+      }
+    ],
     "checked": "2026-11-19",
     "passes": 2,
     "agree": true
@@ -23763,7 +23847,12 @@
     "status": "unsure",
     "new_name": null,
     "confidence": "low",
-    "evidence": [],
+    "evidence": [
+      {
+        "url": "https://usa-stores.worldorgs.com/catalog/louisville/coffee-shop/base-camp-coffee",
+        "note": "Directory at exact 4600 Shelbyville has hours and undated comments about coffee inside Quest. No dated recent service or direct cafe confirmation; remains unsure."
+      }
+    ],
     "checked": "2026-11-19",
     "passes": 2,
     "agree": true
@@ -24322,7 +24411,12 @@
     "status": "unsure",
     "new_name": null,
     "confidence": "low",
-    "evidence": [],
+    "evidence": [
+      {
+        "url": "https://www.youtube.com/watch?v=Snoyv1cCHHc",
+        "note": "June 22, 2025 local food video describes Jeff’s as a roaming food truck occasionally at old location. Does not establish present fixed-location service."
+      }
+    ],
     "checked": "2026-11-19",
     "passes": 2,
     "agree": true

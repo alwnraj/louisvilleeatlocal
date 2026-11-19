@@ -1,6 +1,6 @@
 # Louisville Eat Local
 
-A map of 1,444 Louisville-area restaurants, coffee shops and bars, showing who owns each one: private equity, a big corporation, or a local independent. Open a PE-backed or corporate spot and it suggests three independents nearby. Operating status was reviewed on 17–19 November 2026; 59 places whose operating status remains uncertain stay visible and flagged.
+A map of 1,440 Louisville-area restaurants, coffee shops and bars, showing who owns each one: private equity, a big corporation, or a local independent. Open a PE-backed or corporate spot and it suggests three independents nearby. Operating status was reviewed on 17–19 November 2026; 53 places whose operating status remains uncertain stay visible and flagged.
 
 The idea comes from the London Food Money Matrix (london-food-money-matrix.vercel.app). This version's code, artwork and data are new.
 
@@ -45,7 +45,7 @@ Use a leading `=` for exact name matches where a prefix would confuse unrelated 
 
 ## Operating-status review
 
-All 25 batches cover the original 1,613 places. Every first-pass closed, renamed, nonrestaurant or unsure verdict received a second pass, and 23 original open entries were sampled. The latest review checked the remaining 84 unsure records and resolved 25: 13 open, 3 confirmed successors, 7 closed and 2 duplicates/nonrestaurants. The remaining 59 stay visible with an “Operating status not confirmed” flag. The build retains confirmed successors, removes closed and duplicate/nonrestaurant records, and preserves the earlier successor merges. Result: 1,444 places. Evidence and limitations are in [`ROUND4_REPORT.md`](data/verification/ROUND4_REPORT.md); the corrected 84-record review is `data/verification/results/round4_reviewed.json`. Earlier findings remain in [`ROUND3_REPORT.md`](data/verification/ROUND3_REPORT.md).
+All 25 batches cover the original 1,613 places. Every first-pass closed, renamed, nonrestaurant or unsure verdict received a second pass, and 23 original open entries were sampled. The latest review rechecked the remaining 59 unsure records and resolved 6: 2 confirmed successors, 3 closed and 1 liquor/convenience retailer outside the restaurant/bar scope. The remaining 53 stay visible with an “Operating status not confirmed” flag. The build retains confirmed successors, removes closed and duplicate/nonrestaurant records, and preserves the earlier successor merges. Result: 1,440 places. Evidence, corrections and limitations are in [`ROUND5_REPORT.md`](data/verification/ROUND5_REPORT.md); the 59-record review is `data/verification/results/round5_reviewed.json`. Earlier findings remain in [`ROUND4_REPORT.md`](data/verification/ROUND4_REPORT.md) and [`ROUND3_REPORT.md`](data/verification/ROUND3_REPORT.md).
 
 “Open” means supporting web evidence was found on the checked date. It is not a real-time hours guarantee. Locator URL changes, “closed now,” temporary closures, future closure announcements and same-name businesses elsewhere are not sufficient evidence of permanent closure. Moved businesses are checked at their mapped location; moves beyond roughly 150 m count as closed at the old point. Cards link operating-status evidence separately from ownership sources.
 
