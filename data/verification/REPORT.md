@@ -1,6 +1,6 @@
 # Louisville Eat Local — verification review
 
-**Latest review:** see [Round 5 findings](ROUND5_REPORT.md). It resolves 6 of the remaining 59 unsure records and retains 53 flagged places. [Round 4](ROUND4_REPORT.md), [Round 3](ROUND3_REPORT.md) and the counts below document earlier reviews and are historical.
+**Latest review:** see [Round 6 findings](ROUND6_REPORT.md). It resolves 7 of the remaining 53 unsure records and retains 46 flagged places. [Round 5](ROUND5_REPORT.md) and earlier reports below document historical reviews.
 
 Review date: **18 November 2026**. Findings were reported before site integration. Original first-pass records and independent rechecks are preserved below.
 

@@ -5115,18 +5115,36 @@
     "agree": null
   },
   "w329550775": {
-    "status": "unsure",
-    "new_name": null,
-    "confidence": "low",
+    "status": "renamed",
+    "new_name": "Freddy's Frozen Custard",
+    "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.yellowpages.com/louisville-ky/arbys",
-        "note": "Old 12933 Shelbyville listing persists; OSM says 12929. No independent explicit closure at exact spot found; sitemap absence alone insufficient."
+        "url": "https://www.doordash.com/city/louisville-ky/b/freddy-s-frozen-custard---steakburgers-375489/",
+        "note": "Current merchant delivery directory identifies Freddy’s at 12929 Shelbyville and offers ordering."
+      },
+      {
+        "url": "https://drivethruindex.com/restaurants/us/ky/middletown/freddys-180817?lang=en",
+        "note": "Exact 12929 US-60/Middletown menu prices checked October 27, 2026; US-60 is Shelbyville Road here."
+      },
+      {
+        "url": "https://www.wlky.com/article/freddys-frozen-custard-opens-first-louisville-location/40384722",
+        "note": "June 2022 opening report independently confirms Freddy’s at 12929 Shelbyville."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=12929+Shelbyville+Road%2C+Louisville%2C+KY&f=pjson&outFields=Addr_type%2CMatch_addr&maxLocations=1&forStorage=false",
+        "note": "Independent Esri PointAddress match, score 100, 3m from original OSM point. Validates address only, not operation."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/reverseGeocode?location=-85.51173%2C38.24319&featureTypes=POI&distance=30&f=pjson&forStorage=false",
+        "note": "Independent nearby-place cross-check finds Freddys 96-0001 within 6m. Used only with separately verified business/address evidence; a nearby POI alone does not establish closure."
       }
     ],
     "checked": "2026-11-19",
     "passes": 2,
-    "agree": false
+    "agree": false,
+    "address": "12929 Shelbyville Road",
+    "kind": "Burgers"
   },
   "w334029813": {
     "status": "open",
@@ -5171,13 +5189,21 @@
     "agree": null
   },
   "w337128164": {
-    "status": "unsure",
+    "status": "closed",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "medium",
     "evidence": [
       {
+        "url": "https://www.uhaul.com/Locations/Kentucky/Louisville/",
+        "note": "U-Haul’s own current dealer directory identifies Liquor Fire at 9905 La Grange Road."
+      },
+      {
         "url": "https://www.ibegin.com/directory/us/kentucky/louisville/category/restaurants-fast-food/",
-        "note": "Historic exact 9905 Lagrange listing found, without reliable current operation/closure evidence."
+        "note": "Historical Arby’s Roast Beef at exact 9905 LaGrange with phone 502-426-7125."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/reverseGeocode?location=-85.56851%2C38.27108&featureTypes=POI&distance=30&f=pjson&forStorage=false",
+        "note": "Independent nearby-place cross-check finds Liquor Fire within 1m. Used only with separately verified business/address evidence; a nearby POI alone does not establish closure."
       }
     ],
     "checked": "2026-11-19",
@@ -8053,13 +8079,25 @@
     "agree": null
   },
   "n3464533100": {
-    "status": "unsure",
+    "status": "closed",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "high",
     "evidence": [
       {
-        "url": "https://restaurantguru.com/Buffalo-Wild-Wings-Louisville",
-        "note": "Search returns permanently closed Louisville Buffalo Wild Wings listing but exact street not established; old Dixie address listings do not prove status at this coordinate."
+        "url": "https://loismedia.sfo3.digitaloceanspaces.com/files/JSON:Resimplifi:NSR/c08e8cc4-fc19-4c0d-a213-32dcf403049d-17/54f041449ddb8f2a2d7e9cf01df624e6.pdf",
+        "note": "BC Wood landlord brochure, tenant table: Suite 159, Buff City Soap, 6,507 square feet. Read as current marketed tenant mix, not as a newly dated closure announcement."
+      },
+      {
+        "url": "https://www.foodiestrip.com/en/restaurant/buffalo-wild-wings-dixie-hwy-louisville-ky-usa-0",
+        "note": "Historical Buffalo Wild Wings address explicitly includes Suite 159; listing last modified April 2017."
+      },
+      {
+        "url": "https://salondiscover.com/buff-city-soap-40258/",
+        "note": "Independently identifies Buff City Soap at 6801 Dixie Suite 159."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/reverseGeocode?location=-85.83617%2C38.15099&featureTypes=POI&distance=30&f=pjson&forStorage=false",
+        "note": "Independent nearby-place cross-check finds Buff City Soap within 6m. Used only with separately verified business/address evidence; a nearby POI alone does not establish closure."
       }
     ],
     "checked": "2026-11-19",
@@ -11782,6 +11820,14 @@
       {
         "url": "https://images2.loopnet.com/d2/cAWIfTnKAM45M3bRfBoRJqBmkZXv6JuDYv1sD3J1gAU/document.pdf",
         "note": "Historical Middletown Commons leasing brochure contains Comfy Cow and tenant plans. Indexed visual description mentions a dentist but exact tenant replacement was not visually verified; not closure proof."
+      },
+      {
+        "url": "https://foodeist.com/place/the-comfy-cow-louisville-ky",
+        "note": "Exact former Comfy Cow Suite 107 and phone; hours listed as checked June 2026 but independent operating confirmation lacking."
+      },
+      {
+        "url": "https://www.yellowpages.com/middletown-ky/ice-cream-frozen-desserts",
+        "note": "Separately lists Comfy Cow Suite 107 and Ben & Jerry’s Suite 106; reject same-address successor inference."
       }
     ],
     "checked": "2026-11-19",
@@ -14942,22 +14988,33 @@
     "agree": false
   },
   "w1339619918": {
-    "status": "unsure",
-    "new_name": null,
-    "confidence": "low",
+    "status": "renamed",
+    "new_name": "The Adventurer's Grind Coffee Co.",
+    "confidence": "medium",
     "evidence": [
       {
-        "url": "https://www.starlightcoffeeco.com/contact-us",
-        "note": "Official current Sellersburg location lists 7613 Old State Road 60 and weekly hours."
+        "url": "https://www.gosoin.com/listing/the-adventurers-grind/7016/",
+        "note": "Official regional tourism listing for The Adventurers Grind at 7745 Highway 62."
       },
       {
-        "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=7613+Old+State+Rd+60+Sellersburg+IN&benchmark=Public_AR_Current&format=json",
-        "note": "Official Census address interpolation gives 38.3719603,-85.7586185, about 7km west of mapped point. Conflict remains unresolved."
+        "url": "https://www.wdrb.com/wdrb-in-the-morning/the-new-adventurers-grind-coffee-co-hopes-to-become-a-regular-stop-for-those-near/article_d974f559-d689-4458-b3a3-602146ec7966.html",
+        "note": "November 18, 2025 local report explicitly says a former Starlight shop became Adventurer’s Grind."
+      },
+      {
+        "url": "https://www.indeed.com/q-job-fair-l-charlestown%2C-in-jobs.html",
+        "note": "Ignite Industrial job advertisement identifies November 5, 2026 hiring event at the coffee shop, 7745 Highway 62. Event advertisement supports current venue use; not represented as an eyewitness visit."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=7745+Highway+62%2C+Charlestown%2C+IN&f=pjson&outFields=Addr_type%2CMatch_addr&maxLocations=1&forStorage=false",
+        "note": "Independent Esri PointAddress match, score 100, 2m from original OSM point. Validates address only, not operation."
       }
     ],
     "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "7745 Highway 62",
+    "kind": "Coffee & café",
+    "area": "Charlestown, IN"
   },
   "w1446047367": {
     "status": "open",
@@ -16319,17 +16376,21 @@
     "agree": true
   },
   "n3380191829": {
-    "status": "unsure",
+    "status": "closed",
     "new_name": null,
-    "confidence": "low",
+    "confidence": "medium",
     "evidence": [
       {
-        "url": "https://wanderlog.com/place/details/12681308/freddies-220-bar",
-        "note": "Closed listing says 220 East Broadway, which conflicts with mapped West Broadway."
+        "url": "https://louisvillecitychiro.janeapp.com/locations/downtown/book",
+        "note": "Clinic’s own Downtown appointment booking gives 220 West Broadway, Louisville."
       },
       {
         "url": "https://gotolouisville.s3.amazonaws.com/emailer/Downtown_Map_Both_Sides.pdf",
-        "note": "Historical tourism map identifies Freddie’s at 220 W Broadway."
+        "note": "Historical Louisville tourism map identifies Freddie’s Two Twenty Bar at 220 West Broadway."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/reverseGeocode?location=-85.75614%2C38.24572&featureTypes=POI&distance=30&f=pjson&forStorage=false",
+        "note": "Independent nearby-place cross-check finds Louisville City Chiropractic within 5m. Used only with separately verified business/address evidence; a nearby POI alone does not establish closure."
       }
     ],
     "checked": "2026-11-19",
@@ -20877,13 +20938,36 @@
     "agree": null
   },
   "n3364252317": {
-    "status": "unsure",
-    "new_name": null,
-    "confidence": "low",
-    "evidence": [],
+    "status": "renamed",
+    "new_name": "About Time Bar and Grill",
+    "confidence": "high",
+    "evidence": [
+      {
+        "url": "https://order.toasttab.com/online/abouttime",
+        "note": "Current merchant menu at 12406 LaGrange Suite 101; additional Toast listing publishes full weekly hours."
+      },
+      {
+        "url": "https://toast.app/r/abouttime/order",
+        "note": "Same Suite 101 merchant ordering menu and weekly hours."
+      },
+      {
+        "url": "https://images2.loopnet.com/d2/A7BXaEAgls63atahtal0J_uhVbIRgOoiQDwau4MB92A/document.pdf",
+        "note": "Historical landlord plan: 12406 suite/tenant/area columns align Firenza with Suite 101 and 2,505 square feet. Text was read; original PDF image unavailable."
+      },
+      {
+        "url": "https://rjthieneman.com/wp-content/uploads/2026/02/SHOPS_Site-Map_2.12.26-copy.pdf",
+        "note": "Current landlord plan visually inspected: About Time Bar & Grill, 12406 Suite 101, 2,505 square feet."
+      },
+      {
+        "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=12406+La+Grange+Road%2C+Louisville%2C+KY&f=pjson&outFields=Addr_type%2CMatch_addr&forStorage=false&maxLocations=1",
+        "note": "Independent PointAddress match, score 100, 21m from mapped point; validates premises only."
+      }
+    ],
     "checked": "2026-11-19",
     "passes": 2,
-    "agree": true
+    "agree": true,
+    "address": "12406 La Grange Road, Suite 101",
+    "kind": "Bar & pub"
   },
   "n3364361400": {
     "status": "open",
@@ -20968,7 +21052,12 @@
     "status": "unsure",
     "new_name": null,
     "confidence": "low",
-    "evidence": [],
+    "evidence": [
+      {
+        "url": "https://npiregistry.cms.hhs.gov/provider-view/1063133932",
+        "note": "Official NPI record places Beam Family Dentistry at 12907 Factory Suite B, not mapped donut shop Suite C."
+      }
+    ],
     "checked": "2026-11-19",
     "passes": 2,
     "agree": true
@@ -21073,6 +21162,10 @@
       {
         "url": "https://allevents.in/anchorage/halloween-with-soul-circus-at-new-direction/200028723147533",
         "note": "Exact-address Halloween event is October 31, 2025, not 2026; cannot prove post-September 2026 reopening."
+      },
+      {
+        "url": "https://bnds.us/471m24",
+        "note": "Artist LAMPUS lists future New Directions dates in April/May 2027; not proof of present reopening."
       }
     ],
     "checked": "2026-11-19",
@@ -24363,10 +24456,19 @@
     "agree": false
   },
   "n3464533107": {
-    "status": "unsure",
+    "status": "closed",
     "new_name": null,
-    "confidence": "low",
-    "evidence": [],
+    "confidence": "medium",
+    "evidence": [
+      {
+        "url": "https://loismedia.sfo3.digitaloceanspaces.com/files/JSON:Resimplifi:NSR/c08e8cc4-fc19-4c0d-a213-32dcf403049d-17/54f041449ddb8f2a2d7e9cf01df624e6.pdf",
+        "note": "BC Wood landlord tenant table lists Suite 150 as Available, 1,900 square feet, negotiable rent; Suite 152 separately names H&R Block."
+      },
+      {
+        "url": "https://content.govdelivery.com/accounts/KYLOUISVILLE/bulletins/f5272f?reqfrom=share",
+        "note": "March 4, 2015 official ABC application explicitly identifies Cosmic Pizza at 6801 Dixie Suite 150."
+      }
+    ],
     "checked": "2026-11-19",
     "passes": 2,
     "agree": true
