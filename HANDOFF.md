@@ -16,9 +16,9 @@ State: branch `perf` is pushed (head `2ab7883`, 5 commits on top of `main` `d4f8
 Desktop pins-on-map 348 -> 175 ms, map idle 1224 -> 1033 ms. Mobile profile (4x CPU, 1.6 Mbps) DCL 1454 -> 1082 ms, pins 2488 -> 2084 ms, idle 5429 -> 4131 ms. Initial bytes 676 -> 552 KB desktop, 805 -> 602 KB mobile. Frame times unchanged: 94% of pan time is software-GL rasterisation (scales with canvas pixels).
 
 ## Still to do
-1. Open the Vercel preview for `perf` (status link on the head commit; deployment page https://vercel.com/alwnrajs-projects/louisvilleeatlocal/FTX6phLSqdxJk1cR1PFZ89f1qjFi). Check at desktop and phone widths: stats 243 / 532 / 661, list, search, filters, a place card (owner note + source link), about dialog, bottom-sheet drag, clean console. The map "cannot fit within canvas" warning on phone deep links also appears on `main`.
-2. Owner decisions (see PERF.md "Not done"): lower `pixelRatio` on phones (about -30% frame time at 1.5, -55% at 1, softer map), or shrink the canvas to the area above the bottom sheet.
-3. If the owner approves, merge `perf` into `main` themselves. Do not push to `main` or open a PR into it unprompted.
+1. ~~Check the Vercel preview~~ Done locally instead: the preview needs a Vercel login, so this branch was served with `scripts/perf/server.js` and checked with `verify.js` (desktop and phone: 0 failures) plus a visual check in the browser pane and the iPhone 17 simulator. Only the known "cannot fit within canvas" warning appears, as on `main`.
+2. ~~Owner decision on phone rendering~~ Done: `pixelRatio` capped at 1.5 on phones (see PERF.md follow-up). Shrinking the canvas above the bottom sheet was not chosen.
+3. Merging `perf` into `main` is still the owner's call. Do not push to `main` or open a PR into it unprompted.
 
 ## Gotchas
 - Commits must carry no Co-Authored-By or tool attribution lines; author is the owner's normal identity.

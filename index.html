@@ -518,7 +518,7 @@ function initMap(){
   map = new maplibregl.Map({
     container:"map", style:JSON.parse($("style").textContent),
     ...START(), minZoom:9.3, maxZoom:18, maxBounds:BOUNDS, attributionControl:false, dragRotate:false, pitchWithRotate:false,
-    pixelRatio:Math.min(window.devicePixelRatio || 1, 2),   // 3x phone screens cost a lot of GPU for little gain on a map
+    pixelRatio:Math.min(window.devicePixelRatio || 1, isMobile() ? 1.5 : 2),   // 3x phone screens cost a lot of GPU for little gain on a map; frame time tracks canvas pixels
     fadeDuration:0,
     crossSourceCollisions:false,   // the pins never take part in label collisions, so labels need not be checked against them
   });

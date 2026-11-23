@@ -91,3 +91,19 @@ Hiding layers confirmed road lines are the largest per-pixel cost, then labels. 
 - The map style no longer follows upstream OpenFreeMap style changes automatically. Re-run `python3 -I scripts/make_style.py` to refresh it. Tiles, TileJSON and glyphs still come live from OpenFreeMap.
 - A place card opened before `detail.<hash>.json` arrives (rare, since it loads right after the map is idle) shows briefly without notes and sources, then fills in.
 - The first 40 list rows now paint before the remaining 210 (which fill in on idle).
+
+## Follow-up: phone `pixelRatio` capped at 1.5 (owner decision, 23 Nov 2026)
+
+`index.html` now caps the map's `pixelRatio` at 1.5 on phone-width screens (desktop stays at 2). Checked on a local run of this branch with the same harness, mobile profile, median of 3 cold runs, on an Apple-silicon Mac (Chromium software GL, much faster than the cloud sandbox used for the table above, so frame times were already near 60 fps and only the slowest frames show a difference):
+
+| Metric (mobile profile) | cap 2 | cap 1.5 |
+|---|---|---|
+| Frame time pan, overview (p50/p95/max) | 16.7 / 17.5 / 17.7 | 16.6 / 17.5 / 17.7 |
+| Frame time pan, zoom 13.5 | 16.7 / 33.3 / 34.3 | 16.7 / 17.6 / 17.7 |
+| Frame time zoom 13-14 | 16.7 / 33.4 / 34.2 | 16.7 / 17.6 / 17.6 |
+| DCL / load / map idle | 973 / 1806 / 3454 ms | 935 / 1813 / 3440 ms |
+| Bytes, initial load | 597.7 KB | 597.7 KB |
+
+The cap removes the 33 ms frames at downtown zoom without touching load numbers. Functional check (`verify.js`, phone profile): 0 failures. Looked at in the iPhone 17 simulator: labels and pins still read crisp. The larger win measured earlier in the cloud sandbox (-30% frame time at 1.5) applies to slower or software-rendered devices.
+
+Not done, still the owner's call: shrinking the canvas to the area above the bottom sheet.
