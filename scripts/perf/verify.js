@@ -1,0 +1,40 @@
+// functional check: node verify.js url [mobile]
+const {chromium}=require('playwright');
+(async()=>{
+ const mobile=process.argv[3]==='mobile';
+ const b=await chromium.launch({args:['--enable-unsafe-swiftshader','--use-gl=angle','--use-angle=swiftshader','--ignore-gpu-blocklist']});
+ const ctx=await b.newContext(mobile?{viewport:{width:390,height:844},deviceScaleFactor:2,isMobile:true,hasTouch:true}:{viewport:{width:1280,height:800}});
+ const page=await ctx.newPage(); const msgs=[];const fails=[];
+ page.on('console',m=>{if(['error','warning'].includes(m.type())&&!/GPU stall|GL Driver/.test(m.text()))msgs.push(m.type()+': '+m.text().slice(0,200))});
+ page.on('pageerror',e=>msgs.push('pageerror '+e.message));
+ ctx.on('requestfailed',r=>{if(!/planet\/\d/.test(r.url()))fails.push(r.url().slice(0,100)+' '+(r.failure()&&r.failure().errorText))});
+ await page.goto(process.argv[2]); await page.waitForFunction(()=>{try{return ready&&map.loaded()&&map.areTilesLoaded()}catch(e){return false}},null,{timeout:60000});
+ const ok=(n,c)=>console.log(c?'PASS':'FAIL',n);
+ const stats=await page.$$eval('.stat b',e=>e.map(x=>x.textContent));
+ ok('stats '+stats,stats.join()==='243,532,661');
+ ok('count', (await page.textContent('#count'))==='1,436 places');
+ ok('list reaches 250 rows after idle', await page.waitForFunction(()=>document.querySelectorAll('.item').length===250,null,{timeout:5000}).then(()=>true).catch(()=>false));
+ ok('more button', (await page.textContent('#more')).includes('Show 250 more'));
+ await page.click('#more'); ok('500 rows', (await page.$$('.item')).length===500);
+ await page.fill('#q','dairy queen'); await page.waitForTimeout(500); const n1=await page.textContent('#count'); ok('search dairy queen '+n1, /^\d+ places?$/.test(n1)&&n1!=='1,436 places');
+ await page.fill('#q',''); await page.waitForTimeout(400);
+ await page.click('.stat.pe'); await page.waitForTimeout(300); ok('pe only '+await page.textContent('#count'), (await page.textContent('#count'))==='243 places');
+ await page.click('.stat.pe'); await page.waitForTimeout(300); ok('reset', (await page.textContent('#count'))==='1,436 places');
+ await page.selectOption('#area','Downtown'); await page.waitForTimeout(400); ok('area '+await page.textContent('#count'), (await page.textContent('#count'))==='81 places');
+ console.log(' filtered pins:',await page.evaluate(()=>JSON.stringify(map.getFilter('pins')).slice(0,50)+' dim '+map.getLayoutProperty('pins-dim','visibility')));
+ await page.selectOption('#area',''); await page.waitForTimeout(400);
+ console.log(' unfiltered pins:',await page.evaluate(()=>JSON.stringify(map.getFilter('pins'))+' dim '+map.getLayoutProperty('pins-dim','visibility')));
+ await page.click('.item >> nth=0'); await page.waitForSelector('.card',{timeout:5000}); await page.waitForTimeout(800);
+ const card=await page.textContent('.card'); ok('card has owner+note+source', /Owner/.test(card)&&/Source:/.test(card)&&/Operating-status source|Open when checked/.test(card)); console.log(' card:',card.slice(0,160).replace(/\s+/g,' '));
+ ok('hash', /#.+-\d+$/.test(await page.evaluate(()=>location.hash)));
+ await page.keyboard.press('Escape'); await page.waitForTimeout(200);
+ await page.click('#info'); ok('about open', await page.$eval('#about',d=>d.open)); await page.keyboard.press('Escape');
+ const hash=await page.evaluate(()=>'#'+idOf(P[700])); await page.goto(process.argv[2]+hash); await page.waitForSelector('.card',{timeout:20000}); ok('deep link card', (await page.textContent('.card h3'))===(await page.evaluate(()=>P[700].n)));
+ await page.waitForFunction(()=>map.loaded()&&map.areTilesLoaded(),null,{timeout:60000}); await page.waitForTimeout(500);
+ await page.screenshot({path:`shot-${mobile?'m':'d'}.png`});
+ if(mobile){ const h0=await page.$eval('#side',e=>e.getBoundingClientRect().height); const g=await page.$('#grab'); const bb=await g.boundingBox();
+   await page.mouse.move(bb.x+bb.width/2,bb.y+5); await page.mouse.down(); await page.mouse.move(bb.x+bb.width/2,bb.y-300,{steps:5}); await page.mouse.up(); await page.waitForTimeout(500);
+   ok('sheet drag', (await page.$eval('#side',e=>e.getBoundingClientRect().height))!==h0); }
+ console.log('console msgs:',msgs,'failed requests:',fails);
+ await b.close();
+})();
