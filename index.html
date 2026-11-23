@@ -40,11 +40,11 @@ h1 em{font-style:normal;color:inherit}
 .lede{margin:0;color:var(--ink);font-size:15px;line-height:1.5}
 
 /* stats */
-.stats{display:grid;grid-template-columns:repeat(3,auto);gap:6px;padding:18px 22px 4px;justify-content:start}
-.stat{border:1.5px solid transparent;border-radius:var(--radius);padding:12px 14px 10px;min-width:92px;text-align:left;cursor:pointer;background:var(--card);transition:opacity .15s,border-color .15s}
+.stats{display:grid;grid-template-columns:repeat(3,auto);gap:5px;padding:18px 22px 4px;justify-content:start}
+.stat{border:1.5px solid transparent;border-radius:var(--radius);padding:12px 10px 10px;min-width:0;text-align:left;cursor:pointer;background:var(--card);transition:opacity .15s,border-color .15s}
 .stat b{display:block;font:600 34px/1 var(--serif);letter-spacing:-.02em}
 .stat .conf{display:block;font-size:10.5px;color:var(--ink-2);margin-top:3px;font-weight:500}
-.stat span{display:flex;align-items:center;gap:6px;font-size:12px;font-weight:600;color:var(--ink-2);margin-top:6px}
+.stat span{display:flex;align-items:center;gap:6px;white-space:nowrap;font-size:12px;font-weight:600;color:var(--ink-2);margin-top:6px}
 .stat.pe{background:var(--pe)} .stat.pe b{color:var(--pe-ink)} .stat.pe span{color:#F3EEF5} .stat.pe .sym{background:var(--pe-ink)}
 .stat.corp{background:var(--corp-soft)} .stat.corp b{color:var(--corp-ink)}
 .stat.ind{background:var(--ind-soft)} .stat.ind b{color:var(--ind-ink)}
