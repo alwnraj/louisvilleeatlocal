@@ -570,6 +570,7 @@ function initMap(){
   setSheet(sheetFrac, false);   // tells the map how much of it the sheet covers
   addLandmarks();
   map.on("zoom", sizeLandmarks); sizeLandmarks();
+  map.on("zoomend", applyBounds); map.once("load", applyBounds);
   map.on("click", e => { const p = pinAt(e.point, coarse ? 20 : 11); if (p) select(p.i, false); else if (selected !== null) select(null); });
   STYLE.then(st => { map.once("style.load", onBasemap); map.setStyle(restyle(st), {diff:false}); }).catch(mapError);
   if (selected !== null) select(selected, false, true);
@@ -673,7 +674,14 @@ function setSheet(f, animate = true){
   sheetFrac = f;
   side.classList.toggle("dragging", !animate);
   side.style.height = sheetPx(f) + "px";
-  if (map) map.setPadding({top:0, left:0, right:0, bottom:Math.min(sheetPx(f), innerHeight * .5)});
+  if (map) { map.setPadding({top:0, left:0, right:0, bottom:Math.min(sheetPx(f), innerHeight * .5)}); applyBounds(); }
+}
+// On phones the sheet covers the bottom of the map, so let the south edge scroll up above it.
+function applyBounds(){
+  if (!map) return;
+  const px = isMobile() ? Math.min(sheetPx(sheetFrac), innerHeight * .5) : 0;
+  const ext = px * (360 / (512 * 2 ** map.getZoom())) * Math.cos(38.2 * Math.PI / 180);
+  map.setMaxBounds([[BOUNDS[0][0], BOUNDS[0][1] - ext], BOUNDS[1]]);
 }
 (function sheetDrag(){
   let y0 = 0, h0 = 0, moved = false, active = false;
