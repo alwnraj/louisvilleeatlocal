@@ -602,7 +602,7 @@ function showCard(p){
     <span class="tag ${p.c}"><i class="sym ${p.c}"></i>${C.tag}</span>${p.hq ? `<span class="hq">Louisville-based</span>` : ""}${p.v ? `<span class="liba">Confirmed independent</span>` : ""}
     <h3>${esc(p.n)}</h3><div class="where">${esc([p.k, p.a || null, p.area].filter(Boolean).join(" · "))}</div>
     ${p.e ? `<div class="edited">Map entry last edited ${p.e}</div>` : ""}`;
-  h += `<div class="${p.status === "unsure" ? "warn" : "edited"}">${p.status === "unsure" ? "Operating status not confirmed. We couldn't verify whether this place still operates here." : "Listed as open when checked."}${p.checked ? ` Checked ${esc(p.checked)}.` : ""}</div>`;
+  h += `<div class="${p.status === "unsure" ? "warn" : "edited"}">${p.status === "unsure" ? "Operating status not confirmed" : "Open when checked"}${p.checked ? `${p.status === "unsure" ? " as of" : ""} ${esc(p.checked)}` : ""}.</div>`;
   if (p.status_url) h += `<a class="src" href="${esc(p.status_url)}" target="_blank" rel="noopener">Operating-status source: ${esc(host(p.status_url))} ↗</a>`;
   if (b) {
     h += `<dl class="facts"><dt>Owner</dt><dd>${esc(b.o)}</dd>${b.y ? `<dt>Since</dt><dd>${esc(b.y)}</dd>` : ""}</dl>`;
