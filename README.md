@@ -16,8 +16,10 @@ It's deployed on Vercel as a static site: every push to `main` redeploys it.
 
 ## Files
 
-- `index.html`: the page (MapLibre GL 4.7.1 with OpenFreeMap tiles, restyled). The list renders first; the map library loads right after the first paint.
-- `places.<hash>.js`: generated data, named by content hash so it can be cached forever. Don't edit it by hand.
+- `index.html`: the page (MapLibre GL 4.7.1 with OpenFreeMap tiles). The list renders first; the map library loads right after the first paint. The map style is baked into a `<script type="application/json" id="style">` block by `scripts/make_style.py`.
+- `places.<hash>.js`: generated data the first view needs: place names, coordinates, areas, owners, as an index-coded columnar table (`window.D`). Named by content hash so it can be cached forever. Don't edit it by hand.
+- `detail.<hash>.json`: generated data only a place card needs (operating-status links, ownership notes and sources). The page fetches it once the map is up. Same hashing rule.
+- `fonts/`: Fraunces and Public Sans, latin only, as variable woff2 (Fraunces trimmed to weights 600-800 and optical sizes 14-48, the ones the page uses).
 - `vendor/maplibre-gl-4.7.1/`: MapLibre GL JS and CSS (BSD-3-Clause, see LICENSE.txt), served from the site's own domain.
 - `vercel.json` / `.vercelignore`: long-lived caching for hashed and vendored files; `data/`, `scripts/` and this README aren't deployed.
 - `data/brands.json`: the research, with one record per chain or restaurant group: owner, year, note and source URL. `u: true` marks an owner we couldn't confirm.
@@ -30,6 +32,9 @@ It's deployed on Vercel as a static site: every push to `main` redeploys it.
 ```bash
 python3 -I scripts/build.py
 ```
+
+- `scripts/make_style.py`: fetches OpenFreeMap's positron style, applies this site's colours, drops layers that can't be seen at the map's zoom range (and the sprite sheet) and writes the result into `index.html`. Only needed to change the palette or pick up an upstream style change: `python3 -I scripts/make_style.py`.
+
 
 ## How places are classified
 

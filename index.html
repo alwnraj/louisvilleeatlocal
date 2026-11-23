@@ -6,12 +6,12 @@
 <title>Louisville Eat Local</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23E4EE8E'/%3E%3Ccircle cx='16' cy='16' r='9' fill='%232A1233'/%3E%3C/svg%3E">
 <meta name="description" content="Who really owns Louisville's restaurants, coffee shops and bars? Check whether a place is private equity–backed or corporate before you go, and find an independent spot nearby.">
-<link rel="preload" href="fonts/fraunces.e4ae2036.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="fonts/public-sans.936eb9f8.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preconnect" href="https://tiles.openfreemap.org" crossorigin>
 <!-- Start the map's critical requests right away; none of them block the first paint -->
 <link rel="preload" href="vendor/maplibre-gl-4.7.1/maplibre-gl.js" as="script">
-<link rel="preload" href="https://tiles.openfreemap.org/styles/positron" as="fetch" crossorigin>
+<link rel="preload" href="https://tiles.openfreemap.org/planet" as="fetch" crossorigin>
+<link rel="preload" href="https://tiles.openfreemap.org/fonts/Noto%20Sans%20Regular/0-255.pbf" as="fetch" crossorigin>
+<link rel="preload" href="https://tiles.openfreemap.org/fonts/Noto%20Sans%20Italic/0-255.pbf" as="fetch" crossorigin>
 <link href="vendor/maplibre-gl-4.7.1/maplibre-gl.css" rel="stylesheet" media="print" onload="this.media='all'">
 <style>
 @font-face{font-family:"Fraunces";font-style:normal;font-weight:600 800;font-display:swap;src:url(fonts/fraunces.e4ae2036.woff2) format("woff2")}
@@ -284,6 +284,7 @@ dialog .close{position:absolute;right:14px;top:14px;width:32px;height:32px;borde
   <p>Map data © OpenStreetMap contributors (ODbL). Tiles: OpenFreeMap / OpenMapTiles.</p>
 </dialog>
 
+<script type="application/json" id="style">{"version":8,"glyphs":"https://tiles.openfreemap.org/fonts/{fontstack}/{range}.pbf","sources":{"openmaptiles":{"type":"vector","url":"https://tiles.openfreemap.org/planet"}},"layers":[{"id":"background","type":"background","paint":{"background-color":"#F3F7DC"}},{"id":"park","type":"fill","source":"openmaptiles","source-layer":"park","filter":["match",["geometry-type"],["MultiPolygon","Polygon"],true,false],"paint":{"fill-color":"#EAF3CB","fill-opacity":0.6}},{"id":"water","type":"fill","source":"openmaptiles","source-layer":"water","filter":["all",["match",["geometry-type"],["MultiPolygon","Polygon"],true,false],["!=",["get","brunnel"],"tunnel"]],"paint":{"fill-antialias":true,"fill-color":"#A8CADB","fill-opacity":1}},{"id":"landcover_wood","type":"fill","source":"openmaptiles","source-layer":"landcover","minzoom":10,"filter":["all",["match",["geometry-type"],["MultiPolygon","Polygon"],true,false],["==",["get","class"],"wood"]],"paint":{"fill-color":"#EAF3CB","fill-opacity":0.5}},{"id":"waterway","type":"line","source":"openmaptiles","source-layer":"waterway","filter":["match",["geometry-type"],["LineString","MultiLineString"],true,false],"paint":{"line-color":"#A8CADB"}},{"id":"tunnel_motorway_casing","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":6,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["all",["==",["get","brunnel"],"tunnel"],["==",["get","class"],"motorway"]]],"layout":{"line-cap":"butt","line-join":"miter"},"paint":{"line-color":"#E4ECC1","line-opacity":1,"line-width":["interpolate",["exponential",1.4],["zoom"],5.8,0,6,3,20,40]}},{"id":"tunnel_motorway_inner","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":6,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["all",["==",["get","brunnel"],"tunnel"],["==",["get","class"],"motorway"]]],"layout":{"line-cap":"round","line-join":"round"},"paint":{"line-color":"#FFFFFF","line-width":["interpolate",["exponential",1.4],["zoom"],4,2,6,1.3,20,30]}},{"id":"road_area_pier","type":"fill","source":"openmaptiles","source-layer":"transportation","filter":["all",["match",["geometry-type"],["MultiPolygon","Polygon"],true,false],["==",["get","class"],"pier"]],"paint":{"fill-antialias":true,"fill-color":"rgb(242,243,240)"}},{"id":"road_pier","type":"line","source":"openmaptiles","source-layer":"transportation","filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["match",["get","class"],["pier"],true,false]],"layout":{"line-cap":"round","line-join":"round"},"paint":{"line-color":"#FFFFFF","line-width":["interpolate",["exponential",1.2],["zoom"],15,1,17,4]}},{"id":"highway_path","type":"line","source":"openmaptiles","source-layer":"transportation","filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["==",["get","class"],"path"]],"layout":{"line-cap":"round","line-join":"round"},"paint":{"line-color":"#FBFDF0","line-opacity":0.9,"line-width":["interpolate",["exponential",1.2],["zoom"],13,1,20,10]},"minzoom":12},{"id":"highway_minor","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":12,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["match",["get","class"],["minor","service","track"],true,false]],"layout":{"line-cap":"round","line-join":"round"},"paint":{"line-color":"#FBFDF0","line-opacity":0.9,"line-width":["interpolate",["exponential",1.55],["zoom"],13,1.8,20,20]}},{"id":"highway_major_casing","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":11,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["match",["get","class"],["primary","secondary","tertiary","trunk"],true,false]],"layout":{"line-cap":"butt","line-join":"miter"},"paint":{"line-color":"#E4ECC1","line-dasharray":[12,0],"line-width":["interpolate",["exponential",1.3],["zoom"],10,3,20,23]}},{"id":"highway_major_inner","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":11,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["match",["get","class"],["primary","secondary","tertiary","trunk"],true,false]],"layout":{"line-cap":"round","line-join":"round"},"paint":{"line-color":"#FFFFFF","line-width":["interpolate",["exponential",1.3],["zoom"],10,2,20,20]}},{"id":"highway_major_subtle","type":"line","source":"openmaptiles","source-layer":"transportation","maxzoom":11,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["match",["get","class"],["primary","secondary","tertiary","trunk"],true,false]],"layout":{"line-cap":"round","line-join":"round"},"paint":{"line-color":"#FFFFFF","line-width":2}},{"id":"highway_motorway_casing","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":6,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["all",["match",["get","brunnel"],["bridge","tunnel"],false,true],["==",["get","class"],"motorway"]]],"layout":{"line-cap":"butt","line-join":"miter"},"paint":{"line-color":"#E4ECC1","line-dasharray":[2,0],"line-opacity":1,"line-width":["interpolate",["exponential",1.4],["zoom"],5.8,0,6,3,20,40]}},{"id":"highway_motorway_inner","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":6,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["all",["match",["get","brunnel"],["bridge","tunnel"],false,true],["==",["get","class"],"motorway"]]],"layout":{"line-cap":"round","line-join":"round"},"paint":{"line-color":"#FFFFFF","line-width":["interpolate",["exponential",1.4],["zoom"],4,2,6,1.3,20,30]}},{"id":"railway_transit","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":16,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["all",["==",["get","class"],"transit"],["match",["get","brunnel"],["tunnel"],false,true]]],"layout":{"line-join":"round"},"paint":{"line-color":"#D8E2AF","line-width":3}},{"id":"railway_transit_dashline","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":16,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["all",["==",["get","class"],"transit"],["match",["get","brunnel"],["tunnel"],false,true]]],"layout":{"line-join":"round"},"paint":{"line-color":"#D8E2AF","line-dasharray":[3,3],"line-width":2}},{"id":"railway_service","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":16,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["all",["==",["get","class"],"rail"],["has","service"]]],"layout":{"line-join":"round"},"paint":{"line-color":"#D8E2AF","line-width":3}},{"id":"railway_service_dashline","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":16,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["==",["get","class"],"rail"],["has","service"]],"layout":{"line-join":"round"},"paint":{"line-color":"#D8E2AF","line-dasharray":[3,3],"line-width":2}},{"id":"railway","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":13,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["all",["!",["has","service"]],["==",["get","class"],"rail"]]],"layout":{"line-join":"round"},"paint":{"line-color":"#D8E2AF","line-width":["interpolate",["exponential",1.3],["zoom"],16,3,20,7]}},{"id":"railway_dashline","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":13,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["all",["!",["has","service"]],["==",["get","class"],"rail"]]],"layout":{"line-join":"round"},"paint":{"line-color":"#D8E2AF","line-dasharray":[3,3],"line-width":["interpolate",["exponential",1.3],["zoom"],16,2,20,6]}},{"id":"highway_motorway_bridge_casing","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":6,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["all",["==",["get","brunnel"],"bridge"],["==",["get","class"],"motorway"]]],"layout":{"line-cap":"butt","line-join":"miter"},"paint":{"line-color":"#E4ECC1","line-dasharray":[2,0],"line-opacity":1,"line-width":["interpolate",["exponential",1.4],["zoom"],5.8,0,6,5,20,45]}},{"id":"highway_motorway_bridge_inner","type":"line","source":"openmaptiles","source-layer":"transportation","minzoom":6,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["all",["==",["get","brunnel"],"bridge"],["==",["get","class"],"motorway"]]],"layout":{"line-cap":"round","line-join":"round"},"paint":{"line-color":"#FFFFFF","line-width":["interpolate",["exponential",1.4],["zoom"],4,2,6,1.3,20,30]}},{"id":"waterway_line_label","type":"symbol","source":"openmaptiles","source-layer":"waterway","minzoom":10,"filter":["match",["geometry-type"],["LineString","MultiLineString"],true,false],"layout":{"symbol-placement":"line","symbol-spacing":350,"text-field":["case",["has","name:nonlatin"],["concat",["get","name:latin"]," ",["get","name:nonlatin"]],["coalesce",["get","name_en"],["get","name"]]],"text-font":["Noto Sans Italic"],"text-letter-spacing":0.2,"text-max-width":5,"text-size":14},"paint":{"text-color":"#4F7F99","text-halo-color":"#F3F7DC","text-halo-width":1.4,"text-halo-blur":0}},{"id":"water_name_point_label","type":"symbol","source":"openmaptiles","source-layer":"water_name","filter":["match",["geometry-type"],["MultiPoint","Point"],true,false],"layout":{"text-field":["case",["has","name:nonlatin"],["concat",["get","name:latin"],"\n",["get","name:nonlatin"]],["coalesce",["get","name_en"],["get","name"]]],"text-font":["Noto Sans Italic"],"text-letter-spacing":0.2,"text-max-width":5,"text-size":["interpolate",["linear"],["zoom"],0,10,8,14]},"paint":{"text-color":"#4F7F99","text-halo-color":"#F3F7DC","text-halo-width":1.4,"text-halo-blur":0}},{"id":"water_name_line_label","type":"symbol","source":"openmaptiles","source-layer":"water_name","filter":["match",["geometry-type"],["LineString","MultiLineString"],true,false],"layout":{"symbol-placement":"line","symbol-spacing":350,"text-field":["case",["has","name:nonlatin"],["concat",["get","name:latin"]," ",["get","name:nonlatin"]],["coalesce",["get","name_en"],["get","name"]]],"text-font":["Noto Sans Italic"],"text-letter-spacing":0.2,"text-max-width":5,"text-size":14},"paint":{"text-color":"#4F7F99","text-halo-color":"#F3F7DC","text-halo-width":1.4,"text-halo-blur":0}},{"id":"highway-name-path","type":"symbol","source":"openmaptiles","source-layer":"transportation_name","minzoom":15.5,"filter":["==",["get","class"],"path"],"layout":{"symbol-placement":"line","text-field":["case",["has","name:nonlatin"],["concat",["get","name:latin"]," ",["get","name:nonlatin"]],["coalesce",["get","name_en"],["get","name"]]],"text-font":["Noto Sans Regular"],"text-rotation-alignment":"map","text-size":["interpolate",["linear"],["zoom"],13,12,14,13]},"paint":{"text-color":"#5B4663","text-halo-color":"#F3F7DC","text-halo-width":1.4,"text-opacity":["interpolate",["linear"],["zoom"],11.2,0,12,1],"text-halo-blur":0}},{"id":"highway-name-minor","type":"symbol","source":"openmaptiles","source-layer":"transportation_name","minzoom":15,"filter":["all",["match",["geometry-type"],["LineString","MultiLineString"],true,false],["match",["get","class"],["minor","service","track"],true,false]],"layout":{"symbol-placement":"line","text-field":["case",["has","name:nonlatin"],["concat",["get","name:latin"]," ",["get","name:nonlatin"]],["coalesce",["get","name_en"],["get","name"]]],"text-font":["Noto Sans Regular"],"text-rotation-alignment":"map","text-size":["interpolate",["linear"],["zoom"],13,12,14,13]},"paint":{"text-color":"#5B4663","text-halo-blur":0,"text-halo-width":1.4,"text-opacity":["interpolate",["linear"],["zoom"],11.2,0,12,1],"text-halo-color":"#F3F7DC"}},{"id":"highway-name-major","type":"symbol","source":"openmaptiles","source-layer":"transportation_name","minzoom":12.2,"filter":["match",["get","class"],["primary","secondary","tertiary","trunk"],true,false],"layout":{"symbol-placement":"line","text-field":["case",["has","name:nonlatin"],["concat",["get","name:latin"]," ",["get","name:nonlatin"]],["coalesce",["get","name_en"],["get","name"]]],"text-font":["Noto Sans Regular"],"text-rotation-alignment":"map","text-size":["interpolate",["linear"],["zoom"],13,12,14,13]},"paint":{"text-color":"#5B4663","text-halo-blur":0,"text-halo-width":1.4,"text-opacity":["interpolate",["linear"],["zoom"],11.2,0,12,1],"text-halo-color":"#F3F7DC"}},{"id":"label_other","type":"symbol","source":"openmaptiles","source-layer":"place","minzoom":8,"filter":["match",["get","class"],["city","continent","country","state","town","village"],false,true],"layout":{"text-field":["case",["has","name:nonlatin"],["concat",["get","name:latin"],"\n",["get","name:nonlatin"]],["coalesce",["get","name_en"],["get","name"]]],"text-font":["Noto Sans Italic"],"text-letter-spacing":0.1,"text-max-width":9,"text-size":["interpolate",["linear"],["zoom"],8,9,12,10],"text-transform":"uppercase"},"paint":{"text-color":"#8A7A90","text-halo-blur":0,"text-halo-color":"#F3F7DC","text-halo-width":1.4,"text-opacity":["interpolate",["linear"],["zoom"],11.2,0,12,1]}},{"id":"label_village","type":"symbol","source":"openmaptiles","source-layer":"place","minzoom":9,"filter":["==",["get","class"],"village"],"layout":{"icon-allow-overlap":true,"icon-image":["step",["zoom"],"circle_11_black",10,""],"icon-optional":false,"icon-size":0.2,"text-anchor":"bottom","text-field":["case",["has","name:nonlatin"],["concat",["get","name:latin"],"\n",["get","name:nonlatin"]],["coalesce",["get","name_en"],["get","name"]]],"text-font":["Noto Sans Regular"],"text-max-width":8,"text-size":["interpolate",["exponential",1.2],["zoom"],7,10,11,12]},"paint":{"text-color":"#5B4663","text-halo-blur":0,"text-halo-color":"#F3F7DC","text-halo-width":1.4,"text-opacity":["interpolate",["linear"],["zoom"],11.2,0,12,1]}},{"id":"label_town","type":"symbol","source":"openmaptiles","source-layer":"place","minzoom":6,"filter":["==",["get","class"],"town"],"layout":{"icon-allow-overlap":true,"icon-image":["step",["zoom"],"circle_11_black",10,""],"icon-optional":false,"icon-size":0.2,"text-anchor":"bottom","text-field":["case",["has","name:nonlatin"],["concat",["get","name:latin"],"\n",["get","name:nonlatin"]],["coalesce",["get","name_en"],["get","name"]]],"text-font":["Noto Sans Regular"],"text-max-width":8,"text-size":["interpolate",["exponential",1.2],["zoom"],7,12,11,14]},"paint":{"text-color":"#5B4663","text-halo-blur":0,"text-halo-color":"#F3F7DC","text-halo-width":1.4,"text-opacity":["interpolate",["linear"],["zoom"],11.2,0,12,1]}},{"id":"label_city","type":"symbol","source":"openmaptiles","source-layer":"place","minzoom":3,"filter":["all",["==",["get","class"],"city"],["!=",["get","capital"],2]],"layout":{"icon-allow-overlap":true,"icon-image":["step",["zoom"],"circle_11_black",9,""],"icon-optional":false,"icon-size":0.4,"text-anchor":"bottom","text-field":["case",["has","name:nonlatin"],["concat",["get","name:latin"],"\n",["get","name:nonlatin"]],["coalesce",["get","name_en"],["get","name"]]],"text-font":["Noto Sans Regular"],"text-max-width":8,"text-offset":[0,-0.1],"text-size":["interpolate",["exponential",1.2],["zoom"],4,11,7,13,11,18]},"paint":{"text-color":"#5B4663","text-halo-blur":0,"text-halo-color":"#F3F7DC","text-halo-width":1.4}},{"id":"label_city_capital","type":"symbol","source":"openmaptiles","source-layer":"place","minzoom":3,"filter":["all",["==",["get","class"],"city"],["==",["get","capital"],2]],"layout":{"icon-allow-overlap":true,"icon-image":["step",["zoom"],"circle_11_black",9,""],"icon-optional":false,"icon-size":0.5,"text-anchor":"bottom","text-field":["case",["has","name:nonlatin"],["concat",["get","name:latin"],"\n",["get","name:nonlatin"]],["coalesce",["get","name_en"],["get","name"]]],"text-font":["Noto Sans Bold"],"text-max-width":8,"text-offset":[0,-0.2],"text-size":["interpolate",["exponential",1.2],["zoom"],4,12,7,14,11,20]},"paint":{"text-color":"#5B4663","text-halo-blur":0,"text-halo-color":"#F3F7DC","text-halo-width":1.4}}]}</script>
 <script src="places.58d63074d9.js"></script>
 <script>
 "use strict";
@@ -309,6 +310,8 @@ function loadDetail(){
   }));
 }
 const $ = id => document.getElementById(id);
+const whenIdle = fn => window.requestIdleCallback ? requestIdleCallback(fn, {timeout:400}) : setTimeout(fn, 60);
+const cancelIdle = id => id && (window.cancelIdleCallback ? cancelIdleCallback(id) : clearTimeout(id));
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const norm = s => String(s||"").normalize("NFKD").replace(/[̀-ͯ]/g,"").toLowerCase().replace(/[’'`.]/g,"");
 const slug = s => norm(s).replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
@@ -319,9 +322,11 @@ P.forEach((p,i) => {
   p.i = i;
   p.br = p.b >= 0 ? B[p.b] : null;
   p.hq = !!(p.br && p.br.hq);
-  p.id = slug(p.n) + "-" + i;
-  p.hay = norm([p.n, p.br ? p.br.n : "", p.a, p.area, p.k, p.br ? p.br.o : ""].join(" "));  // brand name too, so "Dairy Queen" finds "DQ Grill & Chill"
 });
+// Search text and link ids are only needed once someone searches or opens a place, so they're built on first use
+const idOf = p => p.id || (p.id = slug(p.n) + "-" + p.i);
+const hayOf = p => p.hay || (p.hay = norm([p.n, p.br ? p.br.n : "", p.a, p.area, p.k, p.br ? p.br.o : ""].join(" ")));  // brand name too, so "Dairy Queen" finds "DQ Grill & Chill"
+const byId = id => { const m = /-(\d+)$/.exec(id), p = m && P[+m[1]]; return p && idOf(p) === id ? p : null; };
 const miles = (a,b) => { const R=3958.8, r=Math.PI/180, dl=(b[0]-a[0])*r, dg=(b[1]-a[1])*r;
   const h=Math.sin(dl/2)**2+Math.cos(a[0]*r)*Math.cos(b[0]*r)*Math.sin(dg/2)**2; return 2*R*Math.asin(Math.sqrt(h)); };
 const dist = m => m < 0.6 ? `${Math.max(1, Math.round(m*20))} min walk` : `${m < 10 ? m.toFixed(1) : Math.round(m)} mi`;
@@ -382,7 +387,7 @@ const host = u => { try { return new URL(u).hostname.replace(/^www\./,""); } cat
 const active = new Set(ORDER);
 let query = "", fArea = "", fKind = "", hqOnly = false, selected = null, shown = 250;
 const visible = p => active.has(p.c) && (!fArea || p.area === fArea) && (!fKind || p.k === fKind) && (!hqOnly || p.hq) &&
-  (!query || query.split(/\s+/).every(t => p.hay.includes(t)));
+  (!query || query.split(/\s+/).every(t => hayOf(p).includes(t)));
 
 /* ---------- stats, filters ---------- */
 const totals = Object.fromEntries(ORDER.map(c => [c, P.filter(p => p.c === c).length]));
@@ -433,8 +438,13 @@ function subline(p){
   const own = p.br ? p.br.o : (p.c === "ind" ? "Local" : "");
   return [p.k, p.area, own].filter(Boolean).join(" · ");
 }
-function renderList(){
-  const vis = P.filter(visible);
+// The first rows paint at once and the rest of the page's worth follows when the browser is idle, so a filter or search
+// never waits on laying out 250 rows.
+const FIRST_ROWS = 40;
+let listIdle = 0;
+function renderList(complete = false){
+  cancelIdle(listIdle);
+  const vis = P.filter(visible), cap = complete ? shown : Math.min(shown, FIRST_ROWS), partial = cap < shown && vis.length > cap;
   $("count").textContent = `${vis.length.toLocaleString()} place${vis.length === 1 ? "" : "s"}`;
   if (!vis.length) { $("list").innerHTML = `<p class="empty">Nothing matches. Try another search or clear a filter.</p>`; return; }
   let html = "", n = 0;
@@ -442,14 +452,15 @@ function renderList(){
     const g = vis.filter(p => p.c === c); if (!g.length) continue;
     html += `<div class="group ${c}"><span>${CATS[c].label}</span><small>${g.length.toLocaleString()}</small></div>`;
     for (const p of g) {
-      if (n++ >= shown) break;
+      if (n++ >= cap) break;
       html += `<button class="item${selected === p.i ? " on" : ""}" data-i="${p.i}"><i class="sym ${p.c}"></i><span><span class="nm">${esc(p.n)}${p.hq ? `<span class="hq">Louisville</span>` : ""}${p.v ? `<span class="liba" title="Ownership checked: researched local owner or Louisville Independent Business Alliance member">Indie ✓</span>` : ""}${p.status === "unsure" ? `<span class="unverified">Operating status not confirmed</span>` : ""}</span><span class="sub" style="display:block">${esc(subline(p))}</span></span></button>`;
     }
-    if (n >= shown) break;
+    if (n >= cap) break;
   }
-  if (vis.length > shown) html += `<button class="more" id="more">Show ${Math.min(250, vis.length - shown)} more</button>`;
+  if (vis.length > shown && !partial) html += `<button class="more" id="more">Show ${Math.min(250, vis.length - shown)} more</button>`;
   $("list").innerHTML = html;
-  const m = $("more"); if (m) m.onclick = () => { shown += 250; renderList(); };
+  if (partial) listIdle = whenIdle(() => renderList(true));
+  const m = $("more"); if (m) m.onclick = () => { shown += 250; renderList(true); };
 }
 $("list").addEventListener("click", e => { const b = e.target.closest(".item"); if (b) select(+b.dataset.i, true); });
 new IntersectionObserver(([e]) => $("controls").classList.toggle("stuck", !e.isIntersecting), {threshold:0}).observe($("deals"));
@@ -459,36 +470,8 @@ const BOUNDS = [[-85.98, 37.97], [-85.38, 38.41]];
 const START = () => isMobile() ? {center:[-85.705, 38.232], zoom:10.2} : {center:[-85.68, 38.225], zoom:10.9};
 const SNAPS = [0.2, 0.46, 0.9];          // phone list sheet: peek, half, full (share of the screen height)
 let sheetFrac = 0.46, sheetBefore = null;
-const STYLE_URL = "https://tiles.openfreemap.org/styles/positron";
-const STYLE = fetch(STYLE_URL).then(r => r.json());   // preloaded in <head>, so this resolves from cache
+// The basemap style is baked into the page by scripts/make_style.py (OpenFreeMap "positron" in this palette)
 let map = null;
-const PAL = {land:"#F3F7DC", park:"#EAF3CB", wood:"#EAF3CB", water:"#A8CADB", road:"#FFFFFF", casing:"#E4ECC1", minor:"#FBFDF0",
-  rail:"#D8E2AF", bldg:"#EEF4D2", label:"#5B4663", hood:"#8A7A90", water_label:"#4F7F99"};
-function restyle(st){
-  st.layers = st.layers.filter(l => !/^(boundary|highway-shield|road_shield|airport|aeroway|poi|label_country|label_state)/.test(l.id) && l.source !== "ne2_shaded");
-  delete st.sources.ne2_shaded;
-  for (const l of st.layers) {
-    const p = l.paint = l.paint || {}, id = l.id, sl = l["source-layer"];
-    if (l.type === "background") p["background-color"] = PAL.land;
-    else if (sl === "water" && l.type === "fill") { p["fill-color"] = PAL.water; p["fill-opacity"] = 1; }
-    else if (sl === "waterway" && l.type === "line") p["line-color"] = PAL.water;
-    else if (sl === "park" && l.type === "fill") { p["fill-color"] = PAL.park; p["fill-opacity"] = .6; }
-    else if (sl === "landcover" && l.type === "fill") { p["fill-color"] = PAL.wood; p["fill-opacity"] = .5; }
-    else if (sl === "landuse" && l.type === "fill") p["fill-opacity"] = 0;
-    else if (sl === "building" && l.type === "fill") { p["fill-color"] = PAL.bldg; p["fill-opacity"] = 0; }
-    else if (sl === "transportation" && l.type === "line") {
-      if (/minor|service|path|track/.test(id)) l.minzoom = Math.max(l.minzoom || 0, 12);   // fewer side streets at overview zoom
-      p["line-color"] = /casing/.test(id) ? PAL.casing : /rail|transit/.test(id) ? PAL.rail : /minor|service|path|track/.test(id) ? PAL.minor : PAL.road;
-    }
-    else if (l.type === "symbol") {
-      p["text-color"] = /water/.test(id) ? PAL.water_label : /other|neighbourhood|suburb/.test(id) ? PAL.hood : PAL.label;
-      if (!/city|water/.test(id)) p["text-opacity"] = ["interpolate", ["linear"], ["zoom"], 11.2, 0, 12, 1];   // keep the overview clean, like the reference
-      p["text-halo-color"] = PAL.land; p["text-halo-width"] = 1.4; p["text-halo-blur"] = 0;
-      delete p["icon-color"];
-    }
-  }
-  return st;
-}
 // CanvasRenderingContext2D.roundRect is missing before Safari 16, so draw the corners by hand
 function roundedSquare(g, h, r){
   g.moveTo(-h + r, -h); g.arcTo(h, -h, h, h, r); g.arcTo(h, h, -h, h, r); g.arcTo(-h, h, -h, -h, r); g.arcTo(-h, -h, h, -h, r); g.closePath();
@@ -502,19 +485,33 @@ function pinImage(kind){
   const d = g.getImageData(0,0,S*r,S*r);
   return {width:S*r, height:S*r, data:new Uint8Array(d.data.buffer)};
 }
+function dotImage(){
+  const S = 34, cv = document.createElement("canvas"); cv.width = cv.height = S;
+  const g = cv.getContext("2d"); g.fillStyle = "#444"; g.beginPath(); g.arc(S/2, S/2, 9.55, 0, 7); g.fill();
+  const d = g.getImageData(0,0,S,S);
+  return {width:S, height:S, data:new Uint8Array(d.data.buffer)};
+}
 // The GeoJSON never changes; filters only swap which ids the bright and faded pin layers show.
 const GEO = {type:"FeatureCollection", features:P.map(p => ({type:"Feature", id:p.i,
   geometry:{type:"Point", coordinates:[p.ll[1], p.ll[0]]}, properties:{i:p.i, c:p.c, s:{pe:3, corp:1, ind:2}[p.c]}}))};
 function applyMapFilter(){
   if (!ready) return;
-  const ids = ["literal", P.filter(visible).map(p => p.i)];
+  const vis = P.filter(visible);
+  if (vis.length === P.length) {   // nothing filtered out: no id list to test against, and nothing to fade
+    map.setFilter("pins", null);
+    map.setLayoutProperty("pins-dim", "visibility", "none");
+    return;
+  }
+  const ids = ["literal", vis.map(p => p.i)];
   map.setFilter("pins", ["in", ["get","i"], ids]);
   map.setFilter("pins-dim", ["!", ["in", ["get","i"], ids]]);
+  map.setLayoutProperty("pins-dim", "visibility", "visible");
 }
 let ready = false;
 function onBasemap(){
     if (ready) return;
     ORDER.forEach(k => map.addImage("pin-" + k, pinImage(k), {pixelRatio:2}));
+    map.addImage("circle_11_black", dotImage(), {pixelRatio:2});   // the village and town dot the style used to take from its sprite sheet
     map.addSource("places", {type:"geojson", data:GEO});
     const col = ["match", ["get","c"], "pe", CATS.pe.color, "corp", CATS.corp.color, CATS.ind.color];
     map.addLayer({id:"near", type:"circle", source:"places", filter:["in", ["get","i"], ["literal", []]],
@@ -532,6 +529,7 @@ function onBasemap(){
     (window.requestIdleCallback || setTimeout)(loadDetail);
     if (selected !== null) select(selected, false, true);
 }
+let mapFailed = false;
 const mapError = () => $("map").insertAdjacentHTML("beforeend", `<p style="position:absolute;left:16px;bottom:16px;font-size:13px;color:#4B3556">The map didn't load. The list still works.</p>`);
 
 /* landmarks: small drawings that sit on their real spots */
@@ -573,10 +571,11 @@ function fitVisible(){
 
 function initMap(){
   map = new maplibregl.Map({
-    container:"map", style:{version:8, sources:{}, layers:[{id:"bg", type:"background", paint:{"background-color":PAL.land}}]},
+    container:"map", style:JSON.parse($("style").textContent),
     ...START(), minZoom:9.3, maxZoom:18, maxBounds:BOUNDS, attributionControl:false, dragRotate:false, pitchWithRotate:false,
     pixelRatio:Math.min(window.devicePixelRatio || 1, 2),   // 3x phone screens cost a lot of GPU for little gain on a map
     fadeDuration:0,
+    crossSourceCollisions:false,   // the pins never take part in label collisions, so labels need not be checked against them
   });
   map.touchZoomRotate.disableRotation();
   // phones: the sheet covers the bottom of the map, so the credit goes top-left, collapsed to an (i)
@@ -587,7 +586,8 @@ function initMap(){
   map.on("zoom", sizeLandmarks); sizeLandmarks();
   map.on("zoomend", applyBounds); map.once("load", applyBounds);
   map.on("click", e => { const p = pinAt(e.point, coarse ? 20 : 11); if (p) select(p.i, false); else if (selected !== null) select(null); });
-  STYLE.then(st => { map.once("style.load", onBasemap); map.setStyle(restyle(st), {diff:false}); }).catch(mapError);
+  map.once("style.load", onBasemap);
+  map.on("error", e => { if (e.sourceId === "openmaptiles" && !e.tile && !mapFailed) { mapFailed = true; mapError(); } });
   if (selected !== null) select(selected, false, true);
 }
 function loadMapLibrary(){
@@ -661,7 +661,7 @@ function select(i, fly = false, quiet = false){
   // phones: tuck the list away under the card so the map shows above it
   if (isMobile() && sheetBefore === null) { sheetBefore = sheetFrac; setSheet(SNAPS[0]); }
   showCard(p);
-  history.replaceState(null, "", "#" + p.id);
+  history.replaceState(null, "", "#" + idOf(p));
   if (!map) return;   // the map catches up with the selection when it loads
   const pad = isMobile() ? {top:70, bottom:(card ? card.offsetHeight : sheetPx(sheetFrac)) + 16, left:20, right:20} : {top:40, bottom:40, left:40, right:380};
   if (fly || quiet) {
@@ -728,9 +728,9 @@ addEventListener("resize", () => setSheet(sheetFrac, false));
 setSheet(sheetFrac, false);
 renderList();
 const h0 = decodeURIComponent(location.hash.slice(1));
-if (h0) { const p = P.find(x => x.id === h0); if (p) select(p.i, false, true); }
+if (h0) { const p = byId(h0); if (p) select(p.i, false, true); }
 addEventListener("hashchange", () => {
-  const p = P.find(x => x.id === decodeURIComponent(location.hash.slice(1)));
+  const p = byId(decodeURIComponent(location.hash.slice(1)));
   if (p && p.i !== selected) select(p.i, true);
 });
 // Let the list and stats paint first, then fetch and start the map
