@@ -6,16 +6,16 @@
 <title>Louisville Eat Local</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23E4EE8E'/%3E%3Ccircle cx='16' cy='16' r='9' fill='%232A1233'/%3E%3C/svg%3E">
 <meta name="description" content="Who really owns Louisville's restaurants, coffee shops and bars? Check whether a place is private equity–backed or corporate before you go, and find an independent spot nearby.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="fonts/fraunces.e4ae2036.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/public-sans.936eb9f8.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preconnect" href="https://tiles.openfreemap.org" crossorigin>
 <!-- Start the map's critical requests right away; none of them block the first paint -->
 <link rel="preload" href="vendor/maplibre-gl-4.7.1/maplibre-gl.js" as="script">
 <link rel="preload" href="https://tiles.openfreemap.org/styles/positron" as="fetch" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700;9..144,800&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
 <link href="vendor/maplibre-gl-4.7.1/maplibre-gl.css" rel="stylesheet" media="print" onload="this.media='all'">
-<noscript><link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700;9..144,800&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet"></noscript>
 <style>
+@font-face{font-family:"Fraunces";font-style:normal;font-weight:600 800;font-display:swap;src:url(fonts/fraunces.e4ae2036.woff2) format("woff2")}
+@font-face{font-family:"Public Sans";font-style:normal;font-weight:400 700;font-display:swap;src:url(fonts/public-sans.936eb9f8.woff2) format("woff2")}
 :root{
   --paper:#E4EE8E; --paper-2:#D5E26F; --card:#FBFDE9; --tint:#EEF5B6; --ink:#2A1233; --ink-2:#4B3556; --ink-3:#65526E; --line:#C5D461;
   --pe:#2A1233; --pe-soft:#2A1233; --pe-ink:#EEF38A; --corp:#3F5FC0; --corp-soft:#D9E1F7; --corp-ink:#2F4C9E;
@@ -284,7 +284,7 @@ dialog .close{position:absolute;right:14px;top:14px;width:32px;height:32px;borde
   <p>Map data © OpenStreetMap contributors (ODbL). Tiles: OpenFreeMap / OpenMapTiles.</p>
 </dialog>
 
-<script src="places.8deb288446.js"></script>
+<script src="places.58d63074d9.js"></script>
 <script>
 "use strict";
 const CATS = {
@@ -293,7 +293,21 @@ const CATS = {
   ind:  {label:"Independent", tag:"Independent", color:"#E8672A"},
 };
 const ORDER = ["pe","corp","ind"];
-const B = window.BRANDS, P = window.PLACES;
+// places.<hash>.js carries a compact, index-coded table; unpack it into the objects the page works with
+const D = window.D, T = D.P, CAT = {p:"pe", c:"corp", i:"ind"};
+const B = D.B.map(([n, c, k, o, y, hq, u]) => ({n, c, k:D.K[k], o, y, hq:!!hq, u:!!u}));
+const UNSURE = new Set(T.u), CONFIRMED = new Set(T.v);
+const P = T.n.map((n, i) => ({n, ll:[T.la[i] / 1e5, T.lo[i] / 1e5], a:T.a[i], area:D.A[T.ar[i]], k:D.K[T.k[i]], c:CAT[T.c[i]], b:T.b[i], e:T.e[i],
+  status:UNSURE.has(i) ? "unsure" : "open", checked:D.D[T.d[i]], v:CONFIRMED.has(i) ? 1 : undefined}));
+// detail.<hash>.json (status links, ownership notes and sources) is only needed by place cards, so it loads once the map is up
+let detailP = null, detailDone = false;
+function loadDetail(){
+  return detailP || (detailP = fetch("detail.38f06485b3.json").then(r => r.json()).then(d => {
+    P.forEach((p, i) => { if (d.s[i]) p.status_url = d.s[i]; });
+    B.forEach((b, i) => { b.note = d.N[i]; b.src = d.S[i]; });
+    detailDone = true;
+  }));
+}
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const norm = s => String(s||"").normalize("NFKD").replace(/[̀-ͯ]/g,"").toLowerCase().replace(/[’'`.]/g,"");
@@ -515,6 +529,7 @@ function onBasemap(){
     map.on("mouseleave", "pins", () => { map.getCanvas().style.cursor = ""; });
     ready = true;
     applyMapFilter();
+    (window.requestIdleCallback || setTimeout)(loadDetail);
     if (selected !== null) select(selected, false, true);
 }
 const mapError = () => $("map").insertAdjacentHTML("beforeend", `<p style="position:absolute;left:16px;bottom:16px;font-size:13px;color:#4B3556">The map didn't load. The list still works.</p>`);
@@ -598,6 +613,7 @@ function alternatives(p){
 /* ---------- detail card ---------- */
 let card = null;
 function showCard(p){
+  if (!detailDone) loadDetail().then(() => { if (selected === p.i) showCard(p); });
   card && card.remove();
   const b = p.br, C = CATS[p.c];
   card = document.createElement("article"); card.className = "card"; card.setAttribute("aria-live","polite");
